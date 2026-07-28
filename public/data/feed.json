@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28T18:41:09.722Z",
+ "generatedAt": "2026-07-28T18:42:06.747Z",
  "date": "2026-07-28",
  "profile": {
   "displayName": "",
@@ -14016,7 +14016,7 @@
     "id": "news-y8p87z",
     "kind": "news",
     "title": "A man with tetraplegia is able to eat, drink from a cup, and feel his sister's touch again after a 15-hour surgery to install a brain implant with artificial intelligence, a system that bypasses spinal cord injury, stimulates muscles, and allows him to hold eggshells wit",
-    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMEM1aWdhOGEzLU14MmlkMGs2Y0x4VVdKVmg2VHBLUElVYjJYNlhyQ0NTZ1VZNTlWNk44MjMzenlsY2ExY1ktUlptU0NGUVFudmtBNzZoZTdlVVM4dXNwUEVNZUx5TzhNNDdPbHBEbExCcXBjVURTcGdoNk96LVpuRTdxdHRGQTlvdUs3Y2RIZjFpdC1MbUYyejd0dlphZ25sSWtzNm9YWG5ralZKLXJrVlY0dlpFUVA1QkxjbEI2U2RKRS03Nk5YMG9aZ21ZazlwRmpvZm9NX0ZzZEtOMzNrajVOWVg4a0prM1V5UXY1X29jYUJyZzlDd1ZMZVhJMGZUYWpsTkRyTzh0emxzdG1faw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUTdINFZMb2FPbXNlWTJLOVF4X2JYZW5zRDJLekc1b2F0d0toSHk5TE02NnBUbFBhTWp4SXNqbXVyNUFYUHphLTN0V2d4ZWdFNy1oYlMxc0JZS0NYbmdPLTBtR05SQ0hmNy1jaVQ3d25KTVZ4RXVYZHJpeVQyUzV4cmJaRXpiZ0gya3hVRWVXTEYtMGlnQXYzdDdZRDEyY2g3QjJyM3BGQ2t1V2hieHQ5ZnVPYmVIOUdZLUtVNnF4M0ljdUs1bFlQWlFsVDVna3lvNXRCeGVTRk1kV2w3clBtcmJSLXlUdnNOVnZTaG1Uemdpa1dnZTg3dUNsWVRsaDV4SGxLOThncFdKSlo3QmdhX1hkRQ?oc=5",
     "outlet": "CPG Click Oil and Gas",
     "topic": "Technology",
     "summary": "A man with tetraplegia is able to eat, drink from a cup, and feel his sister's touch again after a 15-hour surgery to install a brain implant with artificial intelligence, a system that bypasses spinal cord injury, stimulates muscles, and allows him to hold eggshells wit CPG Click Oil and Gas",
@@ -14142,7 +14142,7 @@
     "title": "ONWARD Medical publishes company deck outlining spinal cord stimulation platforms for spinal cord injury indications",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vbjZycjBNV0xCSUdaaEIzcUlUMmlXSWIybW1VcUpQMXRWNWMyTFVhdDBENm5kNUhfZW12QlUtZWpXT3JCSDM4VEo1ZTNmVk52cjJPVjVLWVlzNk9fOV9VZTBRZ9IBY0FVX3lxTE9vbjZycjBNV0xCSUdaaEIzcUlUMmlXSWIybW1VcUpQMXRWNWMyTFVhdDBENm5kNUhfZW12QlUtZWpXT3JCSDM4VEo1ZTNmVk52cjJPVjVLWVlzNk9fOV9VZTBRZw?oc=5",
     "outlet": "Bitget",
-    "topic": "Company watch",
+    "topic": "Technology",
     "summary": "ONWARD Medical publishes company deck outlining spinal cord stimulation platforms for spinal cord injury indications Bitget",
     "date": "2026-07-20",
     "score": 24,
@@ -14515,36 +14515,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-8a0yb",
-    "kind": "news",
-    "title": "Bidirectional BCI Restores Movement and Sensation in Paralyzed Patient",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzBfMmxJVlR1OVgxM09MNGNxbl85ZmNlUWNOd0lSM2F1WE9Vd3M1cjM0SmhMRmI1LUVBXy1hZ293dzZCRDB3U2F5Vy0tQ013MzFralcwRXJXX19NTGJ6M1N0eDk4SThPY2QxNTBqN0xMa0puVHJxV3EzT3phamxURVE4WGZDeDlq?oc=5",
-    "outlet": "조선일보",
-    "topic": "Technology",
-    "summary": "Bidirectional BCI Restores Movement and Sensation in Paralyzed Patient 조선일보",
-    "date": "2026-07-22",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-td9m6d",
     "kind": "news",
     "title": "China Just Performed the World’s First Implant of a Commercial Brain-Computer Interface",
@@ -14624,36 +14594,6 @@
       "label": "Brain-computer interface",
       "matched": [
        "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1cy8ik3",
-    "kind": "news",
-    "title": "China’s first subdural flexible implantable BCI gains fast-track approval pathway",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JZU8zSVBycklIMEM3YTRKMUFrcEpuWFpFMVl2NlFicERuRXJJaDlkNVkxWlNGSzJBM1VLeHNmZFJnNmREMVMxbWgwSU5paTVfbmhkUmtrNXdTeHdCVUViZ3JR?oc=5",
-    "outlet": "Global Times",
-    "topic": "Technology",
-    "summary": "China’s first subdural flexible implantable BCI gains fast-track approval pathway Global Times",
-    "date": "2026-07-21",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
       ]
      }
     ],
@@ -15299,6 +15239,50 @@
     "isNew": true,
     "explored": false,
     "exploredNote": null
+   },
+   {
+    "id": "news-wulsw6",
+    "kind": "news",
+    "title": "US: Neuralink lets paralyzed patients control wheelchairs by thought",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnc2TDdxRXR3VFpLVk02VUJFaE1QVFNycmNram90ZVNpVk5CRHZYYm5jRzNoZmxpd1pnbHA0TlMwNElnOWh3SWl0aVFJQjZhcWxJSExXVDkzTDYwYWNLMkZZZXd4cEhndzZGS2FyWXc2d0pteTladHZxUmhVVW1SV2VpNFBCYW5mQVFzTFNkOA?oc=5",
+    "outlet": "Interesting Engineering",
+    "topic": "Company watch",
+    "summary": "US: Neuralink lets paralyzed patients control wheelchairs by thought Interesting Engineering",
+    "date": "2026-07-24",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-07-28",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1rtstft",
+    "kind": "news",
+    "title": "First Canadian ALS Patient Receives Neuralink Brain-Computer Implant at Toronto Western Hospital",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkY3Rk9meW9YazBRb0dRS1prYzB2OXJnOUtpY2lVWVByRWJkSG5kcFBVSW5VUEtVNWk3Nlc1dm5acklJSGFiZ2FlRzJNZzNVZy1xMzlkRUhsbTJZVTU4cERPSmstYS1xMG9RZFFEQWdaNXRsOFNqRE85X2xCRUR1UUJ0ZU93bHU3eHJncFRmdVM3SGlKd21DNkVRenExRG4weWVuUDln?oc=5",
+    "outlet": "Digital Health News",
+    "topic": "Company watch",
+    "summary": "First Canadian ALS Patient Receives Neuralink Brain-Computer Implant at Toronto Western Hospital Digital Health News",
+    "date": "2026-07-18",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-07-28",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
    }
   ],
   "centers": [
@@ -15522,7 +15506,13 @@
     "title": "Cleveland FES Center",
     "summary": "Implanted functional electrical stimulation systems for hand grasp, trunk stability, and respiratory function in cervical injuries.",
     "linkStatus": "ok",
-    "recentNews": [],
+    "recentNews": [
+     {
+      "title": "How neuroscience is emerging as a long‑term economic driver for Northeast Ohio | CWRU Newsroom - Case Western Reserve University",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVFLTDgzYW5PT1NpcVpObjlzOWh3dDJBNU5fUnljMlFXMHg5MkI2OTZnX0FfbG44UzhjcDFwNFdmdmVXa2hfenh2cU9US2c5YzFLaWZvRXpUZ0d5LTl6UWk4S05uRGhuVFVRazFsS0NuQVBuWkREZDdiT05iU2NEYlNDX2ptMkNKNExsdFpUZVpwQQ?oc=5",
+      "date": "2026-05-18"
+     }
+    ],
     "date": null,
     "score": 0,
     "isNew": false,
@@ -15547,7 +15537,7 @@
     "kind": "center",
     "title": "Mayo Clinic — Spinal Cord Injury Research",
     "summary": "Epidural stimulation and neural engineering research in chronic SCI, inside a hospital that routinely accepts international self-pay patients.",
-    "linkStatus": "ok",
+    "linkStatus": "unverified",
     "recentNews": [
      {
       "title": "Preoperative ultrasound-guided needle EMG assesses tendon transfer candidacy in spinal cord injury - Mayo Clinic",
@@ -15642,7 +15632,7 @@
     "kind": "center",
     "title": "KITE Research Institute, Toronto Rehab (UHN)",
     "summary": "Large rehabilitation research institute with substantial SCI programs, including neuromodulation and upper-limb work.",
-    "linkStatus": "ok",
+    "linkStatus": "unverified",
     "recentNews": [],
     "date": null,
     "score": 0,
