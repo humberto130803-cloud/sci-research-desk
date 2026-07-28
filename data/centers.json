@@ -1,0 +1,137 @@
+{
+  "_comment": "Curated list of specialist SCI programs. This one file is hand-maintained — the daily job checks each link is alive and attaches any recent news mentions, but it does not invent new centers. Add or remove entries here freely. 'confirmDirectly' fields are things that change often enough that they must be verified by phone/email rather than trusted from a website.",
+  "centers": [
+    {
+      "id": "center-shepherd",
+      "name": "Shepherd Center — Beyond Therapy",
+      "city": "Atlanta, Georgia",
+      "country": "United States",
+      "url": "https://www.shepherd.org/patient-programs/beyond-therapy",
+      "known_for": "Intensive activity-based therapy program built specifically for people years past their injury. One of the most established programs of its kind, and it takes outpatients who travel in for blocks of several weeks.",
+      "why_relevant": "Chronic cervical injuries are their core population, and the program is activity-based rather than trial-based, so age restrictions are far less of an obstacle than in interventional research.",
+      "confirmDirectly": ["Age policy", "Cost per week and whether any of it is insurable from Panama", "Minimum block length and waitlist"],
+      "tags": ["Activity-based rehab", "Chronic", "Cervical / tetraplegia"]
+    },
+    {
+      "id": "center-craig",
+      "name": "Craig Hospital — PEAK Center",
+      "city": "Englewood, Colorado",
+      "country": "United States",
+      "url": "https://craighospital.org/programs/peak-center",
+      "known_for": "SCI and TBI specialty hospital with a dedicated adaptive fitness and long-term wellness center for people already discharged from rehab.",
+      "why_relevant": "Long track record with high cervical injuries; runs research alongside clinical care so patients hear about trials early.",
+      "confirmDirectly": ["Whether they accept international self-pay patients", "Current research studies open to over-65s"],
+      "tags": ["Activity-based rehab", "Chronic", "Cervical / tetraplegia"]
+    },
+    {
+      "id": "center-kennedy-krieger",
+      "name": "Kennedy Krieger — International Center for Spinal Cord Injury",
+      "city": "Baltimore, Maryland",
+      "country": "United States",
+      "url": "https://www.kennedykrieger.org/patient-care/centers-and-programs/international-center-for-spinal-cord-injury",
+      "known_for": "Activity-based restorative therapy delivered on the explicit premise that recovery remains possible years after injury. Treats adults and children, international patients included.",
+      "why_relevant": "Their whole model is aimed at chronic, incomplete injuries — which is exactly the ASIA C/D picture.",
+      "confirmDirectly": ["International patient intake process", "Cost estimate for an evaluation block"],
+      "tags": ["Activity-based rehab", "Chronic"]
+    },
+    {
+      "id": "center-louisville",
+      "name": "Kentucky Spinal Cord Injury Research Center, University of Louisville",
+      "city": "Louisville, Kentucky",
+      "country": "United States",
+      "url": "https://louisville.edu/medicine/departments/neurosurgery/kscirc",
+      "known_for": "The group behind much of the human epidural stimulation work in chronic SCI, paired with the Frazier Rehab locomotor training program.",
+      "why_relevant": "If epidural stimulation ever becomes accessible to him, this is one of the few places with a decade of human data behind it.",
+      "confirmDirectly": ["Which stimulation studies are currently enrolling", "Upper age limits on current protocols"],
+      "tags": ["Spinal cord stimulation", "Chronic", "Research center"]
+    },
+    {
+      "id": "center-miami-project",
+      "name": "The Miami Project to Cure Paralysis",
+      "city": "Miami, Florida",
+      "country": "United States",
+      "url": "https://www.themiamiproject.org",
+      "known_for": "Large SCI research center running cell-transplantation and neurorehabilitation trials.",
+      "why_relevant": "Closest major SCI research center to Panama — a direct flight, which matters for anything requiring repeat visits.",
+      "confirmDirectly": ["Current enrolling studies and their age caps", "Whether they will review an outside medical record remotely"],
+      "tags": ["Regenerative / cell therapy", "Research center", "Close to Panama"]
+    },
+    {
+      "id": "center-cleveland-fes",
+      "name": "Cleveland FES Center",
+      "city": "Cleveland, Ohio",
+      "country": "United States",
+      "url": "https://fescenter.org",
+      "known_for": "Implanted functional electrical stimulation systems for hand grasp, trunk stability, and respiratory function in cervical injuries.",
+      "why_relevant": "Hand and arm function is his stated priority, and implanted FES is the oldest and best-documented route to it for C4-C5.",
+      "confirmDirectly": ["Whether any implanted-FES protocol is open", "Age limits"],
+      "tags": ["Hand & arm function", "Rehab / device", "Cervical / tetraplegia"]
+    },
+    {
+      "id": "center-mayo",
+      "name": "Mayo Clinic — Spinal Cord Injury Research",
+      "city": "Rochester, Minnesota",
+      "country": "United States",
+      "url": "https://www.mayo.edu/research/labs/neural-engineering/overview",
+      "known_for": "Epidural stimulation and neural engineering research in chronic SCI, inside a hospital that routinely accepts international self-pay patients.",
+      "why_relevant": "One of the few places that combines active SCI research with a fully built-out international patient office.",
+      "confirmDirectly": ["International Patient Office intake", "Open protocols and their age criteria"],
+      "tags": ["Spinal cord stimulation", "Research center"]
+    },
+    {
+      "id": "center-guttmann",
+      "name": "Institut Guttmann",
+      "city": "Barcelona",
+      "country": "Spain",
+      "url": "https://www.guttmann.com",
+      "known_for": "Europe's reference hospital for spinal cord injury, with its own neurorehabilitation research institute.",
+      "why_relevant": "Spanish-speaking, world-class, and accustomed to patients from Latin America — the least friction of any top-tier option outside the US.",
+      "confirmDirectly": ["International admission process and cost", "Current research programs open to chronic cervical patients"],
+      "tags": ["Activity-based rehab", "Research center", "Spanish-speaking"]
+    },
+    {
+      "id": "center-balgrist",
+      "name": "Balgrist University Hospital / .NeuroRestore",
+      "city": "Zurich / Lausanne",
+      "country": "Switzerland",
+      "url": "https://www.balgrist.ch/en/offer/centers/spinal-cord-injury-center/",
+      "known_for": "European centre of gravity for spinal cord stimulation research, tied to the .NeuroRestore group at EPFL/CHUV.",
+      "why_relevant": "Where several of the headline stimulation results of the last few years actually happened.",
+      "confirmDirectly": ["Whether they enrol non-EU patients", "Age criteria on current stimulation protocols"],
+      "tags": ["Spinal cord stimulation", "Research center"]
+    },
+    {
+      "id": "center-toronto",
+      "name": "KITE Research Institute, Toronto Rehab (UHN)",
+      "city": "Toronto, Ontario",
+      "country": "Canada",
+      "url": "https://kite-uhn.com",
+      "known_for": "Large rehabilitation research institute with substantial SCI programs, including neuromodulation and upper-limb work.",
+      "why_relevant": "Canada's leading rehab research site; several nerve-transfer and stimulation programs run out of Toronto.",
+      "confirmDirectly": ["Access routes for non-Canadian patients", "Open studies"],
+      "tags": ["Hand & arm function", "Research center"]
+    },
+    {
+      "id": "center-reeve-nrn",
+      "name": "Reeve Foundation NeuroRecovery Network",
+      "city": "Multiple sites",
+      "country": "United States",
+      "url": "https://www.christopherreeve.org/living-with-paralysis/rehabilitation/neurorecovery-network-and-rehabilitation",
+      "known_for": "A network of clinics delivering standardised activity-based therapy, plus a free information-specialist service that answers individual questions.",
+      "why_relevant": "The information-specialist line is genuinely useful and free — a fast way to sanity-check any of these options with someone who does it full time.",
+      "confirmDirectly": ["Nearest participating site", "Whether the information specialists will advise an international family"],
+      "tags": ["Activity-based rehab", "Free resource"]
+    },
+    {
+      "id": "center-walkagain",
+      "name": "AASDAP / Walk Again Project",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "url": "https://aasdap.org.br",
+      "known_for": "Long-running brain-machine-interface and rehabilitation project in chronic paraplegia and tetraplegia.",
+      "why_relevant": "The only Latin American programme on this list doing frontier BMI rehabilitation work. Same time zone, far cheaper to reach than Europe.",
+      "confirmDirectly": ["Whether the programme is still actively enrolling", "Language of care and cost"],
+      "tags": ["Brain-computer interface", "Activity-based rehab", "Latin America"]
+    }
+  ]
+}

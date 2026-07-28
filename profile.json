@@ -1,0 +1,55 @@
+{
+  "displayName": "",
+  "siteTitle": "SCI Research Desk",
+  "_comment": "This file drives the whole relevance engine. Edit it and the next daily run re-scores everything. NOTE: this repository is public so that GitHub Actions runs free, which means everything in this file is public too. Deliberately no name, no date of birth, no doctors, no medical record numbers — just the clinical parameters the ranking needs.",
+
+  "age": 66,
+  "ageNote": "Turns 66 soon. Age is the single biggest hard filter — most interventional SCI trials cap at 65 or 70.",
+
+  "injuryLevel": "C4-C5",
+  "levelKeywords": ["c4", "c5", "c3", "c6", "cervical", "tetraplegia", "tetraplegic", "quadriplegia", "quadriplegic"],
+
+  "asiaGrade": "C",
+  "asiaAlsoConsidered": "D",
+  "asiaNote": "Documented ASIA C. One physician has suggested he may now grade as ASIA D. Trials specifying AIS C or AIS D are both in scope; AIS A/B-only trials are flagged as a likely mismatch.",
+
+  "chronic": true,
+  "chronicNote": "Chronic injury. Acute/subacute trials (enrolment window measured in days or weeks post-injury) do not apply and are flagged.",
+
+  "country": "Panama",
+  "city": "Panama City",
+  "willingToTravel": true,
+  "travelNote": "Willing to travel internationally for the right program. US, Canada, Western Europe and Latin America are all realistic. Distance is context, not a filter.",
+
+  "priorities": [
+    { "key": "hand", "label": "Hand & arm function", "weight": 10, "terms": ["upper limb", "upper extremity", "hand function", "grasp", "nerve transfer", "tendon transfer", "reach and grasp", "arm function", "finger"] },
+    { "key": "stim", "label": "Spinal cord stimulation", "weight": 10, "terms": ["epidural stimulation", "epidural electrical stimulation", "transcutaneous stimulation", "transcutaneous spinal", "spinal cord stimulation", "neuromodulation", "arc-ex", "arc ex", "scs"] },
+    { "key": "bci", "label": "Brain-computer interface", "weight": 8, "terms": ["brain-computer interface", "brain computer interface", "bci", "neural interface", "neuroprosthesis", "brain implant", "intracortical"] },
+    { "key": "regen", "label": "Regenerative / cell therapy", "weight": 7, "terms": ["stem cell", "mesenchymal", "schwann cell", "olfactory ensheathing", "neural progenitor", "regeneration", "axon regeneration", "scaffold", "gene therapy"] },
+    { "key": "resp", "label": "Breathing & diaphragm", "weight": 8, "terms": ["diaphragm pacing", "phrenic nerve", "respiratory function", "ventilator weaning", "cough", "respiratory muscle"] },
+    { "key": "auto", "label": "Autonomic / blood pressure / bladder / bowel", "weight": 7, "terms": ["autonomic dysreflexia", "orthostatic hypotension", "blood pressure", "bladder function", "bowel function", "neurogenic bladder", "neurogenic bowel", "sexual function"] },
+    { "key": "rehab", "label": "Activity-based rehab & exoskeleton", "weight": 6, "terms": ["activity-based", "locomotor training", "exoskeleton", "robotic", "body weight supported", "functional electrical stimulation", "fes", "gait training"] },
+    { "key": "drug", "label": "Drug / pharmacological recovery", "weight": 6, "terms": ["neuroprotect", "recovery of function", "motor recovery", "pharmacological", "monoclonal antibody"] },
+    { "key": "pain", "label": "Neuropathic pain & spasticity", "weight": 4, "terms": ["neuropathic pain", "spasticity", "spasm"] }
+  ],
+
+  "deprioritize": {
+    "note": "Topics that match 'spinal cord injury' but are not what he is looking for. Scored down, not hidden.",
+    "terms": ["pressure ulcer", "pressure injury", "wound", "caregiver burden", "depression screening", "survey study", "questionnaire validation", "cost-effectiveness", "epidemiology", "registry analysis", "quality of life instrument", "translation and validation", "cross-sectional survey", "animal model", "rat model", "mouse model", "in vitro", "rodent"]
+  },
+
+  "watchlist": {
+    "note": "Named programs, companies and centers to track by name in news and trials.",
+    "organizations": [
+      "Onward Medical", "ARC-EX", "ARC-IM", "Neuralink", "Synchron", "Blackrock Neurotech", "Precision Neuroscience",
+      "NervGen", "NVG-291", "InVivo Therapeutics", "Lineage Cell", "OPC1", "Neurogel", "Axonis",
+      "Reeve Foundation", "Wings for Life", "Praxis Spinal Cord Institute",
+      "Ekso Bionics", "ReWalk", "Wandercraft", "Cyberdyne HAL",
+      "Shepherd Center", "Craig Hospital", "Kessler Foundation", "Miami Project to Cure Paralysis",
+      "University of Louisville", "Kentucky Spinal Cord Injury Research Center", "NeuroRecovery Network",
+      "Mayo Clinic", "Cleveland FES Center", "Case Western", "Battelle NeuroLife",
+      "EPFL", "NeuroRestore", "Courtine", "Balgrist", "Nicolelis",
+      "Restorative Therapies", "MyoLyn", "Bionik", "Vivistim", "Fesia"
+    ]
+  }
+}

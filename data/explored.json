@@ -1,0 +1,13 @@
+{
+  "_comment": "Things already researched, ruled out, or contacted. Anything listed here is moved to the Archive tab instead of showing up as new. Items can also be archived from the site itself (that lives in the browser on one device); this file is the permanent, shared version — add to it after a research session so the site never re-surfaces the same dead end. This repository is public: keep notes here clinical and impersonal, no names.",
+
+  "nctIds": [],
+
+  "pmids": [],
+
+  "keywords": [],
+
+  "notes": {
+    "_example": "NCT01234567: emailed the coordinator on 2026-07-20, they confirmed the age cap is firm. Ruled out."
+  }
+}

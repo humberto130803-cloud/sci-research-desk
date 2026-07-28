@@ -1,0 +1,15 @@
+{
+  "name": "sci-research-desk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A daily-updating research desk for one person with a C4-C5 chronic spinal cord injury.",
+  "_scriptsNote": "Deliberately no 'build' script — Vercel auto-runs one if it exists, and this site is pre-built static output. The research job runs in GitHub Actions, not at deploy time.",
+  "scripts": {
+    "research": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

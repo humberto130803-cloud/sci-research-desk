@@ -1,0 +1,58 @@
+name: Daily research run
+
+on:
+  schedule:
+    # 10:00 UTC = 5:00am in Panama, so the page is already refreshed before he opens it.
+    - cron: '0 10 * * *'
+  workflow_dispatch: {}
+  push:
+    # Re-run whenever the profile, the curated centers, or the job itself changes.
+    paths:
+      - 'profile.json'
+      - 'data/centers.json'
+      - 'data/explored.json'
+      - 'scripts/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-research
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run the research job
+        run: node scripts/build.mjs
+
+      - name: Sanity check the output
+        # A truncated or empty feed is worse than yesterday's feed, so refuse to commit one.
+        run: |
+          node -e "
+            const f = require('./public/data/feed.json');
+            const t = f.sections.trials.length;
+            if (t < 10) { console.error('Only ' + t + ' trials — refusing to publish.'); process.exit(1); }
+            console.log('OK: ' + t + ' trials, ' + f.sections.papers.length + ' papers, ' + f.sections.news.length + ' news.');
+          "
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "research-bot"
+          git config user.email "actions@github.com"
+          git add public/data/feed.json data/seen.json
+          if git diff --staged --quiet; then
+            echo "No change today."
+          else
+            git commit -m "Daily research update $(date -u +%Y-%m-%d)"
+            git push
+          fi

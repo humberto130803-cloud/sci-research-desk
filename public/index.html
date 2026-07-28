@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="A daily research desk for chronic cervical spinal cord injury.">
+<meta name="theme-color" content="#0f1419">
+<title>SCI Research Desk</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔬</text></svg>">
+</head>
+<body>
+
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <h1 id="site-title">Research Desk</h1>
+      <p class="subtitle" id="subtitle">Loading…</p>
+    </div>
+    <div class="topbar-tools">
+      <button class="icon-btn" id="text-smaller" aria-label="Smaller text" title="Smaller text">A<span class="sm">−</span></button>
+      <button class="icon-btn" id="text-bigger" aria-label="Larger text" title="Larger text">A<span class="lg">+</span></button>
+      <button class="icon-btn" id="theme-toggle" aria-label="Switch light or dark" title="Light / dark">◐</button>
+    </div>
+  </div>
+
+  <nav class="tabs" id="tabs" aria-label="Sections"></nav>
+</header>
+
+<main id="main">
+
+  <section class="briefing" id="briefing" hidden>
+    <h2 class="briefing-title">Today</h2>
+    <div id="briefing-body"></div>
+  </section>
+
+  <div class="controls">
+    <label class="search-wrap">
+      <span class="visually-hidden">Search everything</span>
+      <input type="search" id="search" placeholder="Search titles, topics, places…" autocomplete="off" enterkeyhint="search">
+    </label>
+    <button class="chip-toggle" id="new-only" aria-pressed="false">New only</button>
+  </div>
+
+  <p class="result-count" id="result-count" aria-live="polite"></p>
+
+  <div id="cards" class="cards"></div>
+
+  <p class="empty" id="empty" hidden>Nothing here today.</p>
+
+</main>
+
+<footer class="foot">
+  <p id="foot-updated"></p>
+  <p class="disclaimer">
+    This page collects public listings from ClinicalTrials.gov, PubMed and news sources and ranks them
+    against a saved profile. It is a research shortlist, not medical advice. Eligibility on any study is
+    decided by that study's own team — always confirm directly before ruling anything in or out.
+  </p>
+  <p class="saved-note">
+    Saved and archived items are stored on this device only.
+    <button class="link-btn" id="export-state">Export my list</button>
+  </p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
