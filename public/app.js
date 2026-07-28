@@ -433,9 +433,15 @@
     document.documentElement.style.setProperty('--scale', prefs.scale || 1);
 
     try {
-      const res = await fetch(`data/feed.json?v=${Date.now()}`);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      state.feed = await res.json();
+      // A standalone snapshot (scripts/preview.mjs) inlines the feed instead, so the whole
+      // site can be opened from a single file with no server.
+      if (window.__FEED__) {
+        state.feed = window.__FEED__;
+      } else {
+        const res = await fetch(`data/feed.json?v=${Date.now()}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        state.feed = await res.json();
+      }
     } catch (err) {
       $('#subtitle').textContent = 'Could not load today’s research.';
       $('#cards').innerHTML =
