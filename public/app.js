@@ -7,6 +7,18 @@
   const STORE = 'sci-desk-state-v1';
   const PREFS = 'sci-desk-prefs-v1';
 
+  // Where the daily data comes from.
+  //
+  // The research job commits feed.json to the public repo every morning, and GitHub serves it
+  // with `Access-Control-Allow-Origin: *`. Reading it from there means the host never has to
+  // rebuild to show new data — the deployed site is a fixed shell that picks up fresh results
+  // on its own. The bundled copy is the fallback, so the page still works if GitHub is
+  // unreachable; it just shows whatever was current at deploy time.
+  const FEED_SOURCES = [
+    'https://raw.githubusercontent.com/humberto130803-cloud/sci-research-desk/master/public/data/feed.json',
+    'data/feed.json',
+  ];
+
   const state = {
     feed: null,
     tab: 'today',
@@ -427,6 +439,22 @@
 
   /* ---------- boot ---------- */
 
+  async function loadFeed() {
+    let lastError;
+    for (const src of FEED_SOURCES) {
+      try {
+        const res = await fetch(`${src}?v=${Date.now()}`, { cache: 'no-store' });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        if (!data?.sections?.trials) throw new Error('feed is missing its sections');
+        return data;
+      } catch (err) {
+        lastError = err;
+      }
+    }
+    throw lastError || new Error('no feed source responded');
+  }
+
   async function boot() {
     loadState();
     if (prefs.theme) document.documentElement.dataset.theme = prefs.theme;
@@ -438,9 +466,7 @@
       if (window.__FEED__) {
         state.feed = window.__FEED__;
       } else {
-        const res = await fetch(`data/feed.json?v=${Date.now()}`);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        state.feed = await res.json();
+        state.feed = await loadFeed();
       }
     } catch (err) {
       $('#subtitle').textContent = 'Could not load today’s research.';
