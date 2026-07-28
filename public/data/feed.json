@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28T18:42:06.747Z",
+ "generatedAt": "2026-07-28T18:49:00.088Z",
  "date": "2026-07-28",
  "profile": {
   "displayName": "",
@@ -14137,37 +14137,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1rl3pqn",
-    "kind": "news",
-    "title": "ONWARD Medical publishes company deck outlining spinal cord stimulation platforms for spinal cord injury indications",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vbjZycjBNV0xCSUdaaEIzcUlUMmlXSWIybW1VcUpQMXRWNWMyTFVhdDBENm5kNUhfZW12QlUtZWpXT3JCSDM4VEo1ZTNmVk52cjJPVjVLWVlzNk9fOV9VZTBRZ9IBY0FVX3lxTE9vbjZycjBNV0xCSUdaaEIzcUlUMmlXSWIybW1VcUpQMXRWNWMyTFVhdDBENm5kNUhfZW12QlUtZWpXT3JCSDM4VEo1ZTNmVk52cjJPVjVLWVlzNk9fOV9VZTBRZw?oc=5",
-    "outlet": "Bitget",
-    "topic": "Technology",
-    "summary": "ONWARD Medical publishes company deck outlining spinal cord stimulation platforms for spinal cord injury indications Bitget",
-    "date": "2026-07-20",
-    "score": 24,
-    "tags": [
-     "Spinal cord stimulation",
-     "Watchlist: Onward Medical"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "spinal cord stimulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-166xdo2",
     "kind": "news",
     "title": "Precision Neuroscience™ Appoints John Donoghue, Pioneer of Brain-Computer Interfaces, as Scientific Advisor",
@@ -14515,6 +14484,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-8a0yb",
+    "kind": "news",
+    "title": "Bidirectional BCI Restores Movement and Sensation in Paralyzed Patient",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzBfMmxJVlR1OVgxM09MNGNxbl85ZmNlUWNOd0lSM2F1WE9Vd3M1cjM0SmhMRmI1LUVBXy1hZ293dzZCRDB3U2F5Vy0tQ013MzFralcwRXJXX19NTGJ6M1N0eDk4SThPY2QxNTBqN0xMa0puVHJxV3EzT3phamxURVE4WGZDeDlq?oc=5",
+    "outlet": "조선일보",
+    "topic": "Technology",
+    "summary": "Bidirectional BCI Restores Movement and Sensation in Paralyzed Patient 조선일보",
+    "date": "2026-07-22",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-07-28",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-td9m6d",
     "kind": "news",
     "title": "China Just Performed the World’s First Implant of a Commercial Brain-Computer Interface",
@@ -14594,6 +14593,36 @@
       "label": "Brain-computer interface",
       "matched": [
        "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-07-28",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1cy8ik3",
+    "kind": "news",
+    "title": "China’s first subdural flexible implantable BCI gains fast-track approval pathway",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JZU8zSVBycklIMEM3YTRKMUFrcEpuWFpFMVl2NlFicERuRXJJaDlkNVkxWlNGSzJBM1VLeHNmZFJnNmREMVMxbWgwSU5paTVfbmhkUmtrNXdTeHdCVUViZ3JR?oc=5",
+    "outlet": "Global Times",
+    "topic": "Technology",
+    "summary": "China’s first subdural flexible implantable BCI gains fast-track approval pathway Global Times",
+    "date": "2026-07-21",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
       ]
      }
     ],
@@ -15261,28 +15290,6 @@
     "isNew": true,
     "explored": false,
     "exploredNote": null
-   },
-   {
-    "id": "news-1rtstft",
-    "kind": "news",
-    "title": "First Canadian ALS Patient Receives Neuralink Brain-Computer Implant at Toronto Western Hospital",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkY3Rk9meW9YazBRb0dRS1prYzB2OXJnOUtpY2lVWVByRWJkSG5kcFBVSW5VUEtVNWk3Nlc1dm5acklJSGFiZ2FlRzJNZzNVZy1xMzlkRUhsbTJZVTU4cERPSmstYS1xMG9RZFFEQWdaNXRsOFNqRE85X2xCRUR1UUJ0ZU93bHU3eHJncFRmdVM3SGlKd21DNkVRenExRG4weWVuUDln?oc=5",
-    "outlet": "Digital Health News",
-    "topic": "Company watch",
-    "summary": "First Canadian ALS Patient Receives Neuralink Brain-Computer Implant at Toronto Western Hospital Digital Health News",
-    "date": "2026-07-18",
-    "score": 14,
-    "tags": [
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
    }
   ],
   "centers": [
@@ -15435,7 +15442,7 @@
     "kind": "center",
     "title": "Kentucky Spinal Cord Injury Research Center, University of Louisville",
     "summary": "The group behind much of the human epidural stimulation work in chronic SCI, paired with the Frazier Rehab locomotor training program.",
-    "linkStatus": "unreachable",
+    "linkStatus": "ok",
     "recentNews": [],
     "date": null,
     "score": 0,
