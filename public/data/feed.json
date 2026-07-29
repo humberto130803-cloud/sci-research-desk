@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-07-28T18:49:00.088Z",
- "date": "2026-07-28",
+ "generatedAt": "2026-07-29T12:00:40.610Z",
+ "date": "2026-07-29",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -18,10 +18,9 @@
    "score": 76
   },
   "lines": [
-   "90 new open studies since yesterday.",
-   "60 new papers.",
-   "45 new technology items.",
-   "2 regulatory items (approvals or clearances) worth a look."
+   "No new open studies since yesterday.",
+   "1 new paper.",
+   "2 new technology items."
   ],
   "closingSoon": [
    {
@@ -42,12 +41,12 @@
   ],
   "counts": {
    "openTrials": 90,
-   "newOpenTrials": 90,
+   "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 60,
+   "newPapers": 1,
    "news": 45,
-   "newNews": 45,
+   "newNews": 2,
    "centers": 12,
    "archived": 0
   }
@@ -143,7 +142,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -234,7 +233,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -318,7 +317,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -400,7 +399,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -487,7 +486,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and breathing & diaphragm, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -567,7 +566,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -653,7 +652,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -734,7 +733,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -823,7 +822,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -916,7 +915,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1000,7 +999,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1084,7 +1083,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and breathing & diaphragm, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1167,7 +1166,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1243,7 +1242,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1329,7 +1328,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1418,7 +1417,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1505,7 +1504,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1579,7 +1578,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1665,7 +1664,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1748,7 +1747,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1837,7 +1836,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1914,7 +1913,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -1994,7 +1993,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2073,7 +2072,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2148,7 +2147,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2241,7 +2240,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2332,7 +2331,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2415,7 +2414,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2495,7 +2494,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2570,7 +2569,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2651,7 +2650,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2728,7 +2727,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2809,7 +2808,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and brain-computer interface, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2882,7 +2881,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -2964,7 +2963,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3068,7 +3067,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and drug / pharmacological recovery, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3156,7 +3155,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3254,7 +3253,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3340,7 +3339,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3415,7 +3414,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3501,7 +3500,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and breathing & diaphragm, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3589,7 +3588,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3670,7 +3669,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3751,7 +3750,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3829,7 +3828,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3900,7 +3899,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3976,7 +3975,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4064,7 +4063,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4216,7 +4215,7 @@
     "eligible": true,
     "why": "Surfaced for autonomic / blood pressure / bladder / bowel, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4287,7 +4286,7 @@
     "eligible": true,
     "why": "Surfaced for autonomic / blood pressure / bladder / bowel, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4361,7 +4360,7 @@
     "eligible": true,
     "why": "Surfaced for breathing & diaphragm, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4434,7 +4433,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4520,7 +4519,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4583,7 +4582,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4661,7 +4660,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4739,7 +4738,7 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy and autonomic / blood pressure / bladder / bowel, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4812,7 +4811,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4909,7 +4908,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -4981,7 +4980,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -5080,7 +5079,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -5159,7 +5158,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -5247,86 +5246,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "NCT07705256",
-    "kind": "trial",
-    "title": "EMG-Directed Virtual-Reality Training for Motor Stroke Rehabilitation",
-    "officialTitle": "Pilot Study of EMG-Directed Virtual-Reality Experience Training for Motor Stroke Rehabilitation",
-    "url": "https://clinicaltrials.gov/study/NCT07705256",
-    "summary": "This study is testing whether rehabilitation using muscle activity signals can help improve arm and hand movement in people after stroke or spinal cord injury. In the main study, participants will use a virtual-reality feedback system that is controlled by surface electromyography (EMG). Surface EMG uses sensors placed on the skin to detect muscle activity. The feedback will help participants practise upper limb movements during rehabilitation. A related sub-study will run alongside the main study. In this sub-study, functional electrical stimulation will also be used to help activate muscles during training. The study will assess whether these rehabilitation approaches improve upper limb function. It will also explore whether changes in biological or movement-related markers are linked with recovery.",
-    "conditions": [
-     "Stroke",
-     "Spinal Cord Injuries (Complete and Incomplete)"
-    ],
-    "interventions": [
-     "DEVICE: Visual EMG feedback with vibrotactile feedback",
-     "DEVICE: Visual EMG feedback"
-    ],
-    "sponsor": "Imperial College London",
-    "status": "NOT_YET_RECRUITING",
-    "phase": "NA",
-    "studyType": "INTERVENTIONAL",
-    "enrollment": 20,
-    "minAge": 18,
-    "maxAge": null,
-    "stdAges": [
-     "ADULT",
-     "OLDER_ADULT"
-    ],
-    "sex": "ALL",
-    "date": "2026-07-15",
-    "startDate": "2026-07-27",
-    "completionDate": "2027-11-27",
-    "locations": [
-     {
-      "facility": "Charing Cross Hospital",
-      "city": "London",
-      "state": "",
-      "country": "United Kingdom",
-      "status": ""
-     }
-    ],
-    "countries": [
-     "United Kingdom"
-    ],
-    "contact": {
-     "name": "Paul Bentley, PhD in Cognitive Neuroscience",
-     "email": "p.bentley@imperial.ac.uk",
-     "phone": "00447969570854"
-    },
-    "eligibilityText": "Inclusion Criteria: * Aged 18 or over * Cognitive status that would permit for use /supported use of intervention device and engagement in protocol related trainings/assessment. To be indicated by treating clinician at point of screening, formal capacity assessment to be conducted as appropriate. Refer to easy read patient information sheet (PIS) and training materials to support all patients presenting with specific cognitive and/or communication needs. * (We do not wish to exclude patients with cognitive impairment as this would limit the heterogeneity of our sample and generalizability of our findings, given the prevalence of cognitive impairment in stroke patients.) * Stroke diagnosis (can be first or subsequent stroke, unilateral haemorrhagic or ischemic) 2 weeks max post stroke at time of recruitment. * Can communicate in English, that is, sufficient for completion of intervention and outcome measures. A speech and language therapist (SLT) will be consulted if necessary to ensure all reasonable accommodations are made to support participation. * UL motor deficit post stroke (bilateral/unilateral) (according to National Institutes of Health Stroke Score (NIHSS) item 5), distal UL power \\ 4). Consumption of caffeine 2 hours prior to assessment (assessment will be postponed to a later time). * Pre-existing UL impairment with known and significant disruption to range of motion, motor or functional performance (fracture, arthritic changes, other known musculoskeletal problems). Or pre-modified Rankin Score \\> 2. * Skin condition apparent on the ventral UE such that might place participant at risk of irritation in the context of repeated physical contact (such as that associated with the intervention). * Subsequent MRI that fails to confirm stroke * Chronic stroke patients whose stroke occurred in excess of 2.5 years ago * Patients whose cognitive impairment prevents them from following instructions",
-    "score": 42,
-    "tags": [
-     "Hand & arm function",
-     "Activity-based rehab & exoskeleton",
-     "Chronic injury",
-     "Age OK (no upper limit)"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper limb"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "functional electrical stimulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -5404,7 +5324,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -5492,7 +5412,7 @@
     "eligible": true,
     "why": "Surfaced for neuropathic pain & spasticity, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -5583,7 +5503,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -5663,7 +5583,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -5742,7 +5662,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -5836,7 +5756,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -5916,7 +5836,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -5991,7 +5911,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -6072,7 +5992,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -6166,7 +6086,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -6300,7 +6220,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -6378,7 +6298,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -6453,7 +6373,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -6538,7 +6458,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -6625,7 +6545,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -6712,7 +6632,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and autonomic / blood pressure / bladder / bowel, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -6799,7 +6719,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -6872,7 +6792,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -6945,7 +6865,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -7019,7 +6939,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -7092,7 +7012,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -7203,7 +7123,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -7280,7 +7200,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -7351,7 +7271,7 @@
     "eligible": true,
     "why": "Surfaced for breathing & diaphragm and activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -7441,7 +7361,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -7520,7 +7440,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -7597,7 +7517,80 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "NCT03567213",
+    "kind": "trial",
+    "title": "Investigation on the Cortical Communication (CortiCom) System",
+    "officialTitle": "Investigation on the Cortical Communication (CortiCom) System",
+    "url": "https://clinicaltrials.gov/study/NCT03567213",
+    "summary": "The CortiCom system consists of 510(k)-cleared components: platinum PMT subdural cortical electrode grids, a Blackrock Microsystems patient pedestal, and an external NeuroPort Neural Signal Processor. Up to two grids will be implanted in the brain, for a total channel count of up to 128 channels, for six months. In each participant, the grid(s) will be implanted over areas of cortex that encode speech and upper extremity movement.",
+    "conditions": [
+     "Tetraplegia",
+     "Locked-in Syndrome",
+     "Brainstem Stroke",
+     "Amyotrophic Lateral Sclerosis"
+    ],
+    "interventions": [
+     "DEVICE: Surgical implantation of CortiCom system"
+    ],
+    "sponsor": "Johns Hopkins University",
+    "status": "RECRUITING",
+    "phase": "NA",
+    "studyType": "INTERVENTIONAL",
+    "enrollment": 3,
+    "minAge": 22,
+    "maxAge": 70,
+    "stdAges": [
+     "ADULT",
+     "OLDER_ADULT"
+    ],
+    "sex": "ALL",
+    "date": "2025-07-25",
+    "startDate": "2021-12-14",
+    "completionDate": "2026-08-31",
+    "locations": [
+     {
+      "facility": "Johns Hopkins Medicine",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "country": "United States",
+      "status": "RECRUITING"
+     }
+    ],
+    "countries": [
+     "United States"
+    ],
+    "contact": {
+     "name": "Nathan E Crone, MD",
+     "email": "ncrone@jhmi.edu",
+     "phone": "410-955-6772"
+    },
+    "eligibilityText": "Inclusion Criteria: * Clinical diagnosis of tetraplegia (quadriplegia), brainstem stroke , amyotrophic lateral sclerosis (ALS) or Locked-in Syndrome (LIS) * Tetraplegia diagnosis, ALS diagnosis, stroke, or LIS etiology onset occurred at least one year prior to enrollment * Complete or incomplete tetraplegia (quadriplegia), tetraparesis (quadriparesis), or severe ataxia. In addition, these motor impairments may be combined with severe motor-related speech impairment (dysarthria or anarthria), as in LIS. * 22-70 years * Meeting surgical safety criteria, including surgical clearance by the participant's primary healthcare provider, study physicians, and any necessary consultants * Ability to communicate reliably, such as through eye movement * Willingness and ability to provide informed consent * Screened by rehabilitation psychologist with a result showing that the participant has a stable psychosocial support system with caregiver capable of monitoring participant throughout the study * Ability and willingness to travel up to 100 miles to study location up to three days per week for the duration of the study * Ability to understand and comply with study session instructions * Participant consents to the study and still wishes to participate at the time of the study Exclusion Criteria: * Performance on formal neuropsychological testing that indicates significant psychiatric conditions or cognitive impairments that would interfere with obtaining informed consent or fully participating in study activities. * Suicide attempt or persistent suicidal ideation within the past 12 months. * Implanted devices that are incompatible with MRI, which may include pacemakers, cardiac defibrillators, spinal cord or vagal nerve stimulators, deep brain stimulators, and cochlear implants. * History of substance abuse, narcotic dependence, or alcohol dependence in past 24 months * Medical conditions contraindicating surgery of a chronically implanted device (e.g. osteomyelitis, diabetes, ",
+    "score": 40,
+    "tags": [
+     "Hand & arm function",
+     "Cervical / tetraplegia",
+     "Chronic injury",
+     "Age OK (cap 70)"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "upper extremity"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function, cervical-level, chronic.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    }
@@ -7690,7 +7683,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -7783,7 +7776,7 @@
     "eligible": false,
     "why": "Age cap is 60. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -7874,7 +7867,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -7967,7 +7960,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -8056,7 +8049,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -8132,7 +8125,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -8211,7 +8204,7 @@
     "eligible": false,
     "why": "Age cap is 12. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -8302,7 +8295,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -8388,7 +8381,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -8475,7 +8468,7 @@
     "eligible": false,
     "why": "Age cap is 50. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -8561,7 +8554,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -8644,7 +8637,7 @@
     "eligible": false,
     "why": "Age cap is 55. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -8729,7 +8722,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -8812,7 +8805,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -8918,7 +8911,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9022,7 +9015,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9103,7 +9096,7 @@
     "eligible": false,
     "why": "Age cap is 45. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9195,7 +9188,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9268,7 +9261,7 @@
     "eligible": false,
     "why": "Age cap is 50. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9346,7 +9339,7 @@
     "eligible": false,
     "why": "Age cap is 55. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9425,7 +9418,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9511,7 +9504,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9606,7 +9599,7 @@
     "eligible": false,
     "why": "Age cap is 50. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9694,7 +9687,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9759,7 +9752,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9844,7 +9837,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9923,7 +9916,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -9999,7 +9992,7 @@
     "eligible": false,
     "why": "Age cap is 38. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10086,7 +10079,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10161,7 +10154,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10239,7 +10232,7 @@
     "eligible": false,
     "why": "Age cap is 8. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10313,7 +10306,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10379,7 +10372,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10446,7 +10439,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10525,7 +10518,7 @@
     "eligible": false,
     "why": "Age cap is 60. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10603,7 +10596,7 @@
     "eligible": false,
     "why": "Age cap is 12. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10680,7 +10673,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10760,7 +10753,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10849,7 +10842,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -10933,7 +10926,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11030,7 +11023,7 @@
     "eligible": false,
     "why": "Age cap is 60. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11116,7 +11109,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11190,7 +11183,7 @@
     "eligible": false,
     "why": "Age cap is 60. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11272,7 +11265,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11368,7 +11361,7 @@
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    }
@@ -11427,7 +11420,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11493,7 +11486,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11554,7 +11547,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11604,7 +11597,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11654,7 +11647,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and drug / pharmacological recovery, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11718,7 +11711,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11766,6 +11759,54 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42521627",
+    "kind": "paper",
+    "title": "Distinct neural modes carry information about attempted grasp timing and force in the sensorimotor cortex.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42521627/",
+    "doi": "10.1523/JNEUROSCI.0205-26.2026",
+    "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+    "authors": [
+     "Blumenthal GH",
+     "Dekleva BM",
+     "Gontier C",
+     "Gonzalez IC"
+    ],
+    "authorLine": "Blumenthal GH, Dekleva BM, Gontier C et al.",
+    "pubType": "Journal Article",
+    "date": "2026-07-28",
+    "summary": "Humans perform a variety of complex hand movements to manipulate objects, requiring precise control of changing forces. Understanding the role of sensorimotor cortex and the cortical dynamics underlying these actions is crucial for developing interventions that restore dexterous hand function after injury or disease. In this study, two male individuals with tetraplegia resulting from cervical spinal cord injury attempted a series of isometric grasps. Neural activity was recorded from the motor and somatosensory cortices using intracortical microelectrode arrays while participants attempted to exert a static or ramping force up and down. Despite their inability to execute movement and limited afferent input, the spiking activity in motor and somatosensory cortex was modulated with the task. Within the neural response we identified independent neural modes - distinct patterns of…",
+    "score": 40,
+    "tags": [
+     "Hand & arm function",
+     "Brain-computer interface",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "hand function",
+       "grasp"
+      ]
+     },
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "intracortical"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level.",
+    "firstSeen": "2026-07-29",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -11816,7 +11857,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11863,7 +11904,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11905,7 +11946,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11953,7 +11994,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and drug / pharmacological recovery, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11994,7 +12035,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12041,7 +12082,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and drug / pharmacological recovery, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12088,7 +12129,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12135,7 +12176,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and neuropathic pain & spasticity, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12180,7 +12221,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and neuropathic pain & spasticity, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12234,7 +12275,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12289,7 +12330,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12329,7 +12370,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12383,7 +12424,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12430,7 +12471,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and drug / pharmacological recovery, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12477,7 +12518,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12515,7 +12556,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12556,7 +12597,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12611,7 +12652,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12642,7 +12683,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12673,7 +12714,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12727,7 +12768,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12773,7 +12814,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12804,7 +12845,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12845,7 +12886,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12884,7 +12925,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12923,7 +12964,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12968,7 +13009,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13019,7 +13060,7 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy and drug / pharmacological recovery, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13067,7 +13108,7 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy and drug / pharmacological recovery.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13097,7 +13138,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13127,7 +13168,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13170,7 +13211,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13201,7 +13242,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13241,55 +13282,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42211039",
-    "kind": "paper",
-    "title": "Current Reporting Practices for Research Involving Transcutaneous Spinal Cord Stimulation for Persons Living with Spinal Cord Injuries: A Scoping Review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42211039/",
-    "doi": "10.46292/sci25-00050",
-    "journal": "Topics in spinal cord injury rehabilitation",
-    "authors": [
-     "Lin G",
-     "McIntyre A",
-     "Bateman EA",
-     "Nageswaran L"
-    ],
-    "authorLine": "Lin G, McIntyre A, Bateman EA et al.",
-    "pubType": "Journal Article, Scoping Review, Review",
-    "date": "2026-04-01",
-    "summary": "Transcutaneous spinal cord stimulation (tSCS) is a noninvasive neuromodulation technique aimed at improving voluntary movement, autonomic function, spasticity, and other complications in individuals with spinal cord injury (SCI). The objective of this scoping review is to evaluate reporting practices relating to safety, stimulation parameters, and outcomes among studies employing tSCS among persons living with SCI. CINAHL, EMBASE, PubMed, and Web of Science databases were searched for studies published up to December 2024. Eligible studies met these criteria: (1) full-length, English-language article; (2) SCI population aged 18+ years; and (3) tSCS intervention. Data extracted included study year, subject characteristics, design, outcomes, adverse events, and stimulation parameters. Among 2267 studies retrieved from the search, 65 studies met inclusion criteria and were included for…",
-    "score": 20,
-    "tags": [
-     "Spinal cord stimulation",
-     "Neuropathic pain & spasticity"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "transcutaneous spinal",
-       "spinal cord stimulation",
-       "neuromodulation"
-      ]
-     },
-     {
-      "key": "pain",
-      "label": "Neuropathic pain & spasticity",
-      "matched": [
-       "spasticity"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13329,7 +13322,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13369,7 +13362,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13405,7 +13398,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13465,7 +13458,7 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy and autonomic / blood pressure / bladder / bowel, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13510,7 +13503,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13554,7 +13547,7 @@
     "eligible": true,
     "why": "Surfaced for breathing & diaphragm, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13593,7 +13586,7 @@
     "eligible": true,
     "why": "Surfaced for drug / pharmacological recovery, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13639,7 +13632,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13698,7 +13691,7 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy and activity-based rehab & exoskeleton.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13737,57 +13730,7 @@
     "eligible": true,
     "why": "Surfaced for drug / pharmacological recovery, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42515364",
-    "kind": "paper",
-    "title": "Sensor Inputs and Closed-Loop Neuromodulation in Spinal Cord Injury: From Animal Models to Clinical Translation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42515364/",
-    "doi": "10.3390/s26144480",
-    "journal": "Sensors (Basel, Switzerland)",
-    "authors": [
-     "Rosado E",
-     "Shon A",
-     "Wu W"
-    ],
-    "authorLine": "Rosado E, Shon A, Wu W",
-    "pubType": "Journal Article, Review",
-    "date": "2026-07-15",
-    "summary": "Closed-loop neuromodulation systems for spinal cord injury (SCI) comprise a sensor layer that detects motor state or intent, a controller that converts this information into stimulation commands, and a stimulation interface that modulates spinal, peripheral, or supraspinal circuits. Although neuromodulation has shown potential for improving stepping, standing, trunk control, and upper-limb function after SCI, the performance of closed-loop systems depends critically on their reliability, latency, and practicality. This structured narrative review focuses on the sensor inputs used in closed-loop neuromodulation for SCI, including kinematic sensors, electromyography, force and pressure sensors, vision-based sensing, and emerging neural interfaces. We summarize how these signals have been used to estimate gait phase, posture, motor intent, and task state, and how sensor-driven strategies…",
-    "score": 17,
-    "tags": [
-     "Spinal cord stimulation",
-     "Brain-computer interface"
-    ],
-    "flags": [
-     {
-      "level": "info",
-      "text": "Off-target topic: animal model."
-     }
-    ],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     },
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "neural interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13817,7 +13760,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13847,7 +13790,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13877,7 +13820,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13907,7 +13850,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13937,7 +13880,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13967,7 +13910,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14006,7 +13949,46 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42386491",
+    "kind": "paper",
+    "title": "Accuracy of Palpation-Guided Versus First Attempt at Ultrasound-Guided Electromyography Needle Placement for the Extensor Carpi Radialis Longus and Brevis by Trainees.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42386491/",
+    "doi": "10.1002/mus.70333",
+    "journal": "Muscle & nerve",
+    "authors": [
+     "Meiling JB",
+     "Wu KY",
+     "Boon AJ",
+     "Luetmer MT"
+    ],
+    "authorLine": "Meiling JB, Wu KY, Boon AJ, Luetmer MT",
+    "pubType": "Journal Article",
+    "date": "2026-07-01",
+    "summary": "Ultrasound (US) guidance may be essential for accurate electromyography (EMG) needle placement in less-commonly evaluated muscles, such as the extensor carpi radialis longus (ECRL) and brevis (ECRB), and particularly for identifying suitable donor muscles prior to tendon transfers to restore upper extremity function. Our primary aim was to compare the accuracy of trainee palpation-guided versus first-attempt US-guided needle placement. Our secondary aim was to describe the locations of inaccurate needle placement. Seven subjects each performed four needle placements (ECRL and ECRB, both palpation-guided and US-guided), totaling 28 placements into a cadaveric specimen. US-guided needle placement was performed with one attempt after one live demonstration. No palpation-guided ECRL attempts were accurate while only two of the palpation-guided ECRB attempts were accurate. First-attempt…",
+    "score": 16,
+    "tags": [
+     "Hand & arm function"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "upper extremity",
+       "tendon transfer"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    }
@@ -14039,7 +14021,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14070,7 +14052,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14101,7 +14083,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14132,7 +14114,38 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1rl3pqn",
+    "kind": "news",
+    "title": "ONWARD Medical publishes company deck outlining spinal cord stimulation platforms for spinal cord injury indications",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vbjZycjBNV0xCSUdaaEIzcUlUMmlXSWIybW1VcUpQMXRWNWMyTFVhdDBENm5kNUhfZW12QlUtZWpXT3JCSDM4VEo1ZTNmVk52cjJPVjVLWVlzNk9fOV9VZTBRZ9IBY0FVX3lxTE9vbjZycjBNV0xCSUdaaEIzcUlUMmlXSWIybW1VcUpQMXRWNWMyTFVhdDBENm5kNUhfZW12QlUtZWpXT3JCSDM4VEo1ZTNmVk52cjJPVjVLWVlzNk9fOV9VZTBRZw?oc=5",
+    "outlet": "Bitget",
+    "topic": "Company watch",
+    "summary": "ONWARD Medical publishes company deck outlining spinal cord stimulation platforms for spinal cord injury indications Bitget",
+    "date": "2026-07-20",
+    "score": 24,
+    "tags": [
+     "Spinal cord stimulation",
+     "Watchlist: Onward Medical"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14163,7 +14176,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14194,7 +14207,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14216,7 +14229,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14238,7 +14251,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14269,7 +14282,7 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy, chronic.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14299,7 +14312,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14329,37 +14342,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-z7q1md",
-    "kind": "news",
-    "title": "AAPM Releases Guidelines on Neuromodulation Advances for Pain Management and Functional Recovery",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQkhCQlI5bjNfUV83SkYxaUFUblZrX2dJbzZLcWNoZ1UwSE5CU3g4b2xncDVqb1doNFBWYkRDTXEzajdhdFhrR2lWc2VfQ184LVdhLUtQeWRheDFuS3BPWmEydlFnMUNaV3g3QjdNdGVfcG5JTm1mNFEzeTFhOHVCMTRLSHVMYk9kOEF6QTFzaGNSanZiQ2w3amZIV21leHdZbmNPMUowa1AxY2ZjZEFkOXVWOA?oc=5",
-    "outlet": "Clinical Pain Advisor",
-    "topic": "Technology",
-    "summary": "AAPM Releases Guidelines on Neuromodulation Advances for Pain Management and Functional Recovery Clinical Pain Advisor",
-    "date": "2026-07-15",
-    "score": 18,
-    "tags": [
-     "Spinal cord stimulation"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14389,7 +14372,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14419,7 +14402,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14449,7 +14432,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14479,67 +14462,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-8a0yb",
-    "kind": "news",
-    "title": "Bidirectional BCI Restores Movement and Sensation in Paralyzed Patient",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzBfMmxJVlR1OVgxM09MNGNxbl85ZmNlUWNOd0lSM2F1WE9Vd3M1cjM0SmhMRmI1LUVBXy1hZ293dzZCRDB3U2F5Vy0tQ013MzFralcwRXJXX19NTGJ6M1N0eDk4SThPY2QxNTBqN0xMa0puVHJxV3EzT3phamxURVE4WGZDeDlq?oc=5",
-    "outlet": "조선일보",
-    "topic": "Technology",
-    "summary": "Bidirectional BCI Restores Movement and Sensation in Paralyzed Patient 조선일보",
-    "date": "2026-07-22",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-td9m6d",
-    "kind": "news",
-    "title": "China Just Performed the World’s First Implant of a Commercial Brain-Computer Interface",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0VfRXB1VExOZ1NLelJ3Z2ZibjFHNXplcENnOTljWEFsM0hRMmV6QmJFQlNfZDZhbVpWT3hCSU5ONktmVUNZeUNEU2ZqQmJIVmc0OUo4bTl5WjZfOW9SYi1FU0FxMXBfLVQxRTVyZHZKS3l3SjlOM0lTSEdCOFl0NzJDZmNKajBEa2JBMkxKTFVpcU9NZXNaX1BFNUtGS2tQWENDU3BkMGVMWGU4VlZOWWY0b05ycjBn?oc=5",
-    "outlet": "Gizmodo",
-    "topic": "Technology",
-    "summary": "China Just Performed the World’s First Implant of a Commercial Brain-Computer Interface Gizmodo",
-    "date": "2026-07-15",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14569,7 +14492,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14599,7 +14522,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14629,67 +14552,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1i36hkq",
-    "kind": "news",
-    "title": "China Takes First Step in Commercializing Brain-Computer Interfaces... World’s First Successful Patient Implant",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Sa2JUYUJCSU9UYl9wbE5PSWhOVF9KTkZHams5cXNaU1JHekxvb0lWb2dWRjZSVFJYRnV6b2FyT3dBOW04VndSbmpQZkhCZ21Tc1JJMGUwamh0dm43YUtxMm5lYWs?oc=5",
-    "outlet": "아시아경제",
-    "topic": "Technology",
-    "summary": "China Takes First Step in Commercializing Brain-Computer Interfaces... World’s First Successful Patient Implant 아시아경제",
-    "date": "2026-07-17",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-br0585",
-    "kind": "news",
-    "title": "China Revolutionizes Neurotechnology: First Brain Implant Performed on a Patient",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWJFQnBsdnc5MmhxTGJ2dEJIVGlfWjFWREZaMmtiM0pob1plQWhmY19qUXNKZlh5N3RaOG9WMW1manBPdTZ1LUwtTEZTRlJjSk9SRDhadFY5STNleWdIbThQUHJOLXc0VW55Zzk4T0g3ZDF2R2F5M2dUOG00b00xRjVJZmx5Nkw2NjRzb1BIdEprNFFEdU01dzIzUk9VczMxZUVZbmxWWEtXOE9Rb0g0dHBPWG1WNmZrZG9iUUs2NA?oc=5",
-    "outlet": "Zamin.uz",
-    "topic": "Technology",
-    "summary": "China Revolutionizes Neurotechnology: First Brain Implant Performed on a Patient Zamin.uz",
-    "date": "2026-07-15",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14719,7 +14582,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14749,7 +14612,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14779,7 +14642,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14809,37 +14672,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-10biefg",
-    "kind": "news",
-    "title": "Precision Neuro breaks new ground in BCI technology",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXlXemZReTduSDJaZ242RGJ0bHk3V1BjTVZsekVwQV9YWWZYeWlDSXVwLVkyNDNKTmw1cnZPZldMYzZkSTBoSHg5VHpTczdsT1BLUW5lQ1JCNHNSQmF1Zm5OYnM0Z0JodVU1VlNVLTNqYk9rb3pCSlRzU0dGT2FyMV9weFI?oc=5",
-    "outlet": "pharmaphorum",
-    "topic": "Company watch",
-    "summary": "Precision Neuro breaks new ground in BCI technology pharmaphorum",
-    "date": "2026-07-22",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14869,7 +14702,37 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-10biefg",
+    "kind": "news",
+    "title": "Precision Neuro breaks new ground in BCI technology",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXlXemZReTduSDJaZ242RGJ0bHk3V1BjTVZsekVwQV9YWWZYeWlDSXVwLVkyNDNKTmw1cnZPZldMYzZkSTBoSHg5VHpTczdsT1BLUW5lQ1JCNHNSQmF1Zm5OYnM0Z0JodVU1VlNVLTNqYk9rb3pCSlRzU0dGT2FyMV9weFI?oc=5",
+    "outlet": "pharmaphorum",
+    "topic": "Company watch",
+    "summary": "Precision Neuro breaks new ground in BCI technology pharmaphorum",
+    "date": "2026-07-22",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14899,7 +14762,37 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1poyrfr",
+    "kind": "news",
+    "title": "BCI Neurofeedback Amplifies Brainwaves to Detect Micro-Errors",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWVxMHZQV2IxbDd0LUs2SXJ5YmRkT0JlNVVwRkV3QV9FUEdNcTJwUlZkYzBmbGRlTWtHR2hZV1VWeEFfUWNLZ3M3TUhiUGpvVFNucWhFWE9ZM1NMbUw4V09UWVBPc0RPWW1MTnhwbG9wSzVJLUNsSEhUUmVCdjFXamJDdTJ0WVRvTnpEUg?oc=5",
+    "outlet": "Neuroscience News",
+    "topic": "Company watch",
+    "summary": "BCI Neurofeedback Amplifies Brainwaves to Detect Micro-Errors Neuroscience News",
+    "date": "2026-07-18",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14929,7 +14822,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14961,7 +14854,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14991,37 +14884,7 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-slmvfr",
-    "kind": "news",
-    "title": "Stem cell transplantation shows safety in first-in-human spinal cord injury trial",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmg2QUZ0QkpXZjBUWFVhMkpCREUyMjJHUXFPb25MMmtKT1VFU2xENkNyTVAwOUtjejdNOEZvUXhlV3FJZXNRR0w1TTlvMjBOclc5MnVEOVA1OU5fdnMxRElqQjhQcllueVdVUktaRnpLR2V0ZzloRGxEOGVGV2FJY2lpdDF0cllSbmZ2NmE0LUdIekV2RXpTc1NTUlhPbXVEVlVDRVFzelByYlRCM0p3?oc=5",
-    "outlet": "Progress Educational Trust",
-    "topic": "Technology",
-    "summary": "Stem cell transplantation shows safety in first-in-human spinal cord injury trial Progress Educational Trust",
-    "date": "2026-07-27",
-    "score": 15,
-    "tags": [
-     "Regenerative / cell therapy"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "stem cell"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15051,37 +14914,7 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-if7e5a",
-    "kind": "news",
-    "title": "EpilepsyGTx selects ClearPoint Neuro technology for Phase I/IIa epilepsy gene therapy trial",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZl9MSDBCSkMwN3loMFpSWU5EQWdvZWpsQ3NPN0FQdXp6NHEzcEJPQnRmd3htVU9wY2lKdjhyLV9CUDJFZ3ZyLW1LbUl1LS1ZZk5Tb0dGM0Y1X1lld0duZVJITHFSWUlsYnZrWGdXX0NDVW00YlRnRzN2aTB3WUdOYzRaSGdXN1lGenU4RkEwSGdrSEJtZXNGQkdB?oc=5",
-    "outlet": "Manufacturing Chemist",
-    "topic": "Company watch",
-    "summary": "EpilepsyGTx selects ClearPoint Neuro technology for Phase I/IIa epilepsy gene therapy trial Manufacturing Chemist",
-    "date": "2026-07-15",
-    "score": 15,
-    "tags": [
-     "Regenerative / cell therapy"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "gene therapy"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy.",
-    "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15103,7 +14936,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15125,7 +14958,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15147,7 +14980,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15169,7 +15002,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15191,7 +15024,67 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1o5jwas",
+    "kind": "news",
+    "title": "KAIST Launches World’s First Bidirectional Brain-to-Robot Exoskeleton System",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0lKQWZmTmVMbEtnZU9JMXhfajRLb3RfYkFqZkpMTUY2V0tKWU1vdmY1NUc5RjBzSko3QUdLdnZ3bEt2M1FJVTFzMTlqLTAzTm1paERNYm00bVR1bFpsWkVZclFWd29xc3hmUHRsWEpFcFpZU2pISFJRRkFINWIwOVBMQUJGYjB0dWVjc2pBdTZKbVBpQXBLNzVlMW44cVExaHIzaGVrbUNDX3hCM0RDNERoWHJrRFpHNHEyS2pEOFZnNTVoWUQwN0dBZnYxUms?oc=5",
+    "outlet": "Tech Briefs",
+    "topic": "Technology",
+    "summary": "KAIST Launches World’s First Bidirectional Brain-to-Robot Exoskeleton System Tech Briefs",
+    "date": "2026-07-26",
+    "score": 14,
+    "tags": [
+     "Activity-based rehab & exoskeleton"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "exoskeleton"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-07-29",
     "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-z7q1md",
+    "kind": "news",
+    "title": "AAPM Releases Guidelines on Neuromodulation Advances for Pain Management and Functional Recovery",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQkhCQlI5bjNfUV83SkYxaUFUblZrX2dJbzZLcWNoZ1UwSE5CU3g4b2xncDVqb1doNFBWYkRDTXEzajdhdFhrR2lWc2VfQ184LVdhLUtQeWRheDFuS3BPWmEydlFnMUNaV3g3QjdNdGVfcG5JTm1mNFEzeTFhOHVCMTRLSHVMYk9kOEF6QTFzaGNSanZiQ2w3amZIV21leHdZbmNPMUowa1AxY2ZjZEFkOXVWOA?oc=5",
+    "outlet": "Clinical Pain Advisor",
+    "topic": "Technology",
+    "summary": "AAPM Releases Guidelines on Neuromodulation Advances for Pain Management and Functional Recovery Clinical Pain Advisor",
+    "date": "2026-07-15",
+    "score": 14,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "neuromodulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15221,6 +15114,28 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function.",
     "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1uksxko",
+    "kind": "news",
+    "title": "Neuralink Shows Trial Participants Driving Wheelchairs With Their Minds - BASENOR",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYW9TbXVkN1VBeXU4dWJEUVVaSzVxVnhyemlST0ZybzF4d0FSb3JldHFRejVEcGdJSkxQZWFYcWEwWG5yX0Vrbnh5QjZURkRiTEktU2wyUE5SbU15Y0szZWNab19pbjFyUnBJd19ZanZjZzh6TGFreEl5X0hGMGFvYWgtQjByOFhTRFhLeVNwRVVpSzdGNXhueURHRHF5V2JkUzQxY2xqVjhDQQ?oc=5",
+    "outlet": "BASENOR - Tesla Accessories",
+    "topic": "Company watch",
+    "summary": "Neuralink Shows Trial Participants Driving Wheelchairs With Their Minds BASENOR - Tesla Accessories",
+    "date": "2026-07-23",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-07-29",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -15243,7 +15158,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15265,7 +15180,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15287,7 +15202,51 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-07-28",
-    "isNew": true,
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1rtstft",
+    "kind": "news",
+    "title": "First Canadian ALS Patient Receives Neuralink Brain-Computer Implant at Toronto Western Hospital",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkY3Rk9meW9YazBRb0dRS1prYzB2OXJnOUtpY2lVWVByRWJkSG5kcFBVSW5VUEtVNWk3Nlc1dm5acklJSGFiZ2FlRzJNZzNVZy1xMzlkRUhsbTJZVTU4cERPSmstYS1xMG9RZFFEQWdaNXRsOFNqRE85X2xCRUR1UUJ0ZU93bHU3eHJncFRmdVM3SGlKd21DNkVRenExRG4weWVuUDln?oc=5",
+    "outlet": "Digital Health News",
+    "topic": "Company watch",
+    "summary": "First Canadian ALS Patient Receives Neuralink Brain-Computer Implant at Toronto Western Hospital Digital Health News",
+    "date": "2026-07-18",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1id03ev",
+    "kind": "news",
+    "title": "Synchron Stock, Valuation, and IPO Potential",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pOFdnQmg0TEpTLUN2eENfLWRYSlpyRGtJemg5enhIeGpMVkZFTF84a1BmSUVrZ0pwc3l4aFpaalFfLXB2TmRDTWxnQXBPV3Vicjl6Rg?oc=5",
+    "outlet": "Access IPOs",
+    "topic": "Company watch",
+    "summary": "Synchron Stock, Valuation, and IPO Potential Access IPOs",
+    "date": "2026-07-16",
+    "score": 14,
+    "tags": [
+     "Watchlist: Synchron"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    }
@@ -15327,9 +15286,9 @@
       "date": "2026-07-22"
      },
      {
-      "title": "Kirby Smart confirms Georgia RB Dante Dowdell is hospitalized with 'serious injuries' from ATV accident - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNHlyYWozUExFLVZGNHVyUHNZLXNsLVpfMGsxRmd5QV9EdlBOcUYxRWxQZGVHRzhTWXpzbEVuT09Md0JaazZlb3ZhTUdEYzlMVFFmaW1qTXNiVVp6eDZsbTdqWGJOV202TnNiU21RMGZxY0RVN2xmWEx1RzE3M2M0SW9tM09KZjJaX21GYUhwamhQMHRqTjlNSU9ndEw0Q1I1eG03RjdGRzloNzhhMFJUSXE5cUlsSGhKTmVVWjRuWF96UmRXdXJneFZnejJicDhLbUhHcHlCV2tPbEhjY3hLaUcwSVc5SGNkUE4zVlJIZ2ZidUZsRVZ6RVF3?oc=5",
-      "date": "2026-07-21"
+      "title": "Craig Hospital Joins SCI Ventures as Alliance Partner to Accelerate Innovation in Spinal Cord Injury - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUnJtR1dJVDZLVXZFM3hvLXBPWU9QTnduZkRtR24yMlRDMlVHQUJ4emtQWHdjZ1R4WUlvZjFtTktyMzdGSkFtVjZ1eEpUZDNwNHRjYUFFYlpPTWVrbDBqdWItZjR1YmVyRmtLZzRwbXB3ajBQTWhiZzB4YS1qaHNsV3FSU090OEgxMWNjRFhJMXhkZmdKbENuUFg2RlQ4UURqbG9wZExKbVJEZUh1bGl4S05GZGd1WWY4bC12RXpybzg0SmdCNnVCSHNnRXRJSEdQOHBsZGhHb2tTZ3hWaTJFV3c0V3VSQnNDamlsNDR3?oc=5",
+      "date": "2026-06-18"
      }
     ],
     "date": null,
@@ -15371,7 +15330,7 @@
      },
      {
       "title": "Park Rapids man speaks for the first time since devastating diving accident - Valley News Live",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMXVObHNLTTg4RTBBTlJTaWUybGY4WDVUQWhtdmhGMXRDb3A3ZVF1UnZxWm9RdXJWLWhrUlpoZXVKZWE1blREQXozMFllWWdFY1dMd1VCNzV5Unl6aHY4UEZGZ2lPdVM2c2luYWF6VnQtMDJjbGJ1MVdSM21Hemx3ZmYyUjVyVkhOWXJNT01tSUdFU2RQci1QbmROd0JEOVVQa2ZoX0V3dEZOT2lOY29B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMXVObHNLTTg4RTBBTlJTaWUybGY4WDVUQWhtdmhGMXRDb3A3ZVF1UnZxWm9RdXJWLWhrUlpoZXVKZWE1blREQXozMFllWWdFY1dMd1VCNzV5Unl6aHY4UEZGZ2lPdVM2c2luYWF6VnQtMDJjbGJ1MVdSM21Hemx3ZmYyUjVyVkhOWXJNT01tSUdFU2RQci1QbmROd0JEOVVQa2ZoX0V3dEZOT2lOY29B0gHDAUFVX3lxTFBYcmVJOVQwTWtXVzgwcWZHVlljQVNoOTJBN2V5NXJ4ckNNYzBwdG1feWVrWWZtQzlBV3pKbkUzMUo1VkdVdzl5RmdJUFNEeXVOdW5ORlpibFhRNm0tNF9qVXFySmd2Zlg0d1RVdjlLdjdzRkhIUlZUNmJlSlRpaWNiN1cybFF0dHFldEExMndtNVQ3aEp1S0NCeklicTNwS1ZWVEhKeTFaMk01REJzTW91ZnlmVVZVM21MSXdLX0pSTmhRZw?oc=5",
       "date": "2026-07-24"
      }
     ],
@@ -15513,13 +15472,7 @@
     "title": "Cleveland FES Center",
     "summary": "Implanted functional electrical stimulation systems for hand grasp, trunk stability, and respiratory function in cervical injuries.",
     "linkStatus": "ok",
-    "recentNews": [
-     {
-      "title": "How neuroscience is emerging as a long‑term economic driver for Northeast Ohio | CWRU Newsroom - Case Western Reserve University",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVFLTDgzYW5PT1NpcVpObjlzOWh3dDJBNU5fUnljMlFXMHg5MkI2OTZnX0FfbG44UzhjcDFwNFdmdmVXa2hfenh2cU9US2c5YzFLaWZvRXpUZ0d5LTl6UWk4S05uRGhuVFVRazFsS0NuQVBuWkREZDdiT05iU2NEYlNDX2ptMkNKNExsdFpUZVpwQQ?oc=5",
-      "date": "2026-05-18"
-     }
-    ],
+    "recentNews": [],
     "date": null,
     "score": 0,
     "isNew": false,
