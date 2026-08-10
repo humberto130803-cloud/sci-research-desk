@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-08-09T10:33:48.790Z",
- "date": "2026-08-09",
+ "generatedAt": "2026-08-10T11:07:37.962Z",
+ "date": "2026-08-10",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,8 +19,7 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "2 new papers.",
-   "2 new technology items."
+   "4 new technology items."
   ],
   "closingSoon": [
    {
@@ -44,9 +43,9 @@
    "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 2,
+   "newPapers": 0,
    "news": 45,
-   "newNews": 2,
+   "newNews": 4,
    "centers": 12,
    "archived": 0
   }
@@ -3687,82 +3686,6 @@
     "exploredNote": null
    },
    {
-    "id": "NCT06511934",
-    "kind": "trial",
-    "title": "Feasibility of the BrainGate2 Neural Interface System in Persons With Tetraplegia (BG-Tablet-01)",
-    "officialTitle": "Intuitive, Complete Neural Control of Tablet Computers for Communication",
-    "url": "https://clinicaltrials.gov/study/NCT06511934",
-    "summary": "People with brainstem stroke, advanced amyotrophic lateral sclerosis (ALS, also known as Lou Gehrig's disease), or other disorders can become unable to move or speak despite being awake and alert. In this project, the investigators seek to further translate knowledge about interpreting brain signals related to movement, and to further develop an intracortical brain-computer interface (iBCI) that could restore rapid and intuitive use of communication apps on tablet computers by people with paralysis.",
-    "conditions": [
-     "Brainstem Stroke",
-     "ALS",
-     "Tetraplegia",
-     "Spinal Cord Injuries",
-     "Cervical Spinal Cord Injury"
-    ],
-    "interventions": [
-     "DEVICE: BrainGate Neural Interface System"
-    ],
-    "sponsor": "Leigh R. Hochberg, MD, PhD.",
-    "status": "RECRUITING",
-    "phase": "NA",
-    "studyType": "INTERVENTIONAL",
-    "enrollment": 6,
-    "minAge": 18,
-    "maxAge": 80,
-    "stdAges": [
-     "ADULT",
-     "OLDER_ADULT"
-    ],
-    "sex": "ALL",
-    "date": "2026-06-25",
-    "startDate": "2024-07-22",
-    "completionDate": "2027-07-30",
-    "locations": [
-     {
-      "facility": "Masssachusetts General Hospital",
-      "city": "Boston",
-      "state": "Massachusetts",
-      "country": "United States",
-      "status": "RECRUITING"
-     }
-    ],
-    "countries": [
-     "United States"
-    ],
-    "contact": {
-     "name": "Leigh R Hochberg, MD, Ph.D",
-     "email": "lhochberg@mgh.harvard.edu",
-     "phone": "617-724-9247"
-    },
-    "eligibilityText": "Inclusion Criteria: * Clinical diagnosis of spinal cord injury, brainstem stroke, muscular dystrophy, amyotrophic lateral sclerosis or other motor neuron disorders * Complete or incomplete tetraplegia (quadriplegia) * Must live within a three-hour drive of the Study site * Prior enrollment in BrainGate2 clinical trial (NCT00912041) Exclusion Criteria: * Visual impairment such that extended viewing of a computer monitor would be difficult even with ordinary corrective lenses * Chronic oral or intravenous steroids or immunosuppressive therapy * Other serious disease or disorder that could seriously affect ability to participate in the study (There are additional exclusion criteria)",
-    "score": 48,
-    "tags": [
-     "Brain-computer interface",
-     "Cervical / tetraplegia",
-     "Chronic injury",
-     "Age OK (cap 80)"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface",
-       "bci",
-       "neural interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "NCT07645144",
     "kind": "trial",
     "title": "FES-assisted Gait Training for Incomplete Spinal Cord Injury",
@@ -4991,6 +4914,82 @@
     ],
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "NCT06511934",
+    "kind": "trial",
+    "title": "Feasibility of the BrainGate2 Neural Interface System in Persons With Tetraplegia (BG-Tablet-01)",
+    "officialTitle": "Intuitive, Complete Neural Control of Tablet Computers for Communication",
+    "url": "https://clinicaltrials.gov/study/NCT06511934",
+    "summary": "People with brainstem stroke, advanced amyotrophic lateral sclerosis (ALS, also known as Lou Gehrig's disease), or other disorders can become unable to move or speak despite being awake and alert. In this project, the investigators seek to further translate knowledge about interpreting brain signals related to movement, and to further develop an intracortical brain-computer interface (iBCI) that could restore rapid and intuitive use of communication apps on tablet computers by people with paralysis.",
+    "conditions": [
+     "Brainstem Stroke",
+     "ALS",
+     "Tetraplegia",
+     "Spinal Cord Injuries",
+     "Cervical Spinal Cord Injury"
+    ],
+    "interventions": [
+     "DEVICE: BrainGate Neural Interface System"
+    ],
+    "sponsor": "Leigh R. Hochberg, MD, PhD.",
+    "status": "RECRUITING",
+    "phase": "NA",
+    "studyType": "INTERVENTIONAL",
+    "enrollment": 6,
+    "minAge": 18,
+    "maxAge": 80,
+    "stdAges": [
+     "ADULT",
+     "OLDER_ADULT"
+    ],
+    "sex": "ALL",
+    "date": "2026-06-25",
+    "startDate": "2024-07-22",
+    "completionDate": "2027-07-30",
+    "locations": [
+     {
+      "facility": "Masssachusetts General Hospital",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "status": "RECRUITING"
+     }
+    ],
+    "countries": [
+     "United States"
+    ],
+    "contact": {
+     "name": "Leigh R Hochberg, MD, Ph.D",
+     "email": "lhochberg@mgh.harvard.edu",
+     "phone": "617-724-9247"
+    },
+    "eligibilityText": "Inclusion Criteria: * Clinical diagnosis of spinal cord injury, brainstem stroke, muscular dystrophy, amyotrophic lateral sclerosis or other motor neuron disorders * Complete or incomplete tetraplegia (quadriplegia) * Must live within a three-hour drive of the Study site * Prior enrollment in BrainGate2 clinical trial (NCT00912041) Exclusion Criteria: * Visual impairment such that extended viewing of a computer monitor would be difficult even with ordinary corrective lenses * Chronic oral or intravenous steroids or immunosuppressive therapy * Other serious disease or disorder that could seriously affect ability to participate in the study (There are additional exclusion criteria)",
+    "score": 44,
+    "tags": [
+     "Brain-computer interface",
+     "Cervical / tetraplegia",
+     "Chronic injury",
+     "Age OK (cap 80)"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface",
+       "bci",
+       "neural interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -11918,7 +11917,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation, chronic.",
     "firstSeen": "2026-08-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12062,7 +12061,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-08-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13113,47 +13112,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42266158",
-    "kind": "paper",
-    "title": "Clinical outcomes of rehabilitation with a robotic anthropomorphic exoskeleton in patients with motor-incomplete spinal cord injury: a multicenter randomized controlled trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42266158/",
-    "doi": "10.23736/S1973-9087.26.09085-4",
-    "journal": "European journal of physical and rehabilitation medicine",
-    "authors": [
-     "Zenesini C",
-     "Baroncini I",
-     "DI Palma R",
-     "Bigioni A"
-    ],
-    "authorLine": "Zenesini C, Baroncini I, DI Palma R et al.",
-    "pubType": "Journal Article, Randomized Controlled Trial, Multicenter Study",
-    "date": "2026-06-01",
-    "summary": "Robotic exoskeletons offer a promising tool for gait rehabilitation in individuals with spinal cord injury (SCI). However, evidence of their additive benefit over conventional therapy, particularly in non-acute, motor-incomplete SCI, remains limited. To evaluate the efficacy of the EKSO-GT &#x2122; exoskeleton, used in an \"add-on\" mode, on walking performance and related clinical outcomes compared to standard neurorehabilitation alone. Randomized, controlled, multicenter trial. Rehabilitation centers. Thirty-six patients with chronic, motor-incomplete SCI (AIS C/D, 1-5 years post-injury) were randomized to receive either 4 weeks of exoskeleton-assisted training followed by 4 weeks of standard rehabilitation (RC+E), or 8 weeks of standard rehabilitation alone (RC). The primary outcome was the proportion of participants achieving &#x2265; 10% improvement in walking speed (10-meter walk…",
-    "score": 24,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "AIS C/D in scope",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton",
-       "robotic"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42362156",
     "kind": "paper",
     "title": "Advances in tailored intraparenchymal delivery of regenerative medicine for spinal cord injury: a review of preclinical studies and clinical trials.",
@@ -13677,45 +13635,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42265101",
-    "kind": "paper",
-    "title": "Scg2 drives corticospinal circuit reorganization with spinal premotor interneurons and astrocytes for motor recovery after stroke in mice.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42265101/",
-    "doi": "10.1038/s41467-026-73518-x",
-    "journal": "Nature communications",
-    "authors": [
-     "Sato T",
-     "Nakamura Y",
-     "Hoshina K",
-     "Inoue KI"
-    ],
-    "authorLine": "Sato T, Nakamura Y, Hoshina K et al.",
-    "pubType": "Journal Article",
-    "date": "2026-06-09",
-    "summary": "Brain injuries such as stroke damage neural circuitry and lead to functional deficits. Spared motor pathways are often reorganized for recovery; however, the connectivity and mechanisms that drive the reorganization are largely unknown. Here, we demonstrate structural and functional connectivity reformed by corticospinal axons after stroke in male mice and determine a secretory protein that drives the reorganization. We first find that corticospinal axons innervate the denervated cervical cord and reconnect to premotor V2a interneurons after stroke. Kinematic analyses and chemogenetic silencing reveal their contribution to motor recovery. Translated mRNA expression analyses identify a secretory protein secretogranin II (Scg2), which is upregulated in astrocytes by injury-induced ATP and in V2a neurons by rehabilitation-induced neural activity. Scg2 promotes axon growth via cAMP and S6…",
-    "score": 18,
-    "tags": [
-     "Drug / pharmacological recovery",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "motor recovery"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for drug / pharmacological recovery, cervical-level.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42494446",
     "kind": "paper",
     "title": "Research progress on the effects of epidural electrical stimulation on lower extremity function in patients with spinal cord injury.",
@@ -13977,6 +13896,75 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
+   },
+   {
+    "id": "PMID42404471",
+    "kind": "paper",
+    "title": "Operative video of Goel-Harms C1-C2 fusion for atlanto-axial instability secondary to odontoid fracture (Anderson-D' Alonzo II).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42404471/",
+    "doi": "10.25259/SNI_562_2026",
+    "journal": "Surgical neurology international",
+    "authors": [
+     "Escamilla-Chávez E",
+     "Cornejo-Valencia RO",
+     "Chávez-Bejar JO",
+     "Cuadra-Alguera XF"
+    ],
+    "authorLine": "Escamilla-Chávez E, Cornejo-Valencia RO, Chávez-Bejar JO et al.",
+    "pubType": "Case Reports, Journal Article",
+    "date": "2026-06-26",
+    "summary": "Type II odontoid fractures are the most common unstable injuries of the upper cervical spine. They are associated with high non-union rates, particularly when accompanied by ligamentous disruption and/or fracture displacement. Posterior C1-C2 fixation using the Goel-Harms technique provides immediate biomechanical stability, high fusion rates, and reduces the risk of a neurovascular injury when compared with transarticular fixation. A 33-year-old male sustained polytrauma after a fall from >3 m. The initial evaluation revealed a severe traumatic subarachnoid hemorrhage with additional complex craniovertebral junction instability. The cervical computed tomography and magnetic resonance imaging scans demonstrated an unstable Anderson- D'Alonzo type II odontoid fracture accompanied by posterior displacement of the dens up to 5 mm into the spinal canal, occipitocervical dissociation, and…",
+    "score": 16,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42386491",
+    "kind": "paper",
+    "title": "Accuracy of Palpation-Guided Versus First Attempt at Ultrasound-Guided Electromyography Needle Placement for the Extensor Carpi Radialis Longus and Brevis by Trainees.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42386491/",
+    "doi": "10.1002/mus.70333",
+    "journal": "Muscle & nerve",
+    "authors": [
+     "Meiling JB",
+     "Wu KY",
+     "Boon AJ",
+     "Luetmer MT"
+    ],
+    "authorLine": "Meiling JB, Wu KY, Boon AJ, Luetmer MT",
+    "pubType": "Journal Article",
+    "date": "2026-07-01",
+    "summary": "Ultrasound (US) guidance may be essential for accurate electromyography (EMG) needle placement in less-commonly evaluated muscles, such as the extensor carpi radialis longus (ECRL) and brevis (ECRB), and particularly for identifying suitable donor muscles prior to tendon transfers to restore upper extremity function. Our primary aim was to compare the accuracy of trainee palpation-guided versus first-attempt US-guided needle placement. Our secondary aim was to describe the locations of inaccurate needle placement. Seven subjects each performed four needle placements (ECRL and ECRB, both palpation-guided and US-guided), totaling 28 placements into a cadaveric specimen. US-guided needle placement was performed with one attempt after one live demonstration. No palpation-guided ECRL attempts were accurate while only two of the palpation-guided ECRB attempts were accurate. First-attempt…",
+    "score": 16,
+    "tags": [
+     "Hand & arm function"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "upper extremity",
+       "tendon transfer"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
    }
   ],
   "news": [
@@ -14043,32 +14031,24 @@
     "exploredNote": null
    },
    {
-    "id": "news-1w1zxf6",
+    "id": "news-1yanq3r",
     "kind": "news",
-    "title": "Upper extremity motor score required for clean intermittent catheterization in individuals with spinal cord injury",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CN3Rud0swVG95MG1GcDdkZUpqUWVIVGtLSTJ6YVN2V0RINVRVLWJzQXV2N0N1Z0kwZkxWckl3LUxIZkJxOGYtUGl0dmszNFc4UGJBcEhqUlRkTWd4OUs0?oc=5",
-    "outlet": "Nature",
+    "title": "Fundraiser helps Malita, 9, with quadriplegic cerebral palsy gain independence",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3daeXJXRjlla3AzS0JKVVNKSlZobHQ2X0VVeHZHU2h4NE95Ul9oVWk4SEJPVGZhTkFiNXE1RDBMcXpwVGttS2lBOUdVQ3l3X1NJNjFjTzVQZlliWU9MNG1sRmdBaWM4T01lVHlaYU15STRrdWJrOUlZTnlqWXMyR05yMlNMZVh3OVVqS1IyNnhfRXdBbHN3cHUwOVpmVHM?oc=5",
+    "outlet": "Basingstoke Gazette",
     "topic": "Technology",
-    "summary": "Upper extremity motor score required for clean intermittent catheterization in individuals with spinal cord injury Nature",
-    "date": "2026-08-08",
-    "score": 18,
+    "summary": "Fundraiser helps Malita, 9, with quadriplegic cerebral palsy gain independence Basingstoke Gazette",
+    "date": "2026-08-10",
+    "score": 20,
     "tags": [
-     "Hand & arm function"
+     "Cervical / tetraplegia"
     ],
     "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper extremity"
-      ]
-     }
-    ],
+    "matchedPriorities": [],
     "eligible": true,
-    "why": "Surfaced for hand & arm function.",
-    "firstSeen": "2026-08-08",
-    "isNew": false,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-08-10",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14098,7 +14078,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation.",
     "firstSeen": "2026-08-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14225,6 +14205,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-2zcldx",
+    "kind": "news",
+    "title": "Chinese startup claims its brain implant takes just 10 minutes to place, no skull surgery required",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXFJZ1U4VmZQVVFIclIycTJPakZyaWdJeGJvcnExNGlQNWVVYW9IVXhaaG1qRkx1a3Y0bTZKR0REenJSSjdUYUFJVE9HZWJjQWhCT05xd0ZIamRxcWQ4QVhDRUh5TVhiX0hpY0JaZDE1TktFdlNIN1FvQTFITmFBazFvMXlBcF9KREJEazVDRjNSTWlvRmcwMjJvSXp6Y0UzQmhoeDRic0VzcVVKYWc0NUpISERNWldWQWZDUTM3bnVtc1JRWmg0Z2hJWWNEcFJjclJnVA?oc=5",
+    "outlet": "Digital Trends",
+    "topic": "Company watch",
+    "summary": "Chinese startup claims its brain implant takes just 10 minutes to place, no skull surgery required Digital Trends",
+    "date": "2026-08-10",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-08-10",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-134iaz3",
     "kind": "news",
     "title": "Brain Computer Interface Market Size, Share, In-Depth Insights, Analysis and Forecast 2026-2034",
@@ -14250,37 +14260,6 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-08-07",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-13oavxc",
-    "kind": "news",
-    "title": "Wandercraft Names National Seating & Mobility the Exclusive CRT Distribution Partner for Eve™ Personal Exoskeleton",
-    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd3ZUa3lFUnJtM2RHMGtDODFlLXNGbnhXcHo1SzRUaktLTzFUcnh3TGRhRE0wOGY0bnVpYmptOFRVYlQzOEN2empUMkJkeG8tY1lJZ0xQTW84V1JxNGRhNHpBbWF5VDdJemFKMUdjQXRLaC1CbU9aMEhOYXFfQmVsVDkwdjJqNG5LZ3hDR21DVG1pRGljbFNBZU9KdkpfTEZqWWxRVEFuS3F5ZXkzcW1GbUZPWmczemw4UUo1OHR6Uzh0VFlYMjhXTnFzbjdDMDBLekpZWWtyaEJzWFp0ME5fTU9lR3ZmeWdRa09PSkpKdmdjc2NNTDVwQUxFekNua3Ntc2N5LV8wSDNITXV2VWR0Yg?oc=5",
-    "outlet": "GlobeNewswire",
-    "topic": "Regulatory",
-    "summary": "Wandercraft Names National Seating & Mobility the Exclusive CRT Distribution Partner for Eve™ Personal Exoskeleton GlobeNewswire",
-    "date": "2026-06-25",
-    "score": 16,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Wandercraft"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-08-01",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14318,6 +14297,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-b5c7um",
+    "kind": "news",
+    "title": "New Medical Breakthroughs in Hearing Loss, Gene Therapy, and Spinal Cord Injury",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLVdqYjh6cF9OVi1LUDlQUG1zekFid2M5TkVxMmJPSUxxSE9jUnIzYWlULU44Z19lbUM4NTFvbF9ITFZrSTgwNEM4Y08tV0d0Q3liZk5NLXY3UmpxUUptQkExWDFSMTduck5ZcjcwWVIyenlqWi1PUGdaRHd6WTlaTjVUQm1GWG5JNHlSc1ZfZ3RMczFoU3c4ZzBtZEIybVpUZ1ExTXB3bG15T3U5QnJFQ21mN2pLYlo4WkdsQzNobU92ZVBGeG5jYmFSVzFNRU9MbEo3MTc2emhTbUhWNll2N2JrTmxPRlhLcTI4X3ZSTk9MV1B1MkROVmtBdzVIUQ?oc=5",
+    "outlet": "thejewishnews.com",
+    "topic": "Technology",
+    "summary": "New Medical Breakthroughs in Hearing Loss, Gene Therapy, and Spinal Cord Injury thejewishnews.com",
+    "date": "2026-07-31",
+    "score": 15,
+    "tags": [
+     "Regenerative / cell therapy"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "gene therapy"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for regenerative / cell therapy.",
+    "firstSeen": "2026-07-31",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-15y75n5",
     "kind": "news",
     "title": "Science & PINS Prize recognizes work that could prevent blood pressure crises after spinal cord injury",
@@ -14343,66 +14352,6 @@
     "eligible": true,
     "why": "Surfaced for autonomic / blood pressure / bladder / bowel.",
     "firstSeen": "2026-08-01",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-b5c7um",
-    "kind": "news",
-    "title": "New Medical Breakthroughs in Hearing Loss, Gene Therapy, and Spinal Cord Injury",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLVdqYjh6cF9OVi1LUDlQUG1zekFid2M5TkVxMmJPSUxxSE9jUnIzYWlULU44Z19lbUM4NTFvbF9ITFZrSTgwNEM4Y08tV0d0Q3liZk5NLXY3UmpxUUptQkExWDFSMTduck5ZcjcwWVIyenlqWi1PUGdaRHd6WTlaTjVUQm1GWG5JNHlSc1ZfZ3RMczFoU3c4ZzBtZEIybVpUZ1ExTXB3bG15T3U5QnJFQ21mN2pLYlo4WkdsQzNobU92ZVBGeG5jYmFSVzFNRU9MbEo3MTc2emhTbUhWNll2N2JrTmxPRlhLcTI4X3ZSTk9MV1B1MkROVmtBdzVIUQ?oc=5",
-    "outlet": "thejewishnews.com",
-    "topic": "Regulatory",
-    "summary": "New Medical Breakthroughs in Hearing Loss, Gene Therapy, and Spinal Cord Injury thejewishnews.com",
-    "date": "2026-07-31",
-    "score": 15,
-    "tags": [
-     "Regenerative / cell therapy"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "gene therapy"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy.",
-    "firstSeen": "2026-07-31",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1o5jwas",
-    "kind": "news",
-    "title": "KAIST Launches World’s First Bidirectional Brain-to-Robot Exoskeleton System",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0lKQWZmTmVMbEtnZU9JMXhfajRLb3RfYkFqZkpMTUY2V0tKWU1vdmY1NUc5RjBzSko3QUdLdnZ3bEt2M1FJVTFzMTlqLTAzTm1paERNYm00bVR1bFpsWkVZclFWd29xc3hmUHRsWEpFcFpZU2pISFJRRkFINWIwOVBMQUJGYjB0dWVjc2pBdTZKbVBpQXBLNzVlMW44cVExaHIzaGVrbUNDX3hCM0RDNERoWHJrRFpHNHEyS2pEOFZnNTVoWUQwN0dBZnYxUms?oc=5",
-    "outlet": "Tech Briefs",
-    "topic": "Technology",
-    "summary": "KAIST Launches World’s First Bidirectional Brain-to-Robot Exoskeleton System Tech Briefs",
-    "date": "2026-07-26",
-    "score": 14,
-    "tags": [
-     "Activity-based rehab & exoskeleton"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-07-29",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14482,6 +14431,28 @@
     "exploredNote": null
    },
    {
+    "id": "news-yecm9s",
+    "kind": "news",
+    "title": "Lineage Cell Therapeutics Q2 Earnings Call Highlights",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXJoOGh6ODFGSGJTcHItdVdFcnlRTTVpUlk4b1ZSQm40UjNKZGt5YlhWNjVLZmhCN2dGUW1USU1ibU1nbkFKMzI4ZGpxQVVjOHNzd3h0R29aY0xmRF9GQ0Z6MHpsQlp4Q00wNDU4dExzNmNlT1Vwbm1kYlNuRzZuUGFSaU5QbEUtYlRySlZBT1Q5akZUV0o3bmxUNHJJa3h4SVRNSXIxM0t6MVd1cHZzLTF6Vno?oc=5",
+    "outlet": "TradingView",
+    "topic": "Company watch",
+    "summary": "Lineage Cell Therapeutics Q2 Earnings Call Highlights TradingView",
+    "date": "2026-08-09",
+    "score": 14,
+    "tags": [
+     "Watchlist: Lineage Cell"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-08-10",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1f3pwfc",
     "kind": "news",
     "title": "Lineage Cell Therapeutics (NYSEARCA:LCTX) Slips on Q2 Revenue Miss, but EPS In Line and Pipeline Advances",
@@ -14529,10 +14500,10 @@
     "id": "news-183kqq1",
     "kind": "news",
     "title": "Lineage Cell Therapeutics Balances Progress and Risk",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFdhcFlBUTdnR3VLZ3RSZFVnNXdhNmNUM1BRY056cDl0ajhJQVBuMy02T25QRzJCaHY4VWEyZGUxSkN2dXozQmI4Wlg4S1VaYW5OOVMzb1dNVDByN05NNVFNQzdNTy1QUTNmSWRzWV80X2lQUmJ3NjVNVFVlYXBYMHpUaU9wRU40bFVTdy00U1pGYUNfWGJaOGc2U2JtR3hXbU5CUDJSbw?oc=5",
-    "outlet": "TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMnNRamZXdGM5LXJNYnV4ODloQ3lqbEN1NXFKNlR4MFZjYmJtczNWR3NuVnktZU5kUXF6WFhvaXdTTkFRZXFNcVpTRDdSQ2pzMmtDY2dtdGFSYS04U3B4VzByZXhYZHlULWhienRNLUZvalVVNWllZ0RoZG1GYWZiWHVvaXNuZVo1SVFVVzR4ck5LMWZTOUI1dmVta1V0SGpDdmRHYWFObFFwWVFxSmY5OUJNVjYtZk9EamU5Snhpdw?oc=5",
+    "outlet": "tipranks.com",
     "topic": "Company watch",
-    "summary": "Lineage Cell Therapeutics Balances Progress and Risk TipRanks",
+    "summary": "Lineage Cell Therapeutics Balances Progress and Risk tipranks.com",
     "date": "2026-08-08",
     "score": 14,
     "tags": [
@@ -14543,7 +14514,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-08-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14552,9 +14523,9 @@
     "kind": "news",
     "title": "Ekso Bionics Deepens Neurorehabilitation Focus With Education Push and Mobility Portfolio Updates",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN0g1NkdKVVVCTTlfdXJWTF93T2g4emxVbEkwOC1iQ1NUN183VGw0YnNZRnpJbERuMjBtdThxZ3lKSTR6SjhrUlNGcUFuRG9FUXBJaTJ2X2RWMUY5ajdtYk1ZaGhIazBMLVgxcldFQWdWZElfbXBMeFZtVmJ1NGQ2cDVHelBSS3JUSHpaaERvTDdpcDNsWmg1Z3dHcTk1VGlNNEpvOXM1U0tRa0V0cmRjcnZydjNqbV9jd1h4bUlQLThKb0xlVWp5Vm1PSFNrb3ZSUTNvQTdNRENTUmZ1blE?oc=5",
-    "outlet": "TipRanks",
+    "outlet": "tipranks.com",
     "topic": "Company watch",
-    "summary": "Ekso Bionics Deepens Neurorehabilitation Focus With Education Push and Mobility Portfolio Updates TipRanks",
+    "summary": "Ekso Bionics Deepens Neurorehabilitation Focus With Education Push and Mobility Portfolio Updates tipranks.com",
     "date": "2026-08-01",
     "score": 14,
     "tags": [
@@ -14601,66 +14572,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1b8l8bm",
-    "kind": "news",
-    "title": "A Man With Paralysis Has Regained Feeling and Movement in His Hands After an Experimental Brain Implant",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUmRFNm9weXVhdVgyV25QWWR3M3dqaldveUUyY09MTHNMNGxpN2E0QnMzZ1pQX3dDR25vTGNXM2VydWpjV0tscDVlMDFlbEpLMTV6MnRNM1BkS285ZDE1VTV3cWFlOGQyQVNTblFYbjFXZTVWOW54TW5YZzczVlp6OVNGU1VoZkxpU1l4aTdFVlVuYldDZllmY0gtNmhhdkJRTDc4RjBkeVVWbnFGLU4yNEQ4R2FGS1pvSTZzUUp1V01yN25WOGNneVd6aWpaRzNlRHgyOWFqV3lZendVZ0ZhSkRUNjE4THVqSHBiZQ?oc=5",
-    "outlet": "Smithsonian Magazine",
-    "topic": "Technology",
-    "summary": "A Man With Paralysis Has Regained Feeling and Movement in His Hands After an Experimental Brain Implant Smithsonian Magazine",
-    "date": "2026-07-20",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-8a0yb",
-    "kind": "news",
-    "title": "Bidirectional BCI Restores Movement and Sensation in Paralyzed Patient",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzBfMmxJVlR1OVgxM09MNGNxbl85ZmNlUWNOd0lSM2F1WE9Vd3M1cjM0SmhMRmI1LUVBXy1hZ293dzZCRDB3U2F5Vy0tQ013MzFralcwRXJXX19NTGJ6M1N0eDk4SThPY2QxNTBqN0xMa0puVHJxV3EzT3phamxURVE4WGZDeDlq?oc=5",
-    "outlet": "조선일보",
-    "topic": "Technology",
-    "summary": "Bidirectional BCI Restores Movement and Sensation in Paralyzed Patient 조선일보",
-    "date": "2026-07-23",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1cy8ik3",
     "kind": "news",
     "title": "China’s first subdural flexible implantable BCI gains fast-track approval pathway",
@@ -14686,66 +14597,6 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1o9t9yc",
-    "kind": "news",
-    "title": "Brain implant restores movement and touch, spurs lasting recovery - CHOSUNBIZ",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON0FmZW15WjRDVGQ4RWp3LUMxeGE4Y3cyU1kxRmFSenI3RkhXZm14WEh4ZHpKNkhyS1lFUFhSY1NtaU54SXE3NGZZRzVpNHY3bVhudkVERlRuNUw4NlM4cDRybEVfNHd1a1I4c1M0SGpQQ01jN0laenVkYUh0elNVcdIBlAFBVV95cUxNSzlFWHB5d2ItUHB0bWNiZTN4NE1QZjAxdXVqaUd4cXVkdGpWQ3pjVUdYd0dOcWNfWnVZT3J2SjdXdzBJZUIxb3FBWE10Wm1XRlFwejdyXzdRekUtYzVYcDNJM050N0JfQ0cya2JhLXBwR0NNZzRYckRfaDVRTEJ3OGVuRGRfcmZISVJETTM3dXgxZWdr?oc=5",
-    "outlet": "Chosunbiz",
-    "topic": "Technology",
-    "summary": "Brain implant restores movement and touch, spurs lasting recovery - CHOSUNBIZ Chosunbiz",
-    "date": "2026-07-20",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1aynper",
-    "kind": "news",
-    "title": "Roadmap charts brain-computer interfaces for depression, anxiety and PTSD",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS3YyZ2l3anM3V2RnR21QU0Z5eVBPd1FDY1BPRWFId3lNd3FnQzdSNklnclJtWXA2ZFhpUGZPUFZzNTNtU204Z0FZNkV1OThjTmYyVDRTSUlwMVlmajJvcENUNmRGTE0zVC1SQVhQSUlqZms3NnU5TlRkd21CNDF6ZVpmMFBWdTh2bGlLZnZUd3I?oc=5",
-    "outlet": "Medical Xpress",
-    "topic": "Technology",
-    "summary": "Roadmap charts brain-computer interfaces for depression, anxiety and PTSD Medical Xpress",
-    "date": "2026-07-21",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-08-06",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14811,43 +14662,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-52mxkf",
-    "kind": "news",
-    "title": "China Completes First Commercial ‘Brain-Computer Interface’ Implant",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFlHa3Y2MHY0WFh6OTNIOS0zWU0tTnZIbG1pbWlPX0dsZ1pfWjZ2M2V1TFJjekZWMVBvTUZQT1NiYTRZRXhEOXlwZGJmVXFyN0JuUmVMTk9tMmtzVWZWenl3emtmRzZ5cFpQUDZvVFVsenBDejJzZ0NXTFp4bmlsZ1ZmcmZTX1p3NkR1LU1qaUZBYmJONC1xY01R?oc=5",
-    "outlet": "Charisma Magazine Online",
-    "topic": "Company watch",
-    "summary": "China Completes First Commercial ‘Brain-Computer Interface’ Implant Charisma Magazine Online",
-    "date": "2026-07-21",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-14n6cz6",
     "kind": "news",
     "title": "Brain Computer Interface Market to Reach US$3.4 Billion by 2033 at 7.8% CAGR | Persistence Market Research",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcHBkS3RYWC1DVmFUbFRPNk5EYUZLZzdjc2hPaDRTYjlhNWkzY2VpcWtKZ1FGYUlUV0IzbXVZZW9OcTVMaWFZaFFKcVgwUVBSdHpLcUNsZ0pmWTZxRjFaT1ZMenh4aHlaRjNmQ3BZeE1qR25RdnVyZl9TaTZGUFlPVzFCaFdfdW1ZSkJVcjNfVkUybUFaenRYVGZnRjZCeEhRcUg5cVRjWnEweXk1WFRxZjRsbW80WHh6MmR6aE1Pek9uT19UQzd5b3lZT2FmbzdrN2RUWXF1MlVyS0dORHc?oc=5",
-    "outlet": "einnews.com",
+    "outlet": "EIN News",
     "topic": "Company watch",
-    "summary": "Brain Computer Interface Market to Reach US$3.4 Billion by 2033 at 7.8% CAGR | Persistence Market Research einnews.com",
+    "summary": "Brain Computer Interface Market to Reach US$3.4 Billion by 2033 at 7.8% CAGR | Persistence Market Research EIN News",
     "date": "2026-07-22",
     "score": 12,
     "tags": [
@@ -14901,36 +14722,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1jd1wi0",
-    "kind": "news",
-    "title": "Sweet Caroline: BCIs That Restore Sensation of Touch Show Long-Term Safety",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU0ppclRwZHJ3c0FWX1VGa1dOZHp6U0JmcnFkRDljS285UkJfLWJaT29NU2lRYWZtRWF1TWUwaE1WbXktMXF3eWlra2g2NlYySDBMX3Ztb0trMlJSd3c4dXNoR0ZPSkNBc3dyT252MWxpcTdEaFhTUGxmeFV0TXBlbGYyYm9BakZ1bU1iMVBxTUZJUkZTekdYLXp2dVpaSlcweDQ2N09tWFlIekx5VFVrZU9SdXlYOGhyQy02R0tuNS1ENU1hSjloV013aFkwYWpyazRndkpYaDBkZlA2?oc=5",
-    "outlet": "Inside Precision Medicine",
-    "topic": "Company watch",
-    "summary": "Sweet Caroline: BCIs That Restore Sensation of Touch Show Long-Term Safety Inside Precision Medicine",
-    "date": "2026-07-16",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1poyrfr",
     "kind": "news",
     "title": "BCI Neurofeedback Amplifies Brainwaves to Detect Micro-Errors",
@@ -14961,61 +14752,32 @@
     "exploredNote": null
    },
    {
-    "id": "news-1y3mqlk",
+    "id": "news-13oavxc",
     "kind": "news",
-    "title": "Neuro-Restoration Venture Funding Market to Reach USD 435.9 Million by 2036 as Brain-Computer Interface Innovation Accelerates Clinical Investment",
-    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORGVmdlR4SUJBQ2VJMHM3ZUtoOFB6cFRRMlJhbkVQTVQ3cGRWNnhpVVFlZVFLUkJISzRDUUF6SGFqdlR2dEowc2sycXEwemVJSkU3MWE5OGlRV1NZRzl6QjNIb3FUaUhOU2k1RzRWTHltaWYtMzdzMXVSWGNabHRobGZpdmhNdHViTDhGU3NjMmZmTmIzTEtiZUE3S2h3Z1JldExqREhzSDBNdDE3UThZU1VuYXh6c0ZJcWJSWnJwWnBXV0VsNDNib2M5MjhJRmlGX01EMVZVOGtwRFZhNUhUenlMakZzTHNZYzRQUFhIM2NlYkJ5TXRXdGIyemdfaHNzM24wV2FNYmw1Qm56Z01IcVp5RU1zdm9pLWZGQlA2azhWUE9GMFFjUFJn?oc=5",
-    "outlet": "PR Newswire",
-    "topic": "Company watch",
-    "summary": "Neuro-Restoration Venture Funding Market to Reach USD 435.9 Million by 2036 as Brain-Computer Interface Innovation Accelerates Clinical Investment PR Newswire",
-    "date": "2026-06-26",
+    "title": "Wandercraft Names National Seating & Mobility the Exclusive CRT Distribution Partner for Eve™ Personal Exoskeleton",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd3ZUa3lFUnJtM2RHMGtDODFlLXNGbnhXcHo1SzRUaktLTzFUcnh3TGRhRE0wOGY0bnVpYmptOFRVYlQzOEN2empUMkJkeG8tY1lJZ0xQTW84V1JxNGRhNHpBbWF5VDdJemFKMUdjQXRLaC1CbU9aMEhOYXFfQmVsVDkwdjJqNG5LZ3hDR21DVG1pRGljbFNBZU9KdkpfTEZqWWxRVEFuS3F5ZXkzcW1GbUZPWmczemw4UUo1OHR6Uzh0VFlYMjhXTnFzbjdDMDBLekpZWWtyaEJzWFp0ME5fTU9lR3ZmeWdRa09PSkpKdmdjc2NNTDVwQUxFekNua3Ntc2N5LV8wSDNITXV2VWR0Yg?oc=5",
+    "outlet": "GlobeNewswire",
+    "topic": "Regulatory",
+    "summary": "Wandercraft Names National Seating & Mobility the Exclusive CRT Distribution Partner for Eve™ Personal Exoskeleton GlobeNewswire",
+    "date": "2026-06-25",
     "score": 12,
     "tags": [
-     "Brain-computer interface"
+     "Activity-based rehab & exoskeleton",
+     "Watchlist: Wandercraft"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "bci",
-      "label": "Brain-computer interface",
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
       "matched": [
-       "brain-computer interface"
+       "exoskeleton"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1jzma5k",
-    "kind": "news",
-    "title": "Spinal Cord Injury Stem Cell Transplant Clears Phase I, Improves Motor Scores",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRTc0M1ROQy1YTjBpUjk1R0ZDRUliVlF2TGRzQ2kwT3RNTDBrOElDdVpVbHlYdVZZZW1zcVJHZE0xVEloX3RRb1NhOXJiVGRIcUg3Ylc5RjdRSFQxQ3RBQzBRY21McFVid3F4ZHZEYkNxWEE5ZDhWUzZOdjFkSEVjSGdORmJRdEoxMDFuS0c4ZHdDSGdtZWM0SGNmZzRFRFgtbmVfYVNEODMzVDdUTkJNVlR2Z0xzRi1pM2dfblZpaFZzZWt2YjdDN0xoUzRJcmdjT0t1aDh5dVBhWW5Gc3gzZw?oc=5",
-    "outlet": "Inside Precision Medicine",
-    "topic": "Technology",
-    "summary": "Spinal Cord Injury Stem Cell Transplant Clears Phase I, Improves Motor Scores Inside Precision Medicine",
-    "date": "2026-07-21",
-    "score": 11,
-    "tags": [
-     "Regenerative / cell therapy"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "stem cell"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy.",
-    "firstSeen": "2026-07-28",
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-08-01",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15025,9 +14787,9 @@
     "kind": "news",
     "title": "EpilepsyGTx selects ClearPoint Neuro technology for Phase I/IIa epilepsy gene therapy trial",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZl9MSDBCSkMwN3loMFpSWU5EQWdvZWpsQ3NPN0FQdXp6NHEzcEJPQnRmd3htVU9wY2lKdjhyLV9CUDJFZ3ZyLW1LbUl1LS1ZZk5Tb0dGM0Y1X1lld0duZVJITHFSWUlsYnZrWGdXX0NDVW00YlRnRzN2aTB3WUdOYzRaSGdXN1lGenU4RkEwSGdrSEJtZXNGQkdB?oc=5",
-    "outlet": "Manufacturing Chemist",
+    "outlet": "manufacturingchemist.com",
     "topic": "Company watch",
-    "summary": "EpilepsyGTx selects ClearPoint Neuro technology for Phase I/IIa epilepsy gene therapy trial Manufacturing Chemist",
+    "summary": "EpilepsyGTx selects ClearPoint Neuro technology for Phase I/IIa epilepsy gene therapy trial manufacturingchemist.com",
     "date": "2026-07-15",
     "score": 11,
     "tags": [
@@ -15046,6 +14808,36 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy.",
     "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1o5jwas",
+    "kind": "news",
+    "title": "KAIST Launches World’s First Bidirectional Brain-to-Robot Exoskeleton System",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0lKQWZmTmVMbEtnZU9JMXhfajRLb3RfYkFqZkpMTUY2V0tKWU1vdmY1NUc5RjBzSko3QUdLdnZ3bEt2M1FJVTFzMTlqLTAzTm1paERNYm00bVR1bFpsWkVZclFWd29xc3hmUHRsWEpFcFpZU2pISFJRRkFINWIwOVBMQUJGYjB0dWVjc2pBdTZKbVBpQXBLNzVlMW44cVExaHIzaGVrbUNDX3hCM0RDNERoWHJrRFpHNHEyS2pEOFZnNTVoWUQwN0dBZnYxUms?oc=5",
+    "outlet": "Tech Briefs",
+    "topic": "Technology",
+    "summary": "KAIST Launches World’s First Bidirectional Brain-to-Robot Exoskeleton System Tech Briefs",
+    "date": "2026-07-26",
+    "score": 10,
+    "tags": [
+     "Activity-based rehab & exoskeleton"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "exoskeleton"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-07-29",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15225,6 +15017,162 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
+   },
+   {
+    "id": "news-70pmxl",
+    "kind": "news",
+    "title": "NervGen Pharma remains a Buy after FDA aligns o...",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PeWc5QmV3czIyb3B2eUxKaDh2T3NyLVBtUUZjV3phUkc5NUE5Sll1ODJOUnR1bFZET296M2FDX1lHdDdPS3BYY3V1Mnp0aDhKR011OFFyLTNjQ3FjaDhUUUtNeVl5ZmN6WnJvNHkxZDFUUkstc0l4Qkh5RQ?oc=5",
+    "outlet": "Pluang",
+    "topic": "Company watch",
+    "summary": "NervGen Pharma remains a Buy after FDA aligns o... Pluang",
+    "date": "2026-07-02",
+    "score": 10,
+    "tags": [
+     "Watchlist: NervGen"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1u3yvcq",
+    "kind": "news",
+    "title": "Zero-Computational Path to High-Resolution Robotic Touch",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kbl9qR1M3VjNzU0g1eE1RT2RIZUMxX000ODBVdWtlZC1OZWRyRDZoWHNVWG15S1pzWGloOUlmS2tBWU5JSld5aWN4dGNBVXA1SnhOSXFJRjA0WEdQUU9wZkZUQmxmOTFkOVNFRUpXa1c4SnJKR29FOTJ4TQ?oc=5",
+    "outlet": "Neuroscience News",
+    "topic": "Company watch",
+    "summary": "Zero-Computational Path to High-Resolution Robotic Touch Neuroscience News",
+    "date": "2026-07-03",
+    "score": 10,
+    "tags": [
+     "Activity-based rehab & exoskeleton"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "robotic"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-07-29",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1iioaf1",
+    "kind": "news",
+    "title": "Lineage Cell Therapeutics Inc. (LCTX) Q1 2026 Earnings: EPS Misses Estimates but Stock Rises on Operational Progress - EBITDA Estimate Trend - po-news-eg.net",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONHJ5SXh0WXcwbk1yYXdpRGNzcC16cXh5VEZJN1NKR3hxUzlnQWxYY0MxTFlXWnI0RGdwa2VEY1hyREdkbk94X185NlBjem90WWFXckNwM1o3S1docl9qQ2VucEJyOEduVjlWRVA0MHJqd1JuTGRURnhMcmd1UTVndkJhVVdwVGFrS2trSEVhay1FWnhfeWFMYzVVbnhHaDI5NXJ5OWYtM1ZjbFhxeXlmaE9SY1dOY1g2cFVCR1Y1aldVSS1LMmlYN25pVURtRmt5TkhPckJmdU1VSGkxRXJzUnNwbjRqRWV2?oc=5",
+    "outlet": "po-news-eg.net",
+    "topic": "Company watch",
+    "summary": "Lineage Cell Therapeutics Inc. (LCTX) Q1 2026 Earnings: EPS Misses Estimates but Stock Rises on Operational Progress - EBITDA Estimate Trend po-news-eg.net",
+    "date": "2026-06-30",
+    "score": 10,
+    "tags": [
+     "Watchlist: Lineage Cell"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-07-30",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-psvpaf",
+    "kind": "news",
+    "title": "CHRN|Ekso Bionics Ord Shs|Price:20.930|Chg%:+0.680",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YdWxaZEhPODhpQVh3MHRtRTdHSmhSWXB1RVlIWERIQVBSZl81S0NIS29NanZVSjJid1hPQ2EyX0J0N0ZSdkhLVzNyVVZfUFdneU9IazZOTkZVUQ?oc=5",
+    "outlet": "TradingKey",
+    "topic": "Company watch",
+    "summary": "CHRN|Ekso Bionics Ord Shs|Price:20.930|Chg%:+0.680 TradingKey",
+    "date": "2026-07-24",
+    "score": 10,
+    "tags": [
+     "Watchlist: Ekso Bionics"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-08-10",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-15hvjq9",
+    "kind": "news",
+    "title": "Exoskeleton Market Size, Share & Growth Report, 2033",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mN0dCZjBKeWdHdkkzWVNWRmFZb09YSlI5VWdyWDdQWHhqUjI3RmhCTi11Q3ltUTU0V0d1SFVsUVFUTDZSeHpfSjljalFXdWotcGtBRHlmd2R3OWpITmlyVnRweTBJVzAybW1kdFZUTm15OGhZU2Jr?oc=5",
+    "outlet": "Market Data Forecast",
+    "topic": "Company watch",
+    "summary": "Exoskeleton Market Size, Share & Growth Report, 2033 Market Data Forecast",
+    "date": "2026-07-01",
+    "score": 10,
+    "tags": [
+     "Activity-based rehab & exoskeleton"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "exoskeleton"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-08-01",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-14ulw7",
+    "kind": "news",
+    "title": "Robotics in Healthcare - 2026 Market & Investments Trends",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTFTQWtzRXBRZlR0aUlCcE5aU3MzRmNNVHM5VHBlQWQ4OTlUemVtTWVJMmRESzcxUG5yamdoOHhwazVHeEhPcVdrMU5iUXBPb19pSWhlLUlQbEcxNWVmTGJ6UGt2ZHhrM1RYOTJFc0FXempVX3U3YnkxcWF6N3dyak95NXNQdDFFdFg0YlZQM1Jxamgzbk1idG9PTkhJZw?oc=5",
+    "outlet": "Tracxn",
+    "topic": "Company watch",
+    "summary": "Robotics in Healthcare - 2026 Market & Investments Trends Tracxn",
+    "date": "2026-07-23",
+    "score": 10,
+    "tags": [
+     "Activity-based rehab & exoskeleton"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "robotic"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-08-09",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
    }
   ],
   "centers": [
@@ -15300,7 +15248,7 @@
       "date": "2026-06-18"
      },
      {
-      "title": "Renowned Colorado Neurorehabilitation Hospital Launches $250M Expansion - Engineering News-Record",
+      "title": "Renowned Colorado Neurorehabilitation Hospital Launches $250M Expansion - enr.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdkRRUndCRG9IOUxNa2pENGd3OUVaYkJSVUhlbHdzbmxfbDdXVndDQWlwU0puOHBZZDZFdF9ES0xkdmtYNjR4eDRxUVp4cUpXX2Q4dVBhSjR4TGNlYU82MmNETGNDWGJVamRmVWkwZzBVMU5FajBTR0JDdnF0azEwVDhZTk1WWmRPMmNUZ1dnbWI1YVJma05hZzN1QWpnU2pCWnRuZXlXR2M?oc=5",
       "date": "2026-06-15"
      },
@@ -15340,11 +15288,6 @@
       "title": "New software out of Maryland turns smartphone video into rehabilitation therapy - Technical.ly",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkRZdVFnX0x1R19NUGZ5Yl9nWkpKV0pnUzE4M1FrbVVxTTBFc2MzR1MwSGR1SjNuVnBBUUdsNi1RZ3VfeHNnUTVTdmxlLTlsYVRBNmJGeXJRZXc3YnhwMkkzSnk5UFZnRzdnUzdYbGp4N1FFUnZnRXE4QklrMXhQSU9ZSFZKVTJMOXZVWjVHZGc1QTA?oc=5",
       "date": "2026-07-28"
-     },
-     {
-      "title": "Hope in Bloom - Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJd3FaTlVLV1Q5bHVSbHNLWko0Z214TWZPUUJONmpQM1FjYVIyMloxalZWeEdId0JUQkpSajRSdGpvQ19wSkViNTh1QVJyMVlYSFI2bDZJck9ydU15NUx0aUE0VUdPWmV2c3J6TFdoa093c0lNY1hBSmxB?oc=5",
-      "date": "2026-05-12"
      }
     ],
     "date": null,
@@ -15412,7 +15355,7 @@
       "date": "2026-06-22"
      },
      {
-      "title": "Brain-Controlled Epidural Spinal Stimulation for Upper-Limb Motor Function after Tetraplegia - medRxiv",
+      "title": "Brain-Controlled Epidural Spinal Stimulation for Upper-Limb Motor Function after Tetraplegia - medrxiv.org",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xNVdIUHVIRzF1N1l0TEhZUDBZaEtTOExmT2NRLXdfb0RWTEdZam1sMVZWT2lRR2N6d2hiZHcwSjloMXFJTGNVVVNtWXk2Rmc4UGUtZVl6QTl4R0ptNkVCbTFERzhHNHJBTTltMFdjT1dqV0xn?oc=5",
       "date": "2026-06-20"
      }
@@ -15616,7 +15559,7 @@
     "kind": "center",
     "title": "AASDAP / Walk Again Project",
     "summary": "Long-running brain-machine-interface and rehabilitation project in chronic paraplegia and tetraplegia.",
-    "linkStatus": "unreachable",
+    "linkStatus": "ok",
     "recentNews": [],
     "date": null,
     "score": 0,
