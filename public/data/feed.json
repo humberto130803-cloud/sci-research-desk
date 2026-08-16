@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-08-15T10:21:08.678Z",
- "date": "2026-08-15",
+ "generatedAt": "2026-08-16T10:21:44.705Z",
+ "date": "2026-08-16",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -18,9 +18,9 @@
    "score": 72
   },
   "lines": [
-   "1 new open study since yesterday.",
-   "3 new papers.",
-   "3 new technology items."
+   "No new open studies since yesterday.",
+   "1 new paper.",
+   "2 new technology items."
   ],
   "closingSoon": [
    {
@@ -41,12 +41,12 @@
   ],
   "counts": {
    "openTrials": 90,
-   "newOpenTrials": 1,
+   "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 3,
+   "newPapers": 1,
    "news": 45,
-   "newNews": 3,
+   "newNews": 2,
    "centers": 12,
    "archived": 0
   }
@@ -1349,7 +1349,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and breathing & diaphragm, cervical-level, chronic.",
     "firstSeen": "2026-08-15",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -3937,89 +3937,6 @@
     "exploredNote": null
    },
    {
-    "id": "NCT06841198",
-    "kind": "trial",
-    "title": "Cardiovascular Function and Response to Stimulation Within the First Year After Spinal Cord Injury",
-    "officialTitle": "Assessing Cardiovascular Effects: Is There a Time Too Early for Spinal Stimulation in Acute SCI? A Year-Long Evaluation of Autonomic Function Following Injury",
-    "url": "https://clinicaltrials.gov/study/NCT06841198",
-    "summary": "The study aims to explore how cardiovascular function changes in the first year after a spinal cord injury, and to see how different treatments, like spinal stimulation through the skin (transcutaneous spinal stimulation), affect blood pressure. The main questions are: How does stimulation affect blood pressure over the year? What is the level of cardiovascular activation throughout the year? The study will start during the inpatient stay at the Kessler Institute for Rehabilitation and continue after discharge as an outpatient, totaling about 20-29 sessions over the year.",
-    "conditions": [
-     "Spinal Cord Injuries (SCI)",
-     "Orthostatic Hypotension, Dysautonomic",
-     "Cardiovascular",
-     "Transcutaneous Spinal Stimulation"
-    ],
-    "interventions": [
-     "DEVICE: spinal cord transcutaneous stimulation",
-     "PROCEDURE: Ice testing"
-    ],
-    "sponsor": "Kessler Foundation",
-    "status": "RECRUITING",
-    "phase": "NA",
-    "studyType": "INTERVENTIONAL",
-    "enrollment": 15,
-    "minAge": 18,
-    "maxAge": 75,
-    "stdAges": [
-     "ADULT",
-     "OLDER_ADULT"
-    ],
-    "sex": "ALL",
-    "date": "2026-07-01",
-    "startDate": "2025-04-01",
-    "completionDate": "2026-11",
-    "locations": [
-     {
-      "facility": "Kessler Foundation",
-      "city": "West Orange",
-      "state": "New Jersey",
-      "country": "United States",
-      "status": "RECRUITING"
-     }
-    ],
-    "countries": [
-     "United States"
-    ],
-    "contact": {
-     "name": "Leighann Martinez, BA",
-     "email": "lmartinez@kesslerfoundation.org",
-     "phone": "(973)324-3557"
-    },
-    "eligibilityText": "For the main study: Inclusion Criteria: * Individuals with a spinal cord injury undergoing inpatient rehabilitation at the Kessler Institute for Rehabilitation * Between 18-75 years old * 7-50 days after injury * Injury level ≥ T6 (a cervical or a high-level chest injury) * Individuals experiencing low blood pressure after the injury * American Spinal Injury Association Impairment Scale (AIS) A or B Exclusion Criteria: * A ventilator is needed for breathing. * Devices such as brain/spine/nerve stimulators, a cardiac pacemaker/defibrillator, or intra-cardiac lines are present in the body. * There is a significant disease affecting the blood vessels or signals in the heart, or a recent heart attack (myocardial infarction) has occurred. * A new medication has been prescribed to treat blood pressure or a heart problem within the last five days (excluding midodrine). * There is a known infection in the body (e.g., urinary tract infection) or a current illness (e.g., recent diagnosis of deep vein thrombosis (DVT) or other blood clotting issues, and/or a pressure injury that might interfere with the study). * There is a history of seizures. * Pregnancy. For the spin-off study ice-water vs ice-wrap test (see description in study arms): \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Inclusion: Age 18-75. Inclusion for individuals with SCI: * Injury sustained more than 6 months ago * Injury level ≥ T6 (a cervical or a high-level chest injury) * American spinal injury association impairment scale (AIS) A - D Exclusion: Foot lesions, uses a ventilator, devices such as brain/spine/nerve stimulators, significant or recent cardiovascular disease, known infection in the body",
-    "score": 47,
-    "tags": [
-     "Spinal cord stimulation",
-     "Autonomic / blood pressure / bladder / bowel",
-     "Cervical / tetraplegia",
-     "Age OK (cap 75)"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "transcutaneous stimulation",
-       "transcutaneous spinal"
-      ]
-     },
-     {
-      "key": "auto",
-      "label": "Autonomic / blood pressure / bladder / bowel",
-      "matched": [
-       "orthostatic hypotension",
-       "blood pressure"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel, cervical-level.",
-    "firstSeen": "2026-07-30",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "NCT05756894",
     "kind": "trial",
     "title": "Neurostimulation for Respiratory Function After Spinal Cord Injury",
@@ -5282,6 +5199,89 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel, chronic.",
     "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "NCT06841198",
+    "kind": "trial",
+    "title": "Cardiovascular Function and Response to Stimulation Within the First Year After Spinal Cord Injury",
+    "officialTitle": "Assessing Cardiovascular Effects: Is There a Time Too Early for Spinal Stimulation in Acute SCI? A Year-Long Evaluation of Autonomic Function Following Injury",
+    "url": "https://clinicaltrials.gov/study/NCT06841198",
+    "summary": "The study aims to explore how cardiovascular function changes in the first year after a spinal cord injury, and to see how different treatments, like spinal stimulation through the skin (transcutaneous spinal stimulation), affect blood pressure. The main questions are: How does stimulation affect blood pressure over the year? What is the level of cardiovascular activation throughout the year? The study will start during the inpatient stay at the Kessler Institute for Rehabilitation and continue after discharge as an outpatient, totaling about 20-29 sessions over the year.",
+    "conditions": [
+     "Spinal Cord Injuries (SCI)",
+     "Orthostatic Hypotension, Dysautonomic",
+     "Cardiovascular",
+     "Transcutaneous Spinal Stimulation"
+    ],
+    "interventions": [
+     "DEVICE: spinal cord transcutaneous stimulation",
+     "PROCEDURE: Ice testing"
+    ],
+    "sponsor": "Kessler Foundation",
+    "status": "RECRUITING",
+    "phase": "NA",
+    "studyType": "INTERVENTIONAL",
+    "enrollment": 15,
+    "minAge": 18,
+    "maxAge": 75,
+    "stdAges": [
+     "ADULT",
+     "OLDER_ADULT"
+    ],
+    "sex": "ALL",
+    "date": "2026-07-01",
+    "startDate": "2025-04-01",
+    "completionDate": "2026-11",
+    "locations": [
+     {
+      "facility": "Kessler Foundation",
+      "city": "West Orange",
+      "state": "New Jersey",
+      "country": "United States",
+      "status": "RECRUITING"
+     }
+    ],
+    "countries": [
+     "United States"
+    ],
+    "contact": {
+     "name": "Leighann Martinez, BA",
+     "email": "lmartinez@kesslerfoundation.org",
+     "phone": "(973)324-3557"
+    },
+    "eligibilityText": "For the main study: Inclusion Criteria: * Individuals with a spinal cord injury undergoing inpatient rehabilitation at the Kessler Institute for Rehabilitation * Between 18-75 years old * 7-50 days after injury * Injury level ≥ T6 (a cervical or a high-level chest injury) * Individuals experiencing low blood pressure after the injury * American Spinal Injury Association Impairment Scale (AIS) A or B Exclusion Criteria: * A ventilator is needed for breathing. * Devices such as brain/spine/nerve stimulators, a cardiac pacemaker/defibrillator, or intra-cardiac lines are present in the body. * There is a significant disease affecting the blood vessels or signals in the heart, or a recent heart attack (myocardial infarction) has occurred. * A new medication has been prescribed to treat blood pressure or a heart problem within the last five days (excluding midodrine). * There is a known infection in the body (e.g., urinary tract infection) or a current illness (e.g., recent diagnosis of deep vein thrombosis (DVT) or other blood clotting issues, and/or a pressure injury that might interfere with the study). * There is a history of seizures. * Pregnancy. For the spin-off study ice-water vs ice-wrap test (see description in study arms): \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Inclusion: Age 18-75. Inclusion for individuals with SCI: * Injury sustained more than 6 months ago * Injury level ≥ T6 (a cervical or a high-level chest injury) * American spinal injury association impairment scale (AIS) A - D Exclusion: Foot lesions, uses a ventilator, devices such as brain/spine/nerve stimulators, significant or recent cardiovascular disease, known infection in the body",
+    "score": 43,
+    "tags": [
+     "Spinal cord stimulation",
+     "Autonomic / blood pressure / bladder / bowel",
+     "Cervical / tetraplegia",
+     "Age OK (cap 75)"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "transcutaneous stimulation",
+       "transcutaneous spinal"
+      ]
+     },
+     {
+      "key": "auto",
+      "label": "Autonomic / blood pressure / bladder / bowel",
+      "matched": [
+       "orthostatic hypotension",
+       "blood pressure"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel, cervical-level.",
+    "firstSeen": "2026-07-30",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -11450,7 +11450,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-08-15",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11506,72 +11506,6 @@
     ],
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42463883",
-    "kind": "paper",
-    "title": "A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42463883/",
-    "doi": "10.1038/s41591-026-04498-0",
-    "journal": "Nature medicine",
-    "authors": [
-     "Chandrasekaran S",
-     "Wandelt SK",
-     "Jangam A",
-     "Elias Z"
-    ],
-    "authorLine": "Chandrasekaran S, Wandelt SK, Jangam A et al.",
-    "pubType": "Journal Article, Case Reports",
-    "date": "2026-07-01",
-    "summary": "Millions of people worldwide are living with movement and sensory impairments owing to spinal cord injury, stroke and other neurological conditions. Here we report a double neural bypass (DNB), a hybrid neuroprosthetic system designed to restore both immediate and lasting gains in movement and sensation after a severe, complete spinal cord injury. The DNB links an intracortical brain-computer interface with targeted and patterned neuromodulation of the spinal cord and cortex. This allows brain signals associated with movement intention to directly control the movement of the user's own hand in real time while also promoting long-term sensorimotor recovery-even after the system is turned off. The DNB system uses recurrent artificial neural networks and reinforcement learning for fine grasp control, together with patterned spinal cord stimulation and activity-informed intracortical…",
-    "score": 56,
-    "tags": [
-     "Hand & arm function",
-     "Spinal cord stimulation",
-     "Brain-computer interface",
-     "Drug / pharmacological recovery",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "grasp"
-      ]
-     },
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "spinal cord stimulation",
-       "neuromodulation"
-      ]
-     },
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface",
-       "neuroprosthesis",
-       "intracortical"
-      ]
-     },
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "motor recovery"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -11643,26 +11577,27 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42598097",
+    "id": "PMID42463883",
     "kind": "paper",
-    "title": "Radiologically Devastating Yet Neurologically Intact: A Rare Case of Ambulatory C6-C7 Translational Injury with Bilateral Facet Dislocation and Vertebral Artery Thrombosis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42598097/",
-    "doi": "10.13107/jocr.2026.v16.i08.7846",
-    "journal": "Journal of orthopaedic case reports",
+    "title": "A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42463883/",
+    "doi": "10.1038/s41591-026-04498-0",
+    "journal": "Nature medicine",
     "authors": [
-     "Kawade M",
-     "Vatkar TV",
-     "Kumbhare C",
-     "Inamdar AP"
+     "Chandrasekaran S",
+     "Wandelt SK",
+     "Jangam A",
+     "Elias Z"
     ],
-    "authorLine": "Kawade M, Vatkar TV, Kumbhare C et al.",
-    "pubType": "Case Reports, Journal Article",
-    "date": "2026-08-01",
-    "summary": "Subaxial cervical translational injuries with bilateral facet dislocation are among the most unstable spinal injuries and are generally associated with severe neurological compromise. A 30-year-old male sustained a high-velocity road traffic accident and presented with bilateral upper limb weakness, yet remarkably remained ambulatory with preserved bowel-bladder function. Radiological evaluation revealed a C6-C7 translational injury with bilateral facet dislocation, burst fracture of C7, traumatic disc disruption, posterior ligamentous complex injury, spinal cord contusion, and complete thrombosis of the left vertebral artery. The patient underwent posterior cervical decompression and stabilization using lateral mass screw fixation. Progressive neurological recovery occurred, with complete motor recovery documented at 6-month follow-up. This case highlights the striking discordance…",
-    "score": 43,
+    "authorLine": "Chandrasekaran S, Wandelt SK, Jangam A et al.",
+    "pubType": "Journal Article, Case Reports",
+    "date": "2026-07-01",
+    "summary": "Millions of people worldwide are living with movement and sensory impairments owing to spinal cord injury, stroke and other neurological conditions. Here we report a double neural bypass (DNB), a hybrid neuroprosthetic system designed to restore both immediate and lasting gains in movement and sensation after a severe, complete spinal cord injury. The DNB links an intracortical brain-computer interface with targeted and patterned neuromodulation of the spinal cord and cortex. This allows brain signals associated with movement intention to directly control the movement of the user's own hand in real time while also promoting long-term sensorimotor recovery-even after the system is turned off. The DNB system uses recurrent artificial neural networks and reinforcement learning for fine grasp control, together with patterned spinal cord stimulation and activity-informed intracortical…",
+    "score": 52,
     "tags": [
      "Hand & arm function",
-     "Autonomic / blood pressure / bladder / bowel",
+     "Spinal cord stimulation",
+     "Brain-computer interface",
      "Drug / pharmacological recovery",
      "Cervical / tetraplegia"
     ],
@@ -11672,14 +11607,24 @@
       "key": "hand",
       "label": "Hand & arm function",
       "matched": [
-       "upper limb"
+       "grasp"
       ]
      },
      {
-      "key": "auto",
-      "label": "Autonomic / blood pressure / bladder / bowel",
+      "key": "stim",
+      "label": "Spinal cord stimulation",
       "matched": [
-       "bladder function"
+       "spinal cord stimulation",
+       "neuromodulation"
+      ]
+     },
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface",
+       "neuroprosthesis",
+       "intracortical"
       ]
      },
      {
@@ -11691,9 +11636,9 @@
      }
     ],
     "eligible": true,
-    "why": "Surfaced for hand & arm function and autonomic / blood pressure / bladder / bowel, cervical-level.",
-    "firstSeen": "2026-08-15",
-    "isNew": true,
+    "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11855,6 +11800,61 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, chronic.",
     "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42598097",
+    "kind": "paper",
+    "title": "Radiologically Devastating Yet Neurologically Intact: A Rare Case of Ambulatory C6-C7 Translational Injury with Bilateral Facet Dislocation and Vertebral Artery Thrombosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42598097/",
+    "doi": "10.13107/jocr.2026.v16.i08.7846",
+    "journal": "Journal of orthopaedic case reports",
+    "authors": [
+     "Kawade M",
+     "Vatkar TV",
+     "Kumbhare C",
+     "Inamdar AP"
+    ],
+    "authorLine": "Kawade M, Vatkar TV, Kumbhare C et al.",
+    "pubType": "Case Reports, Journal Article",
+    "date": "2026-08-01",
+    "summary": "Subaxial cervical translational injuries with bilateral facet dislocation are among the most unstable spinal injuries and are generally associated with severe neurological compromise. A 30-year-old male sustained a high-velocity road traffic accident and presented with bilateral upper limb weakness, yet remarkably remained ambulatory with preserved bowel-bladder function. Radiological evaluation revealed a C6-C7 translational injury with bilateral facet dislocation, burst fracture of C7, traumatic disc disruption, posterior ligamentous complex injury, spinal cord contusion, and complete thrombosis of the left vertebral artery. The patient underwent posterior cervical decompression and stabilization using lateral mass screw fixation. Progressive neurological recovery occurred, with complete motor recovery documented at 6-month follow-up. This case highlights the striking discordance…",
+    "score": 39,
+    "tags": [
+     "Hand & arm function",
+     "Autonomic / blood pressure / bladder / bowel",
+     "Drug / pharmacological recovery",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "upper limb"
+      ]
+     },
+     {
+      "key": "auto",
+      "label": "Autonomic / blood pressure / bladder / bowel",
+      "matched": [
+       "bladder function"
+      ]
+     },
+     {
+      "key": "drug",
+      "label": "Drug / pharmacological recovery",
+      "matched": [
+       "motor recovery"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and autonomic / blood pressure / bladder / bowel, cervical-level.",
+    "firstSeen": "2026-08-15",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -12455,98 +12455,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42387450",
-    "kind": "paper",
-    "title": "Long-segment cervicothoracic spinal cord injury occurring after cerebral angiography: a case report.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42387450/",
-    "doi": "10.1186/s12883-026-05082-2",
-    "journal": "BMC neurology",
-    "authors": [
-     "Jiang FY",
-     "Chen LK",
-     "Yang XG",
-     "Tang YG"
-    ],
-    "authorLine": "Jiang FY, Chen LK, Yang XG et al.",
-    "pubType": "Journal Article",
-    "date": "2026-07-01",
-    "summary": "Spinal cord injury (CIS) is an exceedingly rare complication of cerebral angiography, with only nine cases since 1962. Pathogenesis remains poorly understood. A 67-year-old diabetic woman presented with dizziness and normal neurological examination. During cerebral angiography, repeated injections of ioversol contrast medium (total 100 mL; approximately 20&#xa0;min at a single site) were performed into the right subclavian artery for vertebral artery imaging due to vascular tortuosity. The angiography showed normal cerebrovascular morphology, without emboli, stenosis, vasospasm, or dissection. Four hours post-procedure, she developed neck pain and limb weakness progressing to quadriplegia (upper limb strength 3/5, lower limb 2/5) within 10&#xa0;h. Serial MRI demonstrated longitudinal extension: from C1-C3 cord swelling (10&#xa0;h) to medulla-T3 hyperintensity (24&#xa0;h). Dynamic…",
-    "score": 30,
-    "tags": [
-     "Hand & arm function",
-     "Neuropathic pain & spasticity",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper limb"
-      ]
-     },
-     {
-      "key": "pain",
-      "label": "Neuropathic pain & spasticity",
-      "matched": [
-       "spasm"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and neuropathic pain & spasticity, cervical-level.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42385882",
-    "kind": "paper",
-    "title": "Updates in tetraplegic spastic upper limb management.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42385882/",
-    "doi": "10.1016/j.hansur.2026.102727",
-    "journal": "Hand surgery & rehabilitation",
-    "authors": [
-     "Allieu Y",
-     "Fitoussi F"
-    ],
-    "authorLine": "Allieu Y, Fitoussi F",
-    "pubType": "Journal Article, Review",
-    "date": "2026-07-01",
-    "summary": "Upper limb spasticity is a frequent and disabling consequence of cervical spinal cord injury. In tetraplegic patients, spasticity may either support residual function or severely compromise surgical reconstruction, hygiene, comfort, and independence. Over the past decade, advances in neurophysiology, diagnostic tools, and surgical techniques have substantially modified the management of spastic upper limbs in tetraplegia. This review synthesizes recent advances with a particular focus on surgical decision-making, selective neurotomy, and combined tendon procedures, and highlights their impact on clinical practice.",
-    "score": 30,
-    "tags": [
-     "Hand & arm function",
-     "Neuropathic pain & spasticity",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper limb"
-      ]
-     },
-     {
-      "key": "pain",
-      "label": "Neuropathic pain & spasticity",
-      "matched": [
-       "spasticity"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and neuropathic pain & spasticity, cervical-level.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42583323",
     "kind": "paper",
     "title": "Effectiveness of Computer-based Exergaming on Upper Limb Motor Function, Functional Independence, and Quality of Life in Individuals with Spinal Cord Injury: A Randomized Control Trial.",
@@ -12683,37 +12591,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42597804",
-    "kind": "paper",
-    "title": "Postoperative C5 Palsy Following Posterior Cervical Decompression and Fusion: A Case Report.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42597804/",
-    "doi": "10.13107/jocr.2026.v16.i08.7884",
-    "journal": "Journal of orthopaedic case reports",
-    "authors": [
-     "Prasad M",
-     "Sheshagiri V",
-     "Gurumurthy B",
-     "Darshan N"
-    ],
-    "authorLine": "Prasad M, Sheshagiri V, Gurumurthy B et al.",
-    "pubType": "Case Reports, Journal Article",
-    "date": "2026-08-01",
-    "summary": "Posterior cervical decompression and fusion (PCDF) is a well-established surgical procedure for the management of multilevel cervical spinal cord compression. Although generally safe, postoperative C5 palsy is a recognized complication that can significantly affect functional recovery. We report the case of a patient with multilevel cervical compressive myelopathy who underwent posterior cervical decompression and fusion. The immediate postoperative period was complicated by new-onset weakness of shoulder abduction and elbow flexion, consistent with C5 palsy. Postoperative imaging confirmed satisfactory decompression and appropriate implant positioning, with no evidence of hematoma or hardware-related complications. The patient was managed conservatively with close neurological monitoring and a structured rehabilitation program. The exact mechanism of postoperative C5 palsy remains…",
-    "score": 28,
-    "tags": [
-     "Cervical / tetraplegia",
-     "C4–C5 named"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-08-15",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42410673",
     "kind": "paper",
     "title": "Neurophysiological Recovery Following Nerve Transfer Surgery to Restore Upper Limb Function after Cervical Spinal Cord Injury.",
@@ -12832,38 +12709,92 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42384242",
+    "id": "PMID42387450",
     "kind": "paper",
-    "title": "Surgical outcomes in cervical spondylotic myelopathy with severe cord compression and intramedullary signal changes: a retrospective descriptive study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42384242/",
-    "doi": "10.1007/s00590-026-04832-9",
-    "journal": "European journal of orthopaedic surgery & traumatology : orthopedie traumatologie",
+    "title": "Long-segment cervicothoracic spinal cord injury occurring after cerebral angiography: a case report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42387450/",
+    "doi": "10.1186/s12883-026-05082-2",
+    "journal": "BMC neurology",
     "authors": [
-     "Elmalik EFB",
-     "Metwaly L",
-     "Mohammed MAA"
+     "Jiang FY",
+     "Chen LK",
+     "Yang XG",
+     "Tang YG"
     ],
-    "authorLine": "Elmalik EFB, Metwaly L, Mohammed MAA",
+    "authorLine": "Jiang FY, Chen LK, Yang XG et al.",
     "pubType": "Journal Article",
     "date": "2026-07-01",
-    "summary": "To evaluate surgical outcomes in cervical spondylotic myelopathy (CSM) with intramedullary signal changes (IMSCs) and assess the impact of preoperative severity on recovery. This retrospective study included 312 patients undergoing cervical decompression. Neurological status was assessed using the mJOA score preoperatively and at 6-12 months. A subset of 43 patients was analyzed separately for inferential statistics using chi-square testing. Severe CSM was present in 54.2% and moderate in 45.8%. Overall improvement occurred in 53.2%, with a mean mJOA increase of 2.9 points. In the subset, mean mJOA improved from 10.25 (SD 1.80) to 13.16 (SD 2.43). A significant association was found between preoperative severity and outcome (p&#x2009;<&#x2009;0.05). Surgical decompression leads to meaningful neurological improvement, with outcomes influenced by preoperative severity.",
+    "summary": "Spinal cord injury (CIS) is an exceedingly rare complication of cerebral angiography, with only nine cases since 1962. Pathogenesis remains poorly understood. A 67-year-old diabetic woman presented with dizziness and normal neurological examination. During cerebral angiography, repeated injections of ioversol contrast medium (total 100 mL; approximately 20&#xa0;min at a single site) were performed into the right subclavian artery for vertebral artery imaging due to vascular tortuosity. The angiography showed normal cerebrovascular morphology, without emboli, stenosis, vasospasm, or dissection. Four hours post-procedure, she developed neck pain and limb weakness progressing to quadriplegia (upper limb strength 3/5, lower limb 2/5) within 10&#xa0;h. Serial MRI demonstrated longitudinal extension: from C1-C3 cord swelling (10&#xa0;h) to medulla-T3 hyperintensity (24&#xa0;h). Dynamic…",
     "score": 26,
     "tags": [
-     "Spinal cord stimulation",
+     "Hand & arm function",
+     "Neuropathic pain & spasticity",
      "Cervical / tetraplegia"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
+      "key": "hand",
+      "label": "Hand & arm function",
       "matched": [
-       "scs"
+       "upper limb"
+      ]
+     },
+     {
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
+      "matched": [
+       "spasm"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for spinal cord stimulation, cervical-level.",
+    "why": "Surfaced for hand & arm function and neuropathic pain & spasticity, cervical-level.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42385882",
+    "kind": "paper",
+    "title": "Updates in tetraplegic spastic upper limb management.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42385882/",
+    "doi": "10.1016/j.hansur.2026.102727",
+    "journal": "Hand surgery & rehabilitation",
+    "authors": [
+     "Allieu Y",
+     "Fitoussi F"
+    ],
+    "authorLine": "Allieu Y, Fitoussi F",
+    "pubType": "Journal Article, Review",
+    "date": "2026-07-01",
+    "summary": "Upper limb spasticity is a frequent and disabling consequence of cervical spinal cord injury. In tetraplegic patients, spasticity may either support residual function or severely compromise surgical reconstruction, hygiene, comfort, and independence. Over the past decade, advances in neurophysiology, diagnostic tools, and surgical techniques have substantially modified the management of spastic upper limbs in tetraplegia. This review synthesizes recent advances with a particular focus on surgical decision-making, selective neurotomy, and combined tendon procedures, and highlights their impact on clinical practice.",
+    "score": 26,
+    "tags": [
+     "Hand & arm function",
+     "Neuropathic pain & spasticity",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "upper limb"
+      ]
+     },
+     {
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
+      "matched": [
+       "spasticity"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and neuropathic pain & spasticity, cervical-level.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -12918,47 +12849,6 @@
     ],
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42307117",
-    "kind": "paper",
-    "title": "Comparison Between Robotic and Conventional Walking Recovery Training Methods in People With Spinal Cord Injury: Systematic Review With Pairwise and Network Meta-Analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42307117/",
-    "doi": "10.1097/PHM.0000000000002941",
-    "journal": "American journal of physical medicine & rehabilitation",
-    "authors": [
-     "De Maio G",
-     "Conte D",
-     "Olivieri M",
-     "Catelan D"
-    ],
-    "authorLine": "De Maio G, Conte D, Olivieri M et al.",
-    "pubType": "Journal Article, Systematic Review, Network Meta-Analysis, Comparative Study",
-    "date": "2026-08-01",
-    "summary": "To compare robotic body weight supported treadmill training (RBWSTT), overground robotic exoskeleton training (ORET), and conventional physiotherapy (CP) on gait and cardiovascular outcomes in individuals with spinal cord injury (SCI) eligible for walking recovery training and stratified by injury level, severity and onset (subacute: early post-spinal shock phase until 12&#xa0;mo; chronic: >12&#xa0;mo). Systematic review and network meta-analysis of randomized controlled trials (RCTs), registered in PROSPERO (CRD42023462361) and conducted following PRISMA-NMA guidelines. Eligible studies compared gait or cardiovascular recovery after RBWSTT or ORET. Searches were performed in MedLine, CENTRAL, Scopus, and Web of Science until May 2025. The Cochrane RoB2 tool assessed the risk of bias. Meta-analysis synthesized the data. Twenty-five RCTs (n=905) were included. In subacute SCI, RBWSTT…",
-    "score": 26,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton",
-       "robotic",
-       "body weight supported"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -13109,6 +12999,37 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy.",
     "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42597804",
+    "kind": "paper",
+    "title": "Postoperative C5 Palsy Following Posterior Cervical Decompression and Fusion: A Case Report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42597804/",
+    "doi": "10.13107/jocr.2026.v16.i08.7884",
+    "journal": "Journal of orthopaedic case reports",
+    "authors": [
+     "Prasad M",
+     "Sheshagiri V",
+     "Gurumurthy B",
+     "Darshan N"
+    ],
+    "authorLine": "Prasad M, Sheshagiri V, Gurumurthy B et al.",
+    "pubType": "Case Reports, Journal Article",
+    "date": "2026-08-01",
+    "summary": "Posterior cervical decompression and fusion (PCDF) is a well-established surgical procedure for the management of multilevel cervical spinal cord compression. Although generally safe, postoperative C5 palsy is a recognized complication that can significantly affect functional recovery. We report the case of a patient with multilevel cervical compressive myelopathy who underwent posterior cervical decompression and fusion. The immediate postoperative period was complicated by new-onset weakness of shoulder abduction and elbow flexion, consistent with C5 palsy. Postoperative imaging confirmed satisfactory decompression and appropriate implant positioning, with no evidence of hematoma or hardware-related complications. The patient was managed conservatively with close neurological monitoring and a structured rehabilitation program. The exact mechanism of postoperative C5 palsy remains…",
+    "score": 24,
+    "tags": [
+     "Cervical / tetraplegia",
+     "C4–C5 named"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-08-15",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13286,6 +13207,44 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42384242",
+    "kind": "paper",
+    "title": "Surgical outcomes in cervical spondylotic myelopathy with severe cord compression and intramedullary signal changes: a retrospective descriptive study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42384242/",
+    "doi": "10.1007/s00590-026-04832-9",
+    "journal": "European journal of orthopaedic surgery & traumatology : orthopedie traumatologie",
+    "authors": [
+     "Elmalik EFB",
+     "Metwaly L",
+     "Mohammed MAA"
+    ],
+    "authorLine": "Elmalik EFB, Metwaly L, Mohammed MAA",
+    "pubType": "Journal Article",
+    "date": "2026-07-01",
+    "summary": "To evaluate surgical outcomes in cervical spondylotic myelopathy (CSM) with intramedullary signal changes (IMSCs) and assess the impact of preoperative severity on recovery. This retrospective study included 312 patients undergoing cervical decompression. Neurological status was assessed using the mJOA score preoperatively and at 6-12 months. A subset of 43 patients was analyzed separately for inferential statistics using chi-square testing. Severe CSM was present in 54.2% and moderate in 45.8%. Overall improvement occurred in 53.2%, with a mean mJOA increase of 2.9 points. In the subset, mean mJOA improved from 10.25 (SD 1.80) to 13.16 (SD 2.43). A significant association was found between preoperative severity and outcome (p&#x2009;<&#x2009;0.05). Surgical decompression leads to meaningful neurological improvement, with outcomes influenced by preoperative severity.",
+    "score": 22,
+    "tags": [
+     "Spinal cord stimulation",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "scs"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation, cervical-level.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42596832",
     "kind": "paper",
     "title": "Early high‑frequency spinal cord stimulation modulates the ROS/p38 MAPK/NF‑κB and CXCL10/CXCR3 pathways to alleviate neuropathic pain and promote spinal cord injury repair.",
@@ -13346,51 +13305,41 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42362156",
+    "id": "PMID42307117",
     "kind": "paper",
-    "title": "Advances in tailored intraparenchymal delivery of regenerative medicine for spinal cord injury: a review of preclinical studies and clinical trials.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42362156/",
-    "doi": "10.1016/j.neuchi.2026.101846",
-    "journal": "Neuro-Chirurgie",
+    "title": "Comparison Between Robotic and Conventional Walking Recovery Training Methods in People With Spinal Cord Injury: Systematic Review With Pairwise and Network Meta-Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42307117/",
+    "doi": "10.1097/PHM.0000000000002941",
+    "journal": "American journal of physical medicine & rehabilitation",
     "authors": [
-     "Serratrice N"
+     "De Maio G",
+     "Conte D",
+     "Olivieri M",
+     "Catelan D"
     ],
-    "authorLine": "Serratrice N",
-    "pubType": "Journal Article, Review",
-    "date": "2026-07-01",
-    "summary": "Intramedullary (intraparenchymal) injection has emerged as a promising and highly targeted approach for the treatment of spinal cord injury (SCI), enabling direct delivery of therapeutic agents into the spinal cord parenchyma. This technique bypasses systemic barriers-such as the blood-spinal cord barrier-and allows high local concentrations of therapeutic agents to be delivered precisely at or around the lesion site. In preclinical SCI models, including rodents, rabbits, pigs, and non-human primates, various agents-such as mesenchymal stem cells, gene therapy vectors, neurotrophic factors, and biomaterial-based hydrogels-have been delivered intraparenchymally to promote neuroprotection, modulate immune responses, and support axonal regeneration. The timing of injection is critical and is often aligned with the acute (&#x2264;48&#x2009;h), subacute (7-14 days), or early chronic phases…",
+    "authorLine": "De Maio G, Conte D, Olivieri M et al.",
+    "pubType": "Journal Article, Systematic Review, Network Meta-Analysis, Comparative Study",
+    "date": "2026-08-01",
+    "summary": "To compare robotic body weight supported treadmill training (RBWSTT), overground robotic exoskeleton training (ORET), and conventional physiotherapy (CP) on gait and cardiovascular outcomes in individuals with spinal cord injury (SCI) eligible for walking recovery training and stratified by injury level, severity and onset (subacute: early post-spinal shock phase until 12&#xa0;mo; chronic: >12&#xa0;mo). Systematic review and network meta-analysis of randomized controlled trials (RCTs), registered in PROSPERO (CRD42023462361) and conducted following PRISMA-NMA guidelines. Eligible studies compared gait or cardiovascular recovery after RBWSTT or ORET. Searches were performed in MedLine, CENTRAL, Scopus, and Web of Science until May 2025. The Cochrane RoB2 tool assessed the risk of bias. Meta-analysis synthesized the data. Twenty-five RCTs (n=905) were included. In subacute SCI, RBWSTT…",
     "score": 22,
     "tags": [
-     "Regenerative / cell therapy",
-     "Drug / pharmacological recovery",
+     "Activity-based rehab & exoskeleton",
      "Chronic injury"
     ],
-    "flags": [
-     {
-      "level": "info",
-      "text": "Off-target topic: rodent."
-     }
-    ],
+    "flags": [],
     "matchedPriorities": [
      {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
       "matched": [
-       "stem cell",
-       "mesenchymal",
-       "regeneration"
-      ]
-     },
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "neuroprotect"
+       "exoskeleton",
+       "robotic",
+       "body weight supported"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy and drug / pharmacological recovery, chronic.",
+    "why": "Surfaced for activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -13435,36 +13384,6 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel.",
     "firstSeen": "2026-08-01",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42309154",
-    "kind": "paper",
-    "title": "Closed Manual Reduction of Bilaterally Jumped and Locked Cervical Facets under General Anesthesia: Technical Note.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42309154/",
-    "doi": "10.1055/a-2795-8415",
-    "journal": "Journal of neurological surgery. Part A, Central European neurosurgery",
-    "authors": [
-     "Mathew V",
-     "Sorek S",
-     "Miller A",
-     "Moawad C"
-    ],
-    "authorLine": "Mathew V, Sorek S, Miller A et al.",
-    "pubType": "Journal Article, Case Reports",
-    "date": "2026-08-01",
-    "summary": "Closed reduction is an important adjunct in the surgical management of traumatic cervical facet dislocations, particularly jumped and locked facets. By restoring normal spinal alignment, successful closed reduction allows the surgeon to proceed with surgical stabilization via an anterior-first approach, obviating the need to rotate a dislocated, biomechanically unstable cervical spine, thereby minimizing the risk of iatrogenic spinal cord injury. While closed reduction has traditionally been achieved with Gardner-Wells tongs and weights, this reduction method requires the patient to remain bedbound for prolonged periods of time, is not MRI-compatible, and is associated with inconsistent results. We present two patients with bilaterally jumped and locked cervical facets, in whom a closed manual reduction technique was used, allowing rapid spinal realignment prior to surgical…",
-    "score": 20,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13703,68 +13622,22 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42302239",
+    "id": "PMID42603252",
     "kind": "paper",
-    "title": "Crossroads in Spinal Cord Injury Treatment: A Multidisciplinary Conference at a Pivotal Moment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42302239/",
-    "doi": "10.1097/PHM.0000000000003067",
-    "journal": "American journal of physical medicine & rehabilitation",
+    "title": "Melatonin Ameliorates Neuropathic Pain in Mice by Regulating Pyroptosis Through Gut Microbiota-Mediated Linoleic Acid.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42603252/",
+    "doi": "10.1007/s12035-026-06124-z",
+    "journal": "Molecular neurobiology",
     "authors": [
-     "Korupolu R",
-     "Bourbeau D",
-     "Bryden AM",
-     "Cooper R"
+     "Wang Y",
+     "Yuan B",
+     "Li Y",
+     "Sun Y"
     ],
-    "authorLine": "Korupolu R, Bourbeau D, Bryden AM et al.",
+    "authorLine": "Wang Y, Yuan B, Li Y et al.",
     "pubType": "Journal Article",
-    "date": "2026-06-16",
-    "summary": "The Crossroads in Spinal Cord Injury Treatment: Present and Future conference, held in Houston, Texas in January 2026, brought together a multidisciplinary group of clinicians, researchers, engineers, and individuals living with spinal cord injury (SCI) to examine future directions of SCI care and research. This narrative summarizes themes, emphasizing the need to align scientific innovation with implementation in clinical settings. The conference was structured around priorities from individuals with SCI, including upper limb function, bowel and bladder management, pain, independence, and psychosocial well-being. Across sessions, speakers highlighted gaps in translation into practice. Major topics included challenges in clinical trial design, advocacy efforts to address policy barriers and inequities, and emerging approaches in neuromodulation, surgical reconstruction, and…",
-    "score": 20,
-    "tags": [
-     "Hand & arm function",
-     "Spinal cord stimulation"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper limb"
-      ]
-     },
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and spinal cord stimulation.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42544174",
-    "kind": "paper",
-    "title": "Medical cannabis improved self-reported spasticity rating in patients with chronic spinal cord injury: a placebo-controlled, double-blind, crossover pilot clinical trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42544174/",
-    "doi": "10.1177/17562864261468464",
-    "journal": "Therapeutic advances in neurological disorders",
-    "authors": [
-     "Boonthanakorn N",
-     "Pattanakuhar S",
-     "Kammuang-Lue P",
-     "Tongprasert S"
-    ],
-    "authorLine": "Boonthanakorn N, Pattanakuhar S, Kammuang-Lue P et al.",
-    "pubType": "Journal Article",
-    "date": "2026-08-01",
-    "summary": "Previous studies demonstrated that cannabinoids may reduce spasticity in patients with spinal cord injury (SCI); however, the effect of naturally extracted THC:CBD oil, the most commonly used naturally extracted cannabinoids, has yet to be elucidated. To assess the effect of a 1:1 THC:CBD oil on reducing spasticity in chronic SCI patients. A single-center, placebo-controlled, double-blind crossover clinical trial. Sixteen chronic SCI patients with intractable spasticity were randomly assigned to either the intervention (1:1 THC:CBD oil) or control (placebo) phase for 1 month, then crossed over. The primary outcome (combined Ashworth Scale [AS] of all involved muscle groups) and the secondary outcomes, including patient-rated visual analog scale (VAS) of spasticity, were assessed before and after both phases and analyzed using a multilevel mixed-effects model. All participants completed…",
+    "date": "2026-08-15",
+    "summary": "Neuropathic pain (NP) presents a significant challenge for patients with chronic diseases, characterized by spontaneous pain and hyperalgesia, with recent studies highlighting the involvement of the gut microbiota in its pathogenesis. Increasing evidence suggests that melatonin mitigates systemic inflammation and remodels gut microbiota. The present study further explored the mechanism by which oral melatonin ameliorates pain-related behavior following peripheral nerve injury. In this study, mice with chronic constriction injury (CCI) were orally administered melatonin (100&#xa0;mg/kg) for 14&#xa0;days. Pain behaviors were evaluated using mechanical allodynia and thermal hyperalgesia tests. Gut microbiota profiles were assessed via 16S rRNA sequencing, and microbiota-dependent effects were verified through antibiotic treatment (ABX) and fecal microbiota transplantation (FMT). Linoleic…",
     "score": 20,
     "tags": [
      "Neuropathic pain & spasticity",
@@ -13776,14 +13649,14 @@
       "key": "pain",
       "label": "Neuropathic pain & spasticity",
       "matched": [
-       "spasticity"
+       "neuropathic pain"
       ]
      }
     ],
     "eligible": true,
     "why": "Surfaced for neuropathic pain & spasticity, chronic.",
-    "firstSeen": "2026-08-03",
-    "isNew": false,
+    "firstSeen": "2026-08-16",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14000,6 +13873,57 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42362156",
+    "kind": "paper",
+    "title": "Advances in tailored intraparenchymal delivery of regenerative medicine for spinal cord injury: a review of preclinical studies and clinical trials.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42362156/",
+    "doi": "10.1016/j.neuchi.2026.101846",
+    "journal": "Neuro-Chirurgie",
+    "authors": [
+     "Serratrice N"
+    ],
+    "authorLine": "Serratrice N",
+    "pubType": "Journal Article, Review",
+    "date": "2026-07-01",
+    "summary": "Intramedullary (intraparenchymal) injection has emerged as a promising and highly targeted approach for the treatment of spinal cord injury (SCI), enabling direct delivery of therapeutic agents into the spinal cord parenchyma. This technique bypasses systemic barriers-such as the blood-spinal cord barrier-and allows high local concentrations of therapeutic agents to be delivered precisely at or around the lesion site. In preclinical SCI models, including rodents, rabbits, pigs, and non-human primates, various agents-such as mesenchymal stem cells, gene therapy vectors, neurotrophic factors, and biomaterial-based hydrogels-have been delivered intraparenchymally to promote neuroprotection, modulate immune responses, and support axonal regeneration. The timing of injection is critical and is often aligned with the acute (&#x2264;48&#x2009;h), subacute (7-14 days), or early chronic phases…",
+    "score": 18,
+    "tags": [
+     "Regenerative / cell therapy",
+     "Drug / pharmacological recovery",
+     "Chronic injury"
+    ],
+    "flags": [
+     {
+      "level": "info",
+      "text": "Off-target topic: rodent."
+     }
+    ],
+    "matchedPriorities": [
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "stem cell",
+       "mesenchymal",
+       "regeneration"
+      ]
+     },
+     {
+      "key": "drug",
+      "label": "Drug / pharmacological recovery",
+      "matched": [
+       "neuroprotect"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for regenerative / cell therapy and drug / pharmacological recovery, chronic.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42538116",
     "kind": "paper",
     "title": "Testing neuromuscular feedback therapy in patients with chronic spinal cord injury with residual motor function in the lower extremities compared to 'conventional' therapy: protocol for a multicentre randomised controlled trial.",
@@ -14084,6 +14008,36 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42309154",
+    "kind": "paper",
+    "title": "Closed Manual Reduction of Bilaterally Jumped and Locked Cervical Facets under General Anesthesia: Technical Note.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42309154/",
+    "doi": "10.1055/a-2795-8415",
+    "journal": "Journal of neurological surgery. Part A, Central European neurosurgery",
+    "authors": [
+     "Mathew V",
+     "Sorek S",
+     "Miller A",
+     "Moawad C"
+    ],
+    "authorLine": "Mathew V, Sorek S, Miller A et al.",
+    "pubType": "Journal Article, Case Reports",
+    "date": "2026-08-01",
+    "summary": "Closed reduction is an important adjunct in the surgical management of traumatic cervical facet dislocations, particularly jumped and locked facets. By restoring normal spinal alignment, successful closed reduction allows the surgeon to proceed with surgical stabilization via an anterior-first approach, obviating the need to rotate a dislocated, biomechanically unstable cervical spine, thereby minimizing the risk of iatrogenic spinal cord injury. While closed reduction has traditionally been achieved with Gardner-Wells tongs and weights, this reduction method requires the patient to remain bedbound for prolonged periods of time, is not MRI-compatible, and is associated with inconsistent results. We present two patients with bilaterally jumped and locked cervical facets, in whom a closed manual reduction technique was used, allowing rapid spinal realignment prior to surgical…",
+    "score": 16,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42498703",
     "kind": "paper",
     "title": "Multidisciplinary Management of Recurrent Laryngeal Nerve Injury After Transhiatal Esophagectomy.",
@@ -14100,6 +14054,36 @@
     "pubType": "Journal Article",
     "date": "2026-07-24",
     "summary": "Recurrent laryngeal nerve (RLN) injury is a significant morbidity following transhiatal esophagectomy (THE). While surgical platforms have evolved, the clinical burden and longitudinal management of these injuries remain under-characterized. This study evaluates RLN injury incidence and the effectiveness of a multidisciplinary management pathway in a contemporary cohort. A retrospective review of 135 patients undergoing THE with cervical anastomosis between 2017 and 2024 was conducted. The primary outcome was confirmed RLN injury via laryngoscopy and postoperative hoarseness. Predictors of injury and specialty follow-through with Otolaryngology (ENT) and Speech-Language Pathology (SLP) were analyzed. Postoperative hoarseness occurred in 43.7% (n = 59) of patients, while RLN injury was confirmed in 11.9% (n = 16), which falls within the reported national average. Surgical approach was not…",
+    "score": 16,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42495162",
+    "kind": "paper",
+    "title": "High Spinal Cord Injury After a Minor Fall in a 23-Month-Old Girl With Atlantoaxial Instability Associated With Morquio Type A: A Case Report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42495162/",
+    "doi": "10.1155/cris/2693820",
+    "journal": "Case reports in surgery",
+    "authors": [
+     "Kryssi V",
+     "Syvänen J",
+     "Helenius L",
+     "Raitio A"
+    ],
+    "authorLine": "Kryssi V, Syvänen J, Helenius L et al.",
+    "pubType": "Journal Article",
+    "date": "2026-07-23",
+    "summary": "A 23-month-old girl with Morquio A syndrome (mucopolysaccharidosis IVA [MPS IVA]) scheduled for atlantoaxial stabilization surgery sustained a cervical spinal cord injury with tetraplegic symptoms following a low-energy fall. Computed tomography (CT) images showed forward translation of C1 over C2 and magnetic resonance imaging (MRI) revealed upper cervical spinal cord injury. An urgent decompression and spinal fusion from C0 to C2 were performed. Postoperative recovery showed significant neurological improvement and at 1-year follow-up, the patient was symptom-free. This case highlights the risk of severe cervical spinal cord injury following minor trauma in patients with MPS IVA-associated cervical instability and demonstrates the potential for neurological recovery after prompt surgical decompression and stabilization.",
     "score": 16,
     "tags": [
      "Cervical / tetraplegia"
@@ -14207,7 +14191,7 @@
     "outlet": "7NEWS",
     "topic": "Technology",
     "summary": "Alex Noble's journey from quadriplegia to advocacy 7NEWS",
-    "date": "2026-08-14",
+    "date": "2026-08-12",
     "score": 20,
     "tags": [
      "Cervical / tetraplegia"
@@ -14310,9 +14294,9 @@
     "kind": "news",
     "title": "Wandercraft Receives FDA Clearance for Eve, the World’s First Self-Balancing Personal Exoskeleton, for Eligible Wheelchair Users Living with Spinal Cord Injuries at Any Level",
     "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQODhFYjJPOHVpMi13MUxjWUh5b1BWTDh0WkRtNmV2Y05yQUNEQTNKRXBmak9VNmdhQ1o5V3BYZktzT0lROVRlMVNqT216d1R0akg5NXZLb285LUJpN1FKUkNiNERfRXJSWkNYb1FsaEZxbDFYbnNWMmV5eFRLMjJfSWYwZlQ2OUtxdFBpeU5HTDVGc0xDVHpfWm1RbjBrbi1BV2x6dHFBYWNCYVhGOTNlTldlTTBrVXJDNFNYTXpwZGFuWU4tcjRpN0k5VFAwbEg4MWNTc19xR1djNENQV2Fqc05JQlQ3Sl9NRVByVkxmZHpDWU5WZ0dJbHkwSEJRVUt4NDlial9YcEF2dHJkWVgtSm5LRjFLVElRb0pYQzRIU0wtYUtQUGIxNDRReFUzMElCQnMtV29DUmltVVFpSUJjX0QzdXN1dDVfTnk5blY0ZWFyTG5oeXBneWxtSWgzcU96SVF30gHoAkFVX3lxTE5IZVNmWVh5Z0JTZGthc1o4T1FfQlRwSGlkVll2MldDd0pRN01yWWxMd0ZmT1NJb1FacWpJNXg0WmlHWi0zRXBSV0U4WXJxSzhNdW00bGFYaXo5MWo1YkNobU5ESjhpb2ZSeTlmekQ3S3k4al9kTWU3SjYyUGR5bC1PWmV3X3A2WVBOcnhLSm9qYnU1LVFwRjV6TlBjZWYwSGxjRkN1MnlscVlTM2NfN19vU01HVFVSLURJQmxSeE9FNFpKeE9CV1I0aDQyazJWck43ZndzT0xsRHFKaEJFZkJUSnhaQUdlSUxoV0UxbjRaNm1Da2N1QXdDdElhT2hvTGhqVzlZVE96dm1rQmw2eUFYcWFPbFUwMVVvLW1ReHlISDRzWkxPVFhkNERSdkpoVDhZQVRmNzZsRlJHWkxVdTBlMkNNdFhWWFN0OUo2bWxmX2JaWTJKZUJzTEFndzhiWWdLcVFkUTQtQQ?oc=5",
-    "outlet": "manilatimes.net",
+    "outlet": "The Manila Times",
     "topic": "Technology",
-    "summary": "Wandercraft Receives FDA Clearance for Eve, the World’s First Self-Balancing Personal Exoskeleton, for Eligible Wheelchair Users Living with Spinal Cord Injuries at Any Level manilatimes.net",
+    "summary": "Wandercraft Receives FDA Clearance for Eve, the World’s First Self-Balancing Personal Exoskeleton, for Eligible Wheelchair Users Living with Spinal Cord Injuries at Any Level The Manila Times",
     "date": "2026-08-11",
     "score": 20,
     "tags": [
@@ -14345,6 +14329,37 @@
     "topic": "Company watch",
     "summary": "Wandercraft wins FDA clearance for self-balancing exoskeleton MassDevice",
     "date": "2026-08-13",
+    "score": 20,
+    "tags": [
+     "Activity-based rehab & exoskeleton",
+     "Watchlist: Wandercraft"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "exoskeleton"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-08-13",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-n7n64v",
+    "kind": "news",
+    "title": "FDA clears Wandercraft's Eve exoskeleton for wheelchair users",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3F4QXhReldGOE5kN1hIX0NuRFdMZmtkc24xOTEySV92OXMwRWJuVkF2MmRYWVJ3SHdZQXFBWEs5YXlxUTQ2WmpZY2htZVdHLVV4YkpmMjktS3FuYkJnWjhDWFFVeEFPNHlBRl96SHRheHkxOENEdEZKb3FMOFB6ejBtUnJJX0hnZk8xUjhNTzdUZmJ4YTRn?oc=5",
+    "outlet": "MobiHealthNews",
+    "topic": "Regulatory",
+    "summary": "FDA clears Wandercraft's Eve exoskeleton for wheelchair users MobiHealthNews",
+    "date": "2026-08-11",
     "score": 20,
     "tags": [
      "Activity-based rehab & exoskeleton",
@@ -14429,44 +14444,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-rcfpp4",
-    "kind": "news",
-    "title": "Neuralink performs first transdural brain implant, keeping the dura intact",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdi1iRzBlVFVQc0tOOTMwUE90endXZXA5VUVUak1BWWNDWEFZV3JLSGVlUkZMeUtNM2tYMTZ0TFR2UmV4aWdHMy1Mam5xaU9EWV92ejlUMnRJZ0x5M0tjalh0NFB4cWZsUy16MUU2ZmU5Y0p3U0V1MVpPd282c2VkVWRzX2pXVGtqYUdJenI5cjRHVVZGb0hfd2lSTGlQTVZnVTl3YTZ5SU8wODg?oc=5",
-    "outlet": "Dealroom",
-    "topic": "Company watch",
-    "summary": "Neuralink performs first transdural brain implant, keeping the dura intact Dealroom",
-    "date": "2026-07-02",
-    "score": 18,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-08-14",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-166xdo2",
     "kind": "news",
     "title": "Precision Neuroscience™ Appoints John Donoghue, Pioneer of Brain-Computer Interfaces, as Scientific Advisor",
     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWXM4NURYRkdiLUxKdDNJdVY5d3JGcTh5N3hSOS1naHdSVkZrZG4xRHN6aEVxanpSdTRVWHlZYmxiR1YzT3lhQUZySkRiOWUwUjVSVUlRV0RxLWV5NTVkbFdTcjBwMVRFaS1Ka2VqVlhoc21nTzFRTGNxWTMwY1YwVGlfRTllTjN0aVBUMV95bm5yZ1JveXRmekQ5OEN6WngtckVuYjhnUE1Va0RlUGprcGIxbnRLZTNtX3FaSVp3eThKalJYZnlNXzV0dzFpYzZqMlNuSEkxbGt6ZzByQ1lGUDFhUEpENEZSWFVYMFJsbDlFUDVDQW8xOFVBejZzc2s0NVY2cm5fTk85d9IBjwJBVV95cUxNNlpGLUxTb09hcHpxN3Uza20tSk9HNm5oRkI0aTFGTm9TeHVIaWtfa3dXRkFnN0xuU2dMQlpuMzlNejZOMEt0eFlaNEhlbnpTWlRoYm4yOUNRZnlpa2NGalBvd3lmczh4SkIyM0JWRXlGU3JvanRJWVFhcjdZd0xzcEllXzE5bHFndUNXcFY1OUFLcUgyNXR1QnF1dHMwdUdSR0gtb0psSVJKbUkwZVVSUVdtM1BIVjNEMWlrdC1OUkFUbmZxM3FFZGo0emVnR1A1WDNkQ1FfdF9vby1IWnRMUE9UVG5zTGd4UTZMamdZTjFUNUVvSWpWaGx2Y0hjZ2ZRenRtVjNCRHJvaHc3NE1J?oc=5",
-    "outlet": "manilatimes.net",
+    "outlet": "The Manila Times",
     "topic": "Company watch",
-    "summary": "Precision Neuroscience™ Appoints John Donoghue, Pioneer of Brain-Computer Interfaces, as Scientific Advisor manilatimes.net",
+    "summary": "Precision Neuroscience™ Appoints John Donoghue, Pioneer of Brain-Computer Interfaces, as Scientific Advisor The Manila Times",
     "date": "2026-07-23",
     "score": 18,
     "tags": [
@@ -14582,36 +14566,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-9h9wby",
-    "kind": "news",
-    "title": "Shaping The Future Of Neurotechnology: India’s Brain-Computer Interface Ecosystem - Analysis",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ1ZJbnJRZC10Z3ZzTUZZQzZqaElTSHZvZFRsNDJuX2JpRVBJemswOGxtVjFSVVBlelVHN2Y4RmZfTEdtTnpQWWw1YklMWE9ETnotV0JiODRFWGpXU3FoREVFZFBIeVJKbDNRNzFPWUNjNXVIa3lSamZHak5ud3Q5RTFQYnlxRmdsUjd5eTUxd2JMMXJfS2NIQ1lMUHd3bUd2bFFVWldxWGZ5N21VdDF3SHk1bjRXVUZlbElrZS16TmU3aWFfQ0lr?oc=5",
-    "outlet": "Eurasia Review",
-    "topic": "Technology",
-    "summary": "Shaping The Future Of Neurotechnology: India’s Brain-Computer Interface Ecosystem - Analysis Eurasia Review",
-    "date": "2026-08-13",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-08-13",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-2zcldx",
     "kind": "news",
     "title": "Chinese startup claims its brain implant takes just 10 minutes to place, no skull surgery required",
@@ -14667,7 +14621,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-08-15",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14736,9 +14690,9 @@
     "kind": "news",
     "title": "Synchron Brain Implant Targets 2026 Pivotal Trial for First FDA-Approved BCI",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0tHS25kZFFZSjlucWhuRkJHOGNIUmxzYVZrQlBsQTlFX3pjMkllZDlMaXEzbzRMREh1cVhiZFlkdEtkeEVuX1ZKZFBfdGVTNXZBWk9JX2wxMzdta0ZELU5kUDdrVklma1dpYW1UaC1PLVZ5WEVrMV8xTjNFVHZaSEh5U2FldWF1ei1QWkdyWmNQbFpfenJsNG5qb1FESml0Q0xjUEJIbEtFLWVDMWNuZFJiS3Iya0NJeU9adVY0MTF2QkY4Vmc?oc=5",
-    "outlet": "Tech Times",
+    "outlet": "techtimes.com",
     "topic": "Regulatory",
-    "summary": "Synchron Brain Implant Targets 2026 Pivotal Trial for First FDA-Approved BCI Tech Times",
+    "summary": "Synchron Brain Implant Targets 2026 Pivotal Trial for First FDA-Approved BCI techtimes.com",
     "date": "2026-06-06",
     "score": 16,
     "tags": [
@@ -14764,43 +14718,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-zbz1j7",
-    "kind": "news",
-    "title": "These “Good” Immune Cells Could Hold the Key to Spinal Cord Regeneration",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0prMzRZUlc1cmtISGFmZHM1c1JYY3k1MVRBQW9idG1OUUp0Q0txLTJpMHdQTmdib2lsSWp5cHA2SDVUaDRQTGRzem96R0dXZ1hEUjVkN2xoS2VjR1BlbjdkN3NhUC1sRTd6WDc3RUtYVzFvMGxEdHFiOUFkNDhiNGxRVEVUREUwT0VqMzllS1hReTBBYXNSX1ZzNVk?oc=5",
-    "outlet": "SciTechDaily",
-    "topic": "Technology",
-    "summary": "These “Good” Immune Cells Could Hold the Key to Spinal Cord Regeneration SciTechDaily",
-    "date": "2026-08-03",
-    "score": 15,
-    "tags": [
-     "Regenerative / cell therapy"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "regeneration"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy.",
-    "firstSeen": "2026-08-13",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-k4gzt2",
     "kind": "news",
     "title": "Vrach Frankenshteyn Streams Today: Its Gene Therapy Science Has Gone From Fiction to Clinical Trial",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcHZvRzlPaGRSa28zUWxuNF80aE1LMXd0RVlMRURWWU9oM0pJS000THNWbUdXd0Y1eUNoSVFqcjJZU1RTSEdGbk5kejI0ZEM3ZWs0ZXVGZ2EzTWdkbmdrdVNiX20wMld5Tm9tUTRsQmN2ejJrc1lpelNRa0ZUZ1paN2JvNmVLbnZuczZuOXZnMGNCQm4zYWlUZ3ZleEFUajVzNDFsd0RJcXY0N3NDMGw5QTh2c2NDOVp2bkxNeXdxcTVpVmVHVE42aUJUbXAxdC1kQklkd25EUGFSci1sdUE?oc=5",
-    "outlet": "Tech Times",
+    "outlet": "techtimes.com",
     "topic": "Technology",
-    "summary": "Vrach Frankenshteyn Streams Today: Its Gene Therapy Science Has Gone From Fiction to Clinical Trial Tech Times",
+    "summary": "Vrach Frankenshteyn Streams Today: Its Gene Therapy Science Has Gone From Fiction to Clinical Trial techtimes.com",
     "date": "2026-08-14",
     "score": 15,
     "tags": [
@@ -14819,18 +14743,18 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy.",
     "firstSeen": "2026-08-15",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "news-lgipo0",
+    "id": "news-dihcqp",
     "kind": "news",
-    "title": "FDA clears first self-balancing personal exoskeleton for wheelchair users - News-Medical",
+    "title": "FDA clears first self-balancing personal exoskeleton for wheelchair users - news-medical.net",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWlkdldMU243aEhFbEJvMmlyN2ZCdmZnVzREOVl0SnUxWndJaFBiUkwyNndWTTdFTnRHRWZHMEtUXzE0RTlUZzkwREE2S0tLQWw1SGFHdUo0TXE2MVhFeS1SRThDYmRqTzlqTHc0QTM3RFRhVkVIQzFrdnA1VUtDaGJ5Nmd2NGd2dUc2ZjU1LTM0ajRYRTh3WHdEblY0amM3Ui1SZGw1VllsS25RcWNOVmZzUlZ6N3FxQ3RXZlVn?oc=5",
-    "outlet": "News-Medical",
+    "outlet": "news-medical.net",
     "topic": "Technology",
-    "summary": "FDA clears first self-balancing personal exoskeleton for wheelchair users News-Medical",
+    "summary": "FDA clears first self-balancing personal exoskeleton for wheelchair users news-medical.net",
     "date": "2026-08-11",
     "score": 14,
     "tags": [
@@ -14848,8 +14772,8 @@
     ],
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-08-12",
-    "isNew": false,
+    "firstSeen": "2026-08-16",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14880,6 +14804,36 @@
     "why": "Surfaced for activity-based rehab & exoskeleton.",
     "firstSeen": "2026-08-12",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1l7jhlh",
+    "kind": "news",
+    "title": "FDA approves first self-balancing, personal exoskeleton",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XQ1ptYWRaSW94djVaM05mQ3pSTldTNGE3TkU5M2RDTTkzSkpnNzNxR0NFNkg2U0p1YXJlcV9QSWREaW5CMFlWTVdmbXpYV2w0ME1rYXFaVlpWRm5yb2NTdTNVaGVMOVBLdUIwU2JnNlNINzBhOV9r?oc=5",
+    "outlet": "medicalxpress.com",
+    "topic": "Technology",
+    "summary": "FDA approves first self-balancing, personal exoskeleton medicalxpress.com",
+    "date": "2026-08-15",
+    "score": 14,
+    "tags": [
+     "Activity-based rehab & exoskeleton"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "exoskeleton"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-08-16",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14958,28 +14912,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1x6ynxh",
-    "kind": "news",
-    "title": "NervGen Reports Second Quarter 2026 Financial Results and Provides Business Updates",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaGpvU09JcU1EekRaVWtVMDNRZjNaRHBVQTJzMWY3TmFvN0hiMnNDUXpNY0VHNTVJY3pvNzlzTEE2QURtMy05YmhQUjBHdTRDaG16Nm1lRllnYlROQ1V6bWMwcFBrQVZsV0cxaHNGbE84QU45Vm1MdVpLVDhZYjdoY2RNVEZxaUdlekJSaTBPdWlySFVQMV9GQVlDcy1aWmhnRUczbkh3YWRrcllTRHczS1VTZFlXSi1VbmRWazRNWFBiczFrZHJwZTNiZGU1RU1Oc0d4MVNMQi1QMFNWQTVCaDV2RDdYMThZOVM1MUlwWlJHejdMU3pOR09R?oc=5",
-    "outlet": "Caledonian Record",
-    "topic": "Company watch",
-    "summary": "NervGen Reports Second Quarter 2026 Financial Results and Provides Business Updates Caledonian Record",
-    "date": "2026-08-13",
-    "score": 14,
-    "tags": [
-     "Watchlist: NervGen"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-08-14",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-6js3zc",
     "kind": "news",
     "title": "NervGen Pharma (NASDAQ:NGEN) Stock Rating Lowered by Wall Street Zen",
@@ -14997,7 +14929,29 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-08-15",
-    "isNew": true,
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1x6ynxh",
+    "kind": "news",
+    "title": "NervGen Reports Second Quarter 2026 Financial Results and Provides Business Updates",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbklKN2h6YnM1VXloZC1WbnpSWDJKMGtxN3VfYW9mRXJ6bU85dEJkVW5wbEVWaDZxMnBaNDRLWVFXdEt0LVRNaFRXSGtPdVNpVk5jejBLUTZ3WDFQd0NLSWVIQUhxOTlwZ3h3RzNPWkN2LWl3QVhDekxCVVE0R3lyTUVaV2ZQekNiSjA1QlR4aWM4UW14RENMdjZPVS03MU9HZ2h3ak51eUpWUWVhUGd2TVhtUE1PMG1fZGlvOVpibXRRaWhSRndIOGF6SnpudnY4SDNPTEh3eVZGMWRnUl81dGhIRVRTZWdKcDNuc3dR0gHzAUFVX3lxTE1KcXRhRDhqMWF3YV9ud0RRbmV3eDRIclZyLTV6Q2RZM0NUaVZnbFh1dmV0b01lTmtNd3BITkFMWkdXT1NUaWExNkFLVlBDT05abllMTks5dnc3cWYtczRqVTVpYlN5b1QwblVxWV8tTkVqX3FZUnBLeHV6aVZFbjQ2Q1Q5RHJBUEVadjlqWURlSU8wMlBoaGVPaTJUUWNLa2J5RXFRdUNMMEZFRUFLaDV2eGp3T2NITVVUenBqR2RiQmJ0cnY3bnRIdEpla2xKQkt6MVNSaHNod01nNThBUEwxQjJ6Ym5RUmRIUllNZzlub2padw?oc=5",
+    "outlet": "The Manila Times",
+    "topic": "Company watch",
+    "summary": "NervGen Reports Second Quarter 2026 Financial Results and Provides Business Updates The Manila Times",
+    "date": "2026-08-13",
+    "score": 14,
+    "tags": [
+     "Watchlist: NervGen"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-08-14",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15080,9 +15034,9 @@
     "kind": "news",
     "title": "China just beat Neuralink to market with the world's first approved brain implant",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnlVdkJpVy1tT0VHcWotOFUwWWtpSnk2aXpRVmtmNzdoOThQZkl5YlQ0RXExT19ldmdVS0NwbF9SM1FrazlWeWdOQzA4a05hUDJ4OHNXVFNfSFNQV2I3YThkLWlXcnhSTF8wRW9ManNjUm52M0ZMaDlKV2h3RHlKMkRyVTJSRGZucmhHemNMNjBqdUUzYjFORDRQcDIzbUhwb2ZIbkRtYV9SYlN5NGZjVm9B0gG3AUFVX3lxTFBlMlI4TXpUaDM3NFlXWm9YSktpY2lvMUtXTDE1SFQ5RFB3UzNiSGRrZWN3MUM4SkstUkR4ckxEVGpGTkRMZ0xQdjZER3ZuaVRmTW1YMGRrQkY3N1JndkgtNUVCN3E2b3lZcVZ0Q3FyWmF3d281MWp1T3h5d1hxWFkxc1JUQUlzcVpwaTlpUkZDTllwMUM1SkZSMjQ4NUJVU1lmVkRuOHZFT0R0QV9oYVNDcHZIdXBLaw?oc=5",
-    "outlet": "Gagadget.com",
+    "outlet": "gagadget.com",
     "topic": "Regulatory",
-    "summary": "China just beat Neuralink to market with the world's first approved brain implant Gagadget.com",
+    "summary": "China just beat Neuralink to market with the world's first approved brain implant gagadget.com",
     "date": "2026-06-03",
     "score": 14,
     "tags": [
@@ -15231,9 +15185,9 @@
     "kind": "news",
     "title": "Brain Computer Interface Market to Reach US$3.4 Billion by 2033 at 7.8% CAGR | Persistence Market Research",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcHBkS3RYWC1DVmFUbFRPNk5EYUZLZzdjc2hPaDRTYjlhNWkzY2VpcWtKZ1FGYUlUV0IzbXVZZW9OcTVMaWFZaFFKcVgwUVBSdHpLcUNsZ0pmWTZxRjFaT1ZMenh4aHlaRjNmQ3BZeE1qR25RdnVyZl9TaTZGUFlPVzFCaFdfdW1ZSkJVcjNfVkUybUFaenRYVGZnRjZCeEhRcUg5cVRjWnEweXk1WFRxZjRsbW80WHh6MmR6aE1Pek9uT19UQzd5b3lZT2FmbzdrN2RUWXF1MlVyS0dORHc?oc=5",
-    "outlet": "EIN News",
+    "outlet": "einnews.com",
     "topic": "Company watch",
-    "summary": "Brain Computer Interface Market to Reach US$3.4 Billion by 2033 at 7.8% CAGR | Persistence Market Research EIN News",
+    "summary": "Brain Computer Interface Market to Reach US$3.4 Billion by 2033 at 7.8% CAGR | Persistence Market Research einnews.com",
     "date": "2026-07-22",
     "score": 12,
     "tags": [
@@ -15318,13 +15272,43 @@
     "exploredNote": null
    },
    {
+    "id": "news-b5c7um",
+    "kind": "news",
+    "title": "New Medical Breakthroughs in Hearing Loss, Gene Therapy, and Spinal Cord Injury",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLVdqYjh6cF9OVi1LUDlQUG1zekFid2M5TkVxMmJPSUxxSE9jUnIzYWlULU44Z19lbUM4NTFvbF9ITFZrSTgwNEM4Y08tV0d0Q3liZk5NLXY3UmpxUUptQkExWDFSMTduck5ZcjcwWVIyenlqWi1PUGdaRHd6WTlaTjVUQm1GWG5JNHlSc1ZfZ3RMczFoU3c4ZzBtZEIybVpUZ1ExTXB3bG15T3U5QnJFQ21mN2pLYlo4WkdsQzNobU92ZVBGeG5jYmFSVzFNRU9MbEo3MTc2emhTbUhWNll2N2JrTmxPRlhLcTI4X3ZSTk9MV1B1MkROVmtBdzVIUQ?oc=5",
+    "outlet": "thejewishnews.com",
+    "topic": "Technology",
+    "summary": "New Medical Breakthroughs in Hearing Loss, Gene Therapy, and Spinal Cord Injury thejewishnews.com",
+    "date": "2026-07-31",
+    "score": 11,
+    "tags": [
+     "Regenerative / cell therapy"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "gene therapy"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for regenerative / cell therapy.",
+    "firstSeen": "2026-07-31",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1jf3yby",
     "kind": "news",
     "title": "Hong Kong’s first GMP stem cell facility opens at Science Park",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUFkNUtncXlmQjl2SThxWktLUEJDYjhZWDdkWXhmZnNmcm5fOWpvOHlIcVloYlVCZWJScVVjM01ScTBpUDBINHA3WWQxRGphQ2o2dFdWMzBKekY5N3NjYzBIWURRZjQxMFprMTRDMUItR201dFJOVjM2dVRUMDRLbWJCazhET3puNjJ2TWdmZXVJUE01b0ZtUG9tMDFuYmZhT1plclJB?oc=5",
-    "outlet": "startupbusiness.it",
+    "outlet": "Startupbusiness.it",
     "topic": "Technology",
-    "summary": "Hong Kong’s first GMP stem cell facility opens at Science Park startupbusiness.it",
+    "summary": "Hong Kong’s first GMP stem cell facility opens at Science Park Startupbusiness.it",
     "date": "2026-07-30",
     "score": 11,
     "tags": [
@@ -15588,9 +15572,9 @@
       "date": "2026-06-22"
      },
      {
-      "title": "Brain-Controlled Epidural Spinal Stimulation for Upper-Limb Motor Function after Tetraplegia - medRxiv",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZM3B5ck0tVkpUY3dQbW5VZFhpV0UtYVBSTFNLQkNveTZVOGpUZzhfdHVfVzBNZ3RvNzRyc3NNenZpX1dzZklqMWVieEVFeVFMQlhpOTNSeFEtREZIOTlBUGpWLVhzLVk5bGV0NHZXSTR1eU1mUGdvS0Z1dw?oc=5",
-      "date": "2026-06-20"
+      "title": "Personalizing Electrical Stimulation Therapy Improves Outcomes for Spinal Cord Injury Patients - University of Miami",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEM1eXNzNEhINVFMTmNPZWx1WXNSRjZVSTlTckZBbFJJZ2FrVm05R295MWlDSTk3aUVSMjdveldoU1NiT1l6STRqQ29rUlNJeS1STDRPb0hfVUhyNVFWVFpnSVZlUWx3eS12WjdDY05vXzRCZTFweGNwVVdmZ0ZQMHNFdTdDcmFJRk8zTXhVVFNBbENh?oc=5",
+      "date": "2026-06-23"
      }
     ],
     "date": null,
