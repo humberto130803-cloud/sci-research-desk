@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-08-22T10:21:56.557Z",
- "date": "2026-08-22",
+ "generatedAt": "2026-08-23T10:22:11.363Z",
+ "date": "2026-08-23",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,7 +19,8 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "2 new technology items."
+   "1 new paper.",
+   "3 new technology items."
   ],
   "closingSoon": [
    {
@@ -43,9 +44,9 @@
    "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 0,
+   "newPapers": 1,
    "news": 45,
-   "newNews": 2,
+   "newNews": 3,
    "centers": 12,
    "archived": 0
   }
@@ -6849,84 +6850,6 @@
     "exploredNote": null
    },
    {
-    "id": "NCT07521930",
-    "kind": "trial",
-    "title": "Interfacing With NeuroTechnology to Expand Neural Throughput (INTENT)",
-    "officialTitle": "Interfacing With NeuroTechnology to Expand Neural Throughput (INTENT)",
-    "url": "https://clinicaltrials.gov/study/NCT07521930",
-    "summary": "The goal of this clinical trial is to evaluate the safety and preliminary efficacy of an implantable device that records and stimulates different areas of the brain to allow adults affected by disabling paralysis (see Eligibility for more details) to control and receive feedback from assistive devices.",
-    "conditions": [
-     "Tetraplegia/Tetraparesis",
-     "Amyotrophic Lateral Sclerosis (ALS)",
-     "Muscular Disorders, Atrophic",
-     "Brain Stem Stroke",
-     "Spinal Cord Injuries (SCI)",
-     "Muscular Dystrophies",
-     "Muscular Atrophy, Progressive",
-     "Pontine Hemorrhage",
-     "Pontine Infarction"
-    ],
-    "interventions": [
-     "DEVICE: INTENT Neural Interface System"
-    ],
-    "sponsor": "Johns Hopkins University",
-    "status": "RECRUITING",
-    "phase": "NA",
-    "studyType": "INTERVENTIONAL",
-    "enrollment": 5,
-    "minAge": 18,
-    "maxAge": 80,
-    "stdAges": [
-     "ADULT",
-     "OLDER_ADULT"
-    ],
-    "sex": "ALL",
-    "date": "2026-07-08",
-    "startDate": "2026-08",
-    "completionDate": "2028-12",
-    "locations": [
-     {
-      "facility": "Johns Hopkins Medicine",
-      "city": "Baltimore",
-      "state": "Maryland",
-      "country": "United States",
-      "status": "RECRUITING"
-     }
-    ],
-    "countries": [
-     "United States"
-    ],
-    "contact": {
-     "name": "Nathan E Crone, MD",
-     "email": "ncrone@jhmi.edu",
-     "phone": "4109559441"
-    },
-    "eligibilityText": "Inclusion Criteria: * Complete or incomplete tetraplegia (quadriplegia), tetraparesis (quadriparesis), severe ataxia, or disabling motor impairments in both upper limbs, based on neurological exam. In addition, these motor impairments may be combined with severe motor-related speech impairment (dysarthria or anarthria), as in Locked In Syndrome (LIS) and amyotrophic lateral sclerosis (ALS), including the bulbar variant of ALS. * Clinical diagnosis must be established for the etiology of motor impairments, including brainstem stroke\\*, traumatic spinal cord injury (SCI), or progressive and irreversible neuromuscular disease, including muscular dystrophy and motor neuron disease, including amyotrophic lateral sclerosis (ALS). \\*Brain stem stroke is defined as an acute onset of neurological deficit with clinical features of brain stem or cerebellar dysfunction lasting more than 24 hours together with computed tomography (CT) or magnetic resonance imaging (MRI) evidence of ischemic infarction or parenchymal hemorrhage. * Candidates with traumatic spinal cord injury must have a complete or incomplete tetraplegia or tetraparesis (ASIA Impairment Scale A, B, C) with an injury level of C6 or higher. * Candidates with tetraplegia or tetraparesis from traumatic SCI and other non-progressive neurological disorders must have an upper extremity motor score (UEMS, ISNCSCI) of 7 or less in each of the upper extremities. Candidate must also have less than antigravity strength (\\< 3) throughout the lower limbs. * Candidates with progressive conditions with shortened life expectancy, such as ALS, must have less than antigravity strength (\\<3) throughout the upper limbs. * Persistence of motor impairments at least 12 months prior to enrollment if due to a non-progressive neurological cause such as stroke or spinal cord injury * Meeting surgical safety criteria, including surgical clearance by the participant's primary healthcare provider, study physicians, and any necessary consultant",
-    "score": 42,
-    "tags": [
-     "Brain-computer interface",
-     "Cervical / tetraplegia",
-     "Chronic injury",
-     "Age OK (cap 80)"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "neural interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "NCT06992596",
     "kind": "trial",
     "title": "UAE-PRIME: A Feasibility Study of a Precise Robotically Implanted Brain-Computer Interface for the Control of External Devices",
@@ -7588,6 +7511,96 @@
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "NCT06733025",
+    "kind": "trial",
+    "title": "Comparing Upper Limb Surgery and Botulinum Toxin for Spasticity: A Paired Design Study",
+    "officialTitle": "The Effectiveness of Spasticity-correcting Upper Limb Surgery Versus Botulinum Toxin Injections in Patients With Upper Limb Spasticity: an Experimental Study With Paired Design",
+    "url": "https://clinicaltrials.gov/study/NCT06733025",
+    "summary": "Spasticity is a common complication following central nervous system injuries. Left untreated, spasticity can lead to various complications, hindering activities of daily living and diminishing independence. Spasticity affecting the hand is particularly debilitating because it prevents prehension and grasp, which are critical factors for the ability to perform activities of daily living independently. Spasticity is described as one of the prominent secondary conditions in individuals with various disabilities. While Botulinum toxin(BoNT) injections are widely used for focal spasticity, surgical interventions remain underutilized despite promising long-term outcomes. Center for Advanced Reconstruction of Extremities(C.A.R.E), at the hand surgery department at Sahlgrenska University hospital in Gothenburg, Sweden is a multiprofessional team and advocates a stratified surgical algorithm…",
+    "conditions": [
+     "Muscle Spasticity",
+     "Spinal Cord Injury",
+     "Stroke",
+     "Traumatic Brain Injuries"
+    ],
+    "interventions": [
+     "PROCEDURE: Tendon lengthening surgery",
+     "DRUG: BoNT Injections"
+    ],
+    "sponsor": "Vastra Gotaland Region",
+    "status": "RECRUITING",
+    "phase": "NA",
+    "studyType": "INTERVENTIONAL",
+    "enrollment": 30,
+    "minAge": 18,
+    "maxAge": null,
+    "stdAges": [
+     "ADULT",
+     "OLDER_ADULT"
+    ],
+    "sex": "ALL",
+    "date": "2025-09-17",
+    "startDate": "2025-01-07",
+    "completionDate": "2029-06-29",
+    "locations": [
+     {
+      "facility": "Sahlgrenska University Hoispital",
+      "city": "Mölndal",
+      "state": "",
+      "country": "Sweden",
+      "status": "RECRUITING"
+     }
+    ],
+    "countries": [
+     "Sweden"
+    ],
+    "contact": {
+     "name": "Therese Ramström, PhD",
+     "email": "therese.ramstrom@vgregion.se",
+     "phone": "+46(0)761357416"
+    },
+    "eligibilityText": "Inclusion Criteria: 1. 18 years or above 2. Problematic spasticity, characterised by a velocity-dependent increase in tonic stretch reflexes or intermittent or sustained involuntary muscle activity in the UL after stroke, TBI, or SCI 3. Patients treated at least 6 months after the injury event 4. Ongoing BoNT treatment in the UL 5. A minimum of 3 months passed since the last BoNT injection 6. At least two muscles in the hand and wrist were considered for treatment 7. For the BoNT group, a community occupational or physical therapist was assigned for post BoNT treatment 8. For the surgery group, medically stable to undergo surgery 9. No other severe UL injuries affecting the functional level Exclusion Criteria: \\-",
+    "score": 40,
+    "tags": [
+     "Hand & arm function",
+     "Activity-based rehab & exoskeleton",
+     "Neuropathic pain & spasticity",
+     "Chronic injury",
+     "Age OK (no upper limit)"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "upper limb",
+       "grasp"
+      ]
+     },
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "fes"
+      ]
+     },
+     {
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
+      "matched": [
+       "spasticity"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -11929,48 +11942,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42332942",
-    "kind": "paper",
-    "title": "Reconnecting Minds to the World: Patient Perspectives on Brain-Computer Interface After High Cervical Spinal Cord Injury.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42332942/",
-    "doi": "10.5535/arm.260018",
-    "journal": "Annals of rehabilitation medicine",
-    "authors": [
-     "Myong Y",
-     "Kim E",
-     "Shin G",
-     "Oh E"
-    ],
-    "authorLine": "Myong Y, Kim E, Shin G et al.",
-    "pubType": "Journal Article",
-    "date": "2026-06-01",
-    "summary": "To explore the perspectives of individuals with high cervical spinal cord injury (C-SCI) regarding expectations, concerns, and desired applications of brain-computer interface (BCI). A structured focus group interview was conducted with four individuals with chronic high cervical spinal cord injury, all with neurological levels of C4 or above. Pre- and post-interview questionnaires were administered to assess expectations, concerns, and acceptance of BCI before and after discussion. The interview was facilitated by experts in rehabilitation medicine and biomedical engineering, and qualitative data were analyzed inductively to identify key themes. Five major themes emerged: digital accessibility, offline physical activity, social interactions and psychological health, usability, and acceptance. Participants expressed strong interest in using BCI to improve digital independence,…",
-    "score": 38,
-    "tags": [
-     "Brain-computer interface",
-     "Cervical / tetraplegia",
-     "C4–C5 named",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface",
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface, cervical-level, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42618828",
     "kind": "paper",
     "title": "Comment on \"Anatomical basis of the neurotization of the brachialis muscle to the extensor carpi radialis muscles to restore an active extension of the tetraplegic wrist\".",
@@ -13935,6 +13906,44 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42631788",
+    "kind": "paper",
+    "title": "Brain-spine interface: an exploration of a potential future treatment for spinal cord injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42631788/",
+    "doi": "10.1007/s10143-026-04456-x",
+    "journal": "Neurosurgical review",
+    "authors": [
+     "Sivan V",
+     "Alam Z",
+     "Polavarapu H",
+     "Manivel S"
+    ],
+    "authorLine": "Sivan V, Alam Z, Polavarapu H et al.",
+    "pubType": "Journal Article, Review",
+    "date": "2026-08-22",
+    "summary": "Spinal cord injuries (SCIs) profoundly impact millions globally, leading to loss of motor and sensory functions below the injury site. Brain-spine interfaces (BSIs) represent an early-stage neuroprosthetic strategy that attempts to restore functional communication between cortical motor-intention signals and spinal sensorimotor circuits below the level of injury. Although early preclinical and highly selected clinical studies have shown encouraging motor outcomes, the evidence remains preliminary, and routine clinical use is limited by questions regarding safety, durability, patient selection, accessibility, and long-term functional benefit. BSI approaches are based on the observation that residual spinal pathways and sensorimotor circuits may remain partially responsive to neuromodulation even after injury. Along the way, technological advancements have significantly bolstered SCI…",
+    "score": 18,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "neuromodulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-08-23",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42586601",
     "kind": "paper",
     "title": "Real-world clinical characteristics of motor disorders for personalised brain-computer interfaces: phenotypic insights from a specialised clinic.",
@@ -14139,7 +14148,7 @@
     "outlet": "Nature",
     "topic": "Technology",
     "summary": "Impact of respiratory muscle training on sleep disordered breathing in people with tetraplegia: a sub-analysis of a randomised controlled trial Nature",
-    "date": "2026-08-14",
+    "date": "2026-08-13",
     "score": 28,
     "tags": [
      "Breathing & diaphragm",
@@ -14211,28 +14220,6 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-08-12",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1yanq3r",
-    "kind": "news",
-    "title": "Fundraiser helps Malita, 9, with quadriplegic cerebral palsy gain independence",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3daeXJXRjlla3AzS0JKVVNKSlZobHQ2X0VVeHZHU2h4NE95Ul9oVWk4SEJPVGZhTkFiNXE1RDBMcXpwVGttS2lBOUdVQ3l3X1NJNjFjTzVQZlliWU9MNG1sRmdBaWM4T01lVHlaYU15STRrdWJrOUlZTnlqWXMyR05yMlNMZVh3OVVqS1IyNnhfRXdBbHN3cHUwOVpmVHM?oc=5",
-    "outlet": "Basingstoke Gazette",
-    "topic": "Technology",
-    "summary": "Fundraiser helps Malita, 9, with quadriplegic cerebral palsy gain independence Basingstoke Gazette",
-    "date": "2026-08-10",
-    "score": 20,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-08-10",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14331,37 +14318,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1hu6bf3",
-    "kind": "news",
-    "title": "Wandercraft announces FDA clearance for personal exoskeleton",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2l5N0FfMkZBRnBwdTBOQWdUcWNweTFmNDNMNE9oYVV0bVpia2V3aWNvVFFEVGNVckpmMm5iUFI0UjR0THN5aGVOY0xZLUZBeE1kUnNkU1M1M0E5czdYcUVnY1YwMThtVl91dHRRN2YxOTcxWnladXQ1ejlDNEJ4TWE3T1VtNjhROTUyZlltR3BvMXZJcl9R?oc=5",
-    "outlet": "HME News",
-    "topic": "Regulatory",
-    "summary": "Wandercraft announces FDA clearance for personal exoskeleton HME News",
-    "date": "2026-08-12",
-    "score": 20,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Wandercraft"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-08-21",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-jyncfo",
     "kind": "news",
     "title": "MellingMedical and ANEUVO to Deliver Advanced Neuromodulation Therapy Throughout the Federal Healthcare System",
@@ -14448,7 +14404,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-08-22",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14606,6 +14562,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-1c655lg",
+    "kind": "news",
+    "title": "Brain Implant Uses Infrared Light to Send Neural Signals",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXWVVDVVJDWFBLa0QwdU1hUTdFUU9fVWNSRDVKOXpnOUxIZGhyUmdDT1FWbXpZNXNFSzk2ZjNnWTdtV0ZmaEtXd3RlczVTQUVQNlRGektwTjQ2cGdyc0ZqazZNQlVscjhKVU1J?oc=5",
+    "outlet": "IEEE Spectrum",
+    "topic": "Technology",
+    "summary": "Brain Implant Uses Infrared Light to Send Neural Signals IEEE Spectrum",
+    "date": "2026-08-20",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-08-23",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-sn4h8m",
     "kind": "news",
     "title": "The first surgery to implant an invasive neural interface was performed in Shanxi",
@@ -14661,7 +14647,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-08-22",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14870,6 +14856,28 @@
     "exploredNote": null
    },
    {
+    "id": "news-1pkcpcf",
+    "kind": "news",
+    "title": "Neko Health and Neuralink reportedly collaborate to screen trial candidates using body-scan data",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KdjdUNU1tcGo0WmU5eGhGS0VOMkR4MmZpTFBGMzVLc015eDFVMzB0TWgyZFI5ZUk4Z0FJWV9LU0NoQmp1eVVEUW91N3JvcDVjck1mdmxBMlA2Mk5QSFA3Z2Y1RDVsVmpQTHZPSVR3V01OOWV0N0JsVXNtb3NrUQ?oc=5",
+    "outlet": "Crypto Briefing",
+    "topic": "Technology",
+    "summary": "Neko Health and Neuralink reportedly collaborate to screen trial candidates using body-scan data Crypto Briefing",
+    "date": "2026-08-23",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-08-23",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1x6ynxh",
     "kind": "news",
     "title": "NervGen Reports Second Quarter 2026 Financial Results and Provides Business Updates",
@@ -14888,6 +14896,37 @@
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-08-14",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1m8ga7r",
+    "kind": "news",
+    "title": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034]",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnVKZUxXem9qQy1FRzVpbmg1d3lGUUJHS3h4YmNSZ1pvZUYwWVVzTjFETEg1cGlZSGFxdzh0SXl5RmJ1VUd5a3dwbVczTndPMFdKblBpSXAtVnBSMWNKVWdKS25lTm5USUV3YzRYWUpteW1QbDZtVzZwRk5UaW1mMVFuSFBYT1Ixa2NfLUlqemF6Zw?oc=5",
+    "outlet": "Fortune Business Insights",
+    "topic": "Company watch",
+    "summary": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034] Fortune Business Insights",
+    "date": "2026-07-14",
+    "score": 14,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface",
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-08-23",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -15005,6 +15044,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-1qdk8r5",
+    "kind": "news",
+    "title": "Can a brain implant restore vision? Elon Musk says yes",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT2l3UDVzZmkyQjY1U2xIUkxxUWJjOGlnUXhVbnlDSTg2eUJReGZKZmFyTGZDa3ZMeXRpYnMyYXJSUHVpeHZ6NkJ1clNrNW5IblZLYTVPbEZmYzZ6OE9QWVB5dlRkUHV0Z1ByWnZ1SUhkREJSSXRPSVo4QkNDanFYdE5heVc1bzRXaG1ma0laTm56NXp1Ny1EM1dHRWNuM2PSAaQBQVVfeXFMTnJmamhQN0lqNUNWeF9nUnl3dXhpN19tNGZubEc1cjdZNzI5LXRvNEt0QjVmUmxlVlBJWC1JMm1ycnh2OTVIVHMxMTJQNHRIcl8zWFltZFJONG1RZGQ3WDlucTRRMEI4YzRyUEdQVktmbVliVy1JeUJCejlFTE9McE9qWVBLMGtBRlZscWNfNlRpckg4UXZwWU0yd1dUS1BHQlgyZWI?oc=5",
+    "outlet": "Dhaka Tribune",
+    "topic": "Technology",
+    "summary": "Can a brain implant restore vision? Elon Musk says yes Dhaka Tribune",
+    "date": "2026-08-04",
+    "score": 12,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-08-17",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-15sfqi1",
     "kind": "news",
     "title": "Ability Neurotech Moves Implantable, Batteryless BCI Into First-In-Human Trial",
@@ -15060,66 +15129,6 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-134iaz3",
-    "kind": "news",
-    "title": "Brain Computer Interface Market Size, Share, In-Depth Insights, Analysis and Forecast 2026-2034",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWks2dkJGV1kwNkNpb0hfbktseWs2NDVDRU5QNDBseEVzaDVjbnN4Tk44Rk9wWXBaZ0Ewb0NxQ3Z4UURtOEFPYnVLSU5MWld1LUFpNUVKNU95aElRLUdIa1dSaHRTUEVMSWkwYURlb0xXQV9MSVJ3MGthN0xkeDhWcW9WbkJ0SHcyWnRGR0pHTUc?oc=5",
-    "outlet": "openPR.com",
-    "topic": "Company watch",
-    "summary": "Brain Computer Interface Market Size, Share, In-Depth Insights, Analysis and Forecast 2026-2034 openPR.com",
-    "date": "2026-08-07",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-08-07",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-e3vwet",
-    "kind": "news",
-    "title": "Pitt researchers demonstrate safety, effectiveness of brain implants designed to restore touch",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVllOTV96Z19oOHZZY3F3eVVtTmJXMVl4ZDJMRnppbTJZZ0RGNXRQSHp0S29XTEVhRXVoaHpiTURHOXliVE1adGIySzBMd1ZtckJfVGd4emlnWk5qYS1lMmVnX25KYzZydGtKa1djaEdHTXM0M2FKYll4WDAxcTJnd0VSSU5QYWtaOHllLUczZkJPa3p6NUJoQQ?oc=5",
-    "outlet": "90.5 WESA",
-    "topic": "Company watch",
-    "summary": "Pitt researchers demonstrate safety, effectiveness of brain implants designed to restore touch 90.5 WESA",
-    "date": "2026-07-17",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-08-21",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15275,14 +15284,14 @@
     "exploredNote": null
    },
    {
-    "id": "news-vu3o6f",
+    "id": "news-zqspob",
     "kind": "news",
-    "title": "New gene therapy platform uses the brain's own transport system to target glial cells",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkdBQk9QR0w1SFh0Y204U1RicEdaMVdfVndkLWU4UUdBS05naU1GWmg0NGhZNTVrTjRJa2ZDYWNHUzREVFR2QjJrSjJuM2J2c25iNDVoVlhUUVNfTE93azY3UENHT1JGRTFubmo5ZFIzVVBoMVNPQlpQNWdnbWZtWDdDNWJFVi1nUFlaaEl1YUtsbzZJcThTc1E5S1BFREhiS0tUdGdNdFBTRk95OFVuUFIyMnR0SlZvd3g0M3c1cFQ3b2M?oc=5",
-    "outlet": "Drug Discovery News",
+    "title": "Personalized Gene Therapy Helps Teen with Rare Form of Severe Epilepsy Walk Independently",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUF9tZkMwOGdwemJrX3U2WS1KRWJCVWJxYldqNEpIWHFQTjRSRFpxWUoxMlFDdWg1LVZvTlRXN1FqQkc4d0RMbS11MFQwZHQyaWF3Tm1BeTlrbXNOM096V2VkU2E4Tlo5d0hXZ1I1cXZnQUN6b0RpTnlyVE10dDl3a2hLM3RkWl9HWU9jNE1DV3E4bVo2ZldsQUs3Yl96bzgwX1R3cy1oOUVKcV85TktqeHNGbkswcUItR2c?oc=5",
+    "outlet": "UC San Diego Today",
     "topic": "Company watch",
-    "summary": "New gene therapy platform uses the brain's own transport system to target glial cells Drug Discovery News",
-    "date": "2026-07-15",
+    "summary": "Personalized Gene Therapy Helps Teen with Rare Form of Severe Epilepsy Walk Independently UC San Diego Today",
+    "date": "2026-07-21",
     "score": 11,
     "tags": [
      "Regenerative / cell therapy"
@@ -15299,7 +15308,7 @@
     ],
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy.",
-    "firstSeen": "2026-08-18",
+    "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15365,6 +15374,50 @@
     "exploredNote": null
    },
    {
+    "id": "news-18y1u2z",
+    "kind": "news",
+    "title": "NervGen Pharma (NGEN) Q3 2025 Earnings: Narrower-than-Expected Loss as Pipeline Development Continues",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEhaZGMtWUNyaWF4SWpHZkNmZGZjVHc1SGUzbjctQ3RCZDlKT1VPUTdaVlhMeWVaajJZSzlydmFfMXBHTjlZN3plWWc0TXRiOE9FUnc3UnVIQ3BlTVV0WC02b1hSZGt5WUZtVGVUTUE3UmxxT1h6N3JzV0w0UDR1MW8zNDVnOTY0bGJjTEx0RGcteWNxU3VHcTlGbHllaE80dDc2bXRhZm9yUU9BcldrUWN5NlMxTWRYWHkxUmdMdlRZVzFWWFA0cjFoM0xudE8tRkY4?oc=5",
+    "outlet": "vinanet.vn",
+    "topic": "Technology",
+    "summary": "NervGen Pharma (NGEN) Q3 2025 Earnings: Narrower-than-Expected Loss as Pipeline Development Continues vinanet.vn",
+    "date": "2026-08-03",
+    "score": 10,
+    "tags": [
+     "Watchlist: NervGen"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-08-20",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-b97zs1",
+    "kind": "news",
+    "title": "Lineage Cell Therapeutics (LCTX) Holds Above $1.07 Support as Biotech Consolidates - PCR Divergence",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2FRSXNUV2loSExMcXhzb2d2Mk0xTTY1VE9NUEd4cHNrdmZTWnR5cDBibzVkYXZTZ2FGbFlJZnI3SzRwT1VmWlJoNmlQYUtSVDlTdUw1bjJWLTE3NnYtVHQ4VHp5bHF5VF9uTnpvSklkNDVCVmpXZUJNSmdoTkdLbzFaazY0ZWVOTnU3TnR6S0NJNnFMc2wteFJadnJ5U21MS3ROVkVPUEFVTndBTFhnMkhraS1YUVhvOXh6cA?oc=5",
+    "outlet": "vinanet.vn",
+    "topic": "Technology",
+    "summary": "Lineage Cell Therapeutics (LCTX) Holds Above $1.07 Support as Biotech Consolidates - PCR Divergence vinanet.vn",
+    "date": "2026-08-05",
+    "score": 10,
+    "tags": [
+     "Watchlist: Lineage Cell"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-08-20",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1u14i9l",
     "kind": "news",
     "title": "Lineage Cell Therapeutics Reports Second Quarter 2026 Financial Results and Provides Business Update",
@@ -15382,50 +15435,6 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-08-07",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-5wy99n",
-    "kind": "news",
-    "title": "Elon Musk Shows Off Neuralink Patients Navigating Wheelchairs By Thought Alone— Says Implant Helps Those",
-    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdUcyMERibUg3Q2loMWpkdm1tLTdDVVBjUTNHZVBKSFJEUjUtZ3hSeUZ0YTh3Y2dFdXJ5ZG1qWlYzY3hiMU1BbFQwSm1WOFctdVNCczdZeWNtWjQwUWJ3a2huMlk0SUY2Rl9RUjFsWmk4M25JejV1UVpBOUZrTXhRYWtMQzdXcGpGdnFPMVBJOHF6Y0N6SEc2b3plelEyaGRRMjR0b1RlcnhUVTRWQ2ZFZzZ4VFpuQUJBRGVBNVo4X0dBLVR1Z1kyOHVFSjc4SmVIUHlHcUZXV01CS092SVdKOTBQU3pvTWdNYWZNUFJqUHZWRnZoaU5faG5sLW0zRjlVTElhZ1hwU3BZSno5S3pjU3RGMlgwbFVNeXZ0MTJsMkE?oc=5",
-    "outlet": "Benzinga",
-    "topic": "Company watch",
-    "summary": "Elon Musk Shows Off Neuralink Patients Navigating Wheelchairs By Thought Alone— Says Implant Helps Those Benzinga",
-    "date": "2026-07-24",
-    "score": 10,
-    "tags": [
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-wulsw6",
-    "kind": "news",
-    "title": "US: Neuralink lets paralyzed patients control wheelchairs by thought",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnc2TDdxRXR3VFpLVk02VUJFaE1QVFNycmNram90ZVNpVk5CRHZYYm5jRzNoZmxpd1pnbHA0TlMwNElnOWh3SWl0aVFJQjZhcWxJSExXVDkzTDYwYWNLMkZZZXd4cEhndzZGS2FyWXc2d0pteTladHZxUmhVVW1SV2VpNFBCYW5mQVFzTFNkOA?oc=5",
-    "outlet": "Interesting Engineering",
-    "topic": "Company watch",
-    "summary": "US: Neuralink lets paralyzed patients control wheelchairs by thought Interesting Engineering",
-    "date": "2026-07-24",
-    "score": 10,
-    "tags": [
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15466,7 +15475,7 @@
       "date": "2026-07-22"
      },
      {
-      "title": "'Incredible power in prayer' | Community rallies behind Macon teen recovering from spinal cord injury - 13WMAZ",
+      "title": "'Incredible power in prayer' | Community rallies behind Macon teen recovering from spinal cord injury - WMAZ",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRG1Kcm1VWjhlOW5BVXJtYXhvNmlYSmtTSGdoSGZpUHNFMzZQRHZLMWJVZE1OQjgxS0VUODZvTkVKaVJqa003TFBRMmktTF9jOWhkdFd0SnUxZHNXV3kwdTZ6RmgwZmVPTi1qdzZkQmVlZWREcDRYcEFteTdja1BFQlZfZFJadHl5LUpkamlSX081QURQVlByLVNLUEtCX0VEa2E0MDRtS1IyVHVYMmRlWVVSaGFlLWlKNHoyNzN2Nl8zUWlwQ3FFTzJ4XzhBY2FmLXU2MTJ4M0FldU1Qd0FTRFV2STdIZk0?oc=5",
       "date": "2026-07-09"
      }
@@ -15509,9 +15518,9 @@
       "date": "2026-06-15"
      },
      {
-      "title": "Craig Hospital Joins SCI Ventures As Alliance Partner - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mRXV3MU1XM1JFWXpUbEt3Vmw1czVoZHdQZnFVaGZwODE3TkI0em9oWmd4c1NBZ0NXQ1hGZnZtRmIzTVB1eVpzVXJQRWk5ZWY0WDk2LVR5QjR5bDdWcWdEM1RMbjZ2NE5vOEVXeEg1OV9oSEZFLUlyWnFucDc4QdIBgwFBVV95cUxQcFpyV1FFMTNPNE4ydmx2LXAwZElFM3lQSDU4NF82YW53X09LSUtDZmNuWEpMdjZfWVZJVHozNGl0U1lyeHVySEl0MEZwR1lLU0JObDlVLUNLbHVxcTV2S3R5eVYzclBXekp5NGRfMFVoV19Na1hYZ29VdkFlU2twM29yVQ?oc=5",
-      "date": "2026-06-22"
+      "title": "‘Just a little too shallow’: Husband suffers catastrophic spinal cord injury in diving accident on July 4 - Upper Michigan's Source",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWVDbHhOTHdXejE3NDhTS0NBUVJobllIU1QtQ3RJMjlxNXBSMVlGdmJhYXhlMmFtc0FnZTRjczJ4TDZ0SjdrNnFLQU4xV1NsR0cxZ0pkaXBMaWN4SU1UUHFpTk9QWHdVWFlnbEkyWmw2T3dGMEJkR0FiZXljZFRaOVRzMzlXVTV4OXoxLVZlRVNEbXN5NVpJUWxmTDFlNTV4dVplTzRSWmpSaWY4YThjUndHX3VQcmdrVWFBaDg5T0dIby1idVFiRmpUWHRaVkNfLVh2MWFzbDV4dWvSAe8BQVVfeXFMTlRvaDBMcFdCOEoybEprYXc1OHRwVmxGVTVqcjc3NkFRQUZlc0hRamg4cm43bjkzX3B5RXhNM0JXeGJldmFkMnJSdTZUQVM1b0cwbkowdW84cUs0Tm5yRlg2QkZIZXNablhOajFfOUdmN0l5OW5GaVY1cGtvdHVTOVl0UWtxRDFHUFVwUW9OZm5vQndObXJHa2tqWVZMSm9QZjRIbFkxRk1fSjQtUUFGWndEQkVqQ2trQ3dNMUpURlVQWjkxZFFYbkVpWWVqY2dFWkFSVHdnd1ZMZjJzVUlsd1hVR1I1djZ5eXp6MVdtdkE?oc=5",
+      "date": "2026-07-13"
      }
     ],
     "date": null,
@@ -15546,14 +15555,14 @@
       "date": "2026-07-27"
      },
      {
+      "title": "Collaborative Care for Children Undergoing SDR Surgery - Johns Hopkins Medicine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2FKZzRZdjNsMERUQ1lLeE9aT090cjdXT19ieHo2TWF0bXV0VG5lZE5vVUlkTTVhMjlQOWt2Wlo3Znp5T0UyNldoaWg1bFRTMUdVSHRfM3ZLVks4TmdaeFFhU2xKdkdnckZfdmVkdmVNeUx1T1F1TFJsYUJHcUduajVoSndnZW1NclBqMA?oc=5",
+      "date": "2026-07-02"
+     },
+     {
       "title": "Back to school tips from Kennedy Krieger Institute - WBAL-TV",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWE1mTlpSZzM4cVJnZzNsa3JEM3g3dkFTWjg5c3RlVGUzMjZza0J2Vm8zMi1sUDhMWkk4a3hyd0xVTmJWLWhZNGw4MFQwQlNrQlJhVXJGejJLSWVTRjJIS1lOanJDT2hlQTY2TWlkbkhnYVlQNEd0QXR0NE5UbmVITTV4bkZtUGp3WUJvcmZn?oc=5",
       "date": "2026-08-17"
-     },
-     {
-      "title": "As summer begins, doctors warn against diving into shallow water to prevent injuries - WBFF",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcDhfbTc3U1hiRDhtSG5oSW9lRGtTV3BHcVJjeEhiS1F5ZXZBckE0OWtKczlyYVVXX0JCTUFLU1RWMDB3Rm01QUEyYTAwRVpRWmxGR1BYekFEaU1nQkx0YmYzTHQ0aG44UjN6YllNRS1pdE05eGVxdGw3djNPc0RDRlBfTmd6MDNMSktENHZhRm1WUTlYTmpJTUZNcURLelV4LTJjUGF1ZFBQd25mN1BtUFFEeUM0OE5FTWZFeTBObkU?oc=5",
-      "date": "2026-06-20"
      }
     ],
     "date": null,
