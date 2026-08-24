@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-08-23T10:22:11.363Z",
- "date": "2026-08-23",
+ "generatedAt": "2026-08-24T10:36:13.537Z",
+ "date": "2026-08-24",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,8 +19,7 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "1 new paper.",
-   "3 new technology items."
+   "2 new technology items."
   ],
   "closingSoon": [
    {
@@ -44,9 +43,9 @@
    "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 1,
+   "newPapers": 0,
    "news": 45,
-   "newNews": 3,
+   "newNews": 2,
    "centers": 12,
    "archived": 0
   }
@@ -13821,52 +13820,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42494446",
-    "kind": "paper",
-    "title": "Research progress on the effects of epidural electrical stimulation on lower extremity function in patients with spinal cord injury.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42494446/",
-    "doi": "10.3389/fmed.2026.1861870",
-    "journal": "Frontiers in medicine",
-    "authors": [
-     "Xie F",
-     "Bai C",
-     "Luan X",
-     "Xu J"
-    ],
-    "authorLine": "Xie F, Bai C, Luan X, Xu J",
-    "pubType": "Journal Article, Review",
-    "date": "2026-07-09",
-    "summary": "Lower extremity motor dysfunction after spinal cord injury (SCI) represents a major determinant of long-term disability and reduced quality of life. Although conventional pharmacotherapy and rehabilitation training may partially attenuate secondary injury and preserve residual function, their capacity to restore motor networks below the level of injury remains limited. In recent years, epidural electrical stimulation (EES), through targeted modulation of lumbosacral dorsal root afferents and local interneuronal circuits, has been shown to increase the excitability of spinal motor networks and augment residual descending input. Moreover, when integrated with task-specific training, EES has been associated with improvements in lower extremity motor functions, including standing, stepping, walking, and spasticity control. This study narratively reviews the pathophysiological basis of SCI,…",
-    "score": 18,
-    "tags": [
-     "Spinal cord stimulation",
-     "Neuropathic pain & spasticity"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "epidural electrical stimulation"
-      ]
-     },
-     {
-      "key": "pain",
-      "label": "Neuropathic pain & spasticity",
-      "matched": [
-       "spasticity"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42368253",
     "kind": "paper",
     "title": "Accuracy, Repeatability, and Reproducibility of a Radiographic Technique to Assess Spinal Cord Stimulation Lead Position: A Validation Study.",
@@ -13939,7 +13892,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation.",
     "firstSeen": "2026-08-23",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14137,6 +14090,36 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
+   },
+   {
+    "id": "PMID42498703",
+    "kind": "paper",
+    "title": "Multidisciplinary Management of Recurrent Laryngeal Nerve Injury After Transhiatal Esophagectomy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42498703/",
+    "doi": "10.1177/00031348261471503",
+    "journal": "The American surgeon",
+    "authors": [
+     "Evans C",
+     "Jomy A",
+     "Martínez MDP",
+     "Osman H"
+    ],
+    "authorLine": "Evans C, Jomy A, Martínez MDP et al.",
+    "pubType": "Journal Article",
+    "date": "2026-07-24",
+    "summary": "Recurrent laryngeal nerve (RLN) injury is a significant morbidity following transhiatal esophagectomy (THE). While surgical platforms have evolved, the clinical burden and longitudinal management of these injuries remain under-characterized. This study evaluates RLN injury incidence and the effectiveness of a multidisciplinary management pathway in a contemporary cohort. A retrospective review of 135 patients undergoing THE with cervical anastomosis between 2017 and 2024 was conducted. The primary outcome was confirmed RLN injury via laryngoscopy and postoperative hoarseness. Predictors of injury and specialty follow-through with Otolaryngology (ENT) and Speech-Language Pathology (SLP) were analyzed. Postoperative hoarseness occurred in 43.7% (n = 59) of patients, while RLN injury was confirmed in 11.9% (n = 16), which falls within the reported national average. Surgical approach was not…",
+    "score": 16,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
    }
   ],
   "news": [
@@ -14198,6 +14181,28 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1zexw",
+    "kind": "news",
+    "title": "Microsurgical Unroofing to Secure a Safe Corridor for C1 Screws in Bilateral Ponticulus Posticus: A Case Report",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdnZ4bnVjTWJCQVN0VWVnbzNiTXdmaW5VUHp0NW4xZlhpRjJHa1E3RGk2VnJyZkwtUHk5Rm5pYXptc3JMQW0ydXppM1RFQVRadHhyekxQb1I0c1ZETU14cjBUSjg4S0xRR2NlU0RzdTRHb1YtUi1USnRrZWwxVVBhdk5BWXdrTExfTU9PVzlYWVZ2bzFLS2VscGpFYkdSZDM1bXBRYktvemE0TG5YdUJPRmZwQ1lYTHdEYUFBSWpXOTc5MHJZNFp0SU81cTJ2Um1vZXNtZjIzYVk1emdBNEJNdXpjWQ?oc=5",
+    "outlet": "Cureus",
+    "topic": "Technology",
+    "summary": "Microsurgical Unroofing to Secure a Safe Corridor for C1 Screws in Bilateral Ponticulus Posticus: A Case Report Cureus",
+    "date": "2026-08-14",
+    "score": 20,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-08-14",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14348,6 +14353,37 @@
     "exploredNote": null
    },
    {
+    "id": "news-j7frmz",
+    "kind": "news",
+    "title": "Those Who Use Brain-Computer Interfaces: Understanding BCI Technology Users",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VcGlMb0t1WXBSUnlVT0x5NmlBUmVWbFA0WkhyZllxR054T0xMVURIc1NGYy1ZejlGOU5WT0Nac0lnd0t6dkZHNjRyV2lDX0ZwWHBF?oc=5",
+    "outlet": "36Kr",
+    "topic": "Technology",
+    "summary": "Those Who Use Brain-Computer Interfaces: Understanding BCI Technology Users 36Kr",
+    "date": "2026-08-24",
+    "score": 18,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface",
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-08-24",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-tz9vee",
     "kind": "news",
     "title": "Spinal Cord Stimulation Boosts Mobility After Stroke",
@@ -14435,36 +14471,6 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1jcrt2w",
-    "kind": "news",
-    "title": "Spinal Cord Stimulation Devices Market Poised for 8.2% CAGR Growth Through 2034",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VMlZyOTRudFVoc1ZIaldwci1rbGw4RHZpWnVFbUZKLVlTVTZVRnZLZ3VMeXdWZjRpNmpHZFY2bDVjV2FCYmx6UkhIZXdpcUxjQ2NzUFlpTVJldFBtTGtXd0JkYWVkTzZEaFZPN2ZWX0o4TUZzS2Rn?oc=5",
-    "outlet": "Market.us Media",
-    "topic": "Regulatory",
-    "summary": "Spinal Cord Stimulation Devices Market Poised for 8.2% CAGR Growth Through 2034 Market.us Media",
-    "date": "2026-08-19",
-    "score": 18,
-    "tags": [
-     "Spinal cord stimulation"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "spinal cord stimulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-08-19",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14587,7 +14593,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-08-23",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14617,36 +14623,6 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-08-21",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-fc14f7",
-    "kind": "news",
-    "title": "Infrared Brain Implant Moves Toward Year-Long ALS Trial in Europe",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2lETFRYLTludjJJUGhYQk1YRkM4Rk0xcm5TTDNaUjltQ0Rxa2U4TzhQcnZ4cEhVdkd2djN3Y0lWb3RRRDd3RGljV21xUVRKdExtSHd2MVNwWFZyc0dRNTRncm8wNkY1V1hKZ1RROWZkODM3TlJVVDZCdkoxZ245dUhnQkJpZHZGZ2NSTDNvaXc5dGo5OVJ6WW1rcVlYazR4U3h3b0VRTFZLZw?oc=5",
-    "outlet": "trialsitenews.com",
-    "topic": "Technology",
-    "summary": "Infrared Brain Implant Moves Toward Year-Long ALS Trial in Europe trialsitenews.com",
-    "date": "2026-08-22",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-08-22",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14873,7 +14849,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-08-23",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14907,7 +14883,7 @@
     "outlet": "Fortune Business Insights",
     "topic": "Company watch",
     "summary": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034] Fortune Business Insights",
-    "date": "2026-07-14",
+    "date": "2026-08-03",
     "score": 14,
     "tags": [
      "Brain-computer interface"
@@ -14926,6 +14902,28 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-08-23",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1qmr493",
+    "kind": "news",
+    "title": "Xylo Bio Highlights Precision Neuroscience Roots in DREADD Technology",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDlNZlVZRmJBZTBJaEJWREhDSks1UmVfYjFfMzVoVTVRSTd6U0I2TlBOSkNBRnc1YmVBbzkzbUZ0b3JmcnEwbG9sV3hMZmhLNnNaYlltME1ub25WV1V1ejVsNnRodXU1dGZnTTBqWGU2dFlrcjFDdGFuWC1ydnVzd2YxWWtjMEx3NkZTcnpZdkZUdFBtaDlBcnlrVkxMaFpUMEVzVm84ODZZRjlZTjNyTDlmU3BDLTZK?oc=5",
+    "outlet": "TipRanks",
+    "topic": "Company watch",
+    "summary": "Xylo Bio Highlights Precision Neuroscience Roots in DREADD Technology TipRanks",
+    "date": "2026-08-17",
+    "score": 14,
+    "tags": [
+     "Watchlist: Precision Neuroscience"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-08-24",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -14984,43 +14982,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-fcqkhw",
-    "kind": "news",
-    "title": "Global Brain Computer Interface Market Size, Share & Growth, 2034",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3h3TFpYV0M5cjMwU3BoU0hqWWFlUUhhZmd4SF9neTZ3UW94Q3RfblU2ZnU3cmZKbEdYdlhSUTZlZ0UxN0hYNlFRR1pRZjYyLVplYWdHUS02UjZEcENMU1QzWHIzRExRVWRleW1ETklXNHNqT3dIejhFeW40bmVCUjJDT1U?oc=5",
-    "outlet": "Fortune Business Insights",
-    "topic": "Technology",
-    "summary": "Global Brain Computer Interface Market Size, Share & Growth, 2034 Fortune Business Insights",
-    "date": "2026-08-03",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1t5dnmz",
     "kind": "news",
     "title": "16 Most Notable Domestic Chinese Enterprises in the Invasive Brain-Computer Interface Industry",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5VDdtWEhaVHRGdjhiVXk3b2R4eEtaRm1nQzRDQTBaRm12OWY2S1dnM1FRMmIyaDl5UkEyQ09mVVhHM01qX2s4Q2poenhYT0xON2xB?oc=5",
-    "outlet": "36 Kr",
+    "outlet": "36Kr",
     "topic": "Technology",
-    "summary": "16 Most Notable Domestic Chinese Enterprises in the Invasive Brain-Computer Interface Industry 36 Kr",
+    "summary": "16 Most Notable Domestic Chinese Enterprises in the Invasive Brain-Computer Interface Industry 36Kr",
     "date": "2026-08-04",
     "score": 12,
     "tags": [
@@ -15134,6 +15102,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-fcqkhw",
+    "kind": "news",
+    "title": "Global Brain Computer Interface Market Size, Share & Growth, 2034",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3h3TFpYV0M5cjMwU3BoU0hqWWFlUUhhZmd4SF9neTZ3UW94Q3RfblU2ZnU3cmZKbEdYdlhSUTZlZ0UxN0hYNlFRR1pRZjYyLVplYWdHUS02UjZEcENMU1QzWHIzRExRVWRleW1ETklXNHNqT3dIejhFeW40bmVCUjJDT1U?oc=5",
+    "outlet": "Fortune Business Insights",
+    "topic": "Company watch",
+    "summary": "Global Brain Computer Interface Market Size, Share & Growth, 2034 Fortune Business Insights",
+    "date": "2026-08-03",
+    "score": 12,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain computer interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-14n6cz6",
     "kind": "news",
     "title": "Brain Computer Interface Market to Reach US$3.4 Billion by 2033 at 7.8% CAGR | Persistence Market Research",
@@ -15228,9 +15226,9 @@
     "kind": "news",
     "title": "China’s Fudan Hospital implants world’s first commercial BCI chip in patient",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tWDFlbDRtUnEtR1FLTTh4QlZneHlIQWtnZGxMdHNYUEsxUUtyTGhEcE9WblhoZXRxaE9xMzNCc0JqOHNyb3pOdzktNl9nX1VxLTR6SA?oc=5",
-    "outlet": "동아사이언스",
+    "outlet": "DongA Science",
     "topic": "Regulatory",
-    "summary": "China’s Fudan Hospital implants world’s first commercial BCI chip in patient 동아사이언스",
+    "summary": "China’s Fudan Hospital implants world’s first commercial BCI chip in patient DongA Science",
     "date": "2026-07-19",
     "score": 12,
     "tags": [
@@ -15249,6 +15247,37 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-31",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-13oavxc",
+    "kind": "news",
+    "title": "Wandercraft Names National Seating & Mobility the Exclusive CRT Distribution Partner for Eve™ Personal Exoskeleton",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd3ZUa3lFUnJtM2RHMGtDODFlLXNGbnhXcHo1SzRUaktLTzFUcnh3TGRhRE0wOGY0bnVpYmptOFRVYlQzOEN2empUMkJkeG8tY1lJZ0xQTW84V1JxNGRhNHpBbWF5VDdJemFKMUdjQXRLaC1CbU9aMEhOYXFfQmVsVDkwdjJqNG5LZ3hDR21DVG1pRGljbFNBZU9KdkpfTEZqWWxRVEFuS3F5ZXkzcW1GbUZPWmczemw4UUo1OHR6Uzh0VFlYMjhXTnFzbjdDMDBLekpZWWtyaEJzWFp0ME5fTU9lR3ZmeWdRa09PSkpKdmdjc2NNTDVwQUxFekNua3Ntc2N5LV8wSDNITXV2VWR0Yg?oc=5",
+    "outlet": "GlobeNewswire",
+    "topic": "Regulatory",
+    "summary": "Wandercraft Names National Seating & Mobility the Exclusive CRT Distribution Partner for Eve™ Personal Exoskeleton GlobeNewswire",
+    "date": "2026-06-25",
+    "score": 12,
+    "tags": [
+     "Activity-based rehab & exoskeleton",
+     "Watchlist: Wandercraft"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "exoskeleton"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-08-01",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15374,28 +15403,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-18y1u2z",
-    "kind": "news",
-    "title": "NervGen Pharma (NGEN) Q3 2025 Earnings: Narrower-than-Expected Loss as Pipeline Development Continues",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEhaZGMtWUNyaWF4SWpHZkNmZGZjVHc1SGUzbjctQ3RCZDlKT1VPUTdaVlhMeWVaajJZSzlydmFfMXBHTjlZN3plWWc0TXRiOE9FUnc3UnVIQ3BlTVV0WC02b1hSZGt5WUZtVGVUTUE3UmxxT1h6N3JzV0w0UDR1MW8zNDVnOTY0bGJjTEx0RGcteWNxU3VHcTlGbHllaE80dDc2bXRhZm9yUU9BcldrUWN5NlMxTWRYWHkxUmdMdlRZVzFWWFA0cjFoM0xudE8tRkY4?oc=5",
-    "outlet": "vinanet.vn",
-    "topic": "Technology",
-    "summary": "NervGen Pharma (NGEN) Q3 2025 Earnings: Narrower-than-Expected Loss as Pipeline Development Continues vinanet.vn",
-    "date": "2026-08-03",
-    "score": 10,
-    "tags": [
-     "Watchlist: NervGen"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-08-20",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-b97zs1",
     "kind": "news",
     "title": "Lineage Cell Therapeutics (LCTX) Holds Above $1.07 Support as Biotech Consolidates - PCR Divergence",
@@ -15413,28 +15420,6 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-08-20",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1u14i9l",
-    "kind": "news",
-    "title": "Lineage Cell Therapeutics Reports Second Quarter 2026 Financial Results and Provides Business Update",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdjgzS1VWRkljSlZlMFNyYnF5MTQ4REJhdkFUT3pUMjRjQzNpX3Y3RnNRTEY1a1JvRjBJOHBKQ2EwZnZBZVROZUNOTVp2WnpFWkctTHlEQklSTUw0akotLTNwM0FIOFZCT1VJVGM1YUY0ZFhESjJfNDVzQkRmYTFCZUNWR25vRTh5UVVaZUgwRHRvTjN5UWxMNEtrcldUbmhwR1FpdnFBV2I0QWQ1cmk4ZnF4bFdsbS1LY2lDQldtelZDX01pcjFRc2R5a2R0cl9uOWxrSGR3a0dHUmdUZnplMW8xb3NBN3BkRmZHZG53?oc=5",
-    "outlet": "Business Wire",
-    "topic": "Technology",
-    "summary": "Lineage Cell Therapeutics Reports Second Quarter 2026 Financial Results and Provides Business Update Business Wire",
-    "date": "2026-08-06",
-    "score": 10,
-    "tags": [
-     "Watchlist: Lineage Cell"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-08-07",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15475,9 +15460,9 @@
       "date": "2026-07-22"
      },
      {
-      "title": "'Incredible power in prayer' | Community rallies behind Macon teen recovering from spinal cord injury - WMAZ",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRG1Kcm1VWjhlOW5BVXJtYXhvNmlYSmtTSGdoSGZpUHNFMzZQRHZLMWJVZE1OQjgxS0VUODZvTkVKaVJqa003TFBRMmktTF9jOWhkdFd0SnUxZHNXV3kwdTZ6RmgwZmVPTi1qdzZkQmVlZWREcDRYcEFteTdja1BFQlZfZFJadHl5LUpkamlSX081QURQVlByLVNLUEtCX0VEa2E0MDRtS1IyVHVYMmRlWVVSaGFlLWlKNHoyNzN2Nl8zUWlwQ3FFTzJ4XzhBY2FmLXU2MTJ4M0FldU1Qd0FTRFV2STdIZk0?oc=5",
-      "date": "2026-07-09"
+      "title": "Craig Hospital Joins SCI Ventures as Alliance Partner to Accelerate Innovation in Spinal Cord Injury - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUnJtR1dJVDZLVXZFM3hvLXBPWU9QTnduZkRtR24yMlRDMlVHQUJ4emtQWHdjZ1R4WUlvZjFtTktyMzdGSkFtVjZ1eEpUZDNwNHRjYUFFYlpPTWVrbDBqdWItZjR1YmVyRmtLZzRwbXB3ajBQTWhiZzB4YS1qaHNsV3FSU090OEgxMWNjRFhJMXhkZmdKbENuUFg2RlQ4UURqbG9wZExKbVJEZUh1bGl4S05GZGd1WWY4bC12RXpybzg0SmdCNnVCSHNnRXRJSEdQOHBsZGhHb2tTZ3hWaTJFV3c0V3VSQnNDamlsNDR3?oc=5",
+      "date": "2026-06-18"
      }
     ],
     "date": null,
@@ -15699,8 +15684,8 @@
       "date": "2026-06-20"
      },
      {
-      "title": "Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation - EurekAlert!",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XRlExTkwyeWotLW5sb3hqWjJxTG1aaU9HN3hPVWV6VE5EZ3RsX0pFTmxVUjJkZUhSbEludHJmYmFfZXpreE4wX1JyNnZtYnJsanRnN2h4empVUnNj?oc=5",
+      "title": "Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation (VIDEO) - Mayo Clinic News Network",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUE1BQmg1UjRaQlNYcU84enBtTGdJdHdJZlp0UjNrQVk3dkdkNzhJU2k5M1ZEV2swMVJMUDN3dWJQbG1QT2l1TUpRaWFlMmc2eGp5blZkRlJBX3VuYkRDanZzSll6RGNPVnZQaU44REJPYTBxdENTRmdqSXM2eFFmRmJqR2l4WFh2cmQwM1VOdExPRTF6NGR1a25KbExWSXFDT3htX1ZuMXBIV1ZBS2VKYmY5eUZlOEJ6amZld3VTSnRVRjZnTklCdVp4Qkt0Y1puelZoaA?oc=5",
       "date": "2026-08-03"
      }
     ],
@@ -15808,13 +15793,7 @@
     "title": "Reeve Foundation NeuroRecovery Network",
     "summary": "A network of clinics delivering standardised activity-based therapy, plus a free information-specialist service that answers individual questions.",
     "linkStatus": "unverified",
-    "recentNews": [
-     {
-      "title": "Orlando White Party Raises Funds for NextStep Orlando - Hoodline",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTJvSko3U3hlclAtWUtfcjU2OEJmY01URnoxeWkwdFByRmFkRGtiMWEtbUs1ck1OeExiNVVMVE13dmZ0MXhndzItZWowNEpEODBONHRQcnhFMkVyNXgxWXdGUHZ6R0FqUC1vUEphMzk0UERRZ1ZiSGlOQWhxdEFQbmhHRFJYbUlZOTJXQmdraGRsWWx6UTVySDg1M1YxU1J0SU04Q2ZR?oc=5",
-      "date": "2026-08-18"
-     }
-    ],
+    "recentNews": [],
     "date": null,
     "score": 0,
     "isNew": false,
