@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-08-29T14:56:29.676Z",
- "date": "2026-08-29",
+ "generatedAt": "2026-08-30T14:41:30.035Z",
+ "date": "2026-08-30",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,7 +19,8 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "1 new technology item."
+   "5 new technology items.",
+   "1 regulatory item (approvals or clearances) worth a look."
   ],
   "closingSoon": [
    {
@@ -45,7 +46,7 @@
    "papers": 60,
    "newPapers": 0,
    "news": 45,
-   "newNews": 1,
+   "newNews": 5,
    "centers": 12,
    "archived": 0
   }
@@ -11793,70 +11794,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42374578",
-    "kind": "paper",
-    "title": "Transcutaneous spinal stimulation with upper extremity robotic training in chronic stroke and spinal cord injury: individual neurophysiological and clinical responses.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42374578/",
-    "doi": "10.1186/s12984-026-02036-0",
-    "journal": "Journal of neuroengineering and rehabilitation",
-    "authors": [
-     "Oh J",
-     "Scheffler MS",
-     "King ST",
-     "Mahan EE"
-    ],
-    "authorLine": "Oh J, Scheffler MS, King ST et al.",
-    "pubType": "Journal Article",
-    "date": "2026-06-29",
-    "summary": "Damage to the corticospinal tract after stroke and spinal cord injury (SCI) often results in persistent upper extremity (UE) impairment. Transcutaneous spinal stimulation (TSS) and robotic technologies have been explored as approaches to facilitate motor training; however, their combined effects on UE sensorimotor recovery remain poorly understood. The purpose of this study was to examine the effects of TSS combined with UE robotic training in individuals with chronic stroke or SCI. Five participants with stroke and six with SCI completed a 14-week, sham controlled, single blind crossover study consisting of four total weeks of assessments (one week each pre and post for both training phases), four weeks of UE training with sham TSS, a two-week washout period, and four weeks of UE training with active TSS. Each one-hour session (three days/week) included robotic exoskeleton-assisted UE…",
-    "score": 42,
-    "tags": [
-     "Hand & arm function",
-     "Spinal cord stimulation",
-     "Activity-based rehab & exoskeleton",
-     "Drug / pharmacological recovery",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper extremity"
-      ]
-     },
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "transcutaneous spinal"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton",
-       "robotic"
-      ]
-     },
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "motor recovery"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and spinal cord stimulation, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42598097",
     "kind": "paper",
     "title": "Radiologically Devastating Yet Neurologically Intact: A Rare Case of Ambulatory C6-C7 Translational Injury with Bilateral Facet Dislocation and Vertebral Artery Thrombosis.",
@@ -12281,55 +12218,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42535069",
-    "kind": "paper",
-    "title": "Transspinal stimulation preceding step training reorganizes spinal locomotor circuits in human spinal cord injury: a randomized sham-controlled clinical trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42535069/",
-    "doi": "10.3389/fncir.2026.1876368",
-    "journal": "Frontiers in neural circuits",
-    "authors": [
-     "Pulverenti TS",
-     "Sayed Ahmad AM",
-     "Harel NY",
-     "Knikou M"
-    ],
-    "authorLine": "Pulverenti TS, Sayed Ahmad AM, Harel NY, Knikou M",
-    "pubType": "Journal Article, Randomized Controlled Trial",
-    "date": "2026-07-16",
-    "summary": "Activity-based rehabilitation, such as locomotor training, is commonly used to induce positive systemic physiological adaptations and restore locomotion in individuals with chronic spinal cord injury (SCI). Restoration of locomotion with activity-based rehabilitation alone is not optimal and may require augmentation with neuromodulation strategies. We characterized the excitability of spinal locomotor circuits during stepping in humans with SCI who underwent transspinal stimulation before locomotor training, within the same session. A total of 14 participants with chronic SCI received an average of 40 sessions of 30&#x202f;Hz transspinal stimulation delivered for 30&#x202f;min during standing (active or sham) or in the supine (active) position, followed by 30&#x202f;min of robotic-assisted step training. Before and after the completion of all training sessions, we assessed the soleus…",
-    "score": 32,
-    "tags": [
-     "Spinal cord stimulation",
-     "Activity-based rehab & exoskeleton",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "activity-based",
-       "locomotor training",
-       "robotic"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, chronic.",
-    "firstSeen": "2026-08-01",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42619953",
     "kind": "paper",
     "title": "Automated epidural spinal cord stimulation for cardiovascular regulation in spinal cord injury: from optimization to real-time implementation.",
@@ -12691,6 +12579,55 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity, chronic.",
     "firstSeen": "2026-08-11",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42535069",
+    "kind": "paper",
+    "title": "Transspinal stimulation preceding step training reorganizes spinal locomotor circuits in human spinal cord injury: a randomized sham-controlled clinical trial.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535069/",
+    "doi": "10.3389/fncir.2026.1876368",
+    "journal": "Frontiers in neural circuits",
+    "authors": [
+     "Pulverenti TS",
+     "Sayed Ahmad AM",
+     "Harel NY",
+     "Knikou M"
+    ],
+    "authorLine": "Pulverenti TS, Sayed Ahmad AM, Harel NY, Knikou M",
+    "pubType": "Journal Article, Randomized Controlled Trial",
+    "date": "2026-07-16",
+    "summary": "Activity-based rehabilitation, such as locomotor training, is commonly used to induce positive systemic physiological adaptations and restore locomotion in individuals with chronic spinal cord injury (SCI). Restoration of locomotion with activity-based rehabilitation alone is not optimal and may require augmentation with neuromodulation strategies. We characterized the excitability of spinal locomotor circuits during stepping in humans with SCI who underwent transspinal stimulation before locomotor training, within the same session. A total of 14 participants with chronic SCI received an average of 40 sessions of 30&#x202f;Hz transspinal stimulation delivered for 30&#x202f;min during standing (active or sham) or in the supine (active) position, followed by 30&#x202f;min of robotic-assisted step training. Before and after the completion of all training sessions, we assessed the soleus…",
+    "score": 28,
+    "tags": [
+     "Spinal cord stimulation",
+     "Activity-based rehab & exoskeleton",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "neuromodulation"
+      ]
+     },
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "activity-based",
+       "locomotor training",
+       "robotic"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, chronic.",
+    "firstSeen": "2026-08-01",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14129,6 +14066,46 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
+   },
+   {
+    "id": "PMID42415143",
+    "kind": "paper",
+    "title": "Transcutaneous spinal cord stimulation for motor function and functional independence in patients with spinal cord injury: a systematic review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42415143/",
+    "doi": "10.1186/s12984-026-02086-4",
+    "journal": "Journal of neuroengineering and rehabilitation",
+    "authors": [
+     "Liu J",
+     "Wang Y",
+     "Chen X",
+     "Hou B"
+    ],
+    "authorLine": "Liu J, Wang Y, Chen X et al.",
+    "pubType": "Journal Article, Review",
+    "date": "2026-07-07",
+    "summary": "Spinal cord injury (SCI) can lead to severe impairments in motor, sensory, and autonomic functions, significantly affecting patients' functional independence and quality of life. Transcutaneous spinal cord stimulation (tSCS), as an emerging non-invasive neuromodulation technique, has shown potential in improving motor function. However, existing studies demonstrate substantial heterogeneity, and its clinical efficacy remains unclear. To systematically evaluate the effects of tSCS on motor function and functional independence in individuals with SCI, and to explore the potential influence of patient characteristics and stimulation parameters on treatment outcomes. A systematic search of PubMed, Web of Science, Cochrane Library, Embase, and Scopus was conducted from database inception to March 23, 2026. Eligible studies included randomized controlled trials (RCTs), non-randomized studies,…",
+    "score": 16,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "transcutaneous spinal",
+       "spinal cord stimulation",
+       "neuromodulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
    }
   ],
   "news": [
@@ -14164,37 +14141,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1e1z6ad",
-    "kind": "news",
-    "title": "Brain implant restores the sensation of touch in a person with quadriplegia",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmhaNE9iNUVaeVlnVFZZSnAyODYzcnFnQXF0YkRrRjJnbVI3dTFkZVgxcDhZSk1lSGhRNzBqWHZITVFIcm11NDlnRjIzQ2VUSlNwZlV3MVhob3Q0NUV4cnR4NzV2a1VTUjZxcnlPYmZnLVJXdndCOTNmWFVkdVV6NDdVcTlDUUdkbkJ2UUNwVlhBQlp4cWdaakNXeW1qZlcyY0xNWjFwYXkwRlYwQVE?oc=5",
-    "outlet": "STAT",
-    "topic": "Regulatory",
-    "summary": "Brain implant restores the sensation of touch in a person with quadriplegia STAT",
-    "date": "2026-07-16",
-    "score": 24,
-    "tags": [
-     "Brain-computer interface",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface, cervical-level.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-uxlrjx",
     "kind": "news",
     "title": "Quadriplegic accused of murder denied bond",
@@ -14212,6 +14158,28 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-08-29",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1wvj3du",
+    "kind": "news",
+    "title": "Technology puts quadriplegic back at the helm of sailboat",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONE84QnJtWXd1YlRNRXI2WGFGWEdJU0lPejZDOVpDREM5bEcxdE5KM0gxWUtUc01xQ0N6cmUzbmtocnA3MkNSY2ZIQkxScWh6OWRkNEhvcnRwNURfUlF2N2piYlhBQ0JIWVFGMTR6b1ZlN3VjVHJ0UzhRUS00Y21uOHpnT0p3WXUxQzVGMGF4cDBWTlhqQU1tR21iYWZ1QzJVS2pZ?oc=5",
+    "outlet": "Times Colonist",
+    "topic": "Technology",
+    "summary": "Technology puts quadriplegic back at the helm of sailboat Times Colonist",
+    "date": "2026-08-30",
+    "score": 20,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-08-30",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -14234,6 +14202,37 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-08-27",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1e1z6ad",
+    "kind": "news",
+    "title": "Brain implant restores the sensation of touch in a person with quadriplegia",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmhaNE9iNUVaeVlnVFZZSnAyODYzcnFnQXF0YkRrRjJnbVI3dTFkZVgxcDhZSk1lSGhRNzBqWHZITVFIcm11NDlnRjIzQ2VUSlNwZlV3MVhob3Q0NUV4cnR4NzV2a1VTUjZxcnlPYmZnLVJXdndCOTNmWFVkdVV6NDdVcTlDUUdkbkJ2UUNwVlhBQlp4cWdaakNXeW1qZlcyY0xNWjFwYXkwRlYwQVE?oc=5",
+    "outlet": "STAT",
+    "topic": "Regulatory",
+    "summary": "Brain implant restores the sensation of touch in a person with quadriplegia STAT",
+    "date": "2026-07-16",
+    "score": 20,
+    "tags": [
+     "Brain-computer interface",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface, cervical-level.",
+    "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14453,28 +14452,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1zexw",
-    "kind": "news",
-    "title": "Microsurgical Unroofing to Secure a Safe Corridor for C1 Screws in Bilateral Ponticulus Posticus: A Case Report",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdnZ4bnVjTWJCQVN0VWVnbzNiTXdmaW5VUHp0NW4xZlhpRjJHa1E3RGk2VnJyZkwtUHk5Rm5pYXptc3JMQW0ydXppM1RFQVRadHhyekxQb1I0c1ZETU14cjBUSjg4S0xRR2NlU0RzdTRHb1YtUi1USnRrZWwxVVBhdk5BWXdrTExfTU9PVzlYWVZ2bzFLS2VscGpFYkdSZDM1bXBRYktvemE0TG5YdUJPRmZwQ1lYTHdEYUFBSWpXOTc5MHJZNFp0SU81cTJ2Um1vZXNtZjIzYVk1emdBNEJNdXpjWQ?oc=5",
-    "outlet": "Cureus",
-    "topic": "Technology",
-    "summary": "Microsurgical Unroofing to Secure a Safe Corridor for C1 Screws in Bilateral Ponticulus Posticus: A Case Report Cureus",
-    "date": "2026-08-14",
-    "score": 16,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-08-14",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-15q826h",
     "kind": "news",
     "title": "China conducts world's first commercial implantation of invasive BCI",
@@ -14505,6 +14482,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-dxh15b",
+    "kind": "news",
+    "title": "Brainsmart pushes semi‑invasive BCI frontier",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTZGQmJxTGh4SnBYUWxLZl9lVzV6WHEySjFDZF8wY3JEX0QzVWhEQzE1T3UzTFhBM1dIeE1mbUwxb1dwZEx6Ym5YSEo3MHpFNW5ON0ZUS25UN3JwXzNtMkpMZGdSejN0cFhHUmI2MEZkcjc2dFJBS09RelVBTTV4R1FTYUpaZ2JOV2hqUXM0QQ?oc=5",
+    "outlet": "Startupbusiness.it",
+    "topic": "Technology",
+    "summary": "Brainsmart pushes semi‑invasive BCI frontier Startupbusiness.it",
+    "date": "2026-08-19",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-08-30",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1yanq3r",
     "kind": "news",
     "title": "Fundraiser helps Malita, 9, with quadriplegic cerebral palsy gain independence",
@@ -14523,6 +14530,36 @@
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-08-10",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-j64h5s",
+    "kind": "news",
+    "title": "Full-Stack Designs Bring Intelligence to Brain-Computer Interfaces",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2x6YjdHQ1U2cTgwUG5EWFhJVnRiVm9waURTZDk5SVZBend4X1JOejE2UGJKZVZwYWpISDZacE01WDlhZXlHSnhzNmI1Rnh4SXRiRlMtUTUyeUo5b2R0WnlteW9DTVRrUGV3NDh4V09iQUNXZUpfZHVrOVg3VW5Zd29ZazV0c2t6X1I3TVNmYzdpLTNkM0E?oc=5",
+    "outlet": "Bioengineer.org",
+    "topic": "Technology",
+    "summary": "Full-Stack Designs Bring Intelligence to Brain-Computer Interfaces Bioengineer.org",
+    "date": "2026-08-30",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-08-30",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14680,37 +14717,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1t59mm1",
-    "kind": "news",
-    "title": "Marin County robotic exoskeleton firm faces uncertain future after AI pivot",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0dpNFV4UnoxQ1o0TGtiMF9qTkZwQUFuQjJVY0NnM0pQdHREcGpBVnZxZFUwbDVHcW9Vb21RUmNLTm1aUkgwTks4UHR4TXM5UG94ZV9oa3lpN0tEOEtPVmR0dktuWmdBLVUzN2duNkFkOVNqbXJxUWYwa3UzVXRKTFhWZXBDQjRSUXdIUVYtODM?oc=5",
-    "outlet": "The Press Democrat",
-    "topic": "Company watch",
-    "summary": "Marin County robotic exoskeleton firm faces uncertain future after AI pivot The Press Democrat",
-    "date": "2026-08-27",
-    "score": 16,
-    "tags": [
-     "Activity-based rehab & exoskeleton"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton",
-       "robotic"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-08-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1021kdb",
     "kind": "news",
     "title": "Synchron Brain Implant Targets 2026 Pivotal Trial for First FDA-Approved BCI",
@@ -14773,6 +14779,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-13lm7sy",
+    "kind": "news",
+    "title": "Clinical applications of invasive spinal cord stimulation in neurological disorders: a narrative review",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWlo3UFhvT0w5YnJSSkFKa1hxU0dlR3NJcGJSdU04bVREeUJibEoyRG5nZGlnVmYwZk9CdF9yZUFJVmlpWXozVTBqNTRqYnFjWXQwdFRwSzRrM2RSN2tSRzRUdUNFV2FVaWJCTldBOVlHQVBXYUFWZzBJVkllSEw2S3lKdjdfVDJDY2ZOd1dWX18?oc=5",
+    "outlet": "Frontiers",
+    "topic": "Technology",
+    "summary": "Clinical applications of invasive spinal cord stimulation in neurological disorders: a narrative review Frontiers",
+    "date": "2026-08-10",
+    "score": 14,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-08-30",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-qtbioj",
     "kind": "news",
     "title": "Neuralink Trial Participant Audrey Crews Creates Art With Her Mind - BASENOR",
@@ -14798,7 +14834,7 @@
     "id": "news-1emab2a",
     "kind": "news",
     "title": "Watch: Audrey Crews writes and draws using only her thoughts with Neuralink",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT200N3ZpSlh4NlFsbktoWEtVeFVNVU9OTkVBMk5tVVdRMGtyQlhuYUFYcWFtMzNLSWI4RXZzTW5lVmNob2FFcVlEMnRSdUZBU2xxcXQyd2RTbVduVVpUTjlGRDV3SEx5Tl9tTXdBRUdvbnAzY0pFVkRlZGRSTVhBM2U5bW0yamF0VW94bHhQUkJjSlRJYWVvOFNYMnI2bU1ERGo0WTV0Q1g3MnNndjAtdFVHS29ISlpWWGtGMWJldHgwdi1HQmhCNVNFaWpGMVBWLUw4UThoYnZ2cERIWUHSAd4BQVVfeXFMUE9tNDd2aUpYeDZRbG5LaFhLVXhVTVVPTk5FQTJObVVXUTBrckJYbmFBWHFhbTMzS0liOEV2c01uZVZjaG9hRXFZRDJ0UnVGQVNscXF0MndkU21XblVaVE45RkQ1d0hMeU5fbU13QUVHb25wM2NKRVZEZWRkUk1YQTNlOW1tMmphdFVveGx4UFJCY0pUSWFlbzhTWDJyNm1NRERqNFk1dENYNzJzZ3YwLXRVR0tvSEpaVlhrRjFiZXR4MHYtR0JoQjVTRWlqRjFQVi1MOFE4aGJ2dnBESFlB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOakZleHNOV2ZWMVdYN01GVF9ybDZ6cHhHMGJudkhVZ2pBX2VnR0hMUEtDSWJIUzdFcDR6VnZjcmwzY3ZnUzI4M1dSNFZ0MktBSi1uSXpjLU1VX1pTRWNhNjVmVzVmRF9OazRHMjdDMnNIUFFiVlo4TDFVQTNfOVM4SkYwWk1Xdk9Famxuam5CdWpxTXh0NGNDNjNoRTB6aGVvbTQwX1FzY0F3SW1yTUM2LUVTUkxJX0d2U1lmX1NMV2FMX1RqNGFqOW5QZG9rUW9TeTFtc1gtemXSAd4BQVVfeXFMUE9tNDd2aUpYeDZRbG5LaFhLVXhVTVVPTk5FQTJObVVXUTBrckJYbmFBWHFhbTMzS0liOEV2c01uZVZjaG9hRXFZRDJ0UnVGQVNscXF0MndkU21XblVaVE45RkQ1d0hMeU5fbU13QUVHb25wM2NKRVZEZWRkUk1YQTNlOW1tMmphdFVveGx4UFJCY0pUSWFlbzhTWDJyNm1NRERqNFk1dENYNzJzZ3YwLXRVR0tvSEpaVlhrRjFiZXR4MHYtR0JoQjVTRWlqRjFQVi1MOFE4aGJ2dnBESFlB?oc=5",
     "outlet": "India Today",
     "topic": "Technology",
     "summary": "Watch: Audrey Crews writes and draws using only her thoughts with Neuralink India Today",
@@ -14892,6 +14928,28 @@
     "exploredNote": null
    },
    {
+    "id": "news-m097y7",
+    "kind": "news",
+    "title": "Marin County’s Ekso Bionics faces uncertain future after AI pivot",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0dpNFV4UnoxQ1o0TGtiMF9qTkZwQUFuQjJVY0NnM0pQdHREcGpBVnZxZFUwbDVHcW9Vb21RUmNLTm1aUkgwTks4UHR4TXM5UG94ZV9oa3lpN0tEOEtPVmR0dktuWmdBLVUzN2duNkFkOVNqbXJxUWYwa3UzVXRKTFhWZXBDQjRSUXdIUVYtODM?oc=5",
+    "outlet": "The Press Democrat",
+    "topic": "Company watch",
+    "summary": "Marin County’s Ekso Bionics faces uncertain future after AI pivot The Press Democrat",
+    "date": "2026-08-27",
+    "score": 14,
+    "tags": [
+     "Watchlist: Ekso Bionics"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-08-27",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1balopy",
     "kind": "news",
     "title": "Exoskeleton Report Newsletter 2026 Week 34 – Exos features in Nature + Reuters",
@@ -14948,6 +15006,36 @@
     "why": "Surfaced for activity-based rehab & exoskeleton.",
     "firstSeen": "2026-08-27",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1aazm3k",
+    "kind": "news",
+    "title": "Boston Scientific Spinal Cord Stimulator Lawsuit for SCS Injuries",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGpqZzg2WWw1SlRua3ZRamVfX1dJMnpwR2hsTk1mV2RvWUNLQ1RmN2RBX3ZxR3VjQ21PWkpFckJsWDBNMG1kODBya1ZXZ2hLNnZYSVZ2YldBQmVWQnhTWDJGb3hhLWVBc1RVbWdtZnZFd2N6NmJaNThQbmlwd0tjajZoXzZHTUtUSndoYzQ5aXZfaDlUa1BkY3FTMnR6ODU2UEhmN3kzd2pUZnhZRW9JdTdKeHdtZElpNWdRN2pSVjI4Ync?oc=5",
+    "outlet": "robertkinglawfirm.com",
+    "topic": "Regulatory",
+    "summary": "Boston Scientific Spinal Cord Stimulator Lawsuit for SCS Injuries robertkinglawfirm.com",
+    "date": "2026-08-10",
+    "score": 14,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "scs"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-08-30",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -15014,32 +15102,32 @@
     "exploredNote": null
    },
    {
-    "id": "news-1eag334",
+    "id": "news-18ym8mk",
     "kind": "news",
-    "title": "Stem cell - Neural, Regeneration, Differentiation",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUE95c1dFRFVNZnJZUGowYXZJWEx1VVdWeko3YWhkcDRWTXVhLS1OWEtZcEl0VHBVeVFRQlpmVGRaQ05xQno4cWFwOFQwUHdONlR6SVgyZUFGdDlHVUxzRnlKdVpzMDRJeWVNTmRaOA?oc=5",
-    "outlet": "Britannica",
-    "topic": "Technology",
-    "summary": "Stem cell - Neural, Regeneration, Differentiation Britannica",
-    "date": "2026-08-15",
-    "score": 13,
+    "title": "Vancouver 'RoboCop' is one of 1st Canadian ALS patients to receive Elon Musk's Neuralink brain implant",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOTJhc1RuMHIxNlZTZlBhNFZwekhTaEppZDRETDZxeXlaTnRzYlluSzdTajlON0tPd1EyOVRjdlFITDJMTUJvTU02STNyakxIYWV2Q2k1WUJQMTBMSmVCMjFRM21vcHVLTzZFN0RrQktTakNjbTBhWHB4UXhZMWJKRldrcFhRYjRfQ29HaHZzblFlRVJHWTZJZEY0RHlwRXZPYmsxSQ?oc=5",
+    "outlet": "CBC",
+    "topic": "Regulatory",
+    "summary": "Vancouver 'RoboCop' is one of 1st Canadian ALS patients to receive Elon Musk's Neuralink brain implant CBC",
+    "date": "2026-07-02",
+    "score": 14,
     "tags": [
-     "Regenerative / cell therapy"
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
+      "key": "bci",
+      "label": "Brain-computer interface",
       "matched": [
-       "stem cell",
-       "regeneration"
+       "brain implant"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy.",
-    "firstSeen": "2026-08-17",
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-07-30",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15070,36 +15158,6 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-08-13",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-fcqkhw",
-    "kind": "news",
-    "title": "Global Brain Computer Interface Market Size, Share & Growth, 2034",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3h3TFpYV0M5cjMwU3BoU0hqWWFlUUhhZmd4SF9neTZ3UW94Q3RfblU2ZnU3cmZKbEdYdlhSUTZlZ0UxN0hYNlFRR1pRZjYyLVplYWdHUS02UjZEcENMU1QzWHIzRExRVWRleW1ETklXNHNqT3dIejhFeW40bmVCUjJDT1U?oc=5",
-    "outlet": "Fortune Business Insights",
-    "topic": "Technology",
-    "summary": "Global Brain Computer Interface Market Size, Share & Growth, 2034 Fortune Business Insights",
-    "date": "2026-08-10",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15165,6 +15223,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-fcqkhw",
+    "kind": "news",
+    "title": "Global Brain Computer Interface Market Size, Share & Growth, 2034",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3h3TFpYV0M5cjMwU3BoU0hqWWFlUUhhZmd4SF9neTZ3UW94Q3RfblU2ZnU3cmZKbEdYdlhSUTZlZ0UxN0hYNlFRR1pRZjYyLVplYWdHUS02UjZEcENMU1QzWHIzRExRVWRleW1ETklXNHNqT3dIejhFeW40bmVCUjJDT1U?oc=5",
+    "outlet": "Fortune Business Insights",
+    "topic": "Company watch",
+    "summary": "Global Brain Computer Interface Market Size, Share & Growth, 2034 Fortune Business Insights",
+    "date": "2026-08-10",
+    "score": 12,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain computer interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-2zcldx",
     "kind": "news",
     "title": "Chinese startup claims its brain implant takes just 10 minutes to place, no skull surgery required",
@@ -15195,6 +15283,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-6duz42",
+    "kind": "news",
+    "title": "Elon Musk Couldn't Crack Neuron Classification—South Korea's KIST Develops World's First Optoelectronic BCI Chip",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16LTREX2VKWm1TWFJ0VDRITTNkN083VnlPNEw3Y0VQWmRvZ2ZqcUtLOVFHaklLX2V6NHV5TXludW42XzA0Q0lrQ0dZMFB2RFdqZDBGaXRnS2dzRm8yNlY0SlpBWFFUOEJXWDhKejBTMjF4NkVLSUE?oc=5",
+    "outlet": "finance.biggo.com",
+    "topic": "Company watch",
+    "summary": "Elon Musk Couldn't Crack Neuron Classification—South Korea's KIST Develops World's First Optoelectronic BCI Chip finance.biggo.com",
+    "date": "2026-08-05",
+    "score": 12,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-08-15",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-52mxkf",
     "kind": "news",
     "title": "China Completes First Commercial ‘Brain-Computer Interface’ Implant",
@@ -15214,66 +15332,6 @@
       "label": "Brain-computer interface",
       "matched": [
        "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-14n6cz6",
-    "kind": "news",
-    "title": "Brain Computer Interface Market to Reach US$3.4 Billion by 2033 at 7.8% CAGR | Persistence Market Research",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcHBkS3RYWC1DVmFUbFRPNk5EYUZLZzdjc2hPaDRTYjlhNWkzY2VpcWtKZ1FGYUlUV0IzbXVZZW9OcTVMaWFZaFFKcVgwUVBSdHpLcUNsZ0pmWTZxRjFaT1ZMenh4aHlaRjNmQ3BZeE1qR25RdnVyZl9TaTZGUFlPVzFCaFdfdW1ZSkJVcjNfVkUybUFaenRYVGZnRjZCeEhRcUg5cVRjWnEweXk1WFRxZjRsbW80WHh6MmR6aE1Pek9uT19UQzd5b3lZT2FmbzdrN2RUWXF1MlVyS0dORHc?oc=5",
-    "outlet": "EIN News",
-    "topic": "Company watch",
-    "summary": "Brain Computer Interface Market to Reach US$3.4 Billion by 2033 at 7.8% CAGR | Persistence Market Research EIN News",
-    "date": "2026-07-22",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1jd1wi0",
-    "kind": "news",
-    "title": "Sweet Caroline: BCIs That Restore Sensation of Touch Show Long-Term Safety",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU0ppclRwZHJ3c0FWX1VGa1dOZHp6U0JmcnFkRDljS285UkJfLWJaT29NU2lRYWZtRWF1TWUwaE1WbXktMXF3eWlra2g2NlYySDBMX3Ztb0trMlJSd3c4dXNoR0ZPSkNBc3dyT252MWxpcTdEaFhTUGxmeFV0TXBlbGYyYm9BakZ1bU1iMVBxTUZJUkZTekdYLXp2dVpaSlcweDQ2N09tWFlIekx5VFVrZU9SdXlYOGhyQy02R0tuNS1ENU1hSjloV013aFkwYWpyazRndkpYaDBkZlA2?oc=5",
-    "outlet": "Inside Precision Medicine",
-    "topic": "Company watch",
-    "summary": "Sweet Caroline: BCIs That Restore Sensation of Touch Show Long-Term Safety Inside Precision Medicine",
-    "date": "2026-07-16",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
       ]
      }
     ],
@@ -15340,97 +15398,6 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-07-31",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-13oavxc",
-    "kind": "news",
-    "title": "Wandercraft Names National Seating & Mobility the Exclusive CRT Distribution Partner for Eve™ Personal Exoskeleton",
-    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd3ZUa3lFUnJtM2RHMGtDODFlLXNGbnhXcHo1SzRUaktLTzFUcnh3TGRhRE0wOGY0bnVpYmptOFRVYlQzOEN2empUMkJkeG8tY1lJZ0xQTW84V1JxNGRhNHpBbWF5VDdJemFKMUdjQXRLaC1CbU9aMEhOYXFfQmVsVDkwdjJqNG5LZ3hDR21DVG1pRGljbFNBZU9KdkpfTEZqWWxRVEFuS3F5ZXkzcW1GbUZPWmczemw4UUo1OHR6Uzh0VFlYMjhXTnFzbjdDMDBLekpZWWtyaEJzWFp0ME5fTU9lR3ZmeWdRa09PSkpKdmdjc2NNTDVwQUxFekNua3Ntc2N5LV8wSDNITXV2VWR0Yg?oc=5",
-    "outlet": "GlobeNewswire",
-    "topic": "Regulatory",
-    "summary": "Wandercraft Names National Seating & Mobility the Exclusive CRT Distribution Partner for Eve™ Personal Exoskeleton GlobeNewswire",
-    "date": "2026-06-25",
-    "score": 12,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Wandercraft"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-08-01",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-k4gzt2",
-    "kind": "news",
-    "title": "Vrach Frankenshteyn Streams Today: Its Gene Therapy Science Has Gone From Fiction to Clinical Trial",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcHZvRzlPaGRSa28zUWxuNF80aE1LMXd0RVlMRURWWU9oM0pJS000THNWbUdXd0Y1eUNoSVFqcjJZU1RTSEdGbk5kejI0ZEM3ZWs0ZXVGZ2EzTWdkbmdrdVNiX20wMld5Tm9tUTRsQmN2ejJrc1lpelNRa0ZUZ1paN2JvNmVLbnZuczZuOXZnMGNCQm4zYWlUZ3ZleEFUajVzNDFsd0RJcXY0N3NDMGw5QTh2c2NDOVp2bkxNeXdxcTVpVmVHVE42aUJUbXAxdC1kQklkd25EUGFSci1sdUE?oc=5",
-    "outlet": "Tech Times",
-    "topic": "Technology",
-    "summary": "Vrach Frankenshteyn Streams Today: Its Gene Therapy Science Has Gone From Fiction to Clinical Trial Tech Times",
-    "date": "2026-08-14",
-    "score": 11,
-    "tags": [
-     "Regenerative / cell therapy"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "gene therapy"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy.",
-    "firstSeen": "2026-08-15",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-lgipo0",
-    "kind": "news",
-    "title": "FDA clears first self-balancing personal exoskeleton for wheelchair users - News-Medical",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWlkdldMU243aEhFbEJvMmlyN2ZCdmZnVzREOVl0SnUxWndJaFBiUkwyNndWTTdFTnRHRWZHMEtUXzE0RTlUZzkwREE2S0tLQWw1SGFHdUo0TXE2MVhFeS1SRThDYmRqTzlqTHc0QTM3RFRhVkVIQzFrdnA1VUtDaGJ5Nmd2NGd2dUc2ZjU1LTM0ajRYRTh3WHdEblY0amM3Ui1SZGw1VllsS25RcWNOVmZzUlZ6N3FxQ3RXZlVn?oc=5",
-    "outlet": "News-Medical",
-    "topic": "Technology",
-    "summary": "FDA clears first self-balancing personal exoskeleton for wheelchair users News-Medical",
-    "date": "2026-08-11",
-    "score": 10,
-    "tags": [
-     "Activity-based rehab & exoskeleton"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-08-12",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15551,9 +15518,9 @@
       "date": "2026-07-02"
      },
      {
-      "title": "As summer begins, doctors warn against diving into shallow water to prevent injuries - WBFF",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcDhfbTc3U1hiRDhtSG5oSW9lRGtTV3BHcVJjeEhiS1F5ZXZBckE0OWtKczlyYVVXX0JCTUFLU1RWMDB3Rm01QUEyYTAwRVpRWmxGR1BYekFEaU1nQkx0YmYzTHQ0aG44UjN6YllNRS1pdE05eGVxdGw3djNPc0RDRlBfTmd6MDNMSktENHZhRm1WUTlYTmpJTUZNcURLelV4LTJjUGF1ZFBQd25mN1BtUFFEeUM0OE5FTWZFeTBObkU?oc=5",
-      "date": "2026-06-20"
+      "title": "Water Safety Concerns This Summer - FOX 5 DC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wekE4ejdjU3JKUENfUDhST2sxY2ptUzY5UHBLeW5nQVdQT0FPaVJKenRHVkdhX1A5UnZNejVRZlUzRzZzME5VbmowTXJrS0YwSU9QcnRBRGl1YjJYZXfSAWNBVV95cUxQZFFQZjByeGFfTmZaRFAwRXBiNzQ5b2pFYjhVQzZFb2F1QjBlcVpCQUVvZF9DZXU0LUtmRDk1TzZFNnlWeHBsSXlVenotNkJ2WkplZ09BencxTjNmZ0tOd2R2ME0?oc=5",
+      "date": "2026-07-27"
      }
     ],
     "date": null,
@@ -15799,13 +15766,7 @@
     "title": "Reeve Foundation NeuroRecovery Network",
     "summary": "A network of clinics delivering standardised activity-based therapy, plus a free information-specialist service that answers individual questions.",
     "linkStatus": "unverified",
-    "recentNews": [
-     {
-      "title": "Orlando White Party Raises Funds for NextStep Orlando - Hoodline",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTJvSko3U3hlclAtWUtfcjU2OEJmY01URnoxeWkwdFByRmFkRGtiMWEtbUs1ck1OeExiNVVMVE13dmZ0MXhndzItZWowNEpEODBONHRQcnhFMkVyNXgxWXdGUHZ6R0FqUC1vUEphMzk0UERRZ1ZiSGlOQWhxdEFQbmhHRFJYbUlZOTJXQmdraGRsWWx6UTVySDg1M1YxU1J0SU04Q2ZR?oc=5",
-      "date": "2026-08-18"
-     }
-    ],
+    "recentNews": [],
     "date": null,
     "score": 0,
     "isNew": false,
