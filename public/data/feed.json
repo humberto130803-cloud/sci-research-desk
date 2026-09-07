@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-06T13:24:58.196Z",
- "date": "2026-09-06",
+ "generatedAt": "2026-09-07T15:31:20.044Z",
+ "date": "2026-09-07",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,8 +19,7 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "1 new paper.",
-   "2 new technology items."
+   "3 new technology items."
   ],
   "closingSoon": [
    {
@@ -44,9 +43,9 @@
    "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 1,
+   "newPapers": 0,
    "news": 45,
-   "newNews": 2,
+   "newNews": 3,
    "centers": 12,
    "archived": 0
   }
@@ -13276,53 +13275,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42417538",
-    "kind": "paper",
-    "title": "From neural stem cells to cell-free exosome nanotherapy: reprogramming the injured spinal cord microenvironment for regeneration.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42417538/",
-    "doi": "10.1039/d6tb01356b",
-    "journal": "Journal of materials chemistry. B",
-    "authors": [
-     "Zhang C",
-     "Liu X",
-     "Zhao B",
-     "Luo J"
-    ],
-    "authorLine": "Zhang C, Liu X, Zhao B et al.",
-    "pubType": "Journal Article, Review",
-    "date": "2026-07-29",
-    "summary": "Spinal cord injury (SCI) is a severely disabling neurological disorder caused by primary mechanical trauma and subsequent secondary damage, resulting in persistent neurological deficits and imposing a significant social and economic burden. The existing treatment methods - including drug therapy, surgical treatment, and rehabilitation therapy - have limited effects in promoting functional recovery. In recent years, neural stem cells (NSCs) and their derived exosomes have emerged as highly promising innovative treatment options. NSCs promote neural repair through their multifaceted differentiation ability, secretion of neurotrophic factors, and regulation of the immune response in the injured microenvironment. However, factors such as low graft survival rate, ethical restrictions, and the risk of immune rejection have hindered their clinical translation. In contrast, NSC-derived exosomes…",
-    "score": 23,
-    "tags": [
-     "Spinal cord stimulation",
-     "Regenerative / cell therapy"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "scs"
-      ]
-     },
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "stem cell",
-       "regeneration"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy.",
-    "firstSeen": "2026-07-30",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42596832",
     "kind": "paper",
     "title": "Early high‑frequency spinal cord stimulation modulates the ROS/p38 MAPK/NF‑κB and CXCL10/CXCR3 pathways to alleviate neuropathic pain and promote spinal cord injury repair.",
@@ -13612,7 +13564,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-09-06",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13746,6 +13698,35 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42548190",
+    "kind": "paper",
+    "title": "Beyond the Neurological Level of Injury: The Critical Role of Electrodiagnostics in Cervical Spinal Cord Injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42548190/",
+    "doi": "10.1002/mus.70373",
+    "journal": "Muscle & nerve",
+    "authors": [
+     "Adewuyi AA",
+     "Ramsey MD",
+     "Franz CK"
+    ],
+    "authorLine": "Adewuyi AA, Ramsey MD, Franz CK",
+    "pubType": "Editorial",
+    "date": "2026-10-01",
+    "summary": "",
+    "score": 20,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-08-04",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42468895",
     "kind": "paper",
     "title": "Pairing ampakine with brief hypoxia evokes phrenic neuroplasticity via a spinal NMDA receptor-mediated mechanism.",
@@ -13790,24 +13771,25 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42415699",
+    "id": "PMID42617206",
     "kind": "paper",
-    "title": "Intramedullary mesenchymal stromal cell transplantation in humans: Procedural safety and oncological risk reassessment.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42415699/",
-    "doi": "10.1177/09636897261466805",
-    "journal": "Cell transplantation",
+    "title": "Expert consensus-based clinical roadmap for non-invasive brain stimulation in children and adolescents with cerebral palsy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42617206/",
+    "doi": "10.1016/j.braindev.2026.104586",
+    "journal": "Brain & development",
     "authors": [
-     "Nonnarath C",
-     "Serratrice N"
+     "Goulardins JB",
+     "Marques JB",
+     "da Silveira Santos Machado B",
+     "de Amorim SC"
     ],
-    "authorLine": "Nonnarath C, Serratrice N",
-    "pubType": "Journal Article, Review",
-    "date": "2026-01-01",
-    "summary": "Intramedullary cellular transplantation within the human spinal cord has historically been regarded as a highly experimental intervention associated with substantial theoretical risk. However, cumulative clinical evidence progressively challenges this perception. Multiple early-phase clinical studies have demonstrated the technical feasibility and procedural tolerability of intramedullary and intralesional cellular delivery in spinal cord injury (SCI), employing heterogeneous cellular products, including bone marrow-derived mononuclear cells, mesenchymal stromal cells (MSCs), and neural stem cells. Despite considerable heterogeneity in cellular composition, dosing strategies, injection volumes, and delivery paradigms, severe injection-related complications remain uncommon. Reported adverse events are predominantly mild and transient, while procedure-induced neurological deterioration has…",
-    "score": 19,
+    "authorLine": "Goulardins JB, Marques JB, da Silveira Santos Machado B et al.",
+    "pubType": "Journal Article, Review, Consensus Statement",
+    "date": "2026-10-01",
+    "summary": "To develop an expert consensus-based clinical roadmap, informed by a structured review of current evidence, to support clinical reasoning regarding the application of non-invasive brain stimulation (NIBS) in children and adolescents with cerebral palsy (CP). A structured review of the literature was conducted to identify evidence regarding the use of NIBS in paediatric CP, prioritising meta-analyses, systematic reviews, and randomized controlled trials. Evidence related to stimulation targets, protocol characteristics, motor outcomes, and safety considerations was synthesised to inform the development of a preliminary clinical roadmap. The roadmap subsequently underwent refinement through a modified Delphi process involving clinicians and researchers with expertise in paediatric neurorehabilitation and neuromodulation. The Delphi process focused on evaluating the clinical applicability,…",
+    "score": 18,
     "tags": [
-     "Spinal cord stimulation",
-     "Regenerative / cell therapy"
+     "Spinal cord stimulation"
     ],
     "flags": [],
     "matchedPriorities": [
@@ -13815,21 +13797,13 @@
       "key": "stim",
       "label": "Spinal cord stimulation",
       "matched": [
-       "scs"
-      ]
-     },
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "stem cell",
-       "mesenchymal"
+       "neuromodulation"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy.",
-    "firstSeen": "2026-07-28",
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-08-20",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14035,100 +14009,115 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42498703",
+    "id": "PMID42603252",
     "kind": "paper",
-    "title": "Multidisciplinary Management of Recurrent Laryngeal Nerve Injury After Transhiatal Esophagectomy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42498703/",
-    "doi": "10.1177/00031348261471503",
-    "journal": "The American surgeon",
+    "title": "Melatonin Ameliorates Neuropathic Pain in Mice by Regulating Pyroptosis Through Gut Microbiota-Mediated Linoleic Acid.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42603252/",
+    "doi": "10.1007/s12035-026-06124-z",
+    "journal": "Molecular neurobiology",
     "authors": [
-     "Evans C",
-     "Jomy A",
-     "Martínez MDP",
-     "Osman H"
-    ],
-    "authorLine": "Evans C, Jomy A, Martínez MDP et al.",
-    "pubType": "Journal Article",
-    "date": "2026-07-24",
-    "summary": "Recurrent laryngeal nerve (RLN) injury is a significant morbidity following transhiatal esophagectomy (THE). While surgical platforms have evolved, the clinical burden and longitudinal management of these injuries remain under-characterized. This study evaluates RLN injury incidence and the effectiveness of a multidisciplinary management pathway in a contemporary cohort. A retrospective review of 135 patients undergoing THE with cervical anastomosis between 2017 and 2024 was conducted. The primary outcome was confirmed RLN injury via laryngoscopy and postoperative hoarseness. Predictors of injury and specialty follow-through with Otolaryngology (ENT) and Speech-Language Pathology (SLP) were analyzed. Postoperative hoarseness occurred in 43.7% (n = 59) of patients, while RLN injury was confirmed in 11.9% (n = 16), which falls within the reported national average. Surgical approach was not…",
-    "score": 16,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42415143",
-    "kind": "paper",
-    "title": "Transcutaneous spinal cord stimulation for motor function and functional independence in patients with spinal cord injury: a systematic review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42415143/",
-    "doi": "10.1186/s12984-026-02086-4",
-    "journal": "Journal of neuroengineering and rehabilitation",
-    "authors": [
-     "Liu J",
      "Wang Y",
-     "Chen X",
-     "Hou B"
+     "Yuan B",
+     "Li Y",
+     "Sun Y"
     ],
-    "authorLine": "Liu J, Wang Y, Chen X et al.",
-    "pubType": "Journal Article, Review",
-    "date": "2026-07-07",
-    "summary": "Spinal cord injury (SCI) can lead to severe impairments in motor, sensory, and autonomic functions, significantly affecting patients' functional independence and quality of life. Transcutaneous spinal cord stimulation (tSCS), as an emerging non-invasive neuromodulation technique, has shown potential in improving motor function. However, existing studies demonstrate substantial heterogeneity, and its clinical efficacy remains unclear. To systematically evaluate the effects of tSCS on motor function and functional independence in individuals with SCI, and to explore the potential influence of patient characteristics and stimulation parameters on treatment outcomes. A systematic search of PubMed, Web of Science, Cochrane Library, Embase, and Scopus was conducted from database inception to March 23, 2026. Eligible studies included randomized controlled trials (RCTs), non-randomized studies,…",
+    "authorLine": "Wang Y, Yuan B, Li Y et al.",
+    "pubType": "Journal Article",
+    "date": "2026-08-15",
+    "summary": "Neuropathic pain (NP) presents a significant challenge for patients with chronic diseases, characterized by spontaneous pain and hyperalgesia, with recent studies highlighting the involvement of the gut microbiota in its pathogenesis. Increasing evidence suggests that melatonin mitigates systemic inflammation and remodels gut microbiota. The present study further explored the mechanism by which oral melatonin ameliorates pain-related behavior following peripheral nerve injury. In this study, mice with chronic constriction injury (CCI) were orally administered melatonin (100&#xa0;mg/kg) for 14&#xa0;days. Pain behaviors were evaluated using mechanical allodynia and thermal hyperalgesia tests. Gut microbiota profiles were assessed via 16S rRNA sequencing, and microbiota-dependent effects were verified through antibiotic treatment (ABX) and fecal microbiota transplantation (FMT). Linoleic…",
     "score": 16,
     "tags": [
-     "Spinal cord stimulation"
+     "Neuropathic pain & spasticity",
+     "Chronic injury"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
       "matched": [
-       "transcutaneous spinal",
-       "spinal cord stimulation",
-       "neuromodulation"
+       "neuropathic pain"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-07-28",
+    "why": "Surfaced for neuropathic pain & spasticity, chronic.",
+    "firstSeen": "2026-08-16",
     "isNew": false,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "PMID42548190",
+    "id": "PMID42544174",
     "kind": "paper",
-    "title": "Beyond the Neurological Level of Injury: The Critical Role of Electrodiagnostics in Cervical Spinal Cord Injury.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42548190/",
-    "doi": "10.1002/mus.70373",
-    "journal": "Muscle & nerve",
+    "title": "Medical cannabis improved self-reported spasticity rating in patients with chronic spinal cord injury: a placebo-controlled, double-blind, crossover pilot clinical trial.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42544174/",
+    "doi": "10.1177/17562864261468464",
+    "journal": "Therapeutic advances in neurological disorders",
     "authors": [
-     "Adewuyi AA",
-     "Ramsey MD",
-     "Franz CK"
+     "Boonthanakorn N",
+     "Pattanakuhar S",
+     "Kammuang-Lue P",
+     "Tongprasert S"
     ],
-    "authorLine": "Adewuyi AA, Ramsey MD, Franz CK",
-    "pubType": "Editorial",
-    "date": "2026-08-04",
-    "summary": "",
+    "authorLine": "Boonthanakorn N, Pattanakuhar S, Kammuang-Lue P et al.",
+    "pubType": "Journal Article",
+    "date": "2026-08-01",
+    "summary": "Previous studies demonstrated that cannabinoids may reduce spasticity in patients with spinal cord injury (SCI); however, the effect of naturally extracted THC:CBD oil, the most commonly used naturally extracted cannabinoids, has yet to be elucidated. To assess the effect of a 1:1 THC:CBD oil on reducing spasticity in chronic SCI patients. A single-center, placebo-controlled, double-blind crossover clinical trial. Sixteen chronic SCI patients with intractable spasticity were randomly assigned to either the intervention (1:1 THC:CBD oil) or control (placebo) phase for 1 month, then crossed over. The primary outcome (combined Ashworth Scale [AS] of all involved muscle groups) and the secondary outcomes, including patient-rated visual analog scale (VAS) of spasticity, were assessed before and after both phases and analyzed using a multilevel mixed-effects model. All participants completed…",
     "score": 16,
     "tags": [
-     "Cervical / tetraplegia"
+     "Neuropathic pain & spasticity",
+     "Chronic injury"
     ],
     "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
+      "matched": [
+       "spasticity"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for neuropathic pain & spasticity, chronic.",
+    "firstSeen": "2026-08-03",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42532241",
+    "kind": "paper",
+    "title": "Astragalus polysaccharide ameliorates spinal cord ischemia-reperfusion injury by inhibiting apoptosis and ferroptosis through the Nrf2/HO-1 signaling pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42532241/",
+    "doi": "10.1016/j.ijbiomac.2026.153800",
+    "journal": "International journal of biological macromolecules",
+    "authors": [
+     "Wang YX",
+     "Wen JX",
+     "Zhang YJ",
+     "Zhao YL"
+    ],
+    "authorLine": "Wang YX, Wen JX, Zhang YJ et al.",
+    "pubType": "Journal Article",
+    "date": "2026-07-30",
+    "summary": "Degenerative cervical myelopathy (DCM) is a challenging neurological disorder characterized by chronic spinal cord compression, and surgical decompression is the only established treatment to relieve this compression. However, post-decompression spinal cord ischemia-reperfusion (IR) injury paradoxically worsens neurological function, and effective therapeutic treatments remain lacking. In this study, we purified a homogeneous and structurally well-defined Astragalus polysaccharide (APS) from Astragali Radix through sequential water extraction, alcohol precipitation, ion-exchange, and gel-filtration chromatography. Structural analysis revealed that this APS is a unique, low-molecular-weight, branched neutral polysaccharide with a (1&#xa0;&#x2192;&#xa0;4)-&#x3b1;-D-glucan backbone. In a decompressive DCM rat model, 28&#xa0;days of APS gavage improved motor function recovery (BBB scale and…",
+    "score": 15,
+    "tags": [
+     "Cervical / tetraplegia",
+     "Chronic injury"
+    ],
+    "flags": [
+     {
+      "level": "info",
+      "text": "Off-target topic: rat model."
+     }
+    ],
     "matchedPriorities": [],
     "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-08-04",
+    "why": "Surfaced for cervical-level, chronic.",
+    "firstSeen": "2026-07-31",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14185,28 +14174,6 @@
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-08-30",
     "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-18jnjth",
-    "kind": "news",
-    "title": "Maryland cuts services to quadriplegic former teacher, governor's committee member",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3FPbkZuV3RRQlRIUER0XzhTUlNIVXpxY2ZRNktReDNVS1d5bFdaTHIzVnZ3andwX2swZG9nV041Tkk2YWplZm84SXVTVU5YQktuOXJZSVdsRmVtRFJqTGpuQ0VBb1lBWXNyUnVxYmh5SFRzWmJZN3pHNnVHNWtGV2RCcXlvOUpCRXZyWlpYa3NnM24zZnp1UDQzWHNPLVZsbjJBemE5TGloSmNEZjd0b3NqZC10ZUY1VDJlcEdzWGFfWFpwUVE?oc=5",
-    "outlet": "foxbaltimore.com",
-    "topic": "Technology",
-    "summary": "Maryland cuts services to quadriplegic former teacher, governor's committee member foxbaltimore.com",
-    "date": "2026-08-24",
-    "score": 20,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-09-06",
-    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14303,36 +14270,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-rkwrcd",
-    "kind": "news",
-    "title": "Research on Implantable Neuromodulation and Spinal Cord",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeE0yVmcxdGtzRG5mdVdVbkFaNUpwUFFHQlV5a0xvSzg3THA4TlhkNFdwMk9FUlZMMXRfa2NMTm14YjZqdWdVcVV4aGJCalpDUFR1MXNxQ01GcS1QQnFwajdXTzRNWm1DTXN3U1VrU3JFeTBvdEhhd18tM2Y4LXZHT1FhT09uS28ySEh1QndrWW5CMmFCR2c?oc=5",
-    "outlet": "openPR.com",
-    "topic": "Technology",
-    "summary": "Research on Implantable Neuromodulation and Spinal Cord openPR.com",
-    "date": "2026-09-03",
-    "score": 18,
-    "tags": [
-     "Spinal cord stimulation"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-09-04",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1k2w45n",
     "kind": "news",
     "title": "Neuromodulation for restoring and amplifying brain function",
@@ -14358,7 +14295,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation.",
     "firstSeen": "2026-09-06",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14367,9 +14304,9 @@
     "kind": "news",
     "title": "A century of deep brain stimulation: toward precision neuromodulation",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNWd3RV9aQ243dzZiaGxMaFpRZDB1MjhhUU1EOGxvZ1JtRFhHZnVDMjBwd3dxcnBWcDBHY2xqTmdoV2pkVHV0OHYyOVFvX0RyY3pFRUZsZGlqREZM?oc=5",
-    "outlet": "eurekalert.org",
+    "outlet": "EurekAlert!",
     "topic": "Company watch",
-    "summary": "A century of deep brain stimulation: toward precision neuromodulation eurekalert.org",
+    "summary": "A century of deep brain stimulation: toward precision neuromodulation EurekAlert!",
     "date": "2026-09-03",
     "score": 18,
     "tags": [
@@ -14463,9 +14400,9 @@
     "kind": "news",
     "title": "Stem cell - Neural, Regeneration, Differentiation",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUE95c1dFRFVNZnJZUGowYXZJWEx1VVdWeko3YWhkcDRWTXVhLS1OWEtZcEl0VHBVeVFRQlpmVGRaQ05xQno4cWFwOFQwUHdONlR6SVgyZUFGdDlHVUxzRnlKdVpzMDRJeWVNTmRaOA?oc=5",
-    "outlet": "Britannica",
+    "outlet": "britannica.com",
     "topic": "Technology",
-    "summary": "Stem cell - Neural, Regeneration, Differentiation Britannica",
+    "summary": "Stem cell - Neural, Regeneration, Differentiation britannica.com",
     "date": "2026-08-31",
     "score": 17,
     "tags": [
@@ -14550,36 +14487,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-15q826h",
-    "kind": "news",
-    "title": "China conducts world's first commercial implantation of invasive BCI",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaU1nZTk3Uk9fNU5Kb041bVQ2Y2FtcXBXRjZVVWpVXzBEZXBTaHlweVRid0J1el9yNE51R2p4YWJUbVlkNWZqakZpejJWM3FSM0hMa3FtejBUeHNsakxsME8zazlXQllMTTViRmlEQWxPZ2FTbGdTbGpwVkNScWVTcWgtVFF1UDBDRVdldXl3MnpidGpFTE5kLXV1U2xTZGZJVGlwd1VTZW4?oc=5",
-    "outlet": "UA.NEWS",
-    "topic": "Technology",
-    "summary": "China conducts world's first commercial implantation of invasive BCI UA.NEWS",
-    "date": "2026-08-28",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-08-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1xrcvdj",
     "kind": "news",
     "title": "Top Neurotech Stocks 2026: Brain Implants Go Public",
@@ -14605,6 +14512,28 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-09-05",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-18jnjth",
+    "kind": "news",
+    "title": "Maryland cuts services to quadriplegic former teacher, governor's committee member",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3FPbkZuV3RRQlRIUER0XzhTUlNIVXpxY2ZRNktReDNVS1d5bFdaTHIzVnZ3andwX2swZG9nV041Tkk2YWplZm84SXVTVU5YQktuOXJZSVdsRmVtRFJqTGpuQ0VBb1lBWXNyUnVxYmh5SFRzWmJZN3pHNnVHNWtGV2RCcXlvOUpCRXZyWlpYa3NnM24zZnp1UDQzWHNPLVZsbjJBemE5TGloSmNEZjd0b3NqZC10ZUY1VDJlcEdzWGFfWFpwUVE?oc=5",
+    "outlet": "WBFF",
+    "topic": "Technology",
+    "summary": "Maryland cuts services to quadriplegic former teacher, governor's committee member WBFF",
+    "date": "2026-08-24",
+    "score": 16,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-09-06",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14640,43 +14569,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-j64h5s",
-    "kind": "news",
-    "title": "Full-Stack Designs Bring Intelligence to Brain-Computer Interfaces",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2x6YjdHQ1U2cTgwUG5EWFhJVnRiVm9waURTZDk5SVZBend4X1JOejE2UGJKZVZwYWpISDZacE01WDlhZXlHSnhzNmI1Rnh4SXRiRlMtUTUyeUo5b2R0WnlteW9DTVRrUGV3NDh4V09iQUNXZUpfZHVrOVg3VW5Zd29ZazV0c2t6X1I3TVNmYzdpLTNkM0E?oc=5",
-    "outlet": "Bioengineer.org",
-    "topic": "Technology",
-    "summary": "Full-Stack Designs Bring Intelligence to Brain-Computer Interfaces Bioengineer.org",
-    "date": "2026-08-30",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-08-30",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-16deyfs",
     "kind": "news",
     "title": "Butterfly Network, Merge Labs partner on ultrasound brain-computer interfaces",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXpXNkJyYkhncDE1N3lYTGg3Tk5kd2tocGVjaDdaR21jcDQ3TXpVZ3BZQVdiVEFmelEtM1A0dVNXVDB6MG5wSjEtUlZlN2FmeW8xT0taLUN3ODZ3YmJHWXdmakVGUDlMLTVFd21vamRTdVlSZkd0bk13RDVUTVFhZ2QwVHlqaFlscmJldkxBeURMSUtBNV9JOVRZMkViRVVNM2pxUFlXS0xyZUM2X2c?oc=5",
-    "outlet": "MobiHealthNews",
+    "outlet": "mobihealthnews.com",
     "topic": "Company watch",
-    "summary": "Butterfly Network, Merge Labs partner on ultrasound brain-computer interfaces MobiHealthNews",
+    "summary": "Butterfly Network, Merge Labs partner on ultrasound brain-computer interfaces mobihealthnews.com",
     "date": "2026-09-03",
     "score": 16,
     "tags": [
@@ -14734,9 +14633,9 @@
     "kind": "news",
     "title": "Subsense develops nanoparticle-based brain-computer interface with $27M in seed funding",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbDFpWnNaZG1SU09Dak1scWswaWtrbEdaYlVneG5MSUEyX0tYTlloR2VpMWNULXZFWWlRMmc2SDVDMXJZWjdrS0hFZjk5TXUwQ21MYUhnYzFCdDBLVnlVX3EyYnVkNFhmd3Y5d0tLTXhvZUlWZDFoUzhjSlVsX0FwM0tB?oc=5",
-    "outlet": "Crypto Briefing",
+    "outlet": "cryptobriefing.com",
     "topic": "Company watch",
-    "summary": "Subsense develops nanoparticle-based brain-computer interface with $27M in seed funding Crypto Briefing",
+    "summary": "Subsense develops nanoparticle-based brain-computer interface with $27M in seed funding cryptobriefing.com",
     "date": "2026-09-03",
     "score": 16,
     "tags": [
@@ -14795,9 +14694,9 @@
     "kind": "news",
     "title": "Wandercraft’s self-balancing exoskeleton wins FDA clearance",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGxZMFB5MnRaMDFMN3pEUDktV05ZTkRsYTNBTXpXMlhPNXBqNXlndmVpSDNUN3pBcnJyODRnUTdyQnBEMlBaQmVYb2MzVHZJVkRYN2RQblN3SmJSMWc5UTFVWG4tZ2cwLWw0a3VsMkJ1MW1pYmtQakFjR2tIUXk1ZWhweU91U1hva2lmWGNmQjY3eFowV0NZR19xaTUtMENYa05VYg?oc=5",
-    "outlet": "yahoo.com",
+    "outlet": "Yahoo",
     "topic": "Regulatory",
-    "summary": "Wandercraft’s self-balancing exoskeleton wins FDA clearance yahoo.com",
+    "summary": "Wandercraft’s self-balancing exoskeleton wins FDA clearance Yahoo",
     "date": "2026-08-13",
     "score": 16,
     "tags": [
@@ -14852,6 +14751,66 @@
     "exploredNote": null
    },
    {
+    "id": "news-y45up7",
+    "kind": "news",
+    "title": "Dual Stem Cell Treatment Restores Vision in First Human Trial",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmh0NkFYbjZRQjcxdDVycTFTd3hHanFhMFJIZURUQVd1MUR1RHBHbXJnVUFZMlZKUzVZQzhqbkhFcWxadEFKX2Mwc1B3VVVEckF2SkVSa1FzUjJEN1JIUGtXUlJCZ0o5MzFnNXQwWS1kWTBUTjVMMWJjbk9iUGR4ZHJQZFFfYnpsVm9TMU0wd0g?oc=5",
+    "outlet": "SciTechDaily",
+    "topic": "Technology",
+    "summary": "Dual Stem Cell Treatment Restores Vision in First Human Trial SciTechDaily",
+    "date": "2026-08-25",
+    "score": 15,
+    "tags": [
+     "Regenerative / cell therapy"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "stem cell"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for regenerative / cell therapy.",
+    "firstSeen": "2026-08-27",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1d01c7k",
+    "kind": "news",
+    "title": "Stem cell therapy in India: NMC tightens rules, bars use for unproven treatments",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQREkydjluMmFDVWdWVl9FYU44R0RLdElUQUxRX1U1MkNsbTRqMFEyYTNtNXYzbWlDZlZRSVozSFlwb2VMaGNxbXhxSkl3VnZfby00SkZvODg2dE56cTk2V3VTWU9BaDBVb0ZCcUpTaXpKTHh1aU5Sdlk5N2dJVk1KMDZ0dnlRdkQxbXJPX3Exa2w4bjc2MF9BOVFlVF9oLWFxMzctWV9wM2dwWlk4eGI1R3BmemtvQmhjblZMV2dRV0tkcE5yM3lrMlptSE9oQTJEMUdYNTBrWVlWUGdBUm56Sg?oc=5",
+    "outlet": "Deccan Herald",
+    "topic": "Technology",
+    "summary": "Stem cell therapy in India: NMC tightens rules, bars use for unproven treatments Deccan Herald",
+    "date": "2026-09-07",
+    "score": 15,
+    "tags": [
+     "Regenerative / cell therapy"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "stem cell"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for regenerative / cell therapy.",
+    "firstSeen": "2026-09-07",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-2fty84",
     "kind": "news",
     "title": "Spinal Cord Injury Market is Projected to Witness Significant Growth by 2036 Owing to the Expansion of Neuroprotective and Regenerative Therapies | DelveInsight",
@@ -14886,9 +14845,9 @@
     "kind": "news",
     "title": "ONWARD Medical begins testing spinal implant for walking",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQanB1eXFDNVdOTEhvbm5mdlRyN3hxYlhNWlFHMnQ0ejVKNnNwYnVvWnNLNkdvWXk4dlc3ZklCNDk4LW01d2xIcV9VODdtdHZ2RWxsYlFQWjRIcHlkY0QyVnlxVExoZWVEMzNvQnhfeXRFZFFiSXhuS2VSUzZtbWRRMVJqM3dpeHZ0aWdj?oc=5",
-    "outlet": "IO+",
+    "outlet": "ioplus.nl",
     "topic": "Technology",
-    "summary": "ONWARD Medical begins testing spinal implant for walking IO+",
+    "summary": "ONWARD Medical begins testing spinal implant for walking ioplus.nl",
     "date": "2026-09-03",
     "score": 14,
     "tags": [
@@ -14899,36 +14858,6 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-09-03",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-16erysg",
-    "kind": "news",
-    "title": "FDA-Approved Crutch-Free Self-Balancing Personal Exoskeleton: World’s First Breakthrough in Wearable Mobility Tech",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBER2ZmdTdlcHdHQWI4ZHkxYjVHMElRWElnOTk2Nm5aaTNlUEs1V2puSE9vYU5nRlpsM0hQMGx6dXVYakktc0VsY19ncDA3eEU2QkVJ?oc=5",
-    "outlet": "36 Kr",
-    "topic": "Technology",
-    "summary": "FDA-Approved Crutch-Free Self-Balancing Personal Exoskeleton: World’s First Breakthrough in Wearable Mobility Tech 36 Kr",
-    "date": "2026-09-04",
-    "score": 14,
-    "tags": [
-     "Activity-based rehab & exoskeleton"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-09-04",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15074,6 +15003,50 @@
     "exploredNote": null
    },
    {
+    "id": "news-1re6ssv",
+    "kind": "news",
+    "title": "China approves brain chip devices to rival Elon Musk’s Neuralink",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZk0wSEtxbU1aTC1sdFdmVlZJclB4NkVOMFNMYnc5QURjbVlYdWFDai1VT0Rndjg0NnVhd3ctQ2p2UnJ1WkxNczNiQmFuVThfTi1WV3lyVjMtV2drT1FuU3NaZTE3QXo1Qk5GeEtVYXdySTZQdFJ0QzdsMTRRTkRmemhROVA1bHI2M2FodndyYUoxMFk?oc=5",
+    "outlet": "inkl",
+    "topic": "Technology",
+    "summary": "China approves brain chip devices to rival Elon Musk’s Neuralink inkl",
+    "date": "2026-09-03",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-09-07",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-4fzq0x",
+    "kind": "news",
+    "title": "China’s Brain-Tech Race Challenges Musk’s Neuralink",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uNV9NSmNHZXdiN3FzLVV6dm1mcmViRElOeUtOeXJ3VlBvZDJsUUVLZVFWTXpPendhb3ozTWhmS19pV0xuRGR2dnNNLXd3RUptaHp6RFZxeWMyNXpHUzUzVHcwcnQ5dGhrSlUxaHZCZEU1bmpxYVE4S1dSMUFRZw?oc=5",
+    "outlet": "slguardian.org",
+    "topic": "Technology",
+    "summary": "China’s Brain-Tech Race Challenges Musk’s Neuralink slguardian.org",
+    "date": "2026-09-02",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-09-03",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-r0u4hi",
     "kind": "news",
     "title": "3D printing to make exoskeleton for brachial plexus paralysis precisely fitted and suitable for everyday use",
@@ -15108,9 +15081,9 @@
     "kind": "news",
     "title": "ONWARD Medical to Announce First-Half 2026 Results on September 9, 2026",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMmFTNE9adUdIVzY4X1lxSHlUU3FsTW1NZEN5T0dnQWJfalVybVpZZmliUFNuSzN2Wi1kZkVCVkZuYUhIb2owS2lRcTVuUE9DWUEwR0d4am9PaHMyS2VPbFVpeWtoa25qQ3BqYmhISGFLTk53cTNMelg1MFNrRXZtMVlTT2loZW5lV0tURmFmTmpIMzNjeGVCNHUzUGs4R2lOZ3BscjAyMERQa3JqRHFUeTFyOUFuRzNabllxbzFTS2t3elZlTXo4dTVXeExBSTlrUkVWb0t1Y2V0dw?oc=5",
-    "outlet": "globenewswire.com",
+    "outlet": "GlobeNewswire",
     "topic": "Company watch",
-    "summary": "ONWARD Medical to Announce First-Half 2026 Results on September 9, 2026 globenewswire.com",
+    "summary": "ONWARD Medical to Announce First-Half 2026 Results on September 9, 2026 GlobeNewswire",
     "date": "2026-09-04",
     "score": 14,
     "tags": [
@@ -15122,6 +15095,28 @@
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-09-04",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1mzl7lj",
+    "kind": "news",
+    "title": "ONWARD Medical NV",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd0N5ckdCVjY2NUIyYTV6VFltcWVpd2wzOTFfVDRjcVhqVUxXOHQ3MjJzRnRWTm1DNkZMbUZfcVBrekJvT1FHdWJZNXBrLV9uYXB1M2VQODlhV0tXNmV0OVo5SFhoNUwteU43RXE1bFYtRTVYWWJ3SGZjSzZNb3Zhd21BbUhFTnc1RWdoUVZSUzBoaHVKUlE?oc=5",
+    "outlet": "Via Ritzau",
+    "topic": "Company watch",
+    "summary": "ONWARD Medical NV Via Ritzau",
+    "date": "2026-09-03",
+    "score": 14,
+    "tags": [
+     "Watchlist: Onward Medical"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-09-07",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -15231,13 +15226,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-1imck42",
+    "id": "news-16erysg",
     "kind": "news",
-    "title": "Rigid Exoskeleton Market Analysis Reveals Trends in Industry Demand Evolution",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkk0MzF6NXhSVVBaYV9abnl3empPemt4N3kwRnM0YXZZaV8tS2NfRnJtWHFuM0tqdHdyaktQTm9tQkotd2ptUGVWOWVFdDF0SXctV1J6bWNvVDUwdjByMVg4XzVTalZPYkRWbTRHMHctMVlZNlA5TEY5R0xQQklHeEpSVkNNREZzVnozYVRBbkVQdS1HaWZqN3pTSHA?oc=5",
-    "outlet": "openPR.com",
+    "title": "FDA-Approved Crutch-Free Self-Balancing Personal Exoskeleton: World’s First Breakthrough in Wearable Mobility Tech",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBER2ZmdTdlcHdHQWI4ZHkxYjVHMElRWElnOTk2Nm5aaTNlUEs1V2puSE9vYU5nRlpsM0hQMGx6dXVYakktc0VsY19ncDA3eEU2QkVJ?oc=5",
+    "outlet": "36 Kr",
     "topic": "Company watch",
-    "summary": "Rigid Exoskeleton Market Analysis Reveals Trends in Industry Demand Evolution openPR.com",
+    "summary": "FDA-Approved Crutch-Free Self-Balancing Personal Exoskeleton: World’s First Breakthrough in Wearable Mobility Tech 36 Kr",
     "date": "2026-09-04",
     "score": 14,
     "tags": [
@@ -15255,37 +15250,7 @@
     ],
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-09-05",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-p54vzc",
-    "kind": "news",
-    "title": "Robotic Prosthetics Market Demonstrates Long-Term Growth Potential At 11.7% CAGR",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHNuQWhQdGdWN1gtNHVja3IwZkg3NUZ6Ym4tOExwbEFMb2NxbUtzMGdHcFVGWXNJdW5KNjZONjFfb0Y4cVJnMXdiZE9pQ09KZzRpTXNHT21GRW9fQkhKSTBBb1AyVE5UVU1MRDZTbTBLUnFaYUJqLV91VWZWMXI3ckd3djJ4VlNaN0FMcnUwWXVtSDZtUGY4?oc=5",
-    "outlet": "openPR.com",
-    "topic": "Company watch",
-    "summary": "Robotic Prosthetics Market Demonstrates Long-Term Growth Potential At 11.7% CAGR openPR.com",
-    "date": "2026-08-26",
-    "score": 14,
-    "tags": [
-     "Activity-based rehab & exoskeleton"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "robotic"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-08-27",
+    "firstSeen": "2026-09-04",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15408,7 +15373,7 @@
     "linkStatus": "unverified",
     "recentNews": [
      {
-      "title": "Sen. Rick Scott Announces Senate Salary Donation to the Shepherd Center in Honor... - rickscott.senate.gov",
+      "title": "Sen. Rick Scott Announces Senate Salary Donation to the Shepherd Center in Honor... - Senator Rick Scott (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMDNTVFV5LVlwVG1vbExkTVVFSGoweDlIcjRqRHhVTXpGNWd0cWd6ZWIzY2cxSVg3NDJuQm50cFpqVE50YmJMY3hCUTVOczFEcUZqN2NxeGdUbGlGRjBYODJLTVBfckFCVDhyaWwzNUY1VThpaGNCb0VCb0hfN0J5cHBsc1ZrV0NQVVZMd2VwQjd5dVZsZ1pvbW1VZlBIb3RYLUJwMVI2N0QySzE3ckh6Nmw4Zm9WdndSdWZrZzRHc3p1VDhHVmplOUxlTmtJU2hrZmg4WVlzb3p3ZEFLLUFoN2txazJwNnoxc28xMHUtNA?oc=5",
       "date": "2026-06-30"
      },
@@ -15418,7 +15383,7 @@
       "date": "2026-07-22"
      },
      {
-      "title": "ATL United players try adaptive gaming at Shepherd Center - FOX 5 Atlanta",
+      "title": "ATL United players try adaptive gaming at Shepherd Center - fox5atlanta.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CYWg3ODhKMVFwcXdIRVJLamxZdXJ1NEZaT0w0SGkzRnUtNlhJNEJiYlBvOWtLOC1rdzdsQW9lYmxUQmM5UHB4TkdQQzhmRnJBZGpkOUtSSU96RzRPZHpWZG1EX2zSAWpBVV95cUxNZEtxanJYWng5MmpKbUJNMVlZRlF4aE5LUUh2QTRJbWx6YmItbHVFdHRmRFEzM3NKOWI2d0lUakhkQnVoVUlFRERHZnUxejhjY3BiMDVjczBkWF9JYWpaSlhhdFVEQUgxS0JR?oc=5",
       "date": "2026-08-31"
      }
@@ -15498,7 +15463,7 @@
       "date": "2026-08-31"
      },
      {
-      "title": "Specialized rehabilitation team helps child reach milestones at Kennedy Krieger - yahoo.com",
+      "title": "Specialized rehabilitation team helps child reach milestones at Kennedy Krieger - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbE1NQVlELTVrSVRxby1VU1hvZzM3VDhDTFNweFRJNG05UzBlX1k1RVc0dDc4UGFjVW05TnlUa2tPZVNIWnBoOVhnc2oxU1lLZU9fWmJhUy1Yb1ZOblc5UEZDQXZfM0tlVFhYalVEMTJzSGdmVVdhVGVRcElSaFVMMUlKdEhYeXFIX1ZoSTlSWC1nX0FnSng4?oc=5",
       "date": "2026-08-31"
      },
@@ -15563,17 +15528,17 @@
     "linkStatus": "ok",
     "recentNews": [
      {
-      "title": "Miami Project Researchers Share Neurotrauma Discoveries at National Symposium - news.med.miami.edu",
+      "title": "Miami Project Researchers Share Neurotrauma Discoveries at National Symposium - University of Miami",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLURWNTRVaC1qYXNLOFhNUEhqS2NDMGxvZmh2VDdoZ2VMV3FKV1NNaHlFdGNkQkFGLWtNdlFIVi1FRXlldC1MQjlERmZKeDNPTVl6T3JsbjQ2b0ZhdEJwREhGYy1qM0FuUUhtNzIwMU1hR1prWjVyc2hNT01BZWhDR0Z4RGwyVy1aWUt2amFWNmVlcTZYUmdmbGQ2Zm8?oc=5",
       "date": "2026-07-20"
      },
      {
-      "title": "Personalizing Electrical Stimulation Therapy Improves Outcomes for Spinal Cord Injury Patients - news.med.miami.edu",
+      "title": "Personalizing Electrical Stimulation Therapy Improves Outcomes for Spinal Cord Injury Patients - University of Miami",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEM1eXNzNEhINVFMTmNPZWx1WXNSRjZVSTlTckZBbFJJZ2FrVm05R295MWlDSTk3aUVSMjdveldoU1NiT1l6STRqQ29rUlNJeS1STDRPb0hfVUhyNVFWVFpnSVZlUWx3eS12WjdDY05vXzRCZTFweGNwVVdmZ0ZQMHNFdTdDcmFJRk8zTXhVVFNBbENh?oc=5",
       "date": "2026-06-23"
      },
      {
-      "title": "New Miami Project Study Targets Neuropathic Pain and Cognitive Decline in Spinal Cord Injury Patients - news.med.miami.edu",
+      "title": "New Miami Project Study Targets Neuropathic Pain and Cognitive Decline in Spinal Cord Injury Patients - University of Miami",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDF6dFptUm5JN1hGeDFFRm5KUHQ1Q24wVVV6NlVpdjBXcTFoQ3lnVEo4QktGdjBXZEFNQnpUQnR5OFFDMWRTZnUzRFczRFoycVlLcl9Vb0YxbTR5cGVXUTQ5ZkVKRjJDdEV4b2s4OTlUQ1BBWFRNQVBERURPSHl3ei10Uk9hYm1BeXNMSzBKanFYNFNZcVV0VFd5YjM?oc=5",
       "date": "2026-06-22"
      }
