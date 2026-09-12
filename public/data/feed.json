@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-11T14:04:33.293Z",
- "date": "2026-09-11",
+ "generatedAt": "2026-09-12T13:22:02.953Z",
+ "date": "2026-09-12",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,7 +19,8 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "1 new technology item."
+   "1 new paper.",
+   "4 new technology items."
   ],
   "closingSoon": [
    {
@@ -43,9 +44,9 @@
    "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 0,
+   "newPapers": 1,
    "news": 45,
-   "newNews": 1,
+   "newNews": 4,
    "centers": 12,
    "archived": 0
   }
@@ -4738,76 +4739,6 @@
     "exploredNote": null
    },
    {
-    "id": "NCT07732972",
-    "kind": "trial",
-    "title": "Multilevel Multimodal Neurophysiological Integration for Investigating the Network Modulatory Mechanisms of Epidural Spinal Cord Stimulation",
-    "officialTitle": "Multilevel Multimodal Neurophysiological Integration for Investigating the Network Modulatory Mechanisms of Epidural Spinal Cord Stimulation",
-    "url": "https://clinicaltrials.gov/study/NCT07732972",
-    "summary": "This study will examine how the brain, spinal cord, and muscles communicate in people with spinal cord injury. Researchers will use noninvasive brain and muscle recordings together with spinal electrical recordings to better understand how epidural spinal cord stimulation (EES) affects nerve function. The results may help develop more effective and personalized rehabilitation treatments for people with spinal cord injury.",
-    "conditions": [
-     "Spinal Cord Injury(SCI)"
-    ],
-    "interventions": [
-     "DEVICE: participants will be divided into two disease cohorts: the spinal cord injury (SCI) group and the non-spinal cord injury (non-SCI) group."
-    ],
-    "sponsor": "Buddhist Tzu Chi General Hospital",
-    "status": "RECRUITING",
-    "phase": "",
-    "studyType": "OBSERVATIONAL",
-    "enrollment": 30,
-    "minAge": 20,
-    "maxAge": 70,
-    "stdAges": [
-     "ADULT",
-     "OLDER_ADULT"
-    ],
-    "sex": "ALL",
-    "date": "2026-07-29",
-    "startDate": "2026-08-01",
-    "completionDate": "2030-12-31",
-    "locations": [
-     {
-      "facility": "Buddhist Tzu Chi Medical Foundation Hualien Tzu Chi Hospital",
-      "city": "Hualien City",
-      "state": "",
-      "country": "Taiwan",
-      "status": "RECRUITING"
-     }
-    ],
-    "countries": [
-     "Taiwan"
-    ],
-    "contact": {
-     "name": "Yu-Chen Chen, M.D., Ph.D",
-     "email": "spring810569@gmail.com",
-     "phone": "+886-3-856-1825"
-    },
-    "eligibilityText": "Inclusion Criteria: A. Non-Spinal Cord Injury (Non-SCI) Group * Individuals without spinal cord injury. * Patients diagnosed with chronic neuropathic pain who meet the criteria for routine temporary epidural spinal cord stimulation (EES) implantation therapy. * Patients who have undergone temporary epidural spinal cord stimulation (EES) implantation. * Ability to understand and follow motor instructions. * Age between 20 and 70 years. B. Spinal Cord Injury (SCI) Group * Patients with chronic spinal cord injury. * Patients who have undergone temporary epidural spinal cord stimulation (EES) implantation. * American Spinal Injury Association Impairment Scale (AIS) grades A-D. * Spinal cord injury levels between C3 and L1. * Ability to understand and follow motor instructions. * Age between 20 and 70 years. Exclusion Criteria: * Individuals with severe psychiatric disorders or cognitive impairments, including major depressive disorder, schizophrenia, or dementia, that may affect their ability to understand the study procedures or comply with study instructions. * Individuals who are unable to maintain consciousness, follow instructions, or complete study tasks, including motor tasks, isometric contractions, or resting-state tasks. * Individuals with severe medical conditions and unstable clinical status, such as uncontrolled cardiovascular disease, severe infection, respiratory failure, or other conditions deemed unsuitable for study participation by the attending physician. * Individuals with abnormal positioning, inadequate fixation, or complications related to temporary epidural spinal cord stimulation (EES) leads, including infection, significant pain, or neurological deterioration, as determined by clinical evaluation to be unsuitable for study recordings. * Individuals currently using medications that may significantly affect neurophysiological signals, such as high-dose sedatives, anesthetic agents, or other medications considered by the research team to interfer",
-    "score": 44,
-    "tags": [
-     "Spinal cord stimulation",
-     "Cervical / tetraplegia",
-     "Chronic injury",
-     "Age OK (cap 70)"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "spinal cord stimulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation, cervical-level, chronic.",
-    "firstSeen": "2026-07-30",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "NCT06094205",
     "kind": "trial",
     "title": "Feasibility of the BrainGate2 Neural Interface System in Persons With Tetraplegia (BG-Speech-02)",
@@ -7570,6 +7501,76 @@
     "exploredNote": null
    },
    {
+    "id": "NCT07732972",
+    "kind": "trial",
+    "title": "Multilevel Multimodal Neurophysiological Integration for Investigating the Network Modulatory Mechanisms of Epidural Spinal Cord Stimulation",
+    "officialTitle": "Multilevel Multimodal Neurophysiological Integration for Investigating the Network Modulatory Mechanisms of Epidural Spinal Cord Stimulation",
+    "url": "https://clinicaltrials.gov/study/NCT07732972",
+    "summary": "This study will examine how the brain, spinal cord, and muscles communicate in people with spinal cord injury. Researchers will use noninvasive brain and muscle recordings together with spinal electrical recordings to better understand how epidural spinal cord stimulation (EES) affects nerve function. The results may help develop more effective and personalized rehabilitation treatments for people with spinal cord injury.",
+    "conditions": [
+     "Spinal Cord Injury(SCI)"
+    ],
+    "interventions": [
+     "DEVICE: participants will be divided into two disease cohorts: the spinal cord injury (SCI) group and the non-spinal cord injury (non-SCI) group."
+    ],
+    "sponsor": "Buddhist Tzu Chi General Hospital",
+    "status": "RECRUITING",
+    "phase": "",
+    "studyType": "OBSERVATIONAL",
+    "enrollment": 30,
+    "minAge": 20,
+    "maxAge": 70,
+    "stdAges": [
+     "ADULT",
+     "OLDER_ADULT"
+    ],
+    "sex": "ALL",
+    "date": "2026-07-29",
+    "startDate": "2026-08-01",
+    "completionDate": "2030-12-31",
+    "locations": [
+     {
+      "facility": "Buddhist Tzu Chi Medical Foundation Hualien Tzu Chi Hospital",
+      "city": "Hualien City",
+      "state": "",
+      "country": "Taiwan",
+      "status": "RECRUITING"
+     }
+    ],
+    "countries": [
+     "Taiwan"
+    ],
+    "contact": {
+     "name": "Yu-Chen Chen, M.D., Ph.D",
+     "email": "spring810569@gmail.com",
+     "phone": "+886-3-856-1825"
+    },
+    "eligibilityText": "Inclusion Criteria: A. Non-Spinal Cord Injury (Non-SCI) Group * Individuals without spinal cord injury. * Patients diagnosed with chronic neuropathic pain who meet the criteria for routine temporary epidural spinal cord stimulation (EES) implantation therapy. * Patients who have undergone temporary epidural spinal cord stimulation (EES) implantation. * Ability to understand and follow motor instructions. * Age between 20 and 70 years. B. Spinal Cord Injury (SCI) Group * Patients with chronic spinal cord injury. * Patients who have undergone temporary epidural spinal cord stimulation (EES) implantation. * American Spinal Injury Association Impairment Scale (AIS) grades A-D. * Spinal cord injury levels between C3 and L1. * Ability to understand and follow motor instructions. * Age between 20 and 70 years. Exclusion Criteria: * Individuals with severe psychiatric disorders or cognitive impairments, including major depressive disorder, schizophrenia, or dementia, that may affect their ability to understand the study procedures or comply with study instructions. * Individuals who are unable to maintain consciousness, follow instructions, or complete study tasks, including motor tasks, isometric contractions, or resting-state tasks. * Individuals with severe medical conditions and unstable clinical status, such as uncontrolled cardiovascular disease, severe infection, respiratory failure, or other conditions deemed unsuitable for study participation by the attending physician. * Individuals with abnormal positioning, inadequate fixation, or complications related to temporary epidural spinal cord stimulation (EES) leads, including infection, significant pain, or neurological deterioration, as determined by clinical evaluation to be unsuitable for study recordings. * Individuals currently using medications that may significantly affect neurophysiological signals, such as high-dose sedatives, anesthetic agents, or other medications considered by the research team to interfer",
+    "score": 40,
+    "tags": [
+     "Spinal cord stimulation",
+     "Cervical / tetraplegia",
+     "Chronic injury",
+     "Age OK (cap 70)"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation, cervical-level, chronic.",
+    "firstSeen": "2026-07-30",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "NCT05705453",
     "kind": "trial",
     "title": "Epidural Stimulation After Neurologic Damage: Long-Term Outcomes",
@@ -7998,7 +7999,7 @@
     "eligible": false,
     "why": "Age cap is 18. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
     "firstSeen": "2026-09-11",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11558,63 +11559,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42439388",
-    "kind": "paper",
-    "title": "Functional recovery and variability in response to spinal cord transcutaneous stimulation combined with activity-based training: Insights from a multi-case study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42439388/",
-    "doi": "10.1080/10790268.2026.2672828",
-    "journal": "The journal of spinal cord medicine",
-    "authors": [
-     "Zhang F",
-     "Ravi M",
-     "Kirshblum S",
-     "Forrest GF"
-    ],
-    "authorLine": "Zhang F, Ravi M, Kirshblum S, Forrest GF",
-    "pubType": "Journal Article",
-    "date": "2026-07-13",
-    "summary": "Spinal cord transcutaneous stimulation (scTS) combined with activity-based training (ABT) has shown promise for improving upper limb function after cervical spinal cord injury (SCI). However, factors underlying variability in functional recovery remain unclear. This study examined the functional recovery and inter-individual variability in response to scTS&#x2009;+&#x2009;ABT in individuals with chronic cervical SCI. Preliminary multi-case study with pre- and post-intervention evaluations conducted in a rehabilitation laboratory. Five male adults with chronic cervical SCI (C3-C7; AIS A-D). All participants received scTS delivered over cervical/thoracic segments combined with upper limb ABT. Intervention dosage ranged from 16 to 54 sessions (60&#x2005;min per session, 2-3 sessions per week). The Graded Redefined Assessment of Strength, Sensibility, and Prehension (GRASSP), handgrip and…",
-    "score": 54,
-    "tags": [
-     "Hand & arm function",
-     "Spinal cord stimulation",
-     "Activity-based rehab & exoskeleton",
-     "Cervical / tetraplegia",
-     "AIS C/D in scope",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper limb"
-      ]
-     },
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "transcutaneous stimulation"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "activity-based"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42463883",
     "kind": "paper",
     "title": "A neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia.",
@@ -12536,6 +12480,53 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42512505",
+    "kind": "paper",
+    "title": "Robotic Rehabilitation in Spinal Cord Injury: Neurophysiological Basis and Severity-Based Clinical Framework.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42512505/",
+    "doi": "10.3390/brainsci16070732",
+    "journal": "Brain sciences",
+    "authors": [
+     "Calabrò RS",
+     "Calderone A",
+     "Gregorio TD",
+     "Onesta MP"
+    ],
+    "authorLine": "Calabrò RS, Calderone A, Gregorio TD et al.",
+    "pubType": "Journal Article, Review",
+    "date": "2026-07-11",
+    "summary": "Background/Objectives : Spinal cord injury (SCI) causes heterogeneous motor, sensory, autonomic, and participation limitations; recovery priorities vary by injury level, completeness, time since injury and residual function. Robotic rehabilitation has expanded from assistive technology to restorative, compensatory and health-promoting interventions, but patient-tailored prescription frameworks remain underdeveloped. Methods : PubMed/MEDLINE was searched from database inception to May 2026 using predefined domain-specific strategies, and findings were synthesized narratively to integrate mechanistic, clinical, safety and implementation evidence. Results : Robotic systems can increase task-specific repetition, sensorimotor feedback, active engagement and quantitative monitoring. Upper-limb robotics are feasible in cervical SCI and may support reach, grasp and activities of daily living,…",
+    "score": 28,
+    "tags": [
+     "Hand & arm function",
+     "Activity-based rehab & exoskeleton",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "grasp"
+      ]
+     },
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "robotic"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42686288",
     "kind": "paper",
     "title": "Neuromodulation in Spinal Cord Injury: Clinical Review.",
@@ -12627,53 +12618,6 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity, chronic.",
     "firstSeen": "2026-08-11",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42512505",
-    "kind": "paper",
-    "title": "Robotic Rehabilitation in Spinal Cord Injury: Neurophysiological Basis and Severity-Based Clinical Framework.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42512505/",
-    "doi": "10.3390/brainsci16070732",
-    "journal": "Brain sciences",
-    "authors": [
-     "Calabrò RS",
-     "Calderone A",
-     "Gregorio TD",
-     "Onesta MP"
-    ],
-    "authorLine": "Calabrò RS, Calderone A, Gregorio TD et al.",
-    "pubType": "Journal Article, Review",
-    "date": "2026-07-11",
-    "summary": "Background/Objectives : Spinal cord injury (SCI) causes heterogeneous motor, sensory, autonomic, and participation limitations; recovery priorities vary by injury level, completeness, time since injury and residual function. Robotic rehabilitation has expanded from assistive technology to restorative, compensatory and health-promoting interventions, but patient-tailored prescription frameworks remain underdeveloped. Methods : PubMed/MEDLINE was searched from database inception to May 2026 using predefined domain-specific strategies, and findings were synthesized narratively to integrate mechanistic, clinical, safety and implementation evidence. Results : Robotic systems can increase task-specific repetition, sensorimotor feedback, active engagement and quantitative monitoring. Upper-limb robotics are feasible in cervical SCI and may support reach, grasp and activities of daily living,…",
-    "score": 28,
-    "tags": [
-     "Hand & arm function",
-     "Activity-based rehab & exoskeleton",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "grasp"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "robotic"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
-    "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13987,6 +13931,44 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42728305",
+    "kind": "paper",
+    "title": "Postural changes and motor evoked potentials following percutaneous spinal cord epidural stimulation in spinal cord injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42728305/",
+    "doi": "10.1038/s41394-026-00753-1",
+    "journal": "Spinal cord series and cases",
+    "authors": [
+     "Hessavi S",
+     "Schroeder W",
+     "Alazzam A",
+     "Uzair Rehman M"
+    ],
+    "authorLine": "Hessavi S, Schroeder W, Alazzam A et al.",
+    "pubType": "Journal Article, Case Reports",
+    "date": "2026-09-11",
+    "summary": "Percutaneous spinal cord epidural stimulation (pSCES) is an effective modality for managing pain. However, the use of pSCES in restoration of motor control after SCI is still under research exploration. Today, the effects of postural changes on pSCES-motor control are still controversial. Two participants with complete SCI underwent implantation of pSCES. The motor recruitment curves of motor units of two different agonist-antagonist muscle groups were captured in a supine position and in a standing position using a standing frame. The amplitudes of the motor evoked response were presented in absolute or relative to the maximum response. Both narrow and wide field pSCES configurations elicited intensity-dependent EMG responses across lower-limb muscles, with substantially greater amplitudes in supine compared to standing. Transitioning to standing produced marked bilateral attenuation of…",
+    "score": 18,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "epidural stimulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-09-12",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42538116",
     "kind": "paper",
     "title": "Testing neuromuscular feedback therapy in patients with chronic spinal cord injury with residual motor function in the lower extremities compared to 'conventional' therapy: protocol for a multicentre randomised controlled trial.",
@@ -14151,6 +14133,37 @@
     "exploredNote": null
    },
    {
+    "id": "news-fgz0pf",
+    "kind": "news",
+    "title": "Onward Medical NV (ONWRF) (Q2 2026) Earnings Call Highlights: Revenue Surges 250% as ARC-EX ... By GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOODlPVzd2NnFvQUpEZkZUdFB5SUpDX0F2cnZ6aENNVi02SnhtREUyaWdPV1UzdXdwRVRRTW1Nb01IQ0k1RnFHdXJlYjFuQ0FycjdGUVY2Slc4TVE1VTVXcXF3ek5BcGV3RDBTSnVCb3ZVZ1F0Q0Q5cnBTOE41cFBPbm9aV0N4T3NvNnM5N1RIcldvdVluQ0VkOGlwaUhXbFREenc5cjc3dFdGNjZMSDZDcnNvWk5BRHFnd0RDeEJBd1IwdzJxa0QtcjNKb3FxaGhTYUE?oc=5",
+    "outlet": "Investing.com Canada",
+    "topic": "Company watch",
+    "summary": "Onward Medical NV (ONWRF) (Q2 2026) Earnings Call Highlights: Revenue Surges 250% as ARC-EX ... By GuruFocus Investing.com Canada",
+    "date": "2026-09-11",
+    "score": 27,
+    "tags": [
+     "Spinal cord stimulation",
+     "Watchlist: Onward Medical"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "arc-ex"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-09-12",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1wvj3du",
     "kind": "news",
     "title": "Technology puts quadriplegic back at the helm of sailboat",
@@ -14204,6 +14217,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-48kdy9",
+    "kind": "news",
+    "title": "Postural changes and motor evoked potentials following percutaneous spinal cord epidural stimulation in spinal cord injury",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHcTFxOXNWQWlrUjYyc3dkYUlJNVZTMVFQT2JFeUxUQk4xTlpMeThmT3FMc2Jyb25iRkEzdFVjSUctb3ZadlY1MlBZb2xnUWtSN2xXbnNzM1MyZl9NMnUw?oc=5",
+    "outlet": "Nature",
+    "topic": "Technology",
+    "summary": "Postural changes and motor evoked potentials following percutaneous spinal cord epidural stimulation in spinal cord injury Nature",
+    "date": "2026-09-11",
+    "score": 18,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "epidural stimulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-09-12",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1e5ap78",
     "kind": "news",
     "title": "Spinal cord stimulation helps auto driver regain hand movement",
@@ -14234,14 +14277,44 @@
     "exploredNote": null
    },
    {
+    "id": "news-1j5chjw",
+    "kind": "news",
+    "title": "A century of deep brain stimulation: toward precision neuromodulation",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNWd3RV9aQ243dzZiaGxMaFpRZDB1MjhhUU1EOGxvZ1JtRFhHZnVDMjBwd3dxcnBWcDBHY2xqTmdoV2pkVHV0OHYyOVFvX0RyY3pFRUZsZGlqREZM?oc=5",
+    "outlet": "EurekAlert!",
+    "topic": "Company watch",
+    "summary": "A century of deep brain stimulation: toward precision neuromodulation EurekAlert!",
+    "date": "2026-09-03",
+    "score": 18,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "neuromodulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-09-05",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-10cgrpe",
     "kind": "news",
     "title": "ONWARD Medical Announces First Implant in New Clinical Feasibility Study Evaluating ARC-IM System to Restore Mobility After Spinal Cord Injury",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1V6bnlSWDNlNndBS181XzlSVHNlcy16UEhKSC0xZjA1YWFJaTloQXlJZDVyampEUXI3bTJpdnZKN1NmX0JyeGQzRWpNellRaEJicHdybG9HU3hHZkFJOGVhS0JpWmUyMHJKVWNST09MNVZfR2lQdDF3Tm8tcE5TRzlZWHdZX0hjWTVTNDFuN2hPRVBEOV9ZRzVtVzJKb2tu?oc=5",
-    "outlet": "finance.yahoo.com",
+    "outlet": "Yahoo Finance",
     "topic": "Technology",
-    "summary": "ONWARD Medical Announces First Implant in New Clinical Feasibility Study Evaluating ARC-IM System to Restore Mobility After Spinal Cord Injury finance.yahoo.com",
-    "date": "2026-09-03",
+    "summary": "ONWARD Medical Announces First Implant in New Clinical Feasibility Study Evaluating ARC-IM System to Restore Mobility After Spinal Cord Injury Yahoo Finance",
+    "date": "2026-09-02",
     "score": 17,
     "tags": [
      "Watchlist: Onward Medical"
@@ -14304,9 +14377,9 @@
     "kind": "news",
     "title": "Stem cell - Neural, Regeneration, Differentiation",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUE95c1dFRFVNZnJZUGowYXZJWEx1VVdWeko3YWhkcDRWTXVhLS1OWEtZcEl0VHBVeVFRQlpmVGRaQ05xQno4cWFwOFQwUHdONlR6SVgyZUFGdDlHVUxzRnlKdVpzMDRJeWVNTmRaOA?oc=5",
-    "outlet": "britannica.com",
+    "outlet": "Britannica",
     "topic": "Technology",
-    "summary": "Stem cell - Neural, Regeneration, Differentiation britannica.com",
+    "summary": "Stem cell - Neural, Regeneration, Differentiation Britannica",
     "date": "2026-08-31",
     "score": 17,
     "tags": [
@@ -14417,9 +14490,9 @@
     "kind": "news",
     "title": "Maryland cuts services to quadriplegic former teacher, governor's committee member",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3FPbkZuV3RRQlRIUER0XzhTUlNIVXpxY2ZRNktReDNVS1d5bFdaTHIzVnZ3andwX2swZG9nV041Tkk2YWplZm84SXVTVU5YQktuOXJZSVdsRmVtRFJqTGpuQ0VBb1lBWXNyUnVxYmh5SFRzWmJZN3pHNnVHNWtGV2RCcXlvOUpCRXZyWlpYa3NnM24zZnp1UDQzWHNPLVZsbjJBemE5TGloSmNEZjd0b3NqZC10ZUY1VDJlcEdzWGFfWFpwUVE?oc=5",
-    "outlet": "WBFF",
+    "outlet": "foxbaltimore.com",
     "topic": "Technology",
-    "summary": "Maryland cuts services to quadriplegic former teacher, governor's committee member WBFF",
+    "summary": "Maryland cuts services to quadriplegic former teacher, governor's committee member foxbaltimore.com",
     "date": "2026-08-24",
     "score": 16,
     "tags": [
@@ -14585,6 +14658,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-70x98u",
+    "kind": "news",
+    "title": "Brain Computer Interface Market Companies, Size & Trends 2026-2035",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EaXZqMEFFT2NOeTU5TGQ3U3JEb1Y4TFBoRkxqc05Kdy1Va01jcE5SbTlsQlcwbEd1NGdtRlQxdDdUdG1oNFFNQV9hc0R0T2h6WUtteWhQbWJQZHpHUENFT290am1tXzBMQmJZVnNlUng2eUl5?oc=5",
+    "outlet": "Precedence Research",
+    "topic": "Company watch",
+    "summary": "Brain Computer Interface Market Companies, Size & Trends 2026-2035 Precedence Research",
+    "date": "2026-09-09",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain computer interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-09-12",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-a5x8th",
     "kind": "news",
     "title": "Subsense develops nanoparticle-based brain-computer interface with $27M in seed funding",
@@ -14619,9 +14722,9 @@
     "kind": "news",
     "title": "Brain implants fuel U.S.-China bioscience rivalry",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2pwYWR6NFQ1dHdmN0JPRFhSaHo3LU1ZTXlYclpPLUZSWEx0emhVdDZXZDdTSHhQLWZFbUE5NUZHOU9aVHYwczFOMXc4eVZDZEpfdFFPRGxIckMyQXVyN0NGdDhlaTdFdVVmTVNMcFlEcm5qelpyN2l1Q3dmbHA3WEtn?oc=5",
-    "outlet": "axios.com",
+    "outlet": "Axios",
     "topic": "Company watch",
-    "summary": "Brain implants fuel U.S.-China bioscience rivalry axios.com",
+    "summary": "Brain implants fuel U.S.-China bioscience rivalry Axios",
     "date": "2026-09-03",
     "score": 16,
     "tags": [
@@ -14791,43 +14894,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-2fty84",
-    "kind": "news",
-    "title": "Spinal Cord Injury Market is Projected to Witness Significant Growth by 2036 Owing to the Expansion of Neuroprotective and Regenerative Therapies | DelveInsight",
-    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQMExCd2pIbTZVLWpON1NnX09fT1FzWWhObUlLQXp1d2JieXJtQ2JEbzA2NjNyQWlLbllBMzIwQXF4YkFsbTBmMG5mTkxzQS1SMkFUZjFVblVnaWpTMUFwcVhEYTNabkxONFkxOHZrVTZBb3R6QzQ4VnBlTlBoVV9hVkhDUEZfdkhWZDVfd1J3NVNyXzNZcVA3eGU5QXc2VDV4dmJJdFZvbjd0Vnd3TTlQclA0dFpEZmVfcjVrU0hUdFdkdXhlLVBoZjZYTXgzZlhGV0dEbGlGLTVsSnpJdXBnWTlsX3docEtEQ2RlVUFaUTRZVGRkNVdZQWRrYXNJNm03OHJySHBVMjdDR2wxSmN0REMyYzNzLWpQMHlxM2ljc0M4SXk5dHBldVZXN2d6WWc?oc=5",
-    "outlet": "barchart.com",
-    "topic": "Technology",
-    "summary": "Spinal Cord Injury Market is Projected to Witness Significant Growth by 2036 Owing to the Expansion of Neuroprotective and Regenerative Therapies | DelveInsight barchart.com",
-    "date": "2026-09-03",
-    "score": 14,
-    "tags": [
-     "Drug / pharmacological recovery"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "neuroprotect"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for drug / pharmacological recovery.",
-    "firstSeen": "2026-09-05",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-16erysg",
     "kind": "news",
     "title": "FDA-Approved Crutch-Free Self-Balancing Personal Exoskeleton: World’s First Breakthrough in Wearable Mobility Tech",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBER2ZmdTdlcHdHQWI4ZHkxYjVHMElRWElnOTk2Nm5aaTNlUEs1V2puSE9vYU5nRlpsM0hQMGx6dXVYakktc0VsY19ncDA3eEU2QkVJ?oc=5",
-    "outlet": "36Kr",
+    "outlet": "36 Kr",
     "topic": "Technology",
-    "summary": "FDA-Approved Crutch-Free Self-Balancing Personal Exoskeleton: World’s First Breakthrough in Wearable Mobility Tech 36Kr",
+    "summary": "FDA-Approved Crutch-Free Self-Balancing Personal Exoskeleton: World’s First Breakthrough in Wearable Mobility Tech 36 Kr",
     "date": "2026-09-04",
     "score": 14,
     "tags": [
@@ -14877,9 +14950,9 @@
     "kind": "news",
     "title": "3D printing to make exoskeleton for brachial plexus paralysis precisely fitted and suitable for everyday use",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQXFlWFhpcktxRzhCU2JPMjQ2YzJ1WHpERGlpY0dVU0dBMnViNV9MZU9HMFNpa0YxWkJUdWFRQWQ5dmM0T25iRFdXWTNMdFNwWWFNb1VFQWlwY3pmdEtMUnRKSzlneks4aTJCSkNNaThKQ1BkVUpSV1VqR2xZZm1xTlVHaXFGR0x0djRMekhvR2hlc3Z1YjZzWG1peEJEWkVQZjVRMTdzMmRrYXV1VENuM0xWRTE4dnF4Ui1OTWY5d1NHcUZMeHR1UVg5eWUxaFFsOWZnMmJIT19yNm5pNWlYTFFpUHAtMXVmcVBKTG1B?oc=5",
-    "outlet": "3druck.com",
+    "outlet": "3Druck.com",
     "topic": "Technology",
-    "summary": "3D printing to make exoskeleton for brachial plexus paralysis precisely fitted and suitable for everyday use 3druck.com",
+    "summary": "3D printing to make exoskeleton for brachial plexus paralysis precisely fitted and suitable for everyday use 3Druck.com",
     "date": "2026-09-03",
     "score": 14,
     "tags": [
@@ -14903,13 +14976,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-a8ini3",
+    "id": "news-atbh3a",
     "kind": "news",
-    "title": "ONWARD Medical Reports First Half 2026 Results with Strong Product Revenue Growth and Continued Progress across ARC Therapy Pipeline",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbmhfaW0xM3NYbDdhUjduMWowU2JxbmdYSFRZV1JLOS1DajE1b1JfV09DU3gxMzdsUWNVeTdQZGpZUElMaDB4NmZ3MmtKbDNCVUsyQ1RONThGMjZZYTAxS2R5Y05UMTJUZDJiVFB3bjBIWkZyblNFcFREc0VmOThnMFc5NDVnRlp6b2c?oc=5",
-    "outlet": "ca.finance.yahoo.com",
+    "title": "ONWARD Medical Reports First Half 2026 Results with Strong",
+    "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQQzVLM1N6YWk2ci1SNHBjZkpvNXh6QzFuV19FVHU1azFKZXcxeENrOE1meUF0cXZSNng3R3FURUVQYWgzYzB3QV8xTktaNVZRcm5ncUtXZEEyZzZNRTRYRTU4ZmtfLTFpMi1kNXV2S3FBaHozM05MZVFFbngxd3hHd3NEQndMVGdyLTRSZmw5a0l4WEl1c1lMMDIteklseFFQX1k0U2E1SjVhaTM3ZC1rZkJFbXlJdUFPMXBJS3ZkazIwWXpWcjFUY1ZpVFVNRlB1MnlWeEdzT2pVYVVnSnc3T0xNdUs5MEZSck5tRFF5UW5ueE9QdWl4VGt6TmwyamFHb3ZOQk8wYTl4WkFCNGVqNTRRUGtVazBIX1pibHM1UG1IUUtKci1FdHR4ZVE?oc=5",
+    "outlet": "GlobeNewswire",
     "topic": "Company watch",
-    "summary": "ONWARD Medical Reports First Half 2026 Results with Strong Product Revenue Growth and Continued Progress across ARC Therapy Pipeline ca.finance.yahoo.com",
+    "summary": "ONWARD Medical Reports First Half 2026 Results with Strong GlobeNewswire",
     "date": "2026-09-09",
     "score": 14,
     "tags": [
@@ -14919,8 +14992,8 @@
     "matchedPriorities": [],
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-09-09",
-    "isNew": false,
+    "firstSeen": "2026-09-12",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14929,9 +15002,9 @@
     "kind": "news",
     "title": "ONWARD Medical NV",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd0N5ckdCVjY2NUIyYTV6VFltcWVpd2wzOTFfVDRjcVhqVUxXOHQ3MjJzRnRWTm1DNkZMbUZfcVBrekJvT1FHdWJZNXBrLV9uYXB1M2VQODlhV0tXNmV0OVo5SFhoNUwteU43RXE1bFYtRTVYWWJ3SGZjSzZNb3Zhd21BbUhFTnc1RWdoUVZSUzBoaHVKUlE?oc=5",
-    "outlet": "via.ritzau.dk",
+    "outlet": "Via Ritzau",
     "topic": "Company watch",
-    "summary": "ONWARD Medical NV via.ritzau.dk",
+    "summary": "ONWARD Medical NV Via Ritzau",
     "date": "2026-09-03",
     "score": 14,
     "tags": [
@@ -14942,6 +15015,28 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-09-07",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-bkrlma",
+    "kind": "news",
+    "title": "ONWARD Medical to Announce First-Half 2026 Results on September 9, 2026",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMmFTNE9adUdIVzY4X1lxSHlUU3FsTW1NZEN5T0dnQWJfalVybVpZZmliUFNuSzN2Wi1kZkVCVkZuYUhIb2owS2lRcTVuUE9DWUEwR0d4am9PaHMyS2VPbFVpeWtoa25qQ3BqYmhISGFLTk53cTNMelg1MFNrRXZtMVlTT2loZW5lV0tURmFmTmpIMzNjeGVCNHUzUGs4R2lOZ3BscjAyMERQa3JqRHFUeTFyOUFuRzNabllxbzFTS2t3elZlTXo4dTVXeExBSTlrUkVWb0t1Y2V0dw?oc=5",
+    "outlet": "GlobeNewswire",
+    "topic": "Company watch",
+    "summary": "ONWARD Medical to Announce First-Half 2026 Results on September 9, 2026 GlobeNewswire",
+    "date": "2026-09-04",
+    "score": 14,
+    "tags": [
+     "Watchlist: Onward Medical"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-09-04",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15105,7 +15200,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-09-11",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15136,9 +15231,9 @@
     "kind": "news",
     "title": "They built exoskeletons for stroke patients. Now, their robots can do eyelash extensions.",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uSjk1OS1ZZjRwZjdUdGFzQU9TWmNRY3pDTDk0WEZIWHA4V2ZBNVhaRFkyeHMtNVh6d2hKemEyUjRTbjhlaFJ5eW51QXZqM1Y2UE1UY3lVSFFKeTRIcGVzeXZZNW9wQVh1cng1M200QzAxRjlpcmJHZWx3?oc=5",
-    "outlet": "fortune.com",
+    "outlet": "Fortune",
     "topic": "Company watch",
-    "summary": "They built exoskeletons for stroke patients. Now, their robots can do eyelash extensions. fortune.com",
+    "summary": "They built exoskeletons for stroke patients. Now, their robots can do eyelash extensions. Fortune",
     "date": "2026-09-09",
     "score": 14,
     "tags": [
@@ -15192,36 +15287,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1imck42",
-    "kind": "news",
-    "title": "Rigid Exoskeleton Market Analysis Reveals Trends in Industry Demand Evolution",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkk0MzF6NXhSVVBaYV9abnl3empPemt4N3kwRnM0YXZZaV8tS2NfRnJtWHFuM0tqdHdyaktQTm9tQkotd2ptUGVWOWVFdDF0SXctV1J6bWNvVDUwdjByMVg4XzVTalZPYkRWbTRHMHctMVlZNlA5TEY5R0xQQklHeEpSVkNNREZzVnozYVRBbkVQdS1HaWZqN3pTSHA?oc=5",
-    "outlet": "openPR.com",
-    "topic": "Company watch",
-    "summary": "Rigid Exoskeleton Market Analysis Reveals Trends in Industry Demand Evolution openPR.com",
-    "date": "2026-09-04",
-    "score": 14,
-    "tags": [
-     "Activity-based rehab & exoskeleton"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-09-05",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1jcrt2w",
     "kind": "news",
     "title": "Spinal Cord Stimulation Devices Market Poised for 8.2% CAGR Growth Through 2034",
@@ -15247,98 +15312,6 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation.",
     "firstSeen": "2026-08-19",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1aazm3k",
-    "kind": "news",
-    "title": "Boston Scientific Spinal Cord Stimulator Lawsuit for SCS Injuries",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGpqZzg2WWw1SlRua3ZRamVfX1dJMnpwR2hsTk1mV2RvWUNLQ1RmN2RBX3ZxR3VjQ21PWkpFckJsWDBNMG1kODBya1ZXZ2hLNnZYSVZ2YldBQmVWQnhTWDJGb3hhLWVBc1RVbWdtZnZFd2N6NmJaNThQbmlwd0tjajZoXzZHTUtUSndoYzQ5aXZfaDlUa1BkY3FTMnR6ODU2UEhmN3kzd2pUZnhZRW9JdTdKeHdtZElpNWdRN2pSVjI4Ync?oc=5",
-    "outlet": "robertkinglawfirm.com",
-    "topic": "Regulatory",
-    "summary": "Boston Scientific Spinal Cord Stimulator Lawsuit for SCS Injuries robertkinglawfirm.com",
-    "date": "2026-08-10",
-    "score": 14,
-    "tags": [
-     "Spinal cord stimulation"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "scs"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-08-30",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-199c4s2",
-    "kind": "news",
-    "title": "China Beat Neuralink to the First Commercial Brain Implant – Here’s What That Means",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3dUYzJ6bGhWQWU3MkVsbXJkVE9wWXF5cS1KUklFM0ZHZkVqUlNYSWdhNWZKYUhEWEN6U3pXV1gwWWF1dy1XekpUX3Z6YVNqUUpwSUJHSDY0LUUzV3BtWVJ5MGJvdVd2dVdfb2ZDbHBZeDU1UHBmdndWUk9xRlRjQjcwUFE2WlRGUEtDRXNpeFphbVV6SU92UFROM3BualZneUxvcllURjFXdEliZlE?oc=5",
-    "outlet": "Gadget Review",
-    "topic": "Regulatory",
-    "summary": "China Beat Neuralink to the First Commercial Brain Implant – Here’s What That Means Gadget Review",
-    "date": "2026-07-16",
-    "score": 14,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-08-17",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1so7bvs",
-    "kind": "news",
-    "title": "China's brain implant is already covered by insurance — Neuralink isn't even close",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTNBNWZwRTZtNERmLWd4bDZSMFctY3lqYllZOWFONWFKWkpCR0FkZ29sTkt5WnVWcllzLXpwYlB0WUNyM0VwVTNpbkxfSGJJTjVBN0NwXzRodm1iSThnMkFDZWZ6WFlQbENoNEZFazFpRUxHQU0wMWpISFRNTHM4RHVwVklBWEk1VU1mcG1rS0FwZG5LT0xyM3VISE5uMTNIdTB2MXZST0hfUkhCbTZZ0gG0AUFVX3lxTE1OYlVzdEp1T3Q5NE9zQl9FVGhMY3B1Skh4LUo3SE16T1ZhYmpKcUgtMVNIRzhQMEJpbUN3MDBWbjNXay1wMzIzak5CcnM1R3V4MkJmaDhBN2EtZHRjS0NQcHJab0cxcWJHVnFXYmx4S1p0Qmpzcnpkald2ZnhIRTloN2hWcHFIcDE4U1dYbElSU2xMM3g2ckJtLXBVZFdxY1M3NUdaVWd3TDhjTHRNQkE0Y1BaSw?oc=5",
-    "outlet": "Gagadget.com",
-    "topic": "Regulatory",
-    "summary": "China's brain implant is already covered by insurance — Neuralink isn't even close Gagadget.com",
-    "date": "2026-07-15",
-    "score": 14,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-08-17",
     "isNew": false,
     "explored": false,
     "exploredNote": null
