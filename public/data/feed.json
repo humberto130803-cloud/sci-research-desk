@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-12T13:22:02.953Z",
- "date": "2026-09-12",
+ "generatedAt": "2026-09-13T14:04:31.217Z",
+ "date": "2026-09-13",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,8 +19,7 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "1 new paper.",
-   "4 new technology items."
+   "2 new technology items."
   ],
   "closingSoon": [
    {
@@ -44,9 +43,9 @@
    "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 1,
+   "newPapers": 0,
    "news": 45,
-   "newNews": 4,
+   "newNews": 2,
    "centers": 12,
    "archived": 0
   }
@@ -11981,46 +11980,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42531426",
-    "kind": "paper",
-    "title": "C6 Pedicle Fatigue Fracture Nonunion Causing Unilateral Cervical Radiculopathy Through Hypertrophic Foraminal Stenosis: A Case Report.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42531426/",
-    "doi": "10.2106/JBJS.CC.25.00709",
-    "journal": "JBJS case connector",
-    "authors": [
-     "Hineno S",
-     "Murakami T",
-     "Wada E"
-    ],
-    "authorLine": "Hineno S, Murakami T, Wada E",
-    "pubType": "Journal Article, Case Reports",
-    "date": "2026-07-30",
-    "summary": "A 56-year-old woman presented with progressive weakness of the left shoulder abduction and elbow flexion. She had cervical dystonia. Imaging revealed bilateral chronic C6 pedicle fatigue fracture nonunion, with left hypertrophic changes causing C5 to 6 foraminal stenosis and C5 to C6 radiculopathy. Posterior C4 to C7 fixation with left foraminotomies was performed. Motor function improved, and follow-up computed tomography (CT) confirmed healing of the nonunion. Cervical pedicle fatigue fracture nonunion is a rare but underrecognized cause of radiculopathy when hypertrophic changes cause foraminal stenosis. CT with multiplanar reconstruction is essential, and combined stabilization and decompression can achieve excellent motor recovery.",
-    "score": 38,
-    "tags": [
-     "Drug / pharmacological recovery",
-     "Cervical / tetraplegia",
-     "C4–C5 named",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "motor recovery"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for drug / pharmacological recovery, cervical-level, chronic.",
-    "firstSeen": "2026-07-31",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42473457",
     "kind": "paper",
     "title": "Targeting grasp-related cortical areas for intracortical brain-machine interfaces.",
@@ -12114,6 +12073,46 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42531426",
+    "kind": "paper",
+    "title": "C6 Pedicle Fatigue Fracture Nonunion Causing Unilateral Cervical Radiculopathy Through Hypertrophic Foraminal Stenosis: A Case Report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42531426/",
+    "doi": "10.2106/JBJS.CC.25.00709",
+    "journal": "JBJS case connector",
+    "authors": [
+     "Hineno S",
+     "Murakami T",
+     "Wada E"
+    ],
+    "authorLine": "Hineno S, Murakami T, Wada E",
+    "pubType": "Journal Article, Case Reports",
+    "date": "2026-07-30",
+    "summary": "A 56-year-old woman presented with progressive weakness of the left shoulder abduction and elbow flexion. She had cervical dystonia. Imaging revealed bilateral chronic C6 pedicle fatigue fracture nonunion, with left hypertrophic changes causing C5 to 6 foraminal stenosis and C5 to C6 radiculopathy. Posterior C4 to C7 fixation with left foraminotomies was performed. Motor function improved, and follow-up computed tomography (CT) confirmed healing of the nonunion. Cervical pedicle fatigue fracture nonunion is a rare but underrecognized cause of radiculopathy when hypertrophic changes cause foraminal stenosis. CT with multiplanar reconstruction is essential, and combined stabilization and decompression can achieve excellent motor recovery.",
+    "score": 34,
+    "tags": [
+     "Drug / pharmacological recovery",
+     "Cervical / tetraplegia",
+     "C4–C5 named",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "drug",
+      "label": "Drug / pharmacological recovery",
+      "matched": [
+       "motor recovery"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for drug / pharmacological recovery, cervical-level, chronic.",
+    "firstSeen": "2026-07-31",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13511,49 +13510,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42531402",
-    "kind": "paper",
-    "title": "Rewiring the paralyzed body's false alarm.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42531402/",
-    "doi": "10.1126/science.aej5900",
-    "journal": "Science (New York, N.Y.)",
-    "authors": [
-     "Soriano JE"
-    ],
-    "authorLine": "Soriano JE",
-    "pubType": "Journal Article",
-    "date": "2026-07-30",
-    "summary": "Autonomic dysreflexia can be reversed using epidural electrical neuromodulation.",
-    "score": 21,
-    "tags": [
-     "Spinal cord stimulation",
-     "Autonomic / blood pressure / bladder / bowel"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     },
-     {
-      "key": "auto",
-      "label": "Autonomic / blood pressure / bladder / bowel",
-      "matched": [
-       "autonomic dysreflexia"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel.",
-    "firstSeen": "2026-08-01",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42543528",
     "kind": "paper",
     "title": "Encapsulation and Controlled Release of Human Spinal Cord Organoid-Derived Extracellular Vesicles for Tissue Patterning in Viscoelastic Hyaluronic Acid Hydrogels.",
@@ -13964,7 +13920,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation.",
     "firstSeen": "2026-09-12",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14061,6 +14017,49 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42531402",
+    "kind": "paper",
+    "title": "Rewiring the paralyzed body's false alarm.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42531402/",
+    "doi": "10.1126/science.aej5900",
+    "journal": "Science (New York, N.Y.)",
+    "authors": [
+     "Soriano JE"
+    ],
+    "authorLine": "Soriano JE",
+    "pubType": "Journal Article",
+    "date": "2026-07-30",
+    "summary": "Autonomic dysreflexia can be reversed using epidural electrical neuromodulation.",
+    "score": 17,
+    "tags": [
+     "Spinal cord stimulation",
+     "Autonomic / blood pressure / bladder / bowel"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "neuromodulation"
+      ]
+     },
+     {
+      "key": "auto",
+      "label": "Autonomic / blood pressure / bladder / bowel",
+      "matched": [
+       "autonomic dysreflexia"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel.",
+    "firstSeen": "2026-08-01",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42692587",
     "kind": "paper",
     "title": "Recent advances in fucoidan for stem cell protection and regenerative tissue repair.",
@@ -14133,59 +14132,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-fgz0pf",
-    "kind": "news",
-    "title": "Onward Medical NV (ONWRF) (Q2 2026) Earnings Call Highlights: Revenue Surges 250% as ARC-EX ... By GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOODlPVzd2NnFvQUpEZkZUdFB5SUpDX0F2cnZ6aENNVi02SnhtREUyaWdPV1UzdXdwRVRRTW1Nb01IQ0k1RnFHdXJlYjFuQ0FycjdGUVY2Slc4TVE1VTVXcXF3ek5BcGV3RDBTSnVCb3ZVZ1F0Q0Q5cnBTOE41cFBPbm9aV0N4T3NvNnM5N1RIcldvdVluQ0VkOGlwaUhXbFREenc5cjc3dFdGNjZMSDZDcnNvWk5BRHFnd0RDeEJBd1IwdzJxa0QtcjNKb3FxaGhTYUE?oc=5",
-    "outlet": "Investing.com Canada",
-    "topic": "Company watch",
-    "summary": "Onward Medical NV (ONWRF) (Q2 2026) Earnings Call Highlights: Revenue Surges 250% as ARC-EX ... By GuruFocus Investing.com Canada",
-    "date": "2026-09-11",
-    "score": 27,
-    "tags": [
-     "Spinal cord stimulation",
-     "Watchlist: Onward Medical"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "arc-ex"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-09-12",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1wvj3du",
-    "kind": "news",
-    "title": "Technology puts quadriplegic back at the helm of sailboat",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeEFFdllKUFF3YVpZcE1Qa2tobHR6NnJJYXRhTXU5eVdrRnZTZ1ZlTWhRTkNmZ2dsZjUxTlFnMkxHeHZlMWNRT1lMWXpSWU1ucDU3QmpFY2xkRzdid3RIOHRkWC1JTkFPYXhNbFBJMmRxZ1ZlUWt2VUtGRTNhRERJQ0lkcUQ1SGhtTW9GaFVsa09FcjFEZ0oyQmNYR3RlQzYySUN1aWhfOTc0Umc?oc=5",
-    "outlet": "Times Colonist",
-    "topic": "Technology",
-    "summary": "Technology puts quadriplegic back at the helm of sailboat Times Colonist",
-    "date": "2026-08-30",
-    "score": 20,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-08-30",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1e1z6ad",
     "kind": "news",
     "title": "Brain implant restores the sensation of touch in a person with quadriplegia",
@@ -14242,7 +14188,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation.",
     "firstSeen": "2026-09-12",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14254,7 +14200,7 @@
     "outlet": "The Times of India",
     "topic": "Technology",
     "summary": "Spinal cord stimulation helps auto driver regain hand movement The Times of India",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "score": 18,
     "tags": [
      "Spinal cord stimulation"
@@ -14377,9 +14323,9 @@
     "kind": "news",
     "title": "Stem cell - Neural, Regeneration, Differentiation",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUE95c1dFRFVNZnJZUGowYXZJWEx1VVdWeko3YWhkcDRWTXVhLS1OWEtZcEl0VHBVeVFRQlpmVGRaQ05xQno4cWFwOFQwUHdONlR6SVgyZUFGdDlHVUxzRnlKdVpzMDRJeWVNTmRaOA?oc=5",
-    "outlet": "Britannica",
+    "outlet": "britannica.com",
     "topic": "Technology",
-    "summary": "Stem cell - Neural, Regeneration, Differentiation Britannica",
+    "summary": "Stem cell - Neural, Regeneration, Differentiation britannica.com",
     "date": "2026-08-31",
     "score": 17,
     "tags": [
@@ -14408,9 +14354,9 @@
     "kind": "news",
     "title": "NervGen to Host R&D Day on NVG-291 Program, Phase 3 RESTORE Study Design and SCI Perspectives",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSEV0Yk1QT29MTFNScmpHSUtuU25iSTd0dURpTGRPa0ZaTWJ6bWcyNEVsTkJXMU5xUUl4OFlUd2xva3pfa3pxYTBYb2ZxOU5wRk1TNkJfTGR0bEdNaFZSUV9nWFBRZk4zUGExYlYxZTI4UWktMkdoVm9WRlduV05sWFo0N0plRUFib21XM2dNQ2xsZ05qM2lQUlJaWWNFN2RxT09VOF9Ecmg2c3hKMDVVa0NqWV9tMUM4VE0xV25ZN3NDdGJuY3Q3enZ3?oc=5",
-    "outlet": "Quiver Quantitative",
+    "outlet": "quiverquant.com",
     "topic": "Company watch",
-    "summary": "NervGen to Host R&D Day on NVG-291 Program, Phase 3 RESTORE Study Design and SCI Perspectives Quiver Quantitative",
+    "summary": "NervGen to Host R&D Day on NVG-291 Program, Phase 3 RESTORE Study Design and SCI Perspectives quiverquant.com",
     "date": "2026-09-09",
     "score": 17,
     "tags": [
@@ -14430,9 +14376,9 @@
     "kind": "news",
     "title": "He Lost His Sense of Touch in a Spinal Cord Injury. New Brain Implants Helped Restore It.",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbWJqOG4xdmVaUHRGMDMyZ3VBUW15bTU3MXV1dmNaTzZvWHozZGJvLTNyZkJTRVBUQWtOdHBhc19mX1gtUTMweWtRMnJlemZ0OE8zTmYxMUZFc2ZHSjlEVTVzdThPRE9DRGlxTWRjWHFnSG42eVZtU29XWFlTcEtCNHR1ODdoajlycmdOTFhGaG96MTRKTks0NTRrVTdEUQ?oc=5",
-    "outlet": "National Geographic",
+    "outlet": "nationalgeographic.com",
     "topic": "Technology",
-    "summary": "He Lost His Sense of Touch in a Spinal Cord Injury. New Brain Implants Helped Restore It. National Geographic",
+    "summary": "He Lost His Sense of Touch in a Spinal Cord Injury. New Brain Implants Helped Restore It. nationalgeographic.com",
     "date": "2026-08-31",
     "score": 16,
     "tags": [
@@ -14490,9 +14436,9 @@
     "kind": "news",
     "title": "Maryland cuts services to quadriplegic former teacher, governor's committee member",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3FPbkZuV3RRQlRIUER0XzhTUlNIVXpxY2ZRNktReDNVS1d5bFdaTHIzVnZ3andwX2swZG9nV041Tkk2YWplZm84SXVTVU5YQktuOXJZSVdsRmVtRFJqTGpuQ0VBb1lBWXNyUnVxYmh5SFRzWmJZN3pHNnVHNWtGV2RCcXlvOUpCRXZyWlpYa3NnM24zZnp1UDQzWHNPLVZsbjJBemE5TGloSmNEZjd0b3NqZC10ZUY1VDJlcEdzWGFfWFpwUVE?oc=5",
-    "outlet": "foxbaltimore.com",
+    "outlet": "WBFF",
     "topic": "Technology",
-    "summary": "Maryland cuts services to quadriplegic former teacher, governor's committee member foxbaltimore.com",
+    "summary": "Maryland cuts services to quadriplegic former teacher, governor's committee member WBFF",
     "date": "2026-08-24",
     "score": 16,
     "tags": [
@@ -14503,6 +14449,28 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-09-06",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1wvj3du",
+    "kind": "news",
+    "title": "Technology puts quadriplegic back at the helm of sailboat",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeEFFdllKUFF3YVpZcE1Qa2tobHR6NnJJYXRhTXU5eVdrRnZTZ1ZlTWhRTkNmZ2dsZjUxTlFnMkxHeHZlMWNRT1lMWXpSWU1ucDU3QmpFY2xkRzdid3RIOHRkWC1JTkFPYXhNbFBJMmRxZ1ZlUWt2VUtGRTNhRERJQ0lkcUQ1SGhtTW9GaFVsa09FcjFEZ0oyQmNYR3RlQzYySUN1aWhfOTc0Umc?oc=5",
+    "outlet": "Times Colonist",
+    "topic": "Technology",
+    "summary": "Technology puts quadriplegic back at the helm of sailboat Times Colonist",
+    "date": "2026-08-30",
+    "score": 16,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-08-30",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14568,36 +14536,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1i1ytks",
-    "kind": "news",
-    "title": "Paralyzed man in Jinan regains hand control through BCI",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94T2JHbTVaVncwQ3A0YTJpdmRwcmd1a0VoWHdfb2pJaDA2djZGSXpUaDJLdjZxUkI4V2Job0EzLU53eGVweC1DNEhzTlpYVEVZRmZYT09hREVfWlZKblNWWWQ0ZGhtZUladnNlcURYVFV4cUUyR2JoVWpXRWpBQQ?oc=5",
-    "outlet": "China Daily",
-    "topic": "Technology",
-    "summary": "Paralyzed man in Jinan regains hand control through BCI China Daily",
-    "date": "2026-09-10",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-10",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-8esv61",
     "kind": "news",
     "title": "Shanghai BCI Startup Arfysica Kicks Off Pre-IPO Tutoring for STAR Market Bid",
@@ -14628,32 +14566,32 @@
     "exploredNote": null
    },
    {
-    "id": "news-16deyfs",
+    "id": "news-1l3sy3h",
     "kind": "news",
-    "title": "Butterfly Network, Merge Labs partner on ultrasound brain-computer interfaces",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXpXNkJyYkhncDE1N3lYTGg3Tk5kd2tocGVjaDdaR21jcDQ3TXpVZ3BZQVdiVEFmelEtM1A0dVNXVDB6MG5wSjEtUlZlN2FmeW8xT0taLUN3ODZ3YmJHWXdmakVGUDlMLTVFd21vamRTdVlSZkd0bk13RDVUTVFhZ2QwVHlqaFlscmJldkxBeURMSUtBNV9JOVRZMkViRVVNM2pxUFlXS0xyZUM2X2c?oc=5",
-    "outlet": "MobiHealthNews",
-    "topic": "Company watch",
-    "summary": "Butterfly Network, Merge Labs partner on ultrasound brain-computer interfaces MobiHealthNews",
-    "date": "2026-09-03",
+    "title": "UTMC offers new commercial ventilator weaning system",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMmppX0NPMU5SbG1NTERGc1dhaTJQT1E0eE53VUx2RzU0WGVFbEpSbEpiVFc2bDFDRHYySVBEbVJRSTlNTVNfN3lrTUdYQzk0WERuRk1nd1FHcW5QakllVWJZQnlEbUJNN0M5eDgyUDN4Q0NzZlFyQU1DUlg0T3c3MzJtcW1WNXRWT1kwOFhRUzlfR2RXRTdQS01tZEx4UzZCUmgyLUplX0RwREE3RmRTV0JpWE5yMkRkeldfQkJHVnVOXzJUODAxVXFoVnVPVjQwQTRjZA?oc=5",
+    "outlet": "Toledo Blade",
+    "topic": "Technology",
+    "summary": "UTMC offers new commercial ventilator weaning system Toledo Blade",
+    "date": "2026-09-13",
     "score": 16,
     "tags": [
-     "Brain-computer interface"
+     "Breathing & diaphragm"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "bci",
-      "label": "Brain-computer interface",
+      "key": "resp",
+      "label": "Breathing & diaphragm",
       "matched": [
-       "brain-computer interface"
+       "ventilator weaning"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-04",
-    "isNew": false,
+    "why": "Surfaced for breathing & diaphragm.",
+    "firstSeen": "2026-09-13",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14662,9 +14600,9 @@
     "kind": "news",
     "title": "Brain Computer Interface Market Companies, Size & Trends 2026-2035",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EaXZqMEFFT2NOeTU5TGQ3U3JEb1Y4TFBoRkxqc05Kdy1Va01jcE5SbTlsQlcwbEd1NGdtRlQxdDdUdG1oNFFNQV9hc0R0T2h6WUtteWhQbWJQZHpHUENFT290am1tXzBMQmJZVnNlUng2eUl5?oc=5",
-    "outlet": "Precedence Research",
+    "outlet": "precedenceresearch.com",
     "topic": "Company watch",
-    "summary": "Brain Computer Interface Market Companies, Size & Trends 2026-2035 Precedence Research",
+    "summary": "Brain Computer Interface Market Companies, Size & Trends 2026-2035 precedenceresearch.com",
     "date": "2026-09-09",
     "score": 16,
     "tags": [
@@ -14683,7 +14621,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-09-12",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14692,9 +14630,9 @@
     "kind": "news",
     "title": "Subsense develops nanoparticle-based brain-computer interface with $27M in seed funding",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbDFpWnNaZG1SU09Dak1scWswaWtrbEdaYlVneG5MSUEyX0tYTlloR2VpMWNULXZFWWlRMmc2SDVDMXJZWjdrS0hFZjk5TXUwQ21MYUhnYzFCdDBLVnlVX3EyYnVkNFhmd3Y5d0tLTXhvZUlWZDFoUzhjSlVsX0FwM0tB?oc=5",
-    "outlet": "Crypto Briefing",
+    "outlet": "cryptobriefing.com",
     "topic": "Company watch",
-    "summary": "Subsense develops nanoparticle-based brain-computer interface with $27M in seed funding Crypto Briefing",
+    "summary": "Subsense develops nanoparticle-based brain-computer interface with $27M in seed funding cryptobriefing.com",
     "date": "2026-09-03",
     "score": 16,
     "tags": [
@@ -14872,6 +14810,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-1sfikhy",
+    "kind": "news",
+    "title": "Stem Cells Market Size & Share - Growth Analysis and Forecast 2027-2036",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XWEM1MjNfZTlITVNLX1g2MUFweFYxRHl5Q3V6YVRFc1dvYW83NXZYQVUyS3ZkZ0t6eHdWX24yQjVfSjVNWGo2VkZUeWRnQzVBWlRGN1NVX0VZOUZuZVVWdHFrLVE2VWFnOFk2QVNQV2NjM0ZIWGVSWXl3?oc=5",
+    "outlet": "Research Nester",
+    "topic": "Technology",
+    "summary": "Stem Cells Market Size & Share - Growth Analysis and Forecast 2027-2036 Research Nester",
+    "date": "2026-08-31",
+    "score": 15,
+    "tags": [
+     "Regenerative / cell therapy"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "stem cell"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for regenerative / cell therapy.",
+    "firstSeen": "2026-09-13",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-12uyaq5",
     "kind": "news",
     "title": "ONWARD Medical begins testing spinal implant for walking",
@@ -14993,7 +14961,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-09-12",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15137,7 +15105,7 @@
     "outlet": "Fortune Business Insights",
     "topic": "Company watch",
     "summary": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034] Fortune Business Insights",
-    "date": "2026-08-17",
+    "date": "2026-08-24",
     "score": 14,
     "tags": [
      "Brain-computer interface"
@@ -15261,9 +15229,9 @@
     "kind": "news",
     "title": "Luum raises $6M convertible round from Ulta Beauty for robotic lash tech",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQThXd19NV0kzZmMwNno1Q0E5UFV0ZHN5aF9PZ21XSkVDQk9ES0NHbWJwblExNHNwTWJJb3lPY3lYZ05hT25wOW02aEFuTExFRGlqNF8zLTZzSXlycUFrSWsyNldEeXBMR3pSY2pKbDRJSl9zcGkxejVzRFoxNVBJNnhuWXJ2c3lCczc3TFhjN1RPQnJpRU5zZkM1TGY4Z09pbW5KQ3hTLVQ?oc=5",
-    "outlet": "Dealroom",
+    "outlet": "app.dealroom.co",
     "topic": "Company watch",
-    "summary": "Luum raises $6M convertible round from Ulta Beauty for robotic lash tech Dealroom",
+    "summary": "Luum raises $6M convertible round from Ulta Beauty for robotic lash tech app.dealroom.co",
     "date": "2026-09-09",
     "score": 14,
     "tags": [
@@ -15287,13 +15255,43 @@
     "exploredNote": null
    },
    {
+    "id": "news-1imck42",
+    "kind": "news",
+    "title": "Rigid Exoskeleton Market Analysis Reveals Trends in Industry Demand Evolution",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkk0MzF6NXhSVVBaYV9abnl3empPemt4N3kwRnM0YXZZaV8tS2NfRnJtWHFuM0tqdHdyaktQTm9tQkotd2ptUGVWOWVFdDF0SXctV1J6bWNvVDUwdjByMVg4XzVTalZPYkRWbTRHMHctMVlZNlA5TEY5R0xQQklHeEpSVkNNREZzVnozYVRBbkVQdS1HaWZqN3pTSHA?oc=5",
+    "outlet": "openPR.com",
+    "topic": "Company watch",
+    "summary": "Rigid Exoskeleton Market Analysis Reveals Trends in Industry Demand Evolution openPR.com",
+    "date": "2026-09-04",
+    "score": 14,
+    "tags": [
+     "Activity-based rehab & exoskeleton"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "exoskeleton"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-09-05",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1jcrt2w",
     "kind": "news",
     "title": "Spinal Cord Stimulation Devices Market Poised for 8.2% CAGR Growth Through 2034",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VMlZyOTRudFVoc1ZIaldwci1rbGw4RHZpWnVFbUZKLVlTVTZVRnZLZ3VMeXdWZjRpNmpHZFY2bDVjV2FCYmx6UkhIZXdpcUxjQ2NzUFlpTVJldFBtTGtXd0JkYWVkTzZEaFZPN2ZWX0o4TUZzS2Rn?oc=5",
-    "outlet": "Market.us Media",
+    "outlet": "media.market.us",
     "topic": "Regulatory",
-    "summary": "Spinal Cord Stimulation Devices Market Poised for 8.2% CAGR Growth Through 2034 Market.us Media",
+    "summary": "Spinal Cord Stimulation Devices Market Poised for 8.2% CAGR Growth Through 2034 media.market.us",
     "date": "2026-08-18",
     "score": 14,
     "tags": [
@@ -15342,7 +15340,7 @@
     "linkStatus": "unverified",
     "recentNews": [
      {
-      "title": "Sen. Rick Scott Announces Senate Salary Donation to the Shepherd Center in Honor... - Senator Rick Scott (.gov)",
+      "title": "Sen. Rick Scott Announces Senate Salary Donation to the Shepherd Center in Honor... - rickscott.senate.gov",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMDNTVFV5LVlwVG1vbExkTVVFSGoweDlIcjRqRHhVTXpGNWd0cWd6ZWIzY2cxSVg3NDJuQm50cFpqVE50YmJMY3hCUTVOczFEcUZqN2NxeGdUbGlGRjBYODJLTVBfckFCVDhyaWwzNUY1VThpaGNCb0VCb0hfN0J5cHBsc1ZrV0NQVVZMd2VwQjd5dVZsZ1pvbW1VZlBIb3RYLUJwMVI2N0QySzE3ckh6Nmw4Zm9WdndSdWZrZzRHc3p1VDhHVmplOUxlTmtJU2hrZmg4WVlzb3p3ZEFLLUFoN2txazJwNnoxc28xMHUtNA?oc=5",
       "date": "2026-06-30"
      },
@@ -15390,14 +15388,14 @@
       "date": "2026-06-18"
      },
      {
-      "title": "Renowned Colorado Neurorehabilitation Hospital Launches $250M Expansion - Engineering News-Record",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdkRRUndCRG9IOUxNa2pENGd3OUVaYkJSVUhlbHdzbmxfbDdXVndDQWlwU0puOHBZZDZFdF9ES0xkdmtYNjR4eDRxUVp4cUpXX2Q4dVBhSjR4TGNlYU82MmNETGNDWGJVamRmVWkwZzBVMU5FajBTR0JDdnF0azEwVDhZTk1WWmRPMmNUZ1dnbWI1YVJma05hZzN1QWpnU2pCWnRuZXlXR2M?oc=5",
-      "date": "2026-06-15"
-     },
-     {
       "title": "Colorado's Craig Hospital lauded for 'giving me back my life' by former patient - CBS News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWEJlWk5hbDlMWTRPaUN3ZTE0WlFMQlJGNUw4aFZYZlhtV0hXZ3hyOUY2UG1GeE5Sal9GVFB5MjJ3YkFMX252UE5XdUFuUGdhUHBobXJPMnJDNldfdE44OWpHZ01KeGVnS1hzTzNmd0VDTllhdXFWSmI1ZHc4eDViSHJNUi04ZHRxbnZrQ29HcGxNb25La3Rrb2FrUG5CN3J3VUpkZUJCUkZ6OHN6YkpZV2o4TXBTdw?oc=5",
       "date": "2026-08-28"
+     },
+     {
+      "title": "Craig Hospital Joins SCI Ventures As Alliance Partner - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mRXV3MU1XM1JFWXpUbEt3Vmw1czVoZHdQZnFVaGZwODE3TkI0em9oWmd4c1NBZ0NXQ1hGZnZtRmIzTVB1eVpzVXJQRWk5ZWY0WDk2LVR5QjR5bDdWcWdEM1RMbjZ2NE5vOEVXeEg1OV9oSEZFLUlyWnFucDc4QdIBgwFBVV95cUxQcFpyV1FFMTNPNE4ydmx2LXAwZElFM3lQSDU4NF82YW53X09LSUtDZmNuWEpMdjZfWVZJVHozNGl0U1lyeHVySEl0MEZwR1lLU0JObDlVLUNLbHVxcTV2S3R5eVYzclBXekp5NGRfMFVoV19Na1hYZ29VdkFlU2twM29yVQ?oc=5",
+      "date": "2026-06-22"
      }
     ],
     "date": null,
@@ -15437,9 +15435,9 @@
       "date": "2026-08-31"
      },
      {
-      "title": "Specialized rehabilitation team helps child reach milestones at Kennedy Krieger - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbE1NQVlELTVrSVRxby1VU1hvZzM3VDhDTFNweFRJNG05UzBlX1k1RVc0dDc4UGFjVW05TnlUa2tPZVNIWnBoOVhnc2oxU1lLZU9fWmJhUy1Yb1ZOblc5UEZDQXZfM0tlVFhYalVEMTJzSGdmVVdhVGVRcElSaFVMMUlKdEhYeXFIX1ZoSTlSWC1nX0FnSng4?oc=5",
-      "date": "2026-08-31"
+      "title": "Collaborative Care for Children Undergoing SDR Surgery - Johns Hopkins Medicine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2FKZzRZdjNsMERUQ1lLeE9aT090cjdXT19ieHo2TWF0bXV0VG5lZE5vVUlkTTVhMjlQOWt2Wlo3Znp5T0UyNldoaWg1bFRTMUdVSHRfM3ZLVks4TmdaeFFhU2xKdkdnckZfdmVkdmVNeUx1T1F1TFJsYUJHcUduajVoSndnZW1NclBqMA?oc=5",
+      "date": "2026-07-02"
      }
     ],
     "date": null,
@@ -15711,7 +15709,7 @@
     "kind": "center",
     "title": "AASDAP / Walk Again Project",
     "summary": "Long-running brain-machine-interface and rehabilitation project in chronic paraplegia and tetraplegia.",
-    "linkStatus": "ok",
+    "linkStatus": "unreachable",
     "recentNews": [],
     "date": null,
     "score": 0,
