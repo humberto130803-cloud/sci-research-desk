@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-18T14:07:49.501Z",
- "date": "2026-09-18",
+ "generatedAt": "2026-09-19T13:42:17.691Z",
+ "date": "2026-09-19",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,7 +19,8 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "13 new technology items."
+   "11 new technology items.",
+   "1 regulatory item (approvals or clearances) worth a look."
   ],
   "closingSoon": [
    {
@@ -45,7 +46,7 @@
    "papers": 60,
    "newPapers": 0,
    "news": 45,
-   "newNews": 13,
+   "newNews": 11,
    "centers": 12,
    "archived": 0
   }
@@ -5318,94 +5319,6 @@
     "exploredNote": null
    },
    {
-    "id": "NCT06000592",
-    "kind": "trial",
-    "title": "Safety, Feasibility, and Efficacy of TSCS on Stabilizing Blood Pressure for Acute Inpatients With SCI",
-    "officialTitle": "Safety, Feasibility, and Efficacy of Transcutaneous Spinal Cord Stimulation on Stabilizing Blood Pressure for Acute Inpatients With Spinal Cord Injury",
-    "url": "https://clinicaltrials.gov/study/NCT06000592",
-    "summary": "Current forms of pharmacologic and non-pharmacologic treatments for hypotension and orthostatic hypotension (OH) remain inadequate during acute inpatient rehabilitation (AIR) following a traumatic spinal cord injury (SCI). A critical need exists for the identification of safe, practical, and effective treatment options that stabilize blood pressure (BP) after traumatic SCI. Recent published evidence suggests that transcutaneous Spinal Cord Stimulation (TSCS) can be used to raise seated BP, and mitigate the falls in BP during orthostatic repositioning in individuals with chronic SCI. This site-specific project will focus on the use of TSCS to stabilizing seated BP and mitigate the fall in BP during orthostatic repositioning during AIR following traumatic SCI.",
-    "conditions": [
-     "Acute Spinal Cord Injury",
-     "Spinal Cord Injuries",
-     "Neuromodulation",
-     "Traumatic Spinal Cord Injury",
-     "Spinal Cord Stimulation",
-     "SCI - Spinal Cord Injury",
-     "Blood Pressure",
-     "Blood Pressure Disorders"
-    ],
-    "interventions": [
-     "DEVICE: Digitimer"
-    ],
-    "sponsor": "Jill M. Wecht, Ed.D.",
-    "status": "RECRUITING",
-    "phase": "NA",
-    "studyType": "INTERVENTIONAL",
-    "enrollment": 50,
-    "minAge": 14,
-    "maxAge": 100,
-    "stdAges": [
-     "CHILD",
-     "ADULT",
-     "OLDER_ADULT"
-    ],
-    "sex": "ALL",
-    "date": "2024-04-02",
-    "startDate": "2022-01-01",
-    "completionDate": "2026-10-01",
-    "locations": [
-     {
-      "facility": "The Icahn School of Medicine at Mount Sinai",
-      "city": "New York",
-      "state": "New York",
-      "country": "United States",
-      "status": "RECRUITING"
-     }
-    ],
-    "countries": [
-     "United States"
-    ],
-    "contact": {
-     "name": "Jorge Chavez, BS",
-     "email": "jorge.chavez2@mountsinai.org",
-     "phone": "(914)343-0713"
-    },
-    "eligibilityText": "Inclusion Criteria: * Newly injured patients with traumatic SCI * Admitted to Acute Inpatient Rehabilitation at Mount Sinai * Within one year of SCI * Seated hypotension (systolic BP ≤ 110 mmHg for males or ≤ 100 mmHg for females) * Orthostatic hypotension (fall in systolic BP ≥ 20 mmHg and/or a fall in diastolic BP ≥ 10 mmHg within 10 minutes of assuming an upright position) * Daily fluctuation in systolic BP ≥ 20 mmHg and/or fluctuation in diastolic BP ≥ 10 mmHg * At least 14 years old Exclusion Criteria: * Implanted brain/spine/nerve stimulators * Cochlear implants * Cardiac pacemaker/defibrillator, or intracardiac lines * Open skin lesions on or near the electrode placement sites (neck, upper back) * Significant coronary artery or cardiac conduction disease * Recent history of myocardial infarction * Insufficient mental capacity to understand and independently provide consent * Pregnancy * Cancer * Deemed unsuitable by study physician",
-    "score": 43,
-    "tags": [
-     "Spinal cord stimulation",
-     "Autonomic / blood pressure / bladder / bowel",
-     "Chronic injury",
-     "Age OK (cap 100)"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "transcutaneous spinal",
-       "spinal cord stimulation",
-       "neuromodulation"
-      ]
-     },
-     {
-      "key": "auto",
-      "label": "Autonomic / blood pressure / bladder / bowel",
-      "matched": [
-       "orthostatic hypotension",
-       "blood pressure"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "NCT07725952",
     "kind": "trial",
     "title": "Cardiovascular Autonomic Function After Resistance Training",
@@ -7645,6 +7558,80 @@
     ],
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "NCT07106060",
+    "kind": "trial",
+    "title": "Near-Infrared Imaging of Motor Imagery Effects in Spinal Cord Injury",
+    "officialTitle": "A Near-Infrared Functional Imaging Study on Motor Imagery Training in Patients With Spinal Cord Injury",
+    "url": "https://clinicaltrials.gov/study/NCT07106060",
+    "summary": "The primary objective of this clinical trial is to investigate the efficacy of motor imagery-based brain-computer interface (MI-BCI) technology in improving motor function among patients with spinal cord injury (SCI), as well as its impact on cortical motor area function across varying states. To achieve this, the study will implement MI-BCI intervention in SCI patients, evaluate post-treatment motor function improvements, and assess changes in cortical motor area oxygen metabolism (via functional near-infrared spectroscopy, fNIRS) and neural activity (via electroencephalography, EEG). The ultimate goal is to establish a novel rehabilitation strategy for SCI. Specifically, the trial aims to: (1) determine whether MI-BCI effectively enhances motor function in SCI patients; and (2) clarify the differential effects of MI-BCI on cortical motor area function under distinct states (e.g.,…",
+    "conditions": [
+     "SCI - Spinal Cord Injury",
+     "Motor Imagery",
+     "Brain-Computer Interfaces"
+    ],
+    "interventions": [
+     "DEVICE: EEG-based rehabilitation training device (L-B300)",
+     "DEVICE: EEG-based rehabilitation training device (L-B300)（Not connected）"
+    ],
+    "sponsor": "Shengjing Hospital",
+    "status": "RECRUITING",
+    "phase": "NA",
+    "studyType": "INTERVENTIONAL",
+    "enrollment": 36,
+    "minAge": 18,
+    "maxAge": 75,
+    "stdAges": [
+     "ADULT",
+     "OLDER_ADULT"
+    ],
+    "sex": "ALL",
+    "date": "2025-08-06",
+    "startDate": "2025-01-01",
+    "completionDate": "2026-02-01",
+    "locations": [
+     {
+      "facility": "Rehabilitation Center of Shengjing Hospital, China Medical University",
+      "city": "Shenyang",
+      "state": "Liaoning",
+      "country": "China",
+      "status": "RECRUITING"
+     }
+    ],
+    "countries": [
+     "China"
+    ],
+    "contact": {
+     "name": "Xue Jiang",
+     "email": "jiangxueruby@163.com",
+     "phone": "+8618940254064"
+    },
+    "eligibilityText": "Inclusion Criteria: 1. The vital signs are stable and the spine is stable, making the subject suitable for exercise testing. 2. Patients with spinal cord injury (SCI) who meet the international diagnostic criteria for SCI neurology revised by the American SCI Society in 2019 and have been diagnosed by CT or MRI. 3. The injury level of SCI is C5-T12, and the ASIA grade is A-C. 4. The course of the disease is ≤12 months (but the spinal shock period must have passed). 5. Age: 18-75 years old, regardless of gender. 6. Good cognitive function, able to understand and actively participate in the training program, and willing to sign the informed consent form for this clinical study. Exclusion Criteria: 1. Those with tumors, tuberculosis, hematologic diseases, or dysfunction of important organs such as the heart and liver; 2. Those with unstable fractures; 3. Those with severe abnormal limb muscle tone and joint contracture deformities; 4. Those with severe pain that cannot tolerate activities; 5. Those with severe emotional problems who cannot cooperate to complete the study.",
+    "score": 40,
+    "tags": [
+     "Brain-computer interface",
+     "Cervical / tetraplegia",
+     "C4–C5 named",
+     "Age OK (cap 75)"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface",
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface, cervical-level.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -11825,54 +11812,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42473457",
-    "kind": "paper",
-    "title": "Targeting grasp-related cortical areas for intracortical brain-machine interfaces.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42473457/",
-    "doi": "10.1016/j.ynirp.2026.100381",
-    "journal": "Neuroimage. Reports",
-    "authors": [
-     "Johnson TR",
-     "Foli C",
-     "Conlan EC",
-     "Koenig KA"
-    ],
-    "authorLine": "Johnson TR, Foli C, Conlan EC et al.",
-    "pubType": "Journal Article",
-    "date": "2026-07-10",
-    "summary": "This study aimed to improve intracortical microelectrode array implantation sites for grasp-related motor decoding by integrating anatomical, functional, and vascular imaging with preoperative 3D modeling. A participant with C5 tetraplegia underwent anatomical MRI, diffusion-weighted imaging, and task-based fMRI to identify grasp-related cortical regions while avoiding vasculature and speech-critical areas. Quicktome software was used to refine target selection by integrating structural connectivity and functional activation data. A 3D-printed skull and cortical model enabled preoperative planning, including craniotomy and electrode positioning simulations. Electrode placement was validated postoperatively using neural data collected from the implanted arrays during attempted movements of the arm and hand. Functional imaging identified distinct grasp-related activation in anterior…",
-    "score": 38,
-    "tags": [
-     "Hand & arm function",
-     "Brain-computer interface",
-     "Cervical / tetraplegia",
-     "C4–C5 named"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "grasp"
-      ]
-     },
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "intracortical"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42744997",
     "kind": "paper",
     "title": "Cardiovascular effects of transcutaneous spinal stimulation in persons living with and without spinal cord injury.",
@@ -14046,9 +13985,83 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
+   },
+   {
+    "id": "PMID42531402",
+    "kind": "paper",
+    "title": "Rewiring the paralyzed body's false alarm.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42531402/",
+    "doi": "10.1126/science.aej5900",
+    "journal": "Science (New York, N.Y.)",
+    "authors": [
+     "Soriano JE"
+    ],
+    "authorLine": "Soriano JE",
+    "pubType": "Journal Article",
+    "date": "2026-07-30",
+    "summary": "Autonomic dysreflexia can be reversed using epidural electrical neuromodulation.",
+    "score": 17,
+    "tags": [
+     "Spinal cord stimulation",
+     "Autonomic / blood pressure / bladder / bowel"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "neuromodulation"
+      ]
+     },
+     {
+      "key": "auto",
+      "label": "Autonomic / blood pressure / bladder / bowel",
+      "matched": [
+       "autonomic dysreflexia"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel.",
+    "firstSeen": "2026-08-01",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
    }
   ],
   "news": [
+   {
+    "id": "news-fgz0pf",
+    "kind": "news",
+    "title": "Onward Medical NV (ONWRF) (Q2 2026) Earnings Call Highlights: Revenue Surges 250% as ARC-EX ... By GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOODlPVzd2NnFvQUpEZkZUdFB5SUpDX0F2cnZ6aENNVi02SnhtREUyaWdPV1UzdXdwRVRRTW1Nb01IQ0k1RnFHdXJlYjFuQ0FycjdGUVY2Slc4TVE1VTVXcXF3ek5BcGV3RDBTSnVCb3ZVZ1F0Q0Q5cnBTOE41cFBPbm9aV0N4T3NvNnM5N1RIcldvdVluQ0VkOGlwaUhXbFREenc5cjc3dFdGNjZMSDZDcnNvWk5BRHFnd0RDeEJBd1IwdzJxa0QtcjNKb3FxaGhTYUE?oc=5",
+    "outlet": "Investing.com Canada",
+    "topic": "Company watch",
+    "summary": "Onward Medical NV (ONWRF) (Q2 2026) Earnings Call Highlights: Revenue Surges 250% as ARC-EX ... By GuruFocus Investing.com Canada",
+    "date": "2026-09-11",
+    "score": 27,
+    "tags": [
+     "Spinal cord stimulation",
+     "Watchlist: Onward Medical"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "arc-ex"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-09-12",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
    {
     "id": "news-sq5lhw",
     "kind": "news",
@@ -14114,6 +14127,37 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton.",
     "firstSeen": "2026-09-18",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1s2xwz8",
+    "kind": "news",
+    "title": "Neuralink’s Brain Implant Turned Imagined Speech Into Audible Words",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWi1NekxLejdadUQxUEFYei1uTnNuUHp4ZHgwNVJMU3RiVDBVZkV1UThFdTc1MVlWV1ZGdjdWQk9UM3VNdFNUdTI1RmtDQUlzVGdxMEZwU0todzVJQ1lfZk95SUtNN05uYURnTUVHUC1DMks4NmlDMVVrZk91VFFrOUlRTEdidkEwVjJpMTlpcXl1SjdiVDhLd29faw?oc=5",
+    "outlet": "Gadget Review",
+    "topic": "Technology",
+    "summary": "Neuralink’s Brain Implant Turned Imagined Speech Into Audible Words Gadget Review",
+    "date": "2026-09-18",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-09-19",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -14145,19 +14189,19 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-09-18",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "news-1xfqjiy",
+    "id": "news-17vxlvs",
     "kind": "news",
-    "title": "Neuralink video shows trial patient saying 'I love you' using brain implant",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQmp6RGlFTklLQmhBeFhHQkJqbEREMmxSc2h4SXpYTVptc3RRa2tXZndUQm5kb2o1eHZPWUVMRWxSVVVTT18zQ2NBWDNKMDhjYV9rTWVBVjdvT28wWXpRSFlITzI2c1RvOGZ5Z0gydVlzdWtKY05vRG16NEhZX25KSXk1VEdjR3BUR21JSTFwcGNIQWlxNURKeXUxcUVwcnlXQXdpckZKMGthQTFjYkliUG9SeElLa0RJQ250bDdHZG5uWWY2aFVoUVA1NzhfNkVwVjJSOUdLc09zZE1QN2t1WDVhVWthUWJOSWRLSlZiSlPSAfABQVVfeXFMUEJqekRpRU5JS0JoQXhYR0JCamxERDJsUnNoeEl6WE1abXN0UWtrV2Z3VEJuZG9qNXh2T1lFTEVsUlVVU09fM0NjQVgzSjA4Y2Ffa01lQVY3b09vMFl6UUhZSE8yNnNUbzhmeWdIMnVZc3VrSmNOb0RtejRIWV9uSkl5NVRHY0dwVEdtSUkxcHBjSEFpcTVESnl1MXFFcHJ5V0F3aXJGSjBrYUExY2JJYlBvUnhJS2tESUNudGw3R2RubllmNmhVaFFQNTc4XzZFcFYyUjlHS3NPc2RNUDdrdVg1YVVrYVFiTklkS0pWYkpT?oc=5",
-    "outlet": "India Today",
+    "title": "Elon Musk's Neuralink patient uses brain implant to say 'I Love You'",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTBGMndXVGJjdTh3cS1MQ3pEVDBSbGNZVkY3UHpFWjdCN0QxMDdZWjBWcmtnNnpfMkRDU0xRSXZVSXBZSVBrSFFSNU00NnlMMkJ1UFdEb1MzZXVKQWhHdzFCZkc4UmIzMl9ERjVIdDU3ZDhMYnNSVWFucDZQTTVuMzFyVVk3bDNyc281R2ppS1NXRE1VTnl3RFdKVExuSHFTNlAwRUZZM2ZhVmfSAacBQVVfeXFMTzVGVUc1XzM0VGN2bUo0a2NEOS1uc0Z2Tk5IZXF1T1kzeFFFVlEwYzdEQW93dVA2TDZyeDdvMV9WTTl5YkQwd0FRVW5aVXZfMEszNkFtU01fVVBBYXNzQm0xZ284TWIwZGRSV1hwSk5sdHhtUC0wNThjZDFBdnBjX1U4TEV4MDY4X0VLYTlTSGVOZ0hteUctUHF6Z0pveDZJcmxSaU1kQlE?oc=5",
+    "outlet": "The News International",
     "topic": "Company watch",
-    "summary": "Neuralink video shows trial patient saying 'I love you' using brain implant India Today",
-    "date": "2026-09-17",
+    "summary": "Elon Musk's Neuralink patient uses brain implant to say 'I Love You' The News International",
+    "date": "2026-09-18",
     "score": 22,
     "tags": [
      "Brain-computer interface",
@@ -14175,21 +14219,21 @@
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-18",
+    "firstSeen": "2026-09-19",
     "isNew": true,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "news-x6uk25",
+    "id": "news-j7s10v",
     "kind": "news",
-    "title": "Ekso Bionics Highlights Robotic Gait Training Solution for Rehabilitation Market",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNFV2THI3M0doZFNRb0V5VDZzNjlRcnRDdllwSDBIMm40MFdSUFhHcUV1S3JMTERHSnNvQ09fb3BJbjVtZG03NlJsZlQ2bUR1LXlfejVDdnFYdWFTaXlVaUFUMHhYWmZVblRkOWdMVEN5dzctNzdZa0tWdDR0RG1YSXZCeDh2aXE5YlNPSXpwOFA3clBMcjV3d2hmcEtZcDlUUS1NcmRLbTFfaE5KZ1JIR05EbUR2cnJkbmQ4TlE3RVQ3LWpNTVVv?oc=5",
+    "title": "Ekso Bionics Highlights Home-Use Exoskeleton for Spinal Cord Injury Mobility",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUtVTFFYV1E4WXNNYnRucS13cURwOGdFNHVQNkhwcUJKbTE5cDJKUWVSTmdUTFdINEhwcjVmQ2F6eGJCSjlFNmlQRnNvSF8ySzhZV2FFaTk4SEZpZkdWWWNHZFJKYXltRmxZUUotdXNSYlF2amkyb3FzV2VBWEdnalE4R1hXQ3AyaDFFTzhNR3FTZ2t5UkxkMF9fVnJBRkliLVNUXy1IcnNfaTM5Yll6NTBTR0Vlc2czNTlEVWx3NHVwUQ?oc=5",
     "outlet": "TipRanks",
     "topic": "Company watch",
-    "summary": "Ekso Bionics Highlights Robotic Gait Training Solution for Rehabilitation Market TipRanks",
-    "date": "2026-09-09",
-    "score": 22,
+    "summary": "Ekso Bionics Highlights Home-Use Exoskeleton for Spinal Cord Injury Mobility TipRanks",
+    "date": "2026-09-18",
+    "score": 20,
     "tags": [
      "Activity-based rehab & exoskeleton",
      "Watchlist: Ekso Bionics"
@@ -14200,14 +14244,13 @@
       "key": "rehab",
       "label": "Activity-based rehab & exoskeleton",
       "matched": [
-       "robotic",
-       "gait training"
+       "exoskeleton"
       ]
      }
     ],
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-09-18",
+    "firstSeen": "2026-09-19",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -14248,9 +14291,9 @@
     "kind": "news",
     "title": "Postural changes and motor evoked potentials following percutaneous spinal cord epidural stimulation in spinal cord injury",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHcTFxOXNWQWlrUjYyc3dkYUlJNVZTMVFQT2JFeUxUQk4xTlpMeThmT3FMc2Jyb25iRkEzdFVjSUctb3ZadlY1MlBZb2xnUWtSN2xXbnNzM1MyZl9NMnUw?oc=5",
-    "outlet": "nature.com",
+    "outlet": "Nature",
     "topic": "Technology",
-    "summary": "Postural changes and motor evoked potentials following percutaneous spinal cord epidural stimulation in spinal cord injury nature.com",
+    "summary": "Postural changes and motor evoked potentials following percutaneous spinal cord epidural stimulation in spinal cord injury Nature",
     "date": "2026-09-11",
     "score": 18,
     "tags": [
@@ -14274,34 +14317,33 @@
     "exploredNote": null
    },
    {
-    "id": "news-1ulr7j5",
+    "id": "news-12d6tkl",
     "kind": "news",
-    "title": "Ekso Bionics Highlights Robotic Exoskeleton for Spinal Cord Injury Patients",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU01vMnBkWXBJVXZkUkdtbGEtNUJNS0UzSmVaT0hzbGhsU2Iyb0xQVmMxTEVWSUxFZENTRnpYdDZITEFiRlp2bmw2UE5UX0VvUjE5VWxnVWktTUxCcy1DSV9Cb21IRXhDMmR5ak1xalJnSzBiTW9QaHo2YXhlcjR2bGRiclpGR2hBRFdNbFM1YzN3Sm83d1RqaThQVU1vcFpjc2V3cmgtZTdRUWRrYVNjODBSeDR2RGZOVTI1SWFIRjg?oc=5",
-    "outlet": "TipRanks",
-    "topic": "Company watch",
-    "summary": "Ekso Bionics Highlights Robotic Exoskeleton for Spinal Cord Injury Patients TipRanks",
-    "date": "2026-08-18",
+    "title": "Brain Implant Can Turn Thoughts Into Speech? Know How Wireless BCI Technology Works",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2dJbUNBZkNEbTJySW00R3J6S244eVdHUDJ4YU9uYm1QYm5xcDFGOURVbzdWOEJhRFBMZ0psRlg4WUU5NnhWb3ByRHVPZnlRbnQ1emdRWGJrRkduQjA0NDNRSXN2cWxrdVd0OHBkcmlCVFd6blFuM05oWGZzeTFVVWRCMkJ4YUVLdEhjdVVhXzJjVkJveFktYS1haE5mTlFMYzFNdk1aRkxVU1QyWjN1dFcxUXFRYm5POXAtUnhvVdIBxAFBVV95cUxNYlRKc2Zadjd5ZXAyZHZRazZwbHoxWmd4blJTQlZxMHNRb19obHdPWkdramh3MjNnVERac3lSUENncGNYVGlhUVV2U2ZyWkxjX2JTcDhzdWVHMHF5eGhnVjFaaWhNSUo4TzVDaWt5UVVpT29VYkEwOFpWemN1czdiWGswWV9RSFlmS19PLWs3LWpGcnFubzlxanRON1JNYXhKc0kxREtMWDJEM3F4Si1oZUZoRWtiOG40Zmt1bm9hOXc3ZFU0?oc=5",
+    "outlet": "ABP Live English",
+    "topic": "Technology",
+    "summary": "Brain Implant Can Turn Thoughts Into Speech? Know How Wireless BCI Technology Works ABP Live English",
+    "date": "2026-09-19",
     "score": 18,
     "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Ekso Bionics"
+     "Brain-computer interface"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
+      "key": "bci",
+      "label": "Brain-computer interface",
       "matched": [
-       "exoskeleton",
-       "robotic"
+       "bci",
+       "brain implant"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-09-17",
-    "isNew": false,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-09-19",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14332,9 +14374,9 @@
     "kind": "news",
     "title": "Technology puts quadriplegic back at the helm of sailboat",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeEFFdllKUFF3YVpZcE1Qa2tobHR6NnJJYXRhTXU5eVdrRnZTZ1ZlTWhRTkNmZ2dsZjUxTlFnMkxHeHZlMWNRT1lMWXpSWU1ucDU3QmpFY2xkRzdid3RIOHRkWC1JTkFPYXhNbFBJMmRxZ1ZlUWt2VUtGRTNhRERJQ0lkcUQ1SGhtTW9GaFVsa09FcjFEZ0oyQmNYR3RlQzYySUN1aWhfOTc0Umc?oc=5",
-    "outlet": "Times Colonist",
+    "outlet": "timescolonist.com",
     "topic": "Technology",
-    "summary": "Technology puts quadriplegic back at the helm of sailboat Times Colonist",
+    "summary": "Technology puts quadriplegic back at the helm of sailboat timescolonist.com",
     "date": "2026-08-30",
     "score": 16,
     "tags": [
@@ -14380,43 +14422,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-1sa8rq5",
-    "kind": "news",
-    "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85Tkw2T0RRVHk4M3ZmRURabnVad01CaThwS3h1bFE3bXVOelN1ZVRWS3VxUUZmU3dqQVVWcFprQUJtQkl3bjdoTnJIeHhIQlFFYzBMSlRjc000RXc2MV9B?oc=5",
-    "outlet": "nature.com",
-    "topic": "Technology",
-    "summary": "‘Multifunctional’ brain implant translates speech and gestures in real time nature.com",
-    "date": "2026-09-14",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-18",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-kf6rum",
     "kind": "news",
     "title": "Steinbrenner Scholar Brings Lived Experience to Brain-Computer Interface Research",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM2llaDFDb25BVm1WTGtwNFYwNEEzUjRkNW5Jc0lMVU0zNHFrUUY3Tm84Yi16bVVScW9WdTRMRUcxamNBbWtMX2p1S2tPeUlMNWxKYjJtYUlQMWFnOTUxU0FJUDl0N1JzQTNlVERGQVQtU1ljOFFkS0hPZE5XT05tVEFCYV92SGU0S0NaZFdIWUFnYmZNLW5Mc0Q3VHZLRUxVUmNGY3VGX1c3Qm16NVE?oc=5",
-    "outlet": "University of Miami",
+    "outlet": "news.med.miami.edu",
     "topic": "Technology",
-    "summary": "Steinbrenner Scholar Brings Lived Experience to Brain-Computer Interface Research University of Miami",
+    "summary": "Steinbrenner Scholar Brings Lived Experience to Brain-Computer Interface Research news.med.miami.edu",
     "date": "2026-09-10",
     "score": 16,
     "tags": [
@@ -14440,43 +14452,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-1dk1fua",
-    "kind": "news",
-    "title": "‘I Have a Lot to Say’: Brain Implant Helps a Disabled Patient Speak",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMEFTODdPeF9LVWxTVmM5VzMtTy1lWmRPXzBVakRkazB2MHZUeHAxYTZxMUR3ZkF2VFpDcWh4dlN3QjlkTll4d3phZFFzTjJRcWQ2Y18xSjA2Rkg0VnFIaDRRejRKNHFma3ppcGxVdzlYTFpPelJ0MW1lbFg3WmNMWUdEMUJsczBvd2NMWm5veGJPTnJqdmlMTkZuZw?oc=5",
-    "outlet": "The New York Times",
-    "topic": "Technology",
-    "summary": "‘I Have a Lot to Say’: Brain Implant Helps a Disabled Patient Speak The New York Times",
-    "date": "2026-09-14",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-18",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-7szkmq",
     "kind": "news",
     "title": "Brain implant restores gestures, speech for some paralysis patients through virtual avatars",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUFFPTXo3bU5fYVlPV2hOcTBfb3J0MHJPaGNORTBRMGdWR2E4QTZRTGRDdm9TbTFXVy1meTBOdXJ1TXQyb1c5M2xodEZ0WHhZSndGRWNITUt0SGJDOUs1VzNRblkwUWlMaERQYlJhZWxiMHI1NDkxd3ZFQ2RQbDJSRkJXTnFINS0xWnZnX0Y5VEdLNGgydEV6cUt1cV9kVXh6cjhacV8zN1NnZjcwT2VtcV95aWw?oc=5",
-    "outlet": "LiveNOW from FOX",
+    "outlet": "livenowfox.com",
     "topic": "Technology",
-    "summary": "Brain implant restores gestures, speech for some paralysis patients through virtual avatars LiveNOW from FOX",
+    "summary": "Brain implant restores gestures, speech for some paralysis patients through virtual avatars livenowfox.com",
     "date": "2026-09-14",
     "score": 16,
     "tags": [
@@ -14496,6 +14478,36 @@
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-09-15",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1g0ld4z",
+    "kind": "news",
+    "title": "Brain Implant Lets a Paralyzed Patient Speak and Gesture at the Same Time",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXViOHVlQjhkdVVQZ2VKZzdERzM3aGtNbHgtX20zLXB3RGNiTnFiLUtndmJSaHpRNng3eUlYcVp5bnJhVkI1ZVdYbUN6cHFLRUlJa1g3WWR4bnppQWtlM1BwdzlNdFUzLXV6ZmdteDc2WjlxUDUyUXA0LVMxLTRPMXBrUkFYM0NFZEQxdkMxMUZHcnV0RUV6SzVEMmk3QkpUR3psR1pXTG1tMllEWERVVXJ1TlFYMlFoWkVlUEt6aw?oc=5",
+    "outlet": "ZME Science",
+    "topic": "Technology",
+    "summary": "Brain Implant Lets a Paralyzed Patient Speak and Gesture at the Same Time ZME Science",
+    "date": "2026-09-18",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-09-19",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14710,68 +14722,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-14fi14b",
-    "kind": "news",
-    "title": "Ekso Bionics Highlights Veteran-Focused Exoskeleton at PVA Healthcare Summit",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXRWczlzT2F3Xy1qQ0ZVWGZZMG5uMmVUc2V0YnlXZjZGVmU1YlJFUW0zcVBaTlM4Q21NWWpmZHpzWXY0VXNCaW9XN0xTMkFUM29nbDB0enlKekFWdzhYRk82QkhvYmFvN2EtczN2aFcyU2lHVldHbE1IQ0doSTNlOHd3MndXZUkyNU5MbWFIWGpWWF9hRjVpblRnVE00QjN4N1NLYkt6V0J2dTBCd0RDSjlwOEJ5OEd1dU42aTIyTkR6dw?oc=5",
-    "outlet": "TipRanks",
-    "topic": "Company watch",
-    "summary": "Ekso Bionics Highlights Veteran-Focused Exoskeleton at PVA Healthcare Summit TipRanks",
-    "date": "2026-08-31",
-    "score": 16,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Ekso Bionics"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-09-18",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1p7hj4q",
-    "kind": "news",
-    "title": "Ekso Bionics Emphasizes Ongoing Engineering Efforts in Robotic Rehabilitation Technology",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRW5objFRcG5rQk1YcEZuM2xMYXk3SmJMeWFCSjhrZ2d2VXFaN0JlTnhPRVF0eHdva2lWTEFQcW5qX1RROTBQN2FMNUkxS2tPRG1DQXhMVDJrQ2plR1Q2UXFXSGdNemw1MF9SMktuTERqN2dTc1doTmJjdnp5eEktZHR3VEFTUlJKTlcxcjZKcTczcjlfSGRkaW9xSElMYXNRbTV5SGFNenlsSzQ3djM3ajlTUDBXYmhZLXNUblZ6NWpiLTJkRzNZdl9Qd2thV1diYmc?oc=5",
-    "outlet": "TipRanks",
-    "topic": "Company watch",
-    "summary": "Ekso Bionics Emphasizes Ongoing Engineering Efforts in Robotic Rehabilitation Technology TipRanks",
-    "date": "2026-08-19",
-    "score": 16,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Ekso Bionics"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "robotic"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-09-18",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1429l0f",
     "kind": "news",
     "title": "FDA Clearance for Eve, Wandercraft’s Personal Use Self-Balancing Walking Exoskeleton",
@@ -14869,9 +14819,9 @@
     "kind": "news",
     "title": "Self-Balancing Personal Exoskeletons: Wandercraft's Eve Brings Hands-Free Mobility into…",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xaHU5MmtVcFFKNzhEaE84ejh0RFNkVTh2Mkd0enh6WXo1MU43UWxEcTE2MThoSnNUZ1pfRHMzRTY0a3I5OC1SNy1WZUluQ3ZmNEVYWlFHTjNiVUlLNk1KMXZQRy1KS0cwRFBlMy1fS2tIUU84RmtuSzJDRQ?oc=5",
-    "outlet": "Trend Hunter",
+    "outlet": "trendhunter.com",
     "topic": "Regulatory",
-    "summary": "Self-Balancing Personal Exoskeletons: Wandercraft's Eve Brings Hands-Free Mobility into… Trend Hunter",
+    "summary": "Self-Balancing Personal Exoskeletons: Wandercraft's Eve Brings Hands-Free Mobility into… trendhunter.com",
     "date": "2026-08-26",
     "score": 16,
     "tags": [
@@ -14926,53 +14876,31 @@
     "exploredNote": null
    },
    {
-    "id": "news-1tc0n28",
+    "id": "news-qpuj2u",
     "kind": "news",
-    "title": "SCI Ventures: Breakthroughs, Partnerships, and Progress",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTXFCTkNtLUd6MWtfOTB0VWpvVUV4ZzUyMmg2bWRqM0F2dVFMNXV4clJvcWJsaEpCYjZuOGNiWGp1VDhsZmpwNnlJQ0VweWg1aXFtTGJINnRqMklKa0lFSHdnOWcxZWluVi1CS3FVVXp4VkxqREQ5dVh4cFlFR3hIdmdrcHhnQkR5U3ktaU10aFpKeEl4Zl9vX3hoVHByWHNTNVRaVWFLaVE3ZUNldEJvTFFVU3M1N3hOV2Z2MEZHMnJyODR2aXZyV29tQVM?oc=5",
-    "outlet": "Christopher & Dana Reeve Foundation",
-    "topic": "Technology",
-    "summary": "SCI Ventures: Breakthroughs, Partnerships, and Progress Christopher & Dana Reeve Foundation",
-    "date": "2026-09-14",
-    "score": 14,
+    "title": "Health ministry issues advisory against unregulated stem cell therapies, restricts autism treatment to app",
+    "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPMWVRak03S1FtcWkxam1LV0pQTHJ6cnkwZjU4aEFUdGo4UFR1UG9CblRJSXNWSHFOSHY4aVE2Y2ZqbmdDUmxCVV9qYzZLbzJRSHY1SHVxOHhlYjZNNE01YlZLM21VeTU0T2RMY05yOFFfTFRaNzBpZXlZWWk1d2xiWFpIdWg4MGVNVkgzNDhDS2Z4Um1HRW1wVV83ZWl0YnlkTDJJYVNTazlnUnphQ0t1ckEzSWxOV004YXJYVFVLM24zUDZmajhseWRjOHMzVjVjcDVsS2ZpMExtaXpUdkZpUmR2ZkhUV2oyNkhaaUhMUDdzUkp5U0ROLVN6ek1pSms1akpHZE0tNXRWSS1kdEhWYWZDcUl0SWYyaTkzdTRINDd3LTRtMk9EM3BiOWhnNWpEV3FSbG03TG9maEJ5dHRhMdIBxgJBVV95cUxONTB5MGI5MUJpbzc0cHlMYkdPd1Z1U2FhaEpqR2tuTHVuVHQxWTNxOTRtdzlFVGR1dWZTcFVreGNDRERwdjc0akxpYnhURk5vODZUSXJuY01KVkdHRGpSWi1iTU42TERqY2xFMVFIa0FiZU5Cd3VyVEpaN05HeGdjUzU3blJnUjRSeUlTNHR3T0RXWTN2LVMtdHBMdTdDUHFLX0dSOE1WdmxUOXlqemwtVmVQMlpwTy1LX250aHdYYkRmclF1V1Zna3FBV25FV2V5dElLNS1kM0wyR1hSWFZsUDhVVThDdXA5QllhYlpXaGpwZHZIaTd6R1pwRUpNTG1pUnVsZXFrbTNzSW1rQVdOWEQxT2ZpNDlUMlBEN0hWRnhUczVaN3FoM1lzRlNQa2xWMUNRS2FfTnU4bXgtYjRNQ013ejRpUQ?oc=5",
+    "outlet": "The Economic Times",
+    "topic": "Regulatory",
+    "summary": "Health ministry issues advisory against unregulated stem cell therapies, restricts autism treatment to app The Economic Times",
+    "date": "2026-09-17",
+    "score": 15,
     "tags": [
-     "Watchlist: Reeve Foundation"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-09-16",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-e12ene",
-    "kind": "news",
-    "title": "Zileuton Beyond Asthma: A Multifaceted 5-Lipoxygenase Inhibitor With Emerging Therapeutic Potential Across Inflammation, Cancer, Neuroprotection, and Fibrosis",
-    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMC1MYzJKZlZCMHJRMnFLR2Jxa205eEc3bDhWTjktMUVMRGFKejNLWE9YQXRHOFZJVWJJeVhDWURhUENiY0Q4V1haRlYyMll4Sm5hbXBSS2xoOEJON0RPTnA5dU5HcWw1MUl2XzdabzZodlJsWEdscHNFY0VtNk5Zb0N6aC0xNWJrck16d1Nta2VTUElodTFTODFpUVR3SkM5V3dFa2N0VTFZb1k2SHpLYWhQNGxaTEZ0SHhzQTFQc2NyYmlsY25OYTZQV0M1OW5UNTVMSEloakxwc3ZPWXc5T0VsVGJYcmpkOFRkZnFHSXlmTGtoZHZBeDNiX0lrby1rbFhncDB5czByaWhjWFM3NG9kdEpVazlQdGpDTnFn?oc=5",
-    "outlet": "Cureus",
-    "topic": "Technology",
-    "summary": "Zileuton Beyond Asthma: A Multifaceted 5-Lipoxygenase Inhibitor With Emerging Therapeutic Potential Across Inflammation, Cancer, Neuroprotection, and Fibrosis Cureus",
-    "date": "2026-09-16",
-    "score": 14,
-    "tags": [
-     "Drug / pharmacological recovery"
+     "Regenerative / cell therapy"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
       "matched": [
-       "neuroprotect"
+       "stem cell"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for drug / pharmacological recovery.",
-    "firstSeen": "2026-09-18",
+    "why": "Surfaced for regenerative / cell therapy.",
+    "firstSeen": "2026-09-19",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -14981,11 +14909,11 @@
     "id": "news-koub96",
     "kind": "news",
     "title": "Earnings call transcript: Onward Medical shares jump on strong H1 2026 growth",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlRaNXA5YWtyTng3aXpOb19ELWNJVVV5bFN6ZkxwNGpsMjdmeDF6ZmU4blBkQzBfRHpFN0kwZEtqUWJfaktPNlJZV1BCTnVYcVRLa2NhTGw0OVBRNHZGb2ZKXzJ0TFFqSmVxbGxLUFdocG5iQmJ4NTZlYmY5aDdKQmg2a1ZlcUpJdDlIUXpRaXhESzJ0YkRnbEoyMXZCUW5GRVB3aE83YW8zYzE4b25HS2FNOWVZVlJjelFpRlpoaEo3X3lGMG1tcFF6dVE?oc=5",
-    "outlet": "Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMlluX2p0dnFYcGx4SUU4TXc0Y0NqUVUtTUR3LWdaTlFiZDRpNHFabE9UMUxjUkZRRlpNbjJCUzBaMW01Y2tTU0tRYlQ4WVI2Zk1jZEQ4dmFJdWhjR1ltSm1HY1RaLWlnZkFpVmFPQnl5bnMtNGoxZVQ5bEE2YWFmeGs3Nl9SdXJVLXB6QzM3U0lFUFQ1NkU1WlYzNVgtamh1dmF0NUh2Yk15T04yMC1XOEs4U3JvMlRYeE1DbzJwN1hvcE5YWklaY0ZSdWhHSHRGVDJxaXVfbVhEN240eGhqSlZQOA?oc=5",
+    "outlet": "Investing.com Australia",
     "topic": "Technology",
-    "summary": "Earnings call transcript: Onward Medical shares jump on strong H1 2026 growth Investing.com",
-    "date": "2026-09-09",
+    "summary": "Earnings call transcript: Onward Medical shares jump on strong H1 2026 growth Investing.com Australia",
+    "date": "2026-09-10",
     "score": 14,
     "tags": [
      "Watchlist: Onward Medical"
@@ -14996,6 +14924,28 @@
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-09-09",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-8ppq7o",
+    "kind": "news",
+    "title": "Heartfelt Breakthrough: Neuralink Patient Surprises Partner With Spoken 'I Love You'",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWU5OaWtGMUg5aWROc2RIRERyekJZNFM0VTBFcXpGRzBadV9Bd29XRUR1Y3RIcnZmaFZXeXExamQ5a3lDRHNyWnBQVTQ4Q1gtSVJRN2dDV0pRcWJtWnM0OTBPajBJcGJNZmZtZ09HWmdqQ2ZlMG5hYkJXNlRIS1Jtb0tfakNqblFKUHhQRXV6Z3NkWS1XYWNfSTNZV3Zfa2Nxd2todk1mU1VKdE5wM3hvLXRRa0ZuS1BlazdQVWpvb1ZXYjNVZXlJ0gHPAUFVX3lxTE93UnFwMXJVcENaYVRmS0RrWTg0UHZfcW5UWVp5M3BvOUt1MHZWNmlyVURoT0FNUkVRRXBTMTd3U3JKakZVWGJlajh4YXNjb3ZVMkxJRWlsbjMxZG4xVDNhSjBERkpyd014Z1lBVG44SDJfZEFHSkE5em8wSEF5S1l2UzJtbVpLRlFKNUh3elhFRHNNbWI0TmNtX09yZ3JIQTIza2YyZm1XU2F4dGhiQU9XMUpjd2hIZ0c3QzdCd2l5ejk1SDA1ZmNvWFlEUm1oUQ?oc=5",
+    "outlet": "NDTV Profit",
+    "topic": "Technology",
+    "summary": "Heartfelt Breakthrough: Neuralink Patient Surprises Partner With Spoken 'I Love You' NDTV Profit",
+    "date": "2026-09-18",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-09-19",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -15017,7 +14967,29 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-09-18",
-    "isNew": true,
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1vdnzbb",
+    "kind": "news",
+    "title": "Progress In Research Fall 2026",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjYzekowSXFZb1g0R2tuSHVHQmhUUXVIZUpjNUZ0M0xQV3YxS1djWFg0bkwzajYwSFBQQ09UNUJaRzhmMy1sVGVqQzdONmp1aUR4SVFCWERRVnppWTZZUUdVV3lJM2x5eHA5TUM3X1M0Ul9HY2dyRVkyeWlqdGxCeWVhRXBSdw?oc=5",
+    "outlet": "Christopher & Dana Reeve Foundation",
+    "topic": "Technology",
+    "summary": "Progress In Research Fall 2026 Christopher & Dana Reeve Foundation",
+    "date": "2026-09-14",
+    "score": 14,
+    "tags": [
+     "Watchlist: Reeve Foundation"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-09-16",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15059,7 +15031,7 @@
     "outlet": "Yahoo Finance",
     "topic": "Company watch",
     "summary": "ONWARD Medical Reports First Half 2026 Results with Strong Product Revenue Growth and Continued Progress across ARC Therapy Pipeline Yahoo Finance",
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "score": 14,
     "tags": [
      "Watchlist: Onward Medical"
@@ -15074,14 +15046,14 @@
     "exploredNote": null
    },
    {
-    "id": "news-9ynktz",
+    "id": "news-1exfzow",
     "kind": "news",
-    "title": "ONWARD Medical Accelerates ARC‑EX Sales and Bolsters Funding as Neurotech Pipeline Advances",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOekxveWZoV1hXLUJXWDZJTFkyYk1WSW1uNXotd1lueWRJT3ZTcWg0Ym1lUEtLREhERXV4MGhqQmtIajhjQmZrTmU4eS1JaFRsQ1RMQUkxY0s5eURhOXI1WTlacVFnWU5zYjJJemc0SVk3RWRvXzhxWHBmR2VhaUt3OE1hbGpaRGJBOVFxekZrUFc4al9sem9jRl83UHJOSGZEdlVEWkdRVlpWYXo2QWplU1hzZHhsazhXbUNFZG95QlBocVNQd2tZd0JLSW82ZXlYSktGWkUtbHFlZw?oc=5",
-    "outlet": "TipRanks",
+    "title": "Onward Medical: Revenue of €4.2 Million in First Half Against €1.2 Million a Year Earlier",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZkhMYkNtb0tvQW1zYXEwUTRIczNHRXJUVHFBQk1WbXg0aVJiTlFnVk5fazRzeXk5ZTlrb0JDb3FTdUtSajZKX0hxZ0VoRjFOdElQNTJMOXRSRWpsaTRqbU5yYVdnenEyaUsyS281WlpEVVNUdzVyUjBJcE9OY2pIQVRoNzQ5cmlrMklXS2d5eW04eGtZUGxpcWN1NjdxNWptWUd5LTZlWC1lLU5oV0pMOTUwV2dLbVVkR0NsWThoT09DdEp1NG1wdkxmSHdGZGd2TU9RbG5NTXJvZFplM1dxQ0RrQUNVZw?oc=5",
+    "outlet": "Idéal Investisseur",
     "topic": "Company watch",
-    "summary": "ONWARD Medical Accelerates ARC‑EX Sales and Bolsters Funding as Neurotech Pipeline Advances TipRanks",
-    "date": "2026-09-08",
+    "summary": "Onward Medical: Revenue of €4.2 Million in First Half Against €1.2 Million a Year Earlier Idéal Investisseur",
+    "date": "2026-09-09",
     "score": 14,
     "tags": [
      "Watchlist: Onward Medical"
@@ -15090,19 +15062,19 @@
     "matchedPriorities": [],
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-09-09",
+    "firstSeen": "2026-09-10",
     "isNew": false,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "news-17zphal",
+    "id": "news-46zamj",
     "kind": "news",
-    "title": "Elon Musk promises 'Jesus-Level' miracles from Neuralink, here's the 'beautiful surprise' that made him s",
-    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPWmtEenhhVHFESVZ4WjV6Yl9qb3EzeFp2WG9PZE5lUHJndktlc3lTZW9rUHFJR1NrWGFvd0hYX3daY3U3Y01LbkM0UkxWVVAzZlhTMERnY1ZtT2sxc3FfdGRTbVc1NUhycUs5RWhvM0pMQ2RveklwZGhfOFJvM2xHaWNiTTlyMnpGNUZQLTZpaHIwZHJyYVBsaUctdkR2S1hRc0xZaUk2WHk5MEZUcEdMWm1NbUFtazdiQ3JmVlpLX0FfZ3FHZUZkN0R5UkJ0U0U0WVFEd0pGRXVPWkt2dXhkdmVrRGdqakw4TjltYkJtVGpLWVJ0RGExaXJseHR1V1lyY0RRWGFHMHdjNnZYUFA0VnhtRlFkQlJuX052UVZqMnDSAaYCQVVfeXFMUGxDbG5XUHhTN1pYRVFuc09qNUZZcDhESTBYbS11VloyU1ZuQmpjZnB3d3BvUVhTLUNwM3Nybml0YXlOWk5WdWpGb3ZqOWVocGVXVVdwbXVXWE9tTFpUY0k2LTI5UHQ5ZzlUVUFvQ3pwdnhpWW1ORHBlZjF1dmFGbl95OEFVdFdtOTFZYVpQWm5kNE1zSjY2c3p6X002MXN6dVhxXzVMMEJyRU9waDBuUmdLemlqeTBRZGQ5bG9Ta3JRNWxwdlN0ZUJ2blA3M3NyY182bXdPSFJXUXcxZUhHd1FoYnJHdkpSQVdYbDh3Y3F2WG82dUFZenF6enZYb3o2amJRUVpBeFhnbVFPWV9GQ09MRXVQSGFVejVTWVRBdGVxUjViMG5n?oc=5",
-    "outlet": "The Times of India",
+    "title": "I love you: Three words, huge leap for Neuralink",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RmYyanBlb2d1WFUxaGVyODBpTUdwRlhvMVVhaEljVlN2QzNTNDJnUjZSVlVDNi00R1JaR1FoVjVCRzhwOVJNSWVoeTN6LUh4RTc2X3EwekwyclRKT29relFIaTRyX0p1ZnJ2a055TzhzTllqc0t3ZkFIaTB5bWPSAX9BVV95cUxPNkZmMmpwZW9ndVhVMWhlcjgwaU1HcEZYbzFVYWhJY1ZTdkMzUzQyZ1I2UlZVQzYtNEdSWkdRaFY1Qkc4cDlSTUllaHkzei1IeEU3Nl9xMHpMMnJUSk9va3pRSGk0cl9KdWZydmtOeU84c05ZanNLd2ZBSGkweW1j?oc=5",
+    "outlet": "orissapost.com",
     "topic": "Company watch",
-    "summary": "Elon Musk promises 'Jesus-Level' miracles from Neuralink, here's the 'beautiful surprise' that made him s The Times of India",
+    "summary": "I love you: Three words, huge leap for Neuralink orissapost.com",
     "date": "2026-09-18",
     "score": 14,
     "tags": [
@@ -15112,7 +15084,7 @@
     "matchedPriorities": [],
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-09-18",
+    "firstSeen": "2026-09-19",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -15135,6 +15107,28 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-09-18",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-pq45q9",
+    "kind": "news",
+    "title": "Neuralink Patient Terry Speaks With Thoughts Using Grok Voice",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxV2NOUXA1TU5vc0xYdzZUNHhWVlZZUk9VbHhKejBqdkZXSXVFeEFYVDZNUGo1Ri1GcHEzUE56YzZSZVN1SThXSVJvUVBSUmhqeUxoYzJrT0JVUWdtNU9odG5tcHZ5b2JxSk1hQzk5ZjZrNkJYRzJCMkktMGFNUQ?oc=5",
+    "outlet": "TeslaNorth.com",
+    "topic": "Company watch",
+    "summary": "Neuralink Patient Terry Speaks With Thoughts Using Grok Voice TeslaNorth.com",
+    "date": "2026-09-19",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-09-19",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -15144,9 +15138,9 @@
     "kind": "news",
     "title": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034]",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnVKZUxXem9qQy1FRzVpbmg1d3lGUUJHS3h4YmNSZ1pvZUYwWVVzTjFETEg1cGlZSGFxdzh0SXl5RmJ1VUd5a3dwbVczTndPMFdKblBpSXAtVnBSMWNKVWdKS25lTm5USUV3YzRYWUpteW1QbDZtVzZwRk5UaW1mMVFuSFBYT1Ixa2NfLUlqemF6Zw?oc=5",
-    "outlet": "Fortune Business Insights",
+    "outlet": "fortunebusinessinsights.com",
     "topic": "Company watch",
-    "summary": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034] Fortune Business Insights",
+    "summary": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034] fortunebusinessinsights.com",
     "date": "2026-08-24",
     "score": 14,
     "tags": [
@@ -15193,13 +15187,35 @@
     "exploredNote": null
    },
    {
+    "id": "news-1mkow1x",
+    "kind": "news",
+    "title": "NervGen Pharma (NASDAQ:NGEN) Given Consensus Rating of \"Moderate Buy\" by Brokerages",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMW1acFpROWduaFFXbnY0dUI1a2VXVWxyWXdTWmNvbVBsSkdzMWx5YjRsT3MwN1JTa2xqRWNveWhfOGlETUxlazZGekxCcEY1MC1vU0RVVDdRbHEzc2RqQndBcDBVQlo0clFoX3JRU1dMMGVzcFlXRjZmZEd2VjFsamtMTzNScjFRZEdxaTRtYTQxb19VWC1jSy1lOHVGRzcyMXlkdEYzLVpqWERFa1JyTW13UjRFM1JHLWZkcmNseWo3aThTUndrZldFdkNGQXdtakpIZElFRXNhSjQ?oc=5",
+    "outlet": "MarketBeat",
+    "topic": "Company watch",
+    "summary": "NervGen Pharma (NASDAQ:NGEN) Given Consensus Rating of \"Moderate Buy\" by Brokerages MarketBeat",
+    "date": "2026-09-19",
+    "score": 14,
+    "tags": [
+     "Watchlist: NervGen"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-09-19",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-2j98s1",
     "kind": "news",
     "title": "What's Going On With NervGen Pharma Corp Stock Thursday?",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3VCcHQwMkhZZkFGanU0V2xaSEppX0NUVFFEb1FpeFVtMVdKc3RRbndpdUJmZzcxcENhemd4bUJYRkZmRnRoYTRma1RqUGlpRTF4c0lRNF92WkEzaEZaOXNqUnhJRzluRm9SWDhHWWRhU0FXX3dfUXA2RW1MZzdNeVNfSnNlWm11TEdzcGhLd1lYSGNid05KUA?oc=5",
-    "outlet": "wealthawesome.com",
+    "outlet": "Wealth Awesome",
     "topic": "Company watch",
-    "summary": "What's Going On With NervGen Pharma Corp Stock Thursday? wealthawesome.com",
+    "summary": "What's Going On With NervGen Pharma Corp Stock Thursday? Wealth Awesome",
     "date": "2026-09-10",
     "score": 14,
     "tags": [
@@ -15245,14 +15261,14 @@
     "exploredNote": null
    },
    {
-    "id": "news-i0ulff",
+    "id": "news-1afn9w",
     "kind": "news",
-    "title": "Ekso Bionics – Weekly Recap",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWm16aHNROW8teFhkYm0zN0FqT01aUXVOOG00aWpHekFrSklrS2xFckktNEhrQ2E4ZnItRmZ0ZzhtNlFUZ0VlSVdybVg3bDJzYjBRbjEweUp5UnVMbHJNblRMMUE0dGFTTHJyY0lRZ0gyOTV1RE8wYkxEdk5OeVhmYg?oc=5",
-    "outlet": "TipRanks",
+    "title": "Ekso Bionics Holdings stock holds steady as investors focus on recent operating trends",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVm9HUWUwcWRuTnhTaTRKTUE3M0VDeTFvMEhxME9oSjVQSkFZQTMyT2dRbHA4M2huVGd4SVlnTUtybXR4V0p4ejVQcXlMbDc1XzdqRXFfLWdHbk12bmYxSG5LQ2UwaDNTSDVNaGxPT0VRVVI4cHNsSXlERkowaldNRGNjbm5TTFRyRWR2aWlaMVhlZGJXNE8xX0lVdWQ4di1ZVFpUTzZjV3ZJN2tEdkItODhXTFVsamdnOHE3YjZBSjFDWDRIZzQ4?oc=5",
+    "outlet": "AD HOC NEWS",
     "topic": "Company watch",
-    "summary": "Ekso Bionics – Weekly Recap TipRanks",
-    "date": "2026-09-12",
+    "summary": "Ekso Bionics Holdings stock holds steady as investors focus on recent operating trends AD HOC NEWS",
+    "date": "2026-09-18",
     "score": 14,
     "tags": [
      "Watchlist: Ekso Bionics"
@@ -15261,60 +15277,8 @@
     "matchedPriorities": [],
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-08-01",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1efa5za",
-    "kind": "news",
-    "title": "Ekso Bionics Targets Industry Visibility With AOPA 2026 Conference Presence",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkxQZXNQblRoN1owMnJBdFlEUjJXYl91VXRpaFpLRldwWUZ2UktlVWkzYlRlZUZ4TDhVdFVpU2hudGVSTjRuMXFsQUlWMGRYMzJpT2FKbDhXU0M1d1ItQTJ6TDcyVTFOZUc5SzRZMnNhakFCLXNyWnVZZFh6QlBPUUtsQTJGSVVmRlJmYU9YNXhtWThEejJobzZJTHNPVHRNTFNDdUs1eUtTb0h1a3kzTnVTTGVVUkozZnlvbEZwWEs?oc=5",
-    "outlet": "TipRanks",
-    "topic": "Company watch",
-    "summary": "Ekso Bionics Targets Industry Visibility With AOPA 2026 Conference Presence TipRanks",
-    "date": "2026-09-08",
-    "score": 14,
-    "tags": [
-     "Watchlist: Ekso Bionics"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-09-18",
+    "firstSeen": "2026-09-19",
     "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1jcrt2w",
-    "kind": "news",
-    "title": "Spinal Cord Stimulation Devices Market Poised for 8.2% CAGR Growth Through 2034",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VMlZyOTRudFVoc1ZIaldwci1rbGw4RHZpWnVFbUZKLVlTVTZVRnZLZ3VMeXdWZjRpNmpHZFY2bDVjV2FCYmx6UkhIZXdpcUxjQ2NzUFlpTVJldFBtTGtXd0JkYWVkTzZEaFZPN2ZWX0o4TUZzS2Rn?oc=5",
-    "outlet": "Market.us Media",
-    "topic": "Regulatory",
-    "summary": "Spinal Cord Stimulation Devices Market Poised for 8.2% CAGR Growth Through 2034 Market.us Media",
-    "date": "2026-08-18",
-    "score": 14,
-    "tags": [
-     "Spinal cord stimulation"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "spinal cord stimulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-08-19",
-    "isNew": false,
     "explored": false,
     "exploredNote": null
    }
@@ -15349,14 +15313,14 @@
       "date": "2026-06-30"
      },
      {
+      "title": "| Shepherd Center and the Blank Family Residences: A Community of Care - Arthur M. Blank Family Foundation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFVaOUtoOWJsdkpNZ3ROYlNMVEsyLVdTRUIwZjlqNGZ1ZHEwYlU4bzUyUTFFUGRpRTBQcjlzZlp2WXVMYTdzcVNRRTBUMWg5S3ZWdFJmZlpqdEluLVNLVXdrYWhVV0dLZ3NXNFBFOUtDQXBPR3JQZmF5ZkE5bnZnWDBUNHUtR0lkT1d3OWVJcXhaaWVpRlAycFBweGdLUUJKeTF3?oc=5",
+      "date": "2026-08-25"
+     },
+     {
       "title": "ATL United players try adaptive gaming at Shepherd Center - FOX 5 Atlanta",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CYWg3ODhKMVFwcXdIRVJLamxZdXJ1NEZaT0w0SGkzRnUtNlhJNEJiYlBvOWtLOC1rdzdsQW9lYmxUQmM5UHB4TkdQQzhmRnJBZGpkOUtSSU96RzRPZHpWZG1EX2zSAWpBVV95cUxNZEtxanJYWng5MmpKbUJNMVlZRlF4aE5LUUh2QTRJbWx6YmItbHVFdHRmRFEzM3NKOWI2d0lUakhkQnVoVUlFRERHZnUxejhjY3BiMDVjczBkWF9JYWpaSlhhdFVEQUgxS0JR?oc=5",
       "date": "2026-08-31"
-     },
-     {
-      "title": "Georgia running back Dante Dowdell being treated at Shepherd Center after accident - WSB-TV",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHFhQXE0eTl3ZGlMdGRmTkRhNDZ5R3d4MURtN2ZxaHV6clN3NGJOS24wYl9tUUFGcHcyTmR4SktkYXlrZUNqQndROGl5TVV5MWhZdHFwZlFEeFlmdVc1dzVEb0phdDBzSzVYb3RjZW9meW9FNF9QOHFPQldpR3d0dmxTcWdRMzNrcE12ZVNSTkpKbXk4ekYtcER0ZWttYy1tS1RpT0xLSW1seGJhc1BtWEE0dkxDRm5jUVVMVUZ5bFI5UlBPajhKbnAzVVA1ZmRBT2VfYkxya9IB6wFBVV95cUxQNnpHMHh0dVZGRXZMcUtJOGt0TXdqU0xvY1dlUm1FejJwSTJkVnBObmVLVEZReE5uV0U2ZFFMU1A5aUJKSzJNYUlDRkdPZWYxQ3QxWjJCWjVPRHpLeDFYcWRZZVYzV0RKLVpyTzgwN3hlM21nUmc3ZFV0QUFjeXY3anV3Z05CSDBkMTBoZ0RHMS1hclNpNVFOdzItZDJxVnBYanFzY0hrMXhPY00zcjJJRXVLTDJWWnBQc0s0OWNNQS1Hd1Jjbi1yWXFJQzVBZzlLZ2tfOEpBbV9VazFfb19GTXN3THJtR1ZJMXFF?oc=5",
-      "date": "2026-07-22"
      }
     ],
     "date": null,
@@ -15392,14 +15356,14 @@
       "date": "2026-08-28"
      },
      {
-      "title": "‘Just a little too shallow’: Husband suffers catastrophic spinal cord injury in diving accident on July 4 - uppermichiganssource.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWVDbHhOTHdXejE3NDhTS0NBUVJobllIU1QtQ3RJMjlxNXBSMVlGdmJhYXhlMmFtc0FnZTRjczJ4TDZ0SjdrNnFLQU4xV1NsR0cxZ0pkaXBMaWN4SU1UUHFpTk9QWHdVWFlnbEkyWmw2T3dGMEJkR0FiZXljZFRaOVRzMzlXVTV4OXoxLVZlRVNEbXN5NVpJUWxmTDFlNTV4dVplTzRSWmpSaWY4YThjUndHX3VQcmdrVWFBaDg5T0dIby1idVFiRmpUWHRaVkNfLVh2MWFzbDV4dWvSAe8BQVVfeXFMTlRvaDBMcFdCOEoybEprYXc1OHRwVmxGVTVqcjc3NkFRQUZlc0hRamg4cm43bjkzX3B5RXhNM0JXeGJldmFkMnJSdTZUQVM1b0cwbkowdW84cUs0Tm5yRlg2QkZIZXNablhOajFfOUdmN0l5OW5GaVY1cGtvdHVTOVl0UWtxRDFHUFVwUW9OZm5vQndObXJHa2tqWVZMSm9QZjRIbFkxRk1fSjQtUUFGWndEQkVqQ2trQ3dNMUpURlVQWjkxZFFYbkVpWWVqY2dFWkFSVHdnd1ZMZjJzVUlsd1hVR1I1djZ5eXp6MVdtdkE?oc=5",
-      "date": "2026-07-13"
+      "title": "Craig Hospital Joins SCI Ventures As Alliance Partner - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mRXV3MU1XM1JFWXpUbEt3Vmw1czVoZHdQZnFVaGZwODE3TkI0em9oWmd4c1NBZ0NXQ1hGZnZtRmIzTVB1eVpzVXJQRWk5ZWY0WDk2LVR5QjR5bDdWcWdEM1RMbjZ2NE5vOEVXeEg1OV9oSEZFLUlyWnFucDc4QdIBgwFBVV95cUxQcFpyV1FFMTNPNE4ydmx2LXAwZElFM3lQSDU4NF82YW53X09LSUtDZmNuWEpMdjZfWVZJVHozNGl0U1lyeHVySEl0MEZwR1lLU0JObDlVLUNLbHVxcTV2S3R5eVYzclBXekp5NGRfMFVoV19Na1hYZ29VdkFlU2twM29yVQ?oc=5",
+      "date": "2026-06-22"
      },
      {
-      "title": "Park Rapids man speaks for the first time since devastating diving accident - Valley News Live",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMXVObHNLTTg4RTBBTlJTaWUybGY4WDVUQWhtdmhGMXRDb3A3ZVF1UnZxWm9RdXJWLWhrUlpoZXVKZWE1blREQXozMFllWWdFY1dMd1VCNzV5Unl6aHY4UEZGZ2lPdVM2c2luYWF6VnQtMDJjbGJ1MVdSM21Hemx3ZmYyUjVyVkhOWXJNT01tSUdFU2RQci1QbmROd0JEOVVQa2ZoX0V3dEZOT2lOY29B0gHDAUFVX3lxTFBYcmVJOVQwTWtXVzgwcWZHVlljQVNoOTJBN2V5NXJ4ckNNYzBwdG1feWVrWWZtQzlBV3pKbkUzMUo1VkdVdzl5RmdJUFNEeXVOdW5ORlpibFhRNm0tNF9qVXFySmd2Zlg0d1RVdjlLdjdzRkhIUlZUNmJlSlRpaWNiN1cybFF0dHFldEExMndtNVQ3aEp1S0NCeklicTNwS1ZWVEhKeTFaMk01REJzTW91ZnlmVVZVM21MSXdLX0pSTmhRZw?oc=5",
-      "date": "2026-07-24"
+      "title": "‘Just a little too shallow’: Husband suffers catastrophic spinal cord injury in diving accident on July 4 - Upper Michigan's Source",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWVDbHhOTHdXejE3NDhTS0NBUVJobllIU1QtQ3RJMjlxNXBSMVlGdmJhYXhlMmFtc0FnZTRjczJ4TDZ0SjdrNnFLQU4xV1NsR0cxZ0pkaXBMaWN4SU1UUHFpTk9QWHdVWFlnbEkyWmw2T3dGMEJkR0FiZXljZFRaOVRzMzlXVTV4OXoxLVZlRVNEbXN5NVpJUWxmTDFlNTV4dVplTzRSWmpSaWY4YThjUndHX3VQcmdrVWFBaDg5T0dIby1idVFiRmpUWHRaVkNfLVh2MWFzbDV4dWvSAe8BQVVfeXFMTlRvaDBMcFdCOEoybEprYXc1OHRwVmxGVTVqcjc3NkFRQUZlc0hRamg4cm43bjkzX3B5RXhNM0JXeGJldmFkMnJSdTZUQVM1b0cwbkowdW84cUs0Tm5yRlg2QkZIZXNablhOajFfOUdmN0l5OW5GaVY1cGtvdHVTOVl0UWtxRDFHUFVwUW9OZm5vQndObXJHa2tqWVZMSm9QZjRIbFkxRk1fSjQtUUFGWndEQkVqQ2trQ3dNMUpURlVQWjkxZFFYbkVpWWVqY2dFWkFSVHdnd1ZMZjJzVUlsd1hVR1I1djZ5eXp6MVdtdkE?oc=5",
+      "date": "2026-07-13"
      }
     ],
     "date": null,
@@ -15499,17 +15463,17 @@
     "linkStatus": "ok",
     "recentNews": [
      {
-      "title": "Miami Project Researchers Share Neurotrauma Discoveries at National Symposium - University of Miami",
+      "title": "Miami Project Researchers Share Neurotrauma Discoveries at National Symposium - news.med.miami.edu",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLURWNTRVaC1qYXNLOFhNUEhqS2NDMGxvZmh2VDdoZ2VMV3FKV1NNaHlFdGNkQkFGLWtNdlFIVi1FRXlldC1MQjlERmZKeDNPTVl6T3JsbjQ2b0ZhdEJwREhGYy1qM0FuUUhtNzIwMU1hR1prWjVyc2hNT01BZWhDR0Z4RGwyVy1aWUt2amFWNmVlcTZYUmdmbGQ2Zm8?oc=5",
       "date": "2026-07-20"
      },
      {
-      "title": "Personalizing Electrical Stimulation Therapy Improves Outcomes for Spinal Cord Injury Patients - University of Miami",
+      "title": "Personalizing Electrical Stimulation Therapy Improves Outcomes for Spinal Cord Injury Patients - news.med.miami.edu",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEM1eXNzNEhINVFMTmNPZWx1WXNSRjZVSTlTckZBbFJJZ2FrVm05R295MWlDSTk3aUVSMjdveldoU1NiT1l6STRqQ29rUlNJeS1STDRPb0hfVUhyNVFWVFpnSVZlUWx3eS12WjdDY05vXzRCZTFweGNwVVdmZ0ZQMHNFdTdDcmFJRk8zTXhVVFNBbENh?oc=5",
       "date": "2026-06-23"
      },
      {
-      "title": "New Miami Project Study Targets Neuropathic Pain and Cognitive Decline in Spinal Cord Injury Patients - University of Miami",
+      "title": "New Miami Project Study Targets Neuropathic Pain and Cognitive Decline in Spinal Cord Injury Patients - news.med.miami.edu",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDF6dFptUm5JN1hGeDFFRm5KUHQ1Q24wVVV6NlVpdjBXcTFoQ3lnVEo4QktGdjBXZEFNQnpUQnR5OFFDMWRTZnUzRFczRFoycVlLcl9Vb0YxbTR5cGVXUTQ5ZkVKRjJDdEV4b2s4OTlUQ1BBWFRNQVBERURPSHl3ei10Uk9hYm1BeXNMSzBKanFYNFNZcVV0VFd5YjM?oc=5",
       "date": "2026-06-22"
      }
@@ -15609,7 +15573,13 @@
     "title": "Institut Guttmann",
     "summary": "Europe's reference hospital for spinal cord injury, with its own neurorehabilitation research institute.",
     "linkStatus": "ok",
-    "recentNews": [],
+    "recentNews": [
+     {
+      "title": "10 hospitals from all over Spain transform Badalona into the state epicenter of rehabilitation through sport - APD Noticies",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQk0xQUp0RFdINldYUF9DTlZWN2ZXWDlIN1JYTW41VW5tWU9XSzlKZzNvdjl4dTlFMVRUcW0xekh4RGphMjBtTkhPWGhpcUJ1OTZ0SHJiSHljZG9YZ0NNejVRVmVnTTBKRzY2MDJvaFk3QVNBUkhQTmtPRXEtd2tEZ0NjNU8wOWQtWkxyWk8yd0VmQ2RPNThsX3hmcmN2NTluNGtvM0hySWRHTTEzemVCOW9RZllvakNwRU8xRDVXU0U5UWMzcU01NzcwcDA0bm1GOEczVHRaTU5YdU5xb2gzYmd5ZVB4dTdxMG04R19hbVV0RkVBcDNGS3FfdzllZUhnZ2g4M0IzNFlTOU1nTTFpYTN4aw?oc=5",
+      "date": "2026-09-08"
+     }
+    ],
     "date": null,
     "score": 0,
     "isNew": false,
