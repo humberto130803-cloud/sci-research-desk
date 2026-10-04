@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-03T14:35:14.183Z",
- "date": "2026-10-03",
+ "generatedAt": "2026-10-04T15:10:16.462Z",
+ "date": "2026-10-04",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -20,7 +20,7 @@
   "lines": [
    "No new open studies since yesterday.",
    "1 new paper.",
-   "7 new technology items."
+   "4 new technology items."
   ],
   "closingSoon": [
    {
@@ -46,7 +46,7 @@
    "papers": 60,
    "newPapers": 1,
    "news": 45,
-   "newNews": 7,
+   "newNews": 4,
    "centers": 12,
    "archived": 0
   }
@@ -9408,92 +9408,6 @@
     "exploredNote": null
    },
    {
-    "id": "NCT03898804",
-    "kind": "trial",
-    "title": "An Early Feasibility Study of the ReHAB System",
-    "officialTitle": "An Early Feasibility Study to Assess the Effects of the \"Reconnecting the Hand and Arm to the Brain (ReHAB)\" System",
-    "url": "https://clinicaltrials.gov/study/NCT03898804",
-    "summary": "The purpose of this research study is to examine the feasibility of a system that involves implanting small electrodes in the parts of the brain that control movement and sensation, and combining that with electrodes in the upper arm and shoulder to activate paralyzed muscles of the arm and hand. This system is intended for people with extensive paralysis in their arms. The small electrodes in the brain will be used to attempt to measure intended movements, and the muscles in the arm and hand will be stimulated to attempt to follow those intentions. The study is a prospective, non-randomized, open-label, exploratory safety/feasibility trial of up to 12 subjects. The Primary Endpoint will be evaluation over the first 13 months after implantation, after which the subjects will have the option of removal of the device or continued participation in a long-term study.",
-    "conditions": [
-     "Tetraplegia"
-    ],
-    "interventions": [
-     "DEVICE: BCI and FES"
-    ],
-    "sponsor": "University Hospitals Cleveland Medical Center",
-    "status": "RECRUITING",
-    "phase": "NA",
-    "studyType": "INTERVENTIONAL",
-    "enrollment": 12,
-    "minAge": 22,
-    "maxAge": 65,
-    "stdAges": [
-     "ADULT",
-     "OLDER_ADULT"
-    ],
-    "sex": "ALL",
-    "date": "2026-08-20",
-    "startDate": "2019-04-09",
-    "completionDate": "2029-08-01",
-    "locations": [
-     {
-      "facility": "University Hospitals Cleveland Medical Center",
-      "city": "Cleveland",
-      "state": "Ohio",
-      "country": "United States",
-      "status": "RECRUITING"
-     }
-    ],
-    "countries": [
-     "United States"
-    ],
-    "contact": {
-     "name": "Jennifer Sweet, M.D.",
-     "email": "jennifer.sweet@uhhospitals.org",
-     "phone": "(216) 844-8522"
-    },
-    "eligibilityText": "Inclusion Criteria: 1. Age between 22 and 65 years of age. 2. Tetraplegia due to a static identified disease process (spinal cord injury or stroke) that prevents functional activity of the upper extremity. 3. Onset of tetraplegia at least 12 months prior to enrollment, with stability of weakness for at least 3 months. 4. Must have sufficiently intact cortical motor structures and stable medical prognoses to be able to perform the BCI control tasks for at least one year. . 5. Ability to speak understandably or, if unable to speak understandably, a reliable means of yes/no communication. 6. Life expectancy greater than 13 months. 7. Chronic care environment within a three-hour drive of the study site or the ability to temporarily relocate to a residence within a three-hour drive of the study site. 8. Willingness to remain available (geographically stable) for at least 13 months after enrollment, including maintenance of the evaluation schedule, frequent visits to the Investigator's office, and visits of Sponsor personnel to the subject's chronic care environment. 9. Willingness to allow videotape recordings to be made of the surgical procedure (for training purposes) and portions of the Feasibility Evaluations. 10. A stable psychosocial support system. 11. Scalp devoid of any lesions or skin breakdown precluding surgery. 12. Ability to provide voluntarily informed consent in accordance with Site institutional policies and willingness to release of Personal Health Information from the date of the injury or disease onset through the completion of the clinical Study. 13. Availability of caregivers capable of providing the necessary daily care of the subject's skin and electrode externalization sites. Exclusion Criteria: 1. Presence of an implanted stimulator such as a pacemaker, spinal cord stimulator, cochlear implant, deep brain stimulator, vagus nerve stimulator, or defibrillator. (Implanted intrathecal pumps for pain or spasticity, cough implants, or diaphragmatic pa",
-    "score": 38,
-    "tags": [
-     "Brain-computer interface",
-     "Activity-based rehab & exoskeleton",
-     "Cervical / tetraplegia",
-     "Chronic injury"
-    ],
-    "flags": [
-     {
-      "level": "info",
-      "text": "Excludes ventilator-dependent participants — check whether that applies."
-     },
-     {
-      "level": "block",
-      "text": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception."
-     }
-    ],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "fes"
-      ]
-     }
-    ],
-    "eligible": false,
-    "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "NCT07595497",
     "kind": "trial",
     "title": "Combined TMS-tSCS for Lower Limb Rehabilitation in Chronic Incomplete SCI",
@@ -9979,6 +9893,92 @@
        "transcutaneous spinal",
        "spinal cord stimulation",
        "scs"
+      ]
+     }
+    ],
+    "eligible": false,
+    "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "NCT03898804",
+    "kind": "trial",
+    "title": "An Early Feasibility Study of the ReHAB System",
+    "officialTitle": "An Early Feasibility Study to Assess the Effects of the \"Reconnecting the Hand and Arm to the Brain (ReHAB)\" System",
+    "url": "https://clinicaltrials.gov/study/NCT03898804",
+    "summary": "The purpose of this research study is to examine the feasibility of a system that involves implanting small electrodes in the parts of the brain that control movement and sensation, and combining that with electrodes in the upper arm and shoulder to activate paralyzed muscles of the arm and hand. This system is intended for people with extensive paralysis in their arms. The small electrodes in the brain will be used to attempt to measure intended movements, and the muscles in the arm and hand will be stimulated to attempt to follow those intentions. The study is a prospective, non-randomized, open-label, exploratory safety/feasibility trial of up to 12 subjects. The Primary Endpoint will be evaluation over the first 13 months after implantation, after which the subjects will have the option of removal of the device or continued participation in a long-term study.",
+    "conditions": [
+     "Tetraplegia"
+    ],
+    "interventions": [
+     "DEVICE: BCI and FES"
+    ],
+    "sponsor": "University Hospitals Cleveland Medical Center",
+    "status": "RECRUITING",
+    "phase": "NA",
+    "studyType": "INTERVENTIONAL",
+    "enrollment": 12,
+    "minAge": 22,
+    "maxAge": 65,
+    "stdAges": [
+     "ADULT",
+     "OLDER_ADULT"
+    ],
+    "sex": "ALL",
+    "date": "2026-08-20",
+    "startDate": "2019-04-09",
+    "completionDate": "2029-08-01",
+    "locations": [
+     {
+      "facility": "University Hospitals Cleveland Medical Center",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "country": "United States",
+      "status": "RECRUITING"
+     }
+    ],
+    "countries": [
+     "United States"
+    ],
+    "contact": {
+     "name": "Jennifer Sweet, M.D.",
+     "email": "jennifer.sweet@uhhospitals.org",
+     "phone": "(216) 844-8522"
+    },
+    "eligibilityText": "Inclusion Criteria: 1. Age between 22 and 65 years of age. 2. Tetraplegia due to a static identified disease process (spinal cord injury or stroke) that prevents functional activity of the upper extremity. 3. Onset of tetraplegia at least 12 months prior to enrollment, with stability of weakness for at least 3 months. 4. Must have sufficiently intact cortical motor structures and stable medical prognoses to be able to perform the BCI control tasks for at least one year. . 5. Ability to speak understandably or, if unable to speak understandably, a reliable means of yes/no communication. 6. Life expectancy greater than 13 months. 7. Chronic care environment within a three-hour drive of the study site or the ability to temporarily relocate to a residence within a three-hour drive of the study site. 8. Willingness to remain available (geographically stable) for at least 13 months after enrollment, including maintenance of the evaluation schedule, frequent visits to the Investigator's office, and visits of Sponsor personnel to the subject's chronic care environment. 9. Willingness to allow videotape recordings to be made of the surgical procedure (for training purposes) and portions of the Feasibility Evaluations. 10. A stable psychosocial support system. 11. Scalp devoid of any lesions or skin breakdown precluding surgery. 12. Ability to provide voluntarily informed consent in accordance with Site institutional policies and willingness to release of Personal Health Information from the date of the injury or disease onset through the completion of the clinical Study. 13. Availability of caregivers capable of providing the necessary daily care of the subject's skin and electrode externalization sites. Exclusion Criteria: 1. Presence of an implanted stimulator such as a pacemaker, spinal cord stimulator, cochlear implant, deep brain stimulator, vagus nerve stimulator, or defibrillator. (Implanted intrathecal pumps for pain or spasticity, cough implants, or diaphragmatic pa",
+    "score": 34,
+    "tags": [
+     "Brain-computer interface",
+     "Activity-based rehab & exoskeleton",
+     "Cervical / tetraplegia",
+     "Chronic injury"
+    ],
+    "flags": [
+     {
+      "level": "info",
+      "text": "Excludes ventilator-dependent participants — check whether that applies."
+     },
+     {
+      "level": "block",
+      "text": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception."
+     }
+    ],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
+      ]
+     },
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "fes"
       ]
      }
     ],
@@ -11600,55 +11600,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42763894",
-    "kind": "paper",
-    "title": "Tetragrip: a functional electrical stimulation (FES) device for enhancing upper limb function in people with tetraplegia - development, technical evaluation, and pilot clinical investigation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763894/",
-    "doi": "10.1080/03091902.2026.2718865",
-    "journal": "Journal of medical engineering & technology",
-    "authors": [
-     "Chackochan V",
-     "Merson E",
-     "Taylor P",
-     "Whitmarsh C"
-    ],
-    "authorLine": "Chackochan V, Merson E, Taylor P et al.",
-    "pubType": "Journal Article",
-    "date": "2026-09-20",
-    "summary": "This paper describes the development and initial evaluation of Tetragrip, a five-channel functional electrical stimulation (FES) device designed to enhance upper limb function in people with C5-C7 spinal cord injury (SCI) resulting in tetraplegia. Tetragrip uses an inertial measurement unit (IMU) on the upper arm to control stimulation through opposite shoulder movements. A Finite State Machine enables users to start and stop stimulation, select grip patterns and adjust intensity. Reusable Etexsense fabric electrodes are embedded in custom Lycra sleeves and positioned over motor points to activate specific muscle groups. Clinicians preset stimulation levels, allowing users to perform \"Key\" and \"Power\" grips without complex adjustments. Initial testing with a healthy volunteer demonstrated reliable IMU control and highlighted the importance of accurate electrode placement. A pilot…",
-    "score": 46,
-    "tags": [
-     "Hand & arm function",
-     "Activity-based rehab & exoskeleton",
-     "Cervical / tetraplegia",
-     "C4–C5 named"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper limb"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "functional electrical stimulation",
-       "fes"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
-    "firstSeen": "2026-09-21",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42763327",
     "kind": "paper",
     "title": "Blood flow restricted exercise with and without transcutaneous spinal cord stimulation via telehealth in persons with tetraplegia. A protocol for randomized clinical trial.",
@@ -11786,51 +11737,50 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42622482",
+    "id": "PMID42763894",
     "kind": "paper",
-    "title": "Off-target effects of percutaneous epidural spinal cord and dorsal root ganglion stimulation with task-specific training on lower urinary tract function in individuals with chronic spinal cord injury.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42622482/",
-    "doi": "10.1080/10790268.2026.2703371",
-    "journal": "The journal of spinal cord medicine",
+    "title": "Tetragrip: a functional electrical stimulation (FES) device for enhancing upper limb function in people with tetraplegia - development, technical evaluation, and pilot clinical investigation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42763894/",
+    "doi": "10.1080/03091902.2026.2718865",
+    "journal": "Journal of medical engineering & technology",
     "authors": [
-     "Soong C",
-     "Veith DD",
-     "Gill ML",
-     "Beck LA"
+     "Chackochan V",
+     "Merson E",
+     "Taylor P",
+     "Whitmarsh C"
     ],
-    "authorLine": "Soong C, Veith DD, Gill ML et al.",
+    "authorLine": "Chackochan V, Merson E, Taylor P et al.",
     "pubType": "Journal Article",
-    "date": "2026-08-20",
-    "summary": "This study aimed to evaluate the off-target effects of motor-optimized SCS-enabled task-specific training (SCS-TST) on lower urinary tract function through self-reported data from individuals with chronic spinal cord injury (SCI), using the Neurogenic Bladder Symptom Score (NBSS). A secondary objective was to explore whether participant characteristics or bladder treatments were associated with changes in NBSS outcomes. Datasets from two prospective pilot trials using percutaneous spinal cord stimulation (SCS) to enable motor function were analyzed and reported. Department of Physical Medicine and Rehabilitation, Mayo Clinic, Rochester, Minnesota. Adults &#x2265; 1-year post traumatic SCI. Participants received either 12 days of epidural stimulation (ES) or 10 days of ES and dorsal root ganglion stimulation (ESDRS), each coupled with 6-8 SCS-TST sessions. NBSS was administered pre- and…",
-    "score": 39,
+    "date": "2026-09-20",
+    "summary": "This paper describes the development and initial evaluation of Tetragrip, a five-channel functional electrical stimulation (FES) device designed to enhance upper limb function in people with C5-C7 spinal cord injury (SCI) resulting in tetraplegia. Tetragrip uses an inertial measurement unit (IMU) on the upper arm to control stimulation through opposite shoulder movements. A Finite State Machine enables users to start and stop stimulation, select grip patterns and adjust intensity. Reusable Etexsense fabric electrodes are embedded in custom Lycra sleeves and positioned over motor points to activate specific muscle groups. Clinicians preset stimulation levels, allowing users to perform \"Key\" and \"Power\" grips without complex adjustments. Initial testing with a healthy volunteer demonstrated reliable IMU control and highlighted the importance of accurate electrode placement. A pilot…",
+    "score": 42,
     "tags": [
-     "Spinal cord stimulation",
-     "Autonomic / blood pressure / bladder / bowel",
-     "Chronic injury",
-     "Watchlist: Mayo Clinic"
+     "Hand & arm function",
+     "Activity-based rehab & exoskeleton",
+     "Cervical / tetraplegia",
+     "C4–C5 named"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
+      "key": "hand",
+      "label": "Hand & arm function",
       "matched": [
-       "epidural stimulation",
-       "spinal cord stimulation",
-       "scs"
+       "upper limb"
       ]
      },
      {
-      "key": "auto",
-      "label": "Autonomic / blood pressure / bladder / bowel",
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
       "matched": [
-       "neurogenic bladder"
+       "functional electrical stimulation",
+       "fes"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel, chronic.",
-    "firstSeen": "2026-08-21",
+    "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
+    "firstSeen": "2026-09-21",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -11927,6 +11877,56 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and autonomic / blood pressure / bladder / bowel, cervical-level.",
     "firstSeen": "2026-08-15",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42622482",
+    "kind": "paper",
+    "title": "Off-target effects of percutaneous epidural spinal cord and dorsal root ganglion stimulation with task-specific training on lower urinary tract function in individuals with chronic spinal cord injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42622482/",
+    "doi": "10.1080/10790268.2026.2703371",
+    "journal": "The journal of spinal cord medicine",
+    "authors": [
+     "Soong C",
+     "Veith DD",
+     "Gill ML",
+     "Beck LA"
+    ],
+    "authorLine": "Soong C, Veith DD, Gill ML et al.",
+    "pubType": "Journal Article",
+    "date": "2026-08-20",
+    "summary": "This study aimed to evaluate the off-target effects of motor-optimized SCS-enabled task-specific training (SCS-TST) on lower urinary tract function through self-reported data from individuals with chronic spinal cord injury (SCI), using the Neurogenic Bladder Symptom Score (NBSS). A secondary objective was to explore whether participant characteristics or bladder treatments were associated with changes in NBSS outcomes. Datasets from two prospective pilot trials using percutaneous spinal cord stimulation (SCS) to enable motor function were analyzed and reported. Department of Physical Medicine and Rehabilitation, Mayo Clinic, Rochester, Minnesota. Adults &#x2265; 1-year post traumatic SCI. Participants received either 12 days of epidural stimulation (ES) or 10 days of ES and dorsal root ganglion stimulation (ESDRS), each coupled with 6-8 SCS-TST sessions. NBSS was administered pre- and…",
+    "score": 35,
+    "tags": [
+     "Spinal cord stimulation",
+     "Autonomic / blood pressure / bladder / bowel",
+     "Chronic injury",
+     "Watchlist: Mayo Clinic"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "epidural stimulation",
+       "spinal cord stimulation",
+       "scs"
+      ]
+     },
+     {
+      "key": "auto",
+      "label": "Autonomic / blood pressure / bladder / bowel",
+      "matched": [
+       "neurogenic bladder"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel, chronic.",
+    "firstSeen": "2026-08-21",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -12064,45 +12064,6 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and breathing & diaphragm, cervical-level.",
     "firstSeen": "2026-08-07",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42548190",
-    "kind": "paper",
-    "title": "Beyond the Neurological Level of Injury: The Critical Role of Electrodiagnostics in Cervical Spinal Cord Injury.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42548190/",
-    "doi": "10.1002/mus.70373",
-    "journal": "Muscle & nerve",
-    "authors": [
-     "Adewuyi AA",
-     "Ramsey MD",
-     "Franz CK"
-    ],
-    "authorLine": "Adewuyi AA, Ramsey MD, Franz CK",
-    "pubType": "Editorial",
-    "date": "2026-10-01",
-    "summary": "Upper extremity function relies on the complex interplay of various neuromuscular mechanisms. Consequently, deficits in hand and wrist function can develop as sequelae of conditions that impact the anatomical structures at the interface of these mechanisms, including radial, median, or ulnar nerve injuries, as well as brachial plexus, spinal cord, and specific muscle or tendon injuries, among others. In addition to these soft-tissue injuries, certain osseous conditions can disrupt neuromuscular mechanisms. As one such example, nondisplaced distal radius fractures treated nonoperatively can lead to an attritional rupture of the extensor pollicis longus tendon. Tendon transfers are performed to improve the functional deficits caused by these conditions. A tendon transfer is a surgical technique whereby a healthy muscle-tendon unit is rerouted to a weak or nonfunctioning muscle-tendon unit…",
-    "score": 32,
-    "tags": [
-     "Hand & arm function",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper extremity",
-       "tendon transfer"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function, cervical-level.",
-    "firstSeen": "2026-08-04",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13338,7 +13299,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-10-03",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13398,36 +13359,6 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-09-25",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42764049",
-    "kind": "paper",
-    "title": "Recovery Trajectories of Lower Limb Motor Function After Cervical Spinal Cord Injury: A Latent Class Mixed Model Analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42764049/",
-    "doi": "10.1016/j.apmr.2026.09.012",
-    "journal": "Archives of physical medicine and rehabilitation",
-    "authors": [
-     "Sugyo A",
-     "Ideta R",
-     "Ariji Y",
-     "Koga R"
-    ],
-    "authorLine": "Sugyo A, Ideta R, Ariji Y et al.",
-    "pubType": "Journal Article",
-    "date": "2026-09-20",
-    "summary": "To identify the latent recovery trajectories of lower limb motor function after cervical spinal cord injury using a latent class mixed model (LCMM) and to examine clinical factors associated with trajectory class membership. Retrospective longitudinal cohort study. A single specialized spinal cord injury center in Japan. A total of 516 participants and 4,040 longitudinal observations were included. Not applicable. Longitudinal Lower Extremity Motor Score (LEMS) data within one year of injury were analyzed using the LCMM. Candidate models with one to five latent classes were evaluated using information criteria and clinical interpretability. Factors associated with trajectory class membership were identified using multinomial logistic regression with Firth correction. The LCMM identified five distinct recovery trajectory classes: early high recovery, steep nonlinear recovery, moderate…",
-    "score": 20,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-09-21",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13590,6 +13521,46 @@
     "why": "Surfaced for neuropathic pain & spasticity, chronic.",
     "firstSeen": "2026-09-26",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42828130",
+    "kind": "paper",
+    "title": "Ultrasound-responsive nanotherapy promotes axonal regeneration after SCI via reactivating CREB/miR-129-5p signaling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828130/",
+    "doi": "10.1016/j.bioactmat.2026.09.024",
+    "journal": "Bioactive materials",
+    "authors": [
+     "Gu G",
+     "Zhu H",
+     "Li S",
+     "Zhang Z"
+    ],
+    "authorLine": "Gu G, Zhu H, Li S et al.",
+    "pubType": "Journal Article",
+    "date": "2026-09-22",
+    "summary": "Spinal cord injury (SCI) remains a devastating neurological disorder with few effective therapeutic interventions due to the poor intrinsic regenerative capacity of adult central nervous system neurons. Here, we identified miR-129-5p as a downstream effector of cAMP-response element binding protein (CREB) signaling that promotes axonal growth by suppressing glycogen synthase kinase-3&#x3b2; (GSK3&#x3b2;). Leveraging this regenerative mechanism, we developed a low-intensity focused ultrasound (LIFU)-responsive biomimetic nanoplatform (CM-miR-CNP@PFP) for targeted SCI therapy. The platform comprises miR-129-5p/perfluoropentane (PFP)-loaded cationic lipid nanoparticles (CNPs) coated with hybrid membranes from RVG-engineered human umbilical cord mesenchymal stem cells and macrophages. The biomimetic coating grants superior immune evasion, prolonged circulation, and precise neuronal…",
+    "score": 19,
+    "tags": [
+     "Regenerative / cell therapy"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "stem cell",
+       "mesenchymal",
+       "regeneration"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for regenerative / cell therapy.",
+    "firstSeen": "2026-10-04",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -13933,6 +13904,36 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42764049",
+    "kind": "paper",
+    "title": "Recovery Trajectories of Lower Limb Motor Function After Cervical Spinal Cord Injury: A Latent Class Mixed Model Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42764049/",
+    "doi": "10.1016/j.apmr.2026.09.012",
+    "journal": "Archives of physical medicine and rehabilitation",
+    "authors": [
+     "Sugyo A",
+     "Ideta R",
+     "Ariji Y",
+     "Koga R"
+    ],
+    "authorLine": "Sugyo A, Ideta R, Ariji Y et al.",
+    "pubType": "Journal Article",
+    "date": "2026-09-20",
+    "summary": "To identify the latent recovery trajectories of lower limb motor function after cervical spinal cord injury using a latent class mixed model (LCMM) and to examine clinical factors associated with trajectory class membership. Retrospective longitudinal cohort study. A single specialized spinal cord injury center in Japan. A total of 516 participants and 4,040 longitudinal observations were included. Not applicable. Longitudinal Lower Extremity Motor Score (LEMS) data within one year of injury were analyzed using the LCMM. Candidate models with one to five latent classes were evaluated using information criteria and clinical interpretability. Factors associated with trajectory class membership were identified using multinomial logistic regression with Firth correction. The LCMM identified five distinct recovery trajectory classes: early high recovery, steep nonlinear recovery, moderate…",
+    "score": 16,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-09-21",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42749323",
     "kind": "paper",
     "title": "[Effectiveness analysis of anterior intervertebral osteotomy and fusion assisted by inflection point of uncinate process for treatment of cervical spondylotic myelopathy].",
@@ -14084,7 +14085,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton.",
     "firstSeen": "2026-10-03",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14124,9 +14125,9 @@
     "kind": "news",
     "title": "Wandercraft Acquires Ekso Bionics from ChronoScale to Form World's Largest Medical Exoskeleton Powerhouse",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXhRQWg0VVJqS3dERllvczVqRUFnRlY0SW52b2JSbUZkM3ltZVY5SlRJSTVIYkQ1bzJCbEV2S1cxV2EzanF2UWtjMy1MZkJ4dlRINjFjMWNoNGgxZklmLVVUcmtXVThqaFc2ckluZldMU3hlTWNPMWMzdXdSVWJiQy11WEsxanExYTdPNkc5T0R0VWxPRnNhbndJdW9raWlya3hteXd5MVZtOHd3c2JoZUtDVmVCbDBPMnhvRm1rQQ?oc=5",
-    "outlet": "hitconsultant.net",
+    "outlet": "HIT Consultant",
     "topic": "Company watch",
-    "summary": "Wandercraft Acquires Ekso Bionics from ChronoScale to Form World's Largest Medical Exoskeleton Powerhouse hitconsultant.net",
+    "summary": "Wandercraft Acquires Ekso Bionics from ChronoScale to Form World's Largest Medical Exoskeleton Powerhouse HIT Consultant",
     "date": "2026-10-02",
     "score": 23,
     "tags": [
@@ -14146,7 +14147,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton.",
     "firstSeen": "2026-10-03",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14178,6 +14179,37 @@
     "why": "Surfaced for activity-based rehab & exoskeleton.",
     "firstSeen": "2026-10-02",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-151mioc",
+    "kind": "news",
+    "title": "Wandercraft Ekso Bionics Acquisition Turns Former Rivals Into One Exoskeleton Platform",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUzNRODJoY3AwZHVhQ3Z2SGYzamppQlY3bEFmTG93RUlSTlZ1OHR0WnJvckJ0c29ES1N0dG5OYUJaRC1vTmdlbURaU0xqS1Rjd3dTS21HVy1laDR1R09ucExOXzV5MFZ0VFRUSHBzazV3THQySENlUVdVZDFCcVRMZndPZU5WdFJEb1RiWWdDQUNFeVhHNEJucVdCdkxsVml5b1F3dkxhVmZlUQ?oc=5",
+    "outlet": "remio",
+    "topic": "Company watch",
+    "summary": "Wandercraft Ekso Bionics Acquisition Turns Former Rivals Into One Exoskeleton Platform remio",
+    "date": "2026-10-03",
+    "score": 23,
+    "tags": [
+     "Activity-based rehab & exoskeleton",
+     "Watchlist: Ekso Bionics"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "exoskeleton"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-10-04",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14217,9 +14249,9 @@
     "kind": "news",
     "title": "Neuralink brain implant helps man with ALS speak using his thoughts",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYm9qUFd2LWdiSGs5NzExN014MDgxT005dnpQdFl4Uk5IRVhpYjljN1VRMU5BQW5kdUt5dWk4WHFkSG5YQUQzNUNlN19QWlYwUU1pSzYyd1daUDdXQ3NwdURpSnF3SzhKWVAxbTdMYmRmZnFacml5RUh6MGhzX0NscEdkdHlfUW42c0xkSFRKS0N6dEFrMzRtcnFkU0YyLW8?oc=5",
-    "outlet": "MobiHealthNews",
+    "outlet": "mobihealthnews.com",
     "topic": "Company watch",
-    "summary": "Neuralink brain implant helps man with ALS speak using his thoughts MobiHealthNews",
+    "summary": "Neuralink brain implant helps man with ALS speak using his thoughts mobihealthnews.com",
     "date": "2026-09-23",
     "score": 22,
     "tags": [
@@ -14270,7 +14302,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-10-03",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14310,41 +14342,10 @@
     "kind": "news",
     "title": "Precision Neuroscience raises $250M for brain-computer interface",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhHM0JQUkpSaHA5Zk5NdmVTczNIb1ZMR1ZpcmxjS29VVnhKLWt6aHdJX3ZNXzk4RTNMeXJTSk01NzJ0UUlIanVZT2FjTzNVWTNtZzRUdHAza3VVMVc1NWhqSTV1SU41YTZ1YWRmZHoyQmZ1eUpJeDdRcVE4elhGdFQ1eFRTS2NhaXlfTDV0dG1KYnNMRGN6NEJ6UQ?oc=5",
-    "outlet": "MobiHealthNews",
+    "outlet": "mobihealthnews.com",
     "topic": "Company watch",
-    "summary": "Precision Neuroscience raises $250M for brain-computer interface MobiHealthNews",
+    "summary": "Precision Neuroscience raises $250M for brain-computer interface mobihealthnews.com",
     "date": "2026-09-24",
-    "score": 22,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Precision Neuroscience"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-25",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-m2nome",
-    "kind": "news",
-    "title": "Precision Neuroscience raises $250M for brain-computer interface work",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQm40THpGZVFUdDZ0R283Ynp4ZUVBU0swU3hYbHh3Nk5UcTRtYm5MTWlFT0h1Q3pSd0VmNWRscjB3cFFYaFQwZ0VQUVpQMDFlR3BLQ3FXdGtIRjRzVEl3dlhJaWxEc0E5R0x3TU1IVkVvUlBIVHVIWTZSa1NZMDNQR3Nhc29yQjNieV9PMGhmNGpISVBBWlJxT09aZV9FT1pid3pMYXA4RENlUktSVnc?oc=5",
-    "outlet": "MedTech Dive",
-    "topic": "Company watch",
-    "summary": "Precision Neuroscience raises $250M for brain-computer interface work MedTech Dive",
-    "date": "2026-09-25",
     "score": 22,
     "tags": [
      "Brain-computer interface",
@@ -14394,6 +14395,37 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-09-26",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-m2nome",
+    "kind": "news",
+    "title": "Precision Neuroscience raises $250M for brain-computer interface work",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQm40THpGZVFUdDZ0R283Ynp4ZUVBU0swU3hYbHh3Nk5UcTRtYm5MTWlFT0h1Q3pSd0VmNWRscjB3cFFYaFQwZ0VQUVpQMDFlR3BLQ3FXdGtIRjRzVEl3dlhJaWxEc0E5R0x3TU1IVkVvUlBIVHVIWTZSa1NZMDNQR3Nhc29yQjNieV9PMGhmNGpISVBBWlJxT09aZV9FT1pid3pMYXA4RENlUktSVnc?oc=5",
+    "outlet": "MedTech Dive",
+    "topic": "Company watch",
+    "summary": "Precision Neuroscience raises $250M for brain-computer interface work MedTech Dive",
+    "date": "2026-09-25",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Precision Neuroscience"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-09-25",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14456,37 +14488,6 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-09-27",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1puzpaq",
-    "kind": "news",
-    "title": "Precision Neuroscience Raises $250M Series D to Commercialize Brain-Computer Interface",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM0JoNWdNTjc1ajBqXzNtOVUxSHkxX1lOMXpueF95cnBnNlpTa0x3QXhFQ3BHUTdPbEVVOGhteWIyZ2QzSmt4RjJXSXh6VEc1THNTT3p1SGYtclRNSzNtdE00Vlc4Z2lnVVZtSFlzcUtGZlBBbXpzQ1BvS1cyWHVTVzZxU2FmeUVodWdLLS0zR3AyU21jcjJmamFqcXNtd2VOVkdMUFlvQTdFd3B1anVvaHFKdlh4Q1MzOGpsbGpOb1hQZw?oc=5",
-    "outlet": "citybiz",
-    "topic": "Company watch",
-    "summary": "Precision Neuroscience Raises $250M Series D to Commercialize Brain-Computer Interface citybiz",
-    "date": "2026-09-28",
-    "score": 22,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Precision Neuroscience"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-28",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14616,37 +14617,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1e1z6ad",
-    "kind": "news",
-    "title": "Brain implant restores the sensation of touch in a person with quadriplegia",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmhaNE9iNUVaeVlnVFZZSnAyODYzcnFnQXF0YkRrRjJnbVI3dTFkZVgxcDhZSk1lSGhRNzBqWHZITVFIcm11NDlnRjIzQ2VUSlNwZlV3MVhob3Q0NUV4cnR4NzV2a1VTUjZxcnlPYmZnLVJXdndCOTNmWFVkdVV6NDdVcTlDUUdkbkJ2UUNwVlhBQlp4cWdaakNXeW1qZlcyY0xNWjFwYXkwRlYwQVE?oc=5",
-    "outlet": "STAT",
-    "topic": "Regulatory",
-    "summary": "Brain implant restores the sensation of touch in a person with quadriplegia STAT",
-    "date": "2026-07-16",
-    "score": 20,
-    "tags": [
-     "Brain-computer interface",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface, cervical-level.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-7omtbl",
     "kind": "news",
     "title": "CorTec receives second FDA ‘Breakthrough Device’ designation for its brain computer interface",
@@ -14755,7 +14725,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-10-03",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14790,6 +14760,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-d4dwta",
+    "kind": "news",
+    "title": "Device Makers and Sleep Researchers Clash Over Whether Nightly Use Proves Phrenic Nerve Stimulation Works",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTW0teWJlckZ0bzN3UVM4NTFTOTQ5OUxSQ3R4QTFFcnFGa29mU1pQTDNZT1FYY2Q5REs3NUt1ZVJFOTZiUUU2bTFfMTNmcWxzeVR4dnNrUVplTVVuWFJXdi1CLUhVbE9wWmFHWnFnaU5JU19FalJ1MDMtdHhsUDBQSkwtZzZfLXktZWU4TVhhWUpUVEtONWRGbTVKU3M1T1dEdVZVSkZTZTdmUHRJV2g3UV80ODkwbmlGcUR0cFhka1RCR2k5NFZmdHFn?oc=5",
+    "outlet": "Bioengineer.org",
+    "topic": "Technology",
+    "summary": "Device Makers and Sleep Researchers Clash Over Whether Nightly Use Proves Phrenic Nerve Stimulation Works Bioengineer.org",
+    "date": "2026-10-04",
+    "score": 16,
+    "tags": [
+     "Breathing & diaphragm"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "resp",
+      "label": "Breathing & diaphragm",
+      "matched": [
+       "phrenic nerve"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for breathing & diaphragm.",
+    "firstSeen": "2026-10-04",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1l5a832",
     "kind": "news",
     "title": "Brain Computer Interface Implant Market Forecast to 2035, Driven by Rising Neurological Disorder Prevalence",
@@ -14816,6 +14816,36 @@
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-09-27",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1v1ucds",
+    "kind": "news",
+    "title": "Brain Computer Interface - 2026 Market & Investments Trends",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUhuSkV6bVRCaUF4dVFqUVlRc1hxbnQ5XzVHTHUxQmdSM2VIODlnXzZ6WWw4RE52bWhLaURTU3pwTVM5QTg0SzlzUkFiRVFLT0Mxck1GVTJya250OXFWdkZZaDlORDlaQ0lsakZnMFBKY19Qd0dBbThSYUoxQ3RtSEd1T3hyaHBMVW9jT2l3czBzTjJTZGtRb2Rlclo1VTN5?oc=5",
+    "outlet": "Tracxn",
+    "topic": "Company watch",
+    "summary": "Brain Computer Interface - 2026 Market & Investments Trends Tracxn",
+    "date": "2026-10-02",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain computer interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-10-04",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14854,9 +14884,9 @@
     "kind": "news",
     "title": "Billionaire family offices bet on geothermal energy, brain implants in September",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW9hX1ZMcjhyZFpTY1BoUU5YbU52WURBcWtsMHd3b2xNYjFyMF9LTmRhZnJ2U08tT2xka2Y2elY1Nk8yMnhxcFZzM0M3X2s3LVFJbDRrUEpVb0hDSUtRVi1ZdUdSQ2didkpqT1BESlR0SXlvenc4WWJic0J0cUFxY3otMlZQQTVpNHUtVVJKUzRrdHZvaHRzZG1FUC1Sd3VodnNhQ1Z30gGmAUFVX3lxTE51b2FfVkxyOHJkWlNjUGhRTlhtTnZZREFxa2wwd3dvbE1iMXIwX0tOZGFmcnZTTy1PbGRrZjZ6VjU2TzIyeHFwVnMzQzdfazctUUlsNGtQSlVvSENJS1FWLVl1R1JDZ2J2SmpPUERKVHRJeW96dzhZYmJzQnRxQXFjei0yVlBBNWk0dS1VUkpTNGt0dm9odHNkbUVQLVJ3dWh2c2FDVnc?oc=5",
-    "outlet": "CNBC",
+    "outlet": "cnbc.com",
     "topic": "Company watch",
-    "summary": "Billionaire family offices bet on geothermal energy, brain implants in September CNBC",
+    "summary": "Billionaire family offices bet on geothermal energy, brain implants in September cnbc.com",
     "date": "2026-10-01",
     "score": 16,
     "tags": [
@@ -14906,7 +14936,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton.",
     "firstSeen": "2026-10-03",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14942,32 +14972,32 @@
     "exploredNote": null
    },
    {
-    "id": "news-12d1mxb",
+    "id": "news-ik0y2w",
     "kind": "news",
-    "title": "Scientists Discover a New Potential Treatment Target for High Blood Pressure",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUN6TXNENGlVSVcyX0JJLWhkN3hDTTBYX3VXdHVxREZTaGVhdXpMbkh1bXhBWnpkazFISjVhRVFyM3JFME9UbWVpRmd0UHg1MHFyV1ZYdWZNN2tEbW9XWmpYRy1XdThVVE5ocHhhZnlBTko5QzZvMEwwUlQxSUFOQ05kQmpCb0I2NURKN3Q1SGg4cFV2MEZzNlczMDFzYmgtNkNmaw?oc=5",
-    "outlet": "SciTechDaily",
+    "title": "Tooth fairy therapy? Stem cells from teeth tested in a small Huntington’s disease trial",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUkcwZ3JmcFppWU9QU0JjckFjLXlzN0dPdnFLQWxNLVdXQVlDQmZ4QlNTZ0xLRDBHMnJOWTlyUURfTks2YUprMzhoQWVEaDVCdU1OSkxXYlhQdkdxTzJfejdJVDRkRjFKV3htX3UxRnI2aXMwQVRheUx3R3dVNU14UEJIUHlWQjBJd0hpNDBPbWlNZFNlcExKT1FLa3luMmJ2VUplcHlYenZpMTVZLTF0UFd3?oc=5",
+    "outlet": "HDBuzz – Huntington’s disease research news.",
     "topic": "Technology",
-    "summary": "Scientists Discover a New Potential Treatment Target for High Blood Pressure SciTechDaily",
-    "date": "2026-09-27",
+    "summary": "Tooth fairy therapy? Stem cells from teeth tested in a small Huntington’s disease trial HDBuzz – Huntington’s disease research news.",
+    "date": "2026-09-30",
     "score": 15,
     "tags": [
-     "Autonomic / blood pressure / bladder / bowel"
+     "Regenerative / cell therapy"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "auto",
-      "label": "Autonomic / blood pressure / bladder / bowel",
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
       "matched": [
-       "blood pressure"
+       "stem cell"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for autonomic / blood pressure / bladder / bowel.",
-    "firstSeen": "2026-10-02",
-    "isNew": false,
+    "why": "Surfaced for regenerative / cell therapy.",
+    "firstSeen": "2026-10-04",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -15011,7 +15041,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-10-03",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15038,13 +15068,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-1t8tjl4",
+    "id": "news-1tgvkwf",
     "kind": "news",
-    "title": "China Becomes the First in the World to Approve Commercial Use of a Neurochip, Ahead of Elon Musk's Neuralink",
+    "title": "China Becomes the First in the World to Approve Commercial Use of a Neurochip, Ahead of Elon Musk's Neuralink - Судово-юридична газета",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLVg4ZXJUSVpVU3dERFh2V1RtYjAybFlqUHNjbkxLYVZoQWhwZ1Z0elg3YTl5Ym4zM1Z5S3JONDdaQ2xGOWNBVFBYcW1adGxDTU1aVVdpX1ZoejRmdnIwM3BKVmpGWFJYNW0tSG8xRDFvMFFxMklNbVByQnl1enNGenpIZkx0ekx1VGtBRENmdXhDMTI3VUJfeGVLNzh5VWdaNHJ3enA5amtnVTFKNVpYN0ZmM25BZWVKSnh2WHV1TFZ3bWM2MklSLWhwcnZLVDNVNVBCcUhB?oc=5",
-    "outlet": "sud.ua",
+    "outlet": "Судово-юридична газета",
     "topic": "Technology",
-    "summary": "China Becomes the First in the World to Approve Commercial Use of a Neurochip, Ahead of Elon Musk's Neuralink sud.ua",
+    "summary": "China Becomes the First in the World to Approve Commercial Use of a Neurochip, Ahead of Elon Musk's Neuralink Судово-юридична газета",
     "date": "2026-09-22",
     "score": 14,
     "tags": [
@@ -15054,8 +15084,8 @@
     "matchedPriorities": [],
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-10-03",
-    "isNew": true,
+    "firstSeen": "2026-09-23",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15121,28 +15151,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-tcxxrd",
-    "kind": "news",
-    "title": "NervGen Pharma (NGEN) Plans Financial Statement Restatements Amid Non-Cash Adjustments",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTBRVXRVZTgxTzJZQ0QxMC1laEtrWUJsVlFwTnB5TEE3SjlYVWFiMjFxejdMLWFQZEhYdk5wTTF1ZW1GVF8xTGh2d19KV3pUaUZQOUlmMDdYTEpjaC0wcjY5ZXhCWldaTmZFdmRXM0p3c1gxbmt3TnJKTlVPS0QyTmpqTUZob0w5a1NxeTFaRTVOZDQ0X0dkUWpiY3pfb0lwUFpVb19jcUpqM1BFY1hueEhSZ1VZM3dna216aHdmVQ?oc=5",
-    "outlet": "GuruFocus",
-    "topic": "Company watch",
-    "summary": "NervGen Pharma (NGEN) Plans Financial Statement Restatements Amid Non-Cash Adjustments GuruFocus",
-    "date": "2026-09-25",
-    "score": 14,
-    "tags": [
-     "Watchlist: NervGen"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-09-29",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-8pzmwz",
     "kind": "news",
     "title": "NervGen to Restate Previously Filed Financial Statements Recognizing Non-Cash Accounting Adjustments",
@@ -15160,6 +15168,28 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-09-26",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-man0nr",
+    "kind": "news",
+    "title": "Precision Neuroscience Raises $250M to Advance Layer 7 Brain–Computer Interface",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnF0Rk9FaEZoMzJGaU5hRmpGY1JWaVlMb0xqUlRDWTlIZGhRUXF3SndmNm1SaG9ua3lzZVAtQ3BKWmdRc0dVWWNuelF2QjdPV1RvZ1U4aWdvSk0yX3k5cW9IU1JONUlIUXdaUlBYUTkwczRJcHR5LU93YzRIeWFBbW5EWDlpRlBMQTg1a01oVlo1NjY3S3Q4MXc4SXdTbmF1V0hvU1RFMVlLQUU1N3c?oc=5",
+    "outlet": "HLTH",
+    "topic": "Company watch",
+    "summary": "Precision Neuroscience Raises $250M to Advance Layer 7 Brain–Computer Interface HLTH",
+    "date": "2026-09-25",
+    "score": 14,
+    "tags": [
+     "Watchlist: Precision Neuroscience"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-09-25",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15187,13 +15217,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-1v2888e",
+    "id": "news-1vmz7pe",
     "kind": "news",
-    "title": "Precision Neuroscience raises $250M led by Pershing Square",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMEpSU3BmRVN6RU1UenRnQjhObFBCcTVIdWhYMGlFYmZPQzJqM1VUeUMxVVdPMDAtUUhldzktMkhnQ1JydFBXWS12V25femJFclN1UFFrVmJxZDQ4MklMcWZYNUhGdEEydUtsN3d4OGlIRF9wWHljZmNaNWZUTi1UUm5BeUFDZlk2Vml2MkJpS25PY29jd18yYnJLRDZIVTFEejNtT0ZUbTVmeVpqeC1xY2VNVV9BcEVYdUo0?oc=5",
-    "outlet": "Investing.com",
+    "title": "Precision Neuroscience Closes Oversubscribed $250M Series D Led by Pershing Square Inc., the Ackman Oxman Institute, and a Leading Life Sciences Investment Fund",
+    "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPSko2M2NKT19uZTFvcUZoeGR2OTdrU1lzcXVFbFVzQW5hWmxFNTF0ck5pcFhhWGM1dGVvYy1MVTFWTnptSGVQU2JCWjNGZ2U5WGJucmRzcmJaQjhta19FWkd5Mm5WbnVROW5YSUVzQVk3MGtVY0hyREpXUlBud0x1MC1tZWtjaDc3cFhPYVJKUTdzQktWenJldW5Hd2kxakVwekVmWVQzemtkejJhZWpMX0FHS0dGdXlyTFZFOXA1RXZOZlk0RW1Ec3hST1R5dVdBcFpIOWtLYUNXTlR6V0ctQjdhWWEwNGk0a1RMM3NIMkxxbWt2S0RoV3ZrUkJ6ZVBrdFhyUmdPWmdLSHFDd3praXBIY0lnUlV4bERTdmUyMEFyeGNWUU43NzNVVlFILWpRVmZZQVFlVFQ2MmplYnUtWFZ4Y2xaSjNNYXRUcnF0WdIB1AJBVV95cUxPNHdfbU1qWml3UEJGQ0tHRWt4Wm1zZzZCMUU5S2pYNU15Q0t4cnZEUWJUT3EtcTBjNEtsUUhoeGhXc2ZlRTBub1VILXJnSGpJcjlZQnhFdHB6V0lSMzJUMFNibjNYREo0SG5rV1JKazIxWDg1SC1QZkZFUUNTbTBPYjVHZjhKcEk4RFVnam0wamJJT3BIQk9aRTZvZm44aFZXT0RMbXo4eVZzVHVDeTAyaTRaZTVlMEdKWURfLVJiMzh5eEdrYVlhdjVpS1VHVmJ5V3RlNUttUnRzYUJxcFdWVGtValFjRE5jRW81YW1TZnp6Y1NLQy0tUFJiRkNHUVFoZjNEXzV3VU5wYnFYUjVEX0lGRmVZYXhsM2VrVHdCNS0yZnZxbjlpLUJKY1pHNzdWZDZUc29CMldBNkRfV29lQnotal9kMU9QMGZ5NEhPWGRDX2hs?oc=5",
+    "outlet": "The Manila Times",
     "topic": "Company watch",
-    "summary": "Precision Neuroscience raises $250M led by Pershing Square Investing.com",
+    "summary": "Precision Neuroscience Closes Oversubscribed $250M Series D Led by Pershing Square Inc., the Ackman Oxman Institute, and a Leading Life Sciences Investment Fund The Manila Times",
     "date": "2026-09-24",
     "score": 14,
     "tags": [
@@ -15209,13 +15239,13 @@
     "exploredNote": null
    },
    {
-    "id": "news-1vmz7pe",
+    "id": "news-1v2888e",
     "kind": "news",
-    "title": "Precision Neuroscience Closes Oversubscribed $250M Series D Led by Pershing Square Inc., the Ackman Oxman Institute, and a Leading Life Sciences Investment Fund",
-    "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPSko2M2NKT19uZTFvcUZoeGR2OTdrU1lzcXVFbFVzQW5hWmxFNTF0ck5pcFhhWGM1dGVvYy1MVTFWTnptSGVQU2JCWjNGZ2U5WGJucmRzcmJaQjhta19FWkd5Mm5WbnVROW5YSUVzQVk3MGtVY0hyREpXUlBud0x1MC1tZWtjaDc3cFhPYVJKUTdzQktWenJldW5Hd2kxakVwekVmWVQzemtkejJhZWpMX0FHS0dGdXlyTFZFOXA1RXZOZlk0RW1Ec3hST1R5dVdBcFpIOWtLYUNXTlR6V0ctQjdhWWEwNGk0a1RMM3NIMkxxbWt2S0RoV3ZrUkJ6ZVBrdFhyUmdPWmdLSHFDd3praXBIY0lnUlV4bERTdmUyMEFyeGNWUU43NzNVVlFILWpRVmZZQVFlVFQ2MmplYnUtWFZ4Y2xaSjNNYXRUcnF0WdIB1AJBVV95cUxPNHdfbU1qWml3UEJGQ0tHRWt4Wm1zZzZCMUU5S2pYNU15Q0t4cnZEUWJUT3EtcTBjNEtsUUhoeGhXc2ZlRTBub1VILXJnSGpJcjlZQnhFdHB6V0lSMzJUMFNibjNYREo0SG5rV1JKazIxWDg1SC1QZkZFUUNTbTBPYjVHZjhKcEk4RFVnam0wamJJT3BIQk9aRTZvZm44aFZXT0RMbXo4eVZzVHVDeTAyaTRaZTVlMEdKWURfLVJiMzh5eEdrYVlhdjVpS1VHVmJ5V3RlNUttUnRzYUJxcFdWVGtValFjRE5jRW81YW1TZnp6Y1NLQy0tUFJiRkNHUVFoZjNEXzV3VU5wYnFYUjVEX0lGRmVZYXhsM2VrVHdCNS0yZnZxbjlpLUJKY1pHNzdWZDZUc29CMldBNkRfV29lQnotal9kMU9QMGZ5NEhPWGRDX2hs?oc=5",
-    "outlet": "The Manila Times",
+    "title": "Precision Neuroscience raises $250M led by Pershing Square",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWtDVTg3MUZPaFd4SlN6T2p6X2JRZW9GdjJnSmIyMkZEc1Eza0tNMHNkS2tDWmliZU1laEFBV2FmaWxiVTI4Vkt5LU1va012SHlqbUJhanJjLTA4NkR5MEhGZVdzN1NyOURGMUVMVm5rRjh5aFVwMUVBMlVNMWQ5S2pTa29KQkRyY3E0d2JmTEJfUWlKLWVONDZWbU0zWFZjdUdydDZNQ01Da1ppVFViS3ZmdjlCRC1XMkE?oc=5",
+    "outlet": "Investing.com Canada",
     "topic": "Company watch",
-    "summary": "Precision Neuroscience Closes Oversubscribed $250M Series D Led by Pershing Square Inc., the Ackman Oxman Institute, and a Leading Life Sciences Investment Fund The Manila Times",
+    "summary": "Precision Neuroscience raises $250M led by Pershing Square Investing.com Canada",
     "date": "2026-09-24",
     "score": 14,
     "tags": [
@@ -15251,28 +15281,6 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
-   },
-   {
-    "id": "news-ong7d0",
-    "kind": "news",
-    "title": "Precision Neuroscience closes USD 250M Series D round",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3ppQnBMajV6U0c3ZGZCaVBGM2otUHg4ZGJJcmJyNHJNM2JRV0taWUp6WkQ2T1RqbTlQNlBvZGRvbHdkeE5SOGplUWUxVXA5NTUydnhzZFRzSVZObEQ0QzdWU1dVampsRWg4LTlDVE90NW4xOVZpbnJTQkNodEJMVVVXRDVjNWFM?oc=5",
-    "outlet": "Medical Buyer",
-    "topic": "Company watch",
-    "summary": "Precision Neuroscience closes USD 250M Series D round Medical Buyer",
-    "date": "2026-09-28",
-    "score": 14,
-    "tags": [
-     "Watchlist: Precision Neuroscience"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-09-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
    }
   ],
   "centers": [
@@ -15305,7 +15313,7 @@
       "date": "2026-08-31"
      },
      {
-      "title": "| Shepherd Center and the Blank Family Residences: A Community of Care - blankfoundation.org",
+      "title": "| Shepherd Center and the Blank Family Residences: A Community of Care - Arthur M. Blank Family Foundation",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFVaOUtoOWJsdkpNZ3ROYlNMVEsyLVdTRUIwZjlqNGZ1ZHEwYlU4bzUyUTFFUGRpRTBQcjlzZlp2WXVMYTdzcVNRRTBUMWg5S3ZWdFJmZlpqdEluLVNLVXdrYWhVV0dLZ3NXNFBFOUtDQXBPR3JQZmF5ZkE5bnZnWDBUNHUtR0lkT1d3OWVJcXhaaWVpRlAycFBweGdLUUJKeTF3?oc=5",
       "date": "2026-08-25"
      },
@@ -15460,9 +15468,9 @@
       "date": "2026-07-20"
      },
      {
-      "title": "Sofia Bacolas ’28: Undergraduate Research Assistant - Bowdoin College",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXo5akJLVW9hZnZkbldqVmJEeUdVT1pXbXVCQ2lxYVFfSXNGMEE4U2VCclAwdEk2WmdEVUFzeTg0X3F3MGoybWxnQ3JWM2Jid1Q0ZUNKY3pyVTBMNTVwTHRKNkZLZmlKb01xZTRNMjV2N25pUmhUMGZkUlNYSVd1U0lIOWZQWWJUU245Ri1IbVlmemEtYzJEbi1n?oc=5",
-      "date": "2026-10-02"
+      "title": "Laila Ali makes history with Greatest Sports Legends Dinner honor 40 years after iconic father - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVM5Nmo5ZXJ3MEFMRVRiMjZ3cFpPSjRPaFFjZ29YWVlFNnRIaG9odk0wdUJhOGVJbUFLRFZrc3ZrQ0JkNVM1dDl4XzN4Qjc2U0s5blhSSEtaaFVoaEJvVWhGQllWeW16UV9MZFlBbjBWYURfblRvZXpwNVRYMWlwdUE5R1lwUE02X0tHTjJ3V2t3VDBQNW5oN0pSVExJS1hLdmNCNlZQNEhtWU1ITFFiYVRYSWI3M1kycndvNi1Fc0lYNTBGRVRCLTVuem4?oc=5",
+      "date": "2026-10-03"
      },
      {
       "title": "Steinbrenner Scholar Brings Lived Experience to Brain-Computer Interface Research - University of Miami",
