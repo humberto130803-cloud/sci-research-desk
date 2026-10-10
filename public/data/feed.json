@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-09T16:49:28.423Z",
- "date": "2026-10-09",
+ "generatedAt": "2026-10-10T15:44:03.639Z",
+ "date": "2026-10-10",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -12,16 +12,15 @@
  },
  "briefing": {
   "headline": {
-   "title": "Assessment of Neural Signals for the Control of Assistive Devices",
-   "id": "NCT06533969",
-   "why": "Surfaced for spinal cord stimulation and brain-computer interface, cervical-level, chronic.",
-   "score": 72
+   "title": "Upper Limb Rehabilitation Using Non-invasive Spinal Cord Stimulation",
+   "id": "NCT07361627",
+   "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
+   "score": 68
   },
   "lines": [
    "No new open studies since yesterday.",
    "1 new paper.",
-   "10 new technology items.",
-   "1 regulatory item (approvals or clearances) worth a look."
+   "2 new technology items."
   ],
   "closingSoon": [
    {
@@ -47,104 +46,13 @@
    "papers": 60,
    "newPapers": 1,
    "news": 45,
-   "newNews": 10,
+   "newNews": 2,
    "centers": 12,
    "archived": 0
   }
  },
  "sections": {
   "trials": [
-   {
-    "id": "NCT06533969",
-    "kind": "trial",
-    "title": "Assessment of Neural Signals for the Control of Assistive Devices",
-    "officialTitle": "Assessment of Neural Signals for the Control of Assistive Devices",
-    "url": "https://clinicaltrials.gov/study/NCT06533969",
-    "summary": "The study will investigate the use of motor intention-based cortical signals to trigger epidural spinal cord stimulation (ESCS) with individuals with SCI. Motor intention of UL tasks will be decoded using brain-computer interface (BCI) system based on cortical signals recorded using an Electroencephalographic (EEG) system or using their intracranially implanted devices Electrocorticographic (ECoG).",
-    "conditions": [
-     "Spinal Cord Injury (SCI), Initial Encounter"
-    ],
-    "interventions": [
-     "PROCEDURE: Epidural Spinal Cord Stimulation",
-     "DEVICE: Electrocorticographic",
-     "DEVICE: Electroencephalographic"
-    ],
-    "sponsor": "University of Miami",
-    "status": "RECRUITING",
-    "phase": "NA",
-    "studyType": "INTERVENTIONAL",
-    "enrollment": 3,
-    "minAge": 18,
-    "maxAge": null,
-    "stdAges": [
-     "ADULT",
-     "OLDER_ADULT"
-    ],
-    "sex": "ALL",
-    "date": "2026-08-26",
-    "startDate": "2024-09-06",
-    "completionDate": "2027-12-31",
-    "locations": [
-     {
-      "facility": "Lynn Rehabilitation Center",
-      "city": "Miami",
-      "state": "Florida",
-      "country": "United States",
-      "status": "NOT_YET_RECRUITING"
-     },
-     {
-      "facility": "The Miami Project to Cure Paralysis",
-      "city": "Miami",
-      "state": "Florida",
-      "country": "United States",
-      "status": "RECRUITING"
-     }
-    ],
-    "countries": [
-     "United States"
-    ],
-    "contact": {
-     "name": "Letitia Fisher",
-     "email": "lfisher@miami.edu",
-     "phone": "305-243-3056"
-    },
-    "eligibilityText": "Inclusion Criteria: * Patients age 18 and older * Able to sign informed consent * Not participating in other studies that limit participation * Chronic (\\>6 month) traumatic Spinal Cord Injury (SCI) (C4-T1 neurological injury with American Spinal Injury Association Impairment Scale (AIS A-D) with some residual function. Exclusion Criteria: * Patients that are pregnant * Patients under the age of 18 * Patients unable to provide informed consent",
-    "score": 72,
-    "tags": [
-     "Spinal cord stimulation",
-     "Brain-computer interface",
-     "Cervical / tetraplegia",
-     "C4–C5 named",
-     "AIS C/D in scope",
-     "Chronic injury",
-     "Age OK (no upper limit)"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "spinal cord stimulation",
-       "scs"
-      ]
-     },
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface",
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and brain-computer interface, cervical-level, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
    {
     "id": "NCT07361627",
     "kind": "trial",
@@ -233,6 +141,97 @@
     ],
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "NCT06533969",
+    "kind": "trial",
+    "title": "Assessment of Neural Signals for the Control of Assistive Devices",
+    "officialTitle": "Assessment of Neural Signals for the Control of Assistive Devices",
+    "url": "https://clinicaltrials.gov/study/NCT06533969",
+    "summary": "The study will investigate the use of motor intention-based cortical signals to trigger epidural spinal cord stimulation (ESCS) with individuals with SCI. Motor intention of UL tasks will be decoded using brain-computer interface (BCI) system based on cortical signals recorded using an Electroencephalographic (EEG) system or using their intracranially implanted devices Electrocorticographic (ECoG).",
+    "conditions": [
+     "Spinal Cord Injury (SCI), Initial Encounter"
+    ],
+    "interventions": [
+     "PROCEDURE: Epidural Spinal Cord Stimulation",
+     "DEVICE: Electrocorticographic",
+     "DEVICE: Electroencephalographic"
+    ],
+    "sponsor": "University of Miami",
+    "status": "RECRUITING",
+    "phase": "NA",
+    "studyType": "INTERVENTIONAL",
+    "enrollment": 3,
+    "minAge": 18,
+    "maxAge": null,
+    "stdAges": [
+     "ADULT",
+     "OLDER_ADULT"
+    ],
+    "sex": "ALL",
+    "date": "2026-08-26",
+    "startDate": "2024-09-06",
+    "completionDate": "2027-12-31",
+    "locations": [
+     {
+      "facility": "Lynn Rehabilitation Center",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "status": "NOT_YET_RECRUITING"
+     },
+     {
+      "facility": "The Miami Project to Cure Paralysis",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "status": "RECRUITING"
+     }
+    ],
+    "countries": [
+     "United States"
+    ],
+    "contact": {
+     "name": "Letitia Fisher",
+     "email": "lfisher@miami.edu",
+     "phone": "305-243-3056"
+    },
+    "eligibilityText": "Inclusion Criteria: * Patients age 18 and older * Able to sign informed consent * Not participating in other studies that limit participation * Chronic (\\>6 month) traumatic Spinal Cord Injury (SCI) (C4-T1 neurological injury with American Spinal Injury Association Impairment Scale (AIS A-D) with some residual function. Exclusion Criteria: * Patients that are pregnant * Patients under the age of 18 * Patients unable to provide informed consent",
+    "score": 68,
+    "tags": [
+     "Spinal cord stimulation",
+     "Brain-computer interface",
+     "Cervical / tetraplegia",
+     "C4–C5 named",
+     "AIS C/D in scope",
+     "Chronic injury",
+     "Age OK (no upper limit)"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation",
+       "scs"
+      ]
+     },
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface",
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and brain-computer interface, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -11772,7 +11771,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and brain-computer interface, chronic.",
     "firstSeen": "2026-10-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12863,54 +12862,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42573544",
-    "kind": "paper",
-    "title": "Off-Label Applications of Epidural Spinal Cord Stimulation: A Scoping Review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42573544/",
-    "doi": "10.1016/j.neurom.2026.06.470",
-    "journal": "Neuromodulation : journal of the International Neuromodulation Society",
-    "authors": [
-     "El Hadwe S",
-     "Swedick S",
-     "Chhawcharia A",
-     "Rehman S"
-    ],
-    "authorLine": "El Hadwe S, Swedick S, Chhawcharia A et al.",
-    "pubType": "Journal Article, Review",
-    "date": "2026-08-10",
-    "summary": "Epidural spinal cord stimulation (SCS) is established for chronic pain and has been explored for applications beyond chronic neuropathic pain. We conducted a scoping review to map the clinical literature, temporal publication trends, summarize outcomes, and synthesize proposed mechanisms across these applications. MEDLINE, EMBASE, CENTRAL, and the WHO trials registry were searched. Full-text English human studies of epidural SCS for applications beyond chronic neuropathic pain were included. Screening and extraction were performed in duplicate with adjudication by a third reviewer. Outcomes and mechanisms were extracted in detail for randomized controlled trials (RCTs) and prospective studies with >ten participants. Risk of bias was assessed for RCTs and prospective studies. From 6815 records, 221 studies (1976-2025) were included (N = 5154). Indications were grouped as vascular and…",
-    "score": 24,
-    "tags": [
-     "Spinal cord stimulation",
-     "Neuropathic pain & spasticity",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "spinal cord stimulation",
-       "scs"
-      ]
-     },
-     {
-      "key": "pain",
-      "label": "Neuropathic pain & spasticity",
-      "matched": [
-       "neuropathic pain"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity, chronic.",
-    "firstSeen": "2026-08-11",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42714693",
     "kind": "paper",
     "title": "Demyelination in degenerative cervical myelopathy: a systematic review and meta-analysis of autopsy and imaging studies.",
@@ -13219,6 +13170,43 @@
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-08-15",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42854680",
+    "kind": "paper",
+    "title": "Trunk-mediated spinal cord stimulation: A step toward clinical implementation after spinal cord injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854680/",
+    "doi": "10.1016/j.medj.2026.101304",
+    "journal": "Med (New York, N.Y.)",
+    "authors": [
+     "Bhatia S",
+     "Gerszten PC"
+    ],
+    "authorLine": "Bhatia S, Gerszten PC",
+    "pubType": "Journal Article, Comment",
+    "date": "2026-10-09",
+    "summary": "In this issue of Med, Agnesi et al., show that residual trunk movements after spinal cord injury can modulate the effects of epidural spinal cord stimulation (SCS) to enable participants to volitionally initiate and control stepping. 1 This trunk-mediated interface offers a practical strategy for bringing epidural SCS one step closer to widespread clinical adoption.",
+    "score": 20,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation",
+       "scs"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-10-10",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -13972,7 +13960,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-10-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14034,68 +14022,6 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton.",
     "firstSeen": "2026-10-05",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-3ur85t",
-    "kind": "news",
-    "title": "Wandercraft Acquires Ekso Bionics to Create Global Medical Exoskeleton Leader",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMWt4eThUci1hNXRJRXVpVW1Mc2NpdzRLb2d0T2FuQWRBVHM4dU9FVHhXN0VKMmd3ZzNIXzlLU0ttb2JtRkxLU2pHRURjNTZfNlFQaW9nWlBLM2xuY3hweXlVbjg3aFZjX3ZRR3VFMkszYjBTX3VsRzNEQ19jVkJpWl80MG9SMVU0aUlXb0dxSmhwZFVzTS1kSzdRWXNYUmJLWDdubU9iNnFzSkJT?oc=5",
-    "outlet": "HLTH",
-    "topic": "Company watch",
-    "summary": "Wandercraft Acquires Ekso Bionics to Create Global Medical Exoskeleton Leader HLTH",
-    "date": "2026-10-06",
-    "score": 23,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Ekso Bionics"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-10-09",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-yelaw5",
-    "kind": "news",
-    "title": "Wandercraft Acquires Ekso Bionics to Expand Medical Exoskeleton Business",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3lsTGdKTlZITHdwY0ZEWEtlTGlxbHFDRlZuOG1WTndQejlWWUwxTXo2eVZybGN4M3VDMWtFejJNcmRHc2JJU2lBb3U3OUx0VThUajFndzZHNko1d2JUTXJrMFJwZmFCVHE4Ty1aWWJ2SmJ2Y0ppWHZobUUwNlN4N1VaZXVQVF96eTk3dk1COVl4YXJneFVwQVRsNWg4Y19ob2VTa01SdFlTdnRKcDYw?oc=5",
-    "outlet": "AI Insider",
-    "topic": "Company watch",
-    "summary": "Wandercraft Acquires Ekso Bionics to Expand Medical Exoskeleton Business AI Insider",
-    "date": "2026-10-02",
-    "score": 23,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Ekso Bionics"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-10-03",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14313,7 +14239,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-10-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14512,33 +14438,32 @@
     "exploredNote": null
    },
    {
-    "id": "news-dxc4qm",
+    "id": "news-1v6lskj",
     "kind": "news",
-    "title": "Neuralink’s brain implants offer hope, but scientists urge patience",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVp6NGN3TVZ1YTJBNXY5WXJJMEhrQV9seFNmeE83NldkYXFrbTVQYU9DUjZvVjFrMVlmVGF0QUdQQVV4SzEwSnZYVFFSV2x3bjBuNVU1c0Y3b1UxN0tJVVR1VEk2NGV4QkxKRkgzT2w5WXE3VGNFdmw2czJndXRUMjhNZ2tmZnp5RXVFMzNiTi1BMlpNZ0pod25SSXZwQQ?oc=5",
-    "outlet": "Herald.co.zw",
+    "title": "Closed-Loop Spinal Cord Stimulation Market Size, Share, Trends 2036",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmdYdnhEUWdlU2NhcTZiODBPYUVXbkpTY2tDYlZ4a2JOa1pRZGtXcE8zZE1VYTlhY1ZSdWxwelVPQVkzeDIxOWJIWmZmQ2cwU0M4Ml93YzNHWHpwX3dtQUNtaVJxM3dKMnpXaGw4bEYwcHNWZi1Pa0N5UzNtbmlTVEwyejJmSVdpLTIwOXpVREk?oc=5",
+    "outlet": "Future Market Insights",
     "topic": "Technology",
-    "summary": "Neuralink’s brain implants offer hope, but scientists urge patience Herald.co.zw",
-    "date": "2026-09-19",
+    "summary": "Closed-Loop Spinal Cord Stimulation Market Size, Share, Trends 2036 Future Market Insights",
+    "date": "2026-10-08",
     "score": 18,
     "tags": [
-     "Brain-computer interface",
-     "Watchlist: Neuralink"
+     "Spinal cord stimulation"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "bci",
-      "label": "Brain-computer interface",
+      "key": "stim",
+      "label": "Spinal cord stimulation",
       "matched": [
-       "brain implant"
+       "spinal cord stimulation"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-22",
-    "isNew": false,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-10-10",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14605,6 +14530,37 @@
     "exploredNote": null
    },
    {
+    "id": "news-dxc4qm",
+    "kind": "news",
+    "title": "Neuralink’s brain implants offer hope, but scientists urge patience",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVp6NGN3TVZ1YTJBNXY5WXJJMEhrQV9seFNmeE83NldkYXFrbTVQYU9DUjZvVjFrMVlmVGF0QUdQQVV4SzEwSnZYVFFSV2x3bjBuNVU1c0Y3b1UxN0tJVVR1VEk2NGV4QkxKRkgzT2w5WXE3VGNFdmw2czJndXRUMjhNZ2tmZnp5RXVFMzNiTi1BMlpNZ0pod25SSXZwQQ?oc=5",
+    "outlet": "Herald.co.zw",
+    "topic": "Company watch",
+    "summary": "Neuralink’s brain implants offer hope, but scientists urge patience Herald.co.zw",
+    "date": "2026-09-19",
+    "score": 18,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-09-22",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-125eie3",
     "kind": "news",
     "title": "Neural Interface Electrodes Market To 2035: BCI and Neuroprosthetics Demand Drives Growth - News and Statistics",
@@ -14631,7 +14587,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-10-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14806,28 +14762,6 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-10-09",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-df0130",
-    "kind": "news",
-    "title": "Tech M&A deals: Wandercraft, Ekso Bionics, Automation Anywhere, Boost.ai, Beam Global, ScoutDI, Altaris",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSkR0SnNSRlZXV2xqSEpDWlBHbDZxT001RVEzd0J6LWFrbl96a2ZVWFNWajFtU3RrRzhfem1GRXgtYzk1S2VjbHYwWlFDeHVlRFRsMU1ubTEzcDlMNDFLRXBuWGVYS1Q2eWgtNDdyZl9Ic2NTYWFjakpSdExHbzFWTm8yRkd6SmZ4YWExdzFydWVMQW1EYWRBVG1vYWlzSnlKajFiSVQxTHlxZ0FtTjlVZVR2VFRqU3hCTFgwRkFyZG5LMndtUDlFbXV0OUp0NkFPeGc5a3NRekRjZ9IB2gFBVV95cUxQSkR0SnNSRlZXV2xqSEpDWlBHbDZxT001RVEzd0J6LWFrbl96a2ZVWFNWajFtU3RrRzhfem1GRXgtYzk1S2VjbHYwWlFDeHVlRFRsMU1ubTEzcDlMNDFLRXBuWGVYS1Q2eWgtNDdyZl9Ic2NTYWFjakpSdExHbzFWTm8yRkd6SmZ4YWExdzFydWVMQW1EYWRBVG1vYWlzSnlKajFiSVQxTHlxZ0FtTjlVZVR2VFRqU3hCTFgwRkFyZG5LMndtUDlFbXV0OUp0NkFPeGc5a3NRekRjZw?oc=5",
-    "outlet": "InfotechLead",
-    "topic": "Company watch",
-    "summary": "Tech M&A deals: Wandercraft, Ekso Bionics, Automation Anywhere, Boost.ai, Beam Global, ScoutDI, Altaris InfotechLead",
-    "date": "2026-10-08",
-    "score": 17,
-    "tags": [
-     "Watchlist: Ekso Bionics"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-10-08",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14863,6 +14797,37 @@
     "exploredNote": null
    },
    {
+    "id": "news-1xpfo6y",
+    "kind": "news",
+    "title": "Wandercraft’s Eve: First FDA-Cleared Home Exoskeleton",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSzl5ZkprMG9ZOEE4VlNWTTdGRFZ2bGxOVkgwaDd0SnJDQW9UZm9hQ01IRzRvaVNJdWxaWFQyZm5vM0x4Z3N2YVdOTDZ1NGw0bGYtTWtYVi1UckYyM3lTcVBiZWluTWZvdXY5TzBRSWFqNVpPMGpqQkFsdkxNaXJvUDIwOWhoRHc?oc=5",
+    "outlet": "Gadget Review",
+    "topic": "Technology",
+    "summary": "Wandercraft’s Eve: First FDA-Cleared Home Exoskeleton Gadget Review",
+    "date": "2026-09-21",
+    "score": 16,
+    "tags": [
+     "Activity-based rehab & exoskeleton",
+     "Watchlist: Wandercraft"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "exoskeleton"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-09-22",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1ktiwug",
     "kind": "news",
     "title": "Brain-Computer Interface Enables Coordinated Speech and Movement",
@@ -14888,7 +14853,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-10-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14918,7 +14883,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-10-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14948,7 +14913,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-10-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15043,6 +15008,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-25ogeg",
+    "kind": "news",
+    "title": "Billionaire family offices bet on geothermal energy, brain implants in September",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcWZWS2hiWWIyQ1NaeldTaWNjaFNtd193OGRnanRYcnRPNy1OWmxSdjRPeW9NVDNwZ21UWm5CWkdhUF8zbU5CY0pRUmVHcmhCNGh1Mm5sNmtMQnJRZ0d5SEV3TmFzSHJRazVKbl84T09GanVTS0lVMG5hb3BpQ0pLLTVXeDQ0emFBYUdGUVh2dkQzTGxNMWQ4OFR5N3RWTEZf0gGmAUFVX3lxTE51b2FfVkxyOHJkWlNjUGhRTlhtTnZZREFxa2wwd3dvbE1iMXIwX0tOZGFmcnZTTy1PbGRrZjZ6VjU2TzIyeHFwVnMzQzdfazctUUlsNGtQSlVvSENJS1FWLVl1R1JDZ2J2SmpPUERKVHRJeW96dzhZYmJzQnRxQXFjei0yVlBBNWk0dS1VUkpTNGt0dm9odHNkbUVQLVJ3dWh2c2FDVnc?oc=5",
+    "outlet": "CNBC",
+    "topic": "Company watch",
+    "summary": "Billionaire family offices bet on geothermal energy, brain implants in September CNBC",
+    "date": "2026-10-01",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-10-01",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1x4hmam",
     "kind": "news",
     "title": "Pioneering Bay Area robotic exoskeleton company sells to French company after years of struggles",
@@ -15074,68 +15069,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1xpfo6y",
-    "kind": "news",
-    "title": "Wandercraft’s Eve: First FDA-Cleared Home Exoskeleton",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEtkTERpMmQzNHpZbWJUdHlIQUZuMWNzRzJLZENmM09wMHE5cmtUMlBtWElzcGNWdUlxZWx4cHdXTW5McmkzR3I3bHBzR1kxd3JCRFlDSm5rZXcyM01kWm8zTlh2YmtxZ0NXZ2dTVVU5ZTFRSEV0cjNEYnhURzRGU01vcmhaOC16QnNPcQ?oc=5",
-    "outlet": "Currently.com",
-    "topic": "Regulatory",
-    "summary": "Wandercraft’s Eve: First FDA-Cleared Home Exoskeleton Currently.com",
-    "date": "2026-09-21",
-    "score": 16,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Wandercraft"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-09-22",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-on82hb",
-    "kind": "news",
-    "title": "Self-Balancing Personal Exoskeletons: Wandercraft's Eve Brings Hands-Free Mobility into…",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xaHU5MmtVcFFKNzhEaE84ejh0RFNkVTh2Mkd0enh6WXo1MU43UWxEcTE2MThoSnNUZ1pfRHMzRTY0a3I5OC1SNy1WZUluQ3ZmNEVYWlFHTjNiVUlLNk1KMXZQRy1KS0cwRFBlMy1fS2tIUU84RmtuSzJDRQ?oc=5",
-    "outlet": "Trend Hunter",
-    "topic": "Regulatory",
-    "summary": "Self-Balancing Personal Exoskeletons: Wandercraft's Eve Brings Hands-Free Mobility into… Trend Hunter",
-    "date": "2026-08-26",
-    "score": 16,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Wandercraft"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-08-27",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-6a0c29",
     "kind": "news",
     "title": "Wandercraft Launches Eve™, the World’s First Self-Balancing Personal Exoskeleton, Bringing Hands-Free Upright Mobility to the Home",
@@ -15162,7 +15095,7 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton.",
     "firstSeen": "2026-10-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15192,7 +15125,7 @@
     "eligible": true,
     "why": "Surfaced for autonomic / blood pressure / bladder / bowel.",
     "firstSeen": "2026-10-09",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15278,7 +15211,7 @@
     "outlet": "Simply Wall Street",
     "topic": "Technology",
     "summary": "NervGen Pharma (Nasdaq:NGEN) - Stock Analysis Simply Wall Street",
-    "date": "2026-10-05",
+    "date": "2026-09-30",
     "score": 14,
     "tags": [
      "Watchlist: NervGen"
@@ -15288,6 +15221,58 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-10-03",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-lpstiz",
+    "kind": "news",
+    "title": "UD law professor explains what happens next before Caleb Flynn’s Oct. 5 sentencing",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzdURVRKT1dUNmoxSkNoNExxQklwQ1BNbm5QMkg1dkVxRE9idGFzRm9pSEZQVHliMlA5TnFPanVlODJGZFpraW0yTGVlWGxyWXNnRXpIallpMVFEd1dEeXJDSVFRSV84a1E1TXRPenlUWVV1bFRKQk03Rzk2M3FiSnpVaEViVnRRTjZDck5HNC1sRW1WZjg4Tm9YbVhxNHBKZ2UxZ05DYUxLQkYxWHh5Nm9DSV82VGs?oc=5",
+    "outlet": "WKEF",
+    "topic": "Technology",
+    "summary": "UD law professor explains what happens next before Caleb Flynn’s Oct. 5 sentencing WKEF",
+    "date": "2026-09-29",
+    "score": 14,
+    "tags": [
+     "Activity-based rehab & exoskeleton"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "fes"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-10-10",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-48t85z",
+    "kind": "news",
+    "title": "Precision Neuroscience Unveils a New Map of the Human Nervous System",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEhfS2pzSHd0enNJZjJaN1BielY1Qm9oREYxd0RLWTBmSm1zOVJmN3lGaVZUM1dDUHFtQVNqR3VfMXBscWI1TW02OTJIVUswcEpGQ2RnZ3ByTmo4NXV2VkNPbF84MFlPUnhLWVNSYWp6ZDl4UjZOM2EwRzl5bkpkV25NenBVWV9Dc015em8yMnJiN3JTRE95X0JPVTN5R3MxckNDNmU2X0hKZGc?oc=5",
+    "outlet": "Medical Product Outsourcing",
+    "topic": "Technology",
+    "summary": "Precision Neuroscience Unveils a New Map of the Human Nervous System Medical Product Outsourcing",
+    "date": "2026-10-08",
+    "score": 14,
+    "tags": [
+     "Watchlist: Precision Neuroscience"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-10-09",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15329,7 +15314,7 @@
      },
      {
       "title": "Goodman: How to be mentally tougher than a Navy SEAL - AL.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWw1dU9lZEZYY2NzdkdtOXgzSEN2WXJQSEhmQ253VHNqYWJUQVczd2cwLVEtSEFpM1VnNXg2NnM3ODNXa3BONUdHdzJrdWpWMzRJNmFOWnlQNkxvbGpkWHcwbHJrd3lhTDNzUGp0eHVmdUt5am1tVWU4djhrRUlCQlBaV29oSnRQSG1vSkVFXzFUd9IBpgFBVV95cUxNRXRCQTRPLWtLYTBiMjF3bWxjYkxpN3hDMFFxUmNueC13RVBibHc3Tl96WVUydE1PSERWb19ha1B3RWJkclk3Wlo5MHQ0STNjMXZ5dDRKQnFuZU5TemFnUjdZT2xDSWVMY3Nja2N2WG5HX0lTVFhJdExuNmpxRXpra3JmX2tvNUZyNldJdmNDWG5OcWR6eHBSTTIzMV9odmhLdWY1Umhn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWw1dU9lZEZYY2NzdkdtOXgzSEN2WXJQSEhmQ253VHNqYWJUQVczd2cwLVEtSEFpM1VnNXg2NnM3ODNXa3BONUdHdzJrdWpWMzRJNmFOWnlQNkxvbGpkWHcwbHJrd3lhTDNzUGp0eHVmdUt5am1tVWU4djhrRUlCQlBaV29oSnRQSG1vSkVFXzFUdw?oc=5",
       "date": "2026-08-28"
      }
     ],
@@ -15403,14 +15388,14 @@
     "linkStatus": "ok",
     "recentNews": [
      {
-      "title": "Specialized rehabilitation team helps child reach milestones at Kennedy Krieger - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOG1oV2FGUUpOY0o5d3JlckthUTZDT2VjcWZ6QWxFQWtIUVEyT2ZRUGstTk9GdU1VQ0lWVXRSOU8zV0tjY2k2Q3JHcU56VGFHOUxDZVB2QnNTNjRVdXQyZXpaMHExM0QxbldMemRGVy0wMFAydUdBYnlhZTFTLTZiMWktWGE5bk9HRVNTdWZacGxfWFZRRUUwZ2tTV2Q0M1duU20xb1ZJSXRSM2poTC1LQWVvVmZESGFERnN3eg?oc=5",
-      "date": "2026-08-31"
-     },
-     {
       "title": "Driving simulator helps spinal cord injury patients regain independence - WBAL-TV",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOalJaOXVaNmZ5S0NiVzhjbjcyZ2dJbWNMb0dRVnZYYlk1SDNQWV9ENXdRNzJ3cXN6WkYtLTB3RVoyNkE5QVNBWk9HS09VMTdRTFFwMGx3ZUJkalBDRWlONW9ROUtZWlRESWhjQ0VLSzFqY0ctbnFFLWxneHYxbmdCcGMwUC1OQ3ozRE5QZE5uTQ?oc=5",
       "date": "2026-10-06"
+     },
+     {
+      "title": "Specialized rehabilitation team helps child reach milestones at Kennedy Krieger - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOG1oV2FGUUpOY0o5d3JlckthUTZDT2VjcWZ6QWxFQWtIUVEyT2ZRUGstTk9GdU1VQ0lWVXRSOU8zV0tjY2k2Q3JHcU56VGFHOUxDZVB2QnNTNjRVdXQyZXpaMHExM0QxbldMemRGVy0wMFAydUdBYnlhZTFTLTZiMWktWGE5bk9HRVNTdWZacGxfWFZRRUUwZ2tTV2Q0M1duU20xb1ZJSXRSM2poTC1LQWVvVmZESGFERnN3eg?oc=5",
+      "date": "2026-08-31"
      },
      {
       "title": "New software out of Maryland turns smartphone video into rehabilitation therapy - Technical.ly",
