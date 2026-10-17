@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-16T14:33:21.901Z",
- "date": "2026-10-16",
+ "generatedAt": "2026-10-17T13:28:19.154Z",
+ "date": "2026-10-17",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,8 +19,7 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "1 new paper.",
-   "3 new technology items."
+   "4 new technology items."
   ],
   "closingSoon": [
    {
@@ -44,9 +43,9 @@
    "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 1,
+   "newPapers": 0,
    "news": 45,
-   "newNews": 3,
+   "newNews": 4,
    "centers": 12,
    "archived": 0
   }
@@ -13613,7 +13612,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function.",
     "firstSeen": "2026-10-16",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13869,47 +13868,6 @@
   ],
   "news": [
    {
-    "id": "news-1789ehl",
-    "kind": "news",
-    "title": "A tongue-controlled FES-robotic exoskeleton restores hand function in users with cervical spinal cord injury",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wSEZHdTc4dG0ySEQ0MklfZ0JNLWxrQV9nMGg1ZDZpLTNQUC1DWGhROF9RSkdKSWZCWGk2R0RrRlllTWpOXzBSZ2VfaEg4UVhoR1FlNHBFS0t2OHNkNm40?oc=5",
-    "outlet": "Nature",
-    "topic": "Technology",
-    "summary": "A tongue-controlled FES-robotic exoskeleton restores hand function in users with cervical spinal cord injury Nature",
-    "date": "2026-10-08",
-    "score": 40,
-    "tags": [
-     "Hand & arm function",
-     "Activity-based rehab & exoskeleton",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "hand function"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton",
-       "robotic",
-       "fes"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
-    "firstSeen": "2026-10-09",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-14p87mk",
     "kind": "news",
     "title": "NervGen Doses First Participant in Phase 3 RESTORE Study of NVG-291 for Chronic Cervical Spinal Cord Injury",
@@ -13960,7 +13918,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function.",
     "firstSeen": "2026-10-16",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13984,6 +13942,29 @@
     "why": "Surfaced for chronic.",
     "firstSeen": "2026-10-13",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-jh2393",
+    "kind": "news",
+    "title": "NervGen Kicks Off Pivotal Phase 3 Test of NVG-291 in Chronic Spinal Cord Injury",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXVvWlZYaXdEVHRFSjdDd09IN0F1Zk93anVDM0JiUHhvNkVzZm1VMkdUalFzNmhaUVJ1X2hVX2ctdEQxWHpNQTZOWjFOaHEzVnhIQW1XcHNXZEtpbTJWb3Jaajl5VEQxeVpFQlJHblpWUUhiYWQ3Z1FHWDVFX3Bhek15R0FOZl9JT1k3dF9lNVVleFpEVjMxay1FRzdiZTUwRmU1emVzSlNhd3ZtQjFYUmxJaDRXTUN3ekJZdl9WWHFxNjJwOXdxdEI5NkxVRXNwNi1z?oc=5",
+    "outlet": "Streetwise Reports",
+    "topic": "Technology",
+    "summary": "NervGen Kicks Off Pivotal Phase 3 Test of NVG-291 in Chronic Spinal Cord Injury Streetwise Reports",
+    "date": "2026-10-17",
+    "score": 25,
+    "tags": [
+     "Chronic injury",
+     "Watchlist: NervGen"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for chronic.",
+    "firstSeen": "2026-10-17",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14137,6 +14118,59 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-09-25",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-8rljnz",
+    "kind": "news",
+    "title": "Country singer and quadriplegic lyricist meet for first time after decade of remote music making",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRHBUR0U2a3otZjgtVHhGZ0ZwVVZ2ZldwVGJGRHdxemhvUDN5TXczSmswdU0zWUh3ZDU0X25aamd1UTR3SndDMDVrUGdUYWhGUjlsNnd6R1BSWkN1VHlySnZtcjNhSXlWUndBTC01WllOMUJhTmxLRElnYkRzODEyTmFZajBOQTc0QXhfeVJtUjg0RERMdFR2YzlFbnFOUQ?oc=5",
+    "outlet": "Yahoo",
+    "topic": "Technology",
+    "summary": "Country singer and quadriplegic lyricist meet for first time after decade of remote music making Yahoo",
+    "date": "2026-10-16",
+    "score": 20,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-10-17",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1jagrzn",
+    "kind": "news",
+    "title": "ONWD: Revenue up 250% year-over-year, with strong ARC-EX adoption and robust cash position",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPa2pJaHNuLVRxV01WT0l5TW1QNi12SXVxd1kzMjJoTlNfQmJscEFGSWgxdFAxaWUxeWxheHg0cUw1YnNrNm54SjQ1OHJYTTgwZDJ6Q0I5QlBBcDlBZ2Y1cHpnZjZONUFMNjlsSk5NLXpkRFZzZkdqbDdVNklZVnFMRWdIRlZDRWo4eFh4clBWWXZVd3E2LTV1SU55RnZIdTY3Z204RFhCUmVTNmJtdXZDd3hwbVZUNWROY2RqVHVKQVlTajFSYm40dlFObTM1UU9mT3c2c2ZJS1ExS2QyR1BBcllyd1RVNFFXNG5kQ0p5akxhY0tieFRfNzd0NjJpd2psVUhDNA?oc=5",
+    "outlet": "TradingView",
+    "topic": "Company watch",
+    "summary": "ONWD: Revenue up 250% year-over-year, with strong ARC-EX adoption and robust cash position TradingView",
+    "date": "2026-09-09",
+    "score": 20,
+    "tags": [
+     "Spinal cord stimulation",
+     "Watchlist: ARC-EX"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "arc-ex"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-09-24",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14606,6 +14640,37 @@
     "exploredNote": null
    },
    {
+    "id": "news-74rmjk",
+    "kind": "news",
+    "title": "Precision Neuroscience raises $250M in Series D for its BCI",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkZDWFFZamhwNzgwNjNXZmhTY242ZkpWbmhTU0x0ZFZUZHMtcHRUWnVOX1BNUHhJR0M3a1RUc2JSUmdTX1AzTHpqdEx6QUpDNUZ5VmIxenBRQjNCak9wdFZ2Y1M4b2tsLTdWR0d3MUtZbHRMX3p2NHBrckZLZ3pwM1Jjc2tDekMzTjBfb0ZPcw?oc=5",
+    "outlet": "MassDevice",
+    "topic": "Company watch",
+    "summary": "Precision Neuroscience raises $250M in Series D for its BCI MassDevice",
+    "date": "2026-09-25",
+    "score": 18,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Precision Neuroscience"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-09-25",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1nl9jc5",
     "kind": "news",
     "title": "Precision Neuroscience Raises $250M In Series D To Advance Brain-Computer Interface",
@@ -14632,7 +14697,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-10-16",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14830,24 +14895,24 @@
     "exploredNote": null
    },
    {
-    "id": "news-1mrtxej",
+    "id": "news-nu4zbc",
     "kind": "news",
-    "title": "B. Riley Securities Advises ChronoScale on the Sale of Ekso Bionics to Wandercraft",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTE4RFo1RlFFdU9zTnhIUGNrZFphejY1TXJsenZpZ2xQMVJpT19KYlhpdXI2OHJOaTI2UThmbTljWW01MUVRZ1NhUUo1S3RDaFFJZ2NxU3dLV2NPeTNDcTZ1Q0p4b2RLNXk0ejRScFB6ZTktN2xyOV82c2o1WU1Ca3JwOWpXMll5c1ZuYTJaTXZUbTV3UjFnVHJlUlU5THlOZ1FJT1RBRHB6OVlBZVE?oc=5",
-    "outlet": "ABF Journal",
-    "topic": "Company watch",
-    "summary": "B. Riley Securities Advises ChronoScale on the Sale of Ekso Bionics to Wandercraft ABF Journal",
-    "date": "2026-10-09",
-    "score": 17,
+    "title": "Shaped by people with spinal cord injury, study puts exercise to the test for chronic pain",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkhha0FDZGpfU1NkTUthX09TMk1ESG4zeXhRVTdjRWgtS0NCM0N6WlRCT19oVlBIR0liM3FyNnoxZWtzVjVGWm11WEI5VGs2ZlJNUVd3LWxRdW5TYW1ZMktLUDdIMk93eTNCN3RJb0g4MjBoV0IzUFN1QWhYM0Q5ZENxdlJRRTJKRVhTeURyMDI2TzNOR2paQmMwU05OT3EzY2JnblM4MkdmRWk2cDFvY0w3LWdGQjRYQkt0WnNHa2c3UQ?oc=5",
+    "outlet": "The University of British Columbia",
+    "topic": "Technology",
+    "summary": "Shaped by people with spinal cord injury, study puts exercise to the test for chronic pain The University of British Columbia",
+    "date": "2026-10-16",
+    "score": 16,
     "tags": [
-     "Watchlist: Ekso Bionics"
+     "Chronic injury"
     ],
     "flags": [],
     "matchedPriorities": [],
     "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-10-09",
-    "isNew": false,
+    "why": "Surfaced for chronic.",
+    "firstSeen": "2026-10-17",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14882,14 +14947,14 @@
     "exploredNote": null
    },
    {
-    "id": "news-jt5fs9",
+    "id": "news-1ktiwug",
     "kind": "news",
-    "title": "Single Brain Implant Decodes Speech and Gestures Together in Paralysis",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFo4MVFRaVJma0hSTUFLTmtmREQ0NjlUem9jZGlSRW5PZkhWVzRqM3VKQnB1UjB6R2w4M0VVQVhyRjdrMmxHdXZMSGs1X1N0SF96Y1psSzBTcERQNjhWOEVZU0Nxbi05bEF1TUZCa0p0b242MmJoLVNncEpFb2UtOUlvWkdQV1hlU1JNYUxzQlFwWTB5QnF2M1ZBTQ?oc=5",
-    "outlet": "Bioengineer.org",
+    "title": "Brain-Computer Interface Enables Coordinated Speech and Movement",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON19ONUhEa1FWekFHMmV2V0o5aWdnLXJ3THpkMjRUVXVFNmwtVXhjTXpxVGhZUFBLSEhEOWszc2pvckdFZGVyN0UtM2ZjM3p1OUt1YXJ5YVpQbHFtWkNTOXBoTE1SeE1vbTlyTEI2QWhjMlNRTmZLN2c4SVp6V3ptZVZtNDdjSlljMWVXYWF5TTJkSjlOdzZXVGZ5NF9DTnh4dTFGLWZPaXJMcUk?oc=5",
+    "outlet": "EMJ",
     "topic": "Technology",
-    "summary": "Single Brain Implant Decodes Speech and Gestures Together in Paralysis Bioengineer.org",
-    "date": "2026-10-08",
+    "summary": "Brain-Computer Interface Enables Coordinated Speech and Movement EMJ",
+    "date": "2026-10-09",
     "score": 16,
     "tags": [
      "Brain-computer interface"
@@ -14900,7 +14965,7 @@
       "key": "bci",
       "label": "Brain-computer interface",
       "matched": [
-       "brain implant"
+       "brain-computer interface"
       ]
      }
     ],
@@ -15034,6 +15099,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-12pswvt",
+    "kind": "news",
+    "title": "Dignify Therapeutics Advances into Clinic with FDA Clearance of IND for DTI-117 in Neurogenic Bowel Dysfunction",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaTE0UkRuT2hjdk9ZWVo3MVpXRkdDbkF5ZTd1TG1Pamx4QUJ3aTJRNEx6Qm1yV3ZVNkJfZWt3bXZzcExfcXpqa0Eya1l2aFA1YnNUMkE2YjFrVW5KLW1JVnFaZU5GV2ZIWHlwbDFOdjU3Mjg1LWpaY3pLY3JJOS1wcjh3MDJib1pfaUI3X1hGa2hwMWsxQll2RzEzVXJCVmhqWnlwN3N2NTBCVWpGRTBzMkxkZU16MjdvWmt0dnBBN1duWUpHZWpXdkVYeTNUa05LaGNNYkNZY3lFd1dhT1NKU2QyWmN3azZzUzlkWXlpUlpvcFliSUg4OTNjZw?oc=5",
+    "outlet": "PR Newswire",
+    "topic": "Regulatory",
+    "summary": "Dignify Therapeutics Advances into Clinic with FDA Clearance of IND for DTI-117 in Neurogenic Bowel Dysfunction PR Newswire",
+    "date": "2026-10-07",
+    "score": 15,
+    "tags": [
+     "Autonomic / blood pressure / bladder / bowel"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "auto",
+      "label": "Autonomic / blood pressure / bladder / bowel",
+      "matched": [
+       "neurogenic bowel"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for autonomic / blood pressure / bladder / bowel.",
+    "firstSeen": "2026-10-08",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-79cc3c",
     "kind": "news",
     "title": "NervGen doses first patient in phase 3 spinal cord injury trial",
@@ -15056,6 +15151,28 @@
     "exploredNote": null
    },
    {
+    "id": "news-1hl7yil",
+    "kind": "news",
+    "title": "41st Great Sports Legends Dinner Supports Neuroscience Research at The Miami Project to Cure Paralysis",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRklicC1HaExBbzJaMnMwck9sbEpLOWRnNXBiamMwUXZwRnRXLXl4Vl9qZElvOFhOOFpHREF1aS1JWDJaMmVDSVhhc3B3MGp3VWxDWW9lVThtTEpzTE9TcFllcWJuODNQb3ROWlQyUEpMRm53RmRMRnJqNXd4ZFE?oc=5",
+    "outlet": "University of Miami",
+    "topic": "Technology",
+    "summary": "41st Great Sports Legends Dinner Supports Neuroscience Research at The Miami Project to Cure Paralysis University of Miami",
+    "date": "2026-10-06",
+    "score": 14,
+    "tags": [
+     "Watchlist: Miami Project to Cure Paralysis"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-10-17",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-48t85z",
     "kind": "news",
     "title": "Precision Neuroscience Unveils a New Map of the Human Nervous System",
@@ -15073,125 +15190,6 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-10-09",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-15jdvdj",
-    "kind": "news",
-    "title": "Nerve center: Inside the ISEB’s NeuroTechnology research cluster at Case Western Reserve",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTJDZ004SXBJbkRrSjAyRzV5bEVMR3lDMVloRGVBUERtOWo2cEl6eXNPS19ZS1VvRWI2TDJyeVctWE9nZ09pQ0U2UzB2c1JVTV90bmtrNERPaUhxNHpyNl9DU3kwSU9CZ1VnaDZaYXo3Sk9zM2lfeTdvcy1BdUZNa3Q0UXViWVdJT2U3dUM0MTJqSXpOaHFxeV9tU0NMZDlja2Nz?oc=5",
-    "outlet": "Case Western Reserve University",
-    "topic": "Technology",
-    "summary": "Nerve center: Inside the ISEB’s NeuroTechnology research cluster at Case Western Reserve Case Western Reserve University",
-    "date": "2026-10-13",
-    "score": 14,
-    "tags": [
-     "Watchlist: Case Western"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-10-13",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1mrs1zg",
-    "kind": "news",
-    "title": "Restorative Therapies Data Breach Lawsuit Investigation",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQXJzRG8tWHFJYm5nNUJ5bmcwTFczZGlFNW1xNTJzSno5U2p1Rm9YelVab2FsZUpoV1I3Q1ZzclowdGVhcFlqU2dyUE5peU1TRUlWeHYzUGtYb0diVEluWFA5ZU42eDlIQjZCZjAySlZ3ZVBEdzdXSGVMdU44bW5OWklWUEhJX1U?oc=5",
-    "outlet": "Claim Depot",
-    "topic": "Technology",
-    "summary": "Restorative Therapies Data Breach Lawsuit Investigation Claim Depot",
-    "date": "2026-10-05",
-    "score": 14,
-    "tags": [
-     "Watchlist: Restorative Therapies"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-10-05",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1m8ga7r",
-    "kind": "news",
-    "title": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034]",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnVKZUxXem9qQy1FRzVpbmg1d3lGUUJHS3h4YmNSZ1pvZUYwWVVzTjFETEg1cGlZSGFxdzh0SXl5RmJ1VUd5a3dwbVczTndPMFdKblBpSXAtVnBSMWNKVWdKS25lTm5USUV3YzRYWUpteW1QbDZtVzZwRk5UaW1mMVFuSFBYT1Ixa2NfLUlqemF6Zw?oc=5",
-    "outlet": "Fortune Business Insights",
-    "topic": "Company watch",
-    "summary": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034] Fortune Business Insights",
-    "date": "2026-09-21",
-    "score": 14,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface",
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-08-23",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-b0ldfa",
-    "kind": "news",
-    "title": "Ekso Bionics Holdings Releases Q1 2027 Financial Results",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM09wVjgzemRUQ0IybmZLRmJQb2VLUk8wU1FLNy1FU3FKNmlsRnBDdTZnT1M0ZkQtV1ZnWjJzZGtqSnQtRHZEVTE2LXlXYkhsS0ZGbzl0RUpCaFBVR2Y0VHJ1U3NWeXZ1VjVBUVdGMXBNMWhsUUVnUkxzOFpLMndzbmFMZ21RLVA4V281SHRYVExuRno40gGUAUFVX3lxTE0zT3BWODN6ZFRDQjJuZktGYlBvZUtSTzBTUUs3LUVTcUo2aWxGcEN1NmdPUzRmRC1XVmdaMnNka2pKdC1EdkRVMTYteVdiSGxLRkZvOXRFSkJoUFVHZjRUcnVTc1Z5dnVWNUFRV0YxcE0xaGxRRWdSTHM4Wksyd3NuYUxnbVEtUDhXbzVIdFhUTG5Gejg?oc=5",
-    "outlet": "AlphaStreet",
-    "topic": "Company watch",
-    "summary": "Ekso Bionics Holdings Releases Q1 2027 Financial Results AlphaStreet",
-    "date": "2026-10-16",
-    "score": 14,
-    "tags": [
-     "Watchlist: Ekso Bionics"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-10-16",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-18dv62j",
-    "kind": "news",
-    "title": "ChronoScale Director Resigns Following Ekso Bionics Divestiture",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN1ZxT1FrY1IySmhFVVN2aGZ2YWd4MFRfMVNWOXVBNWpkaEFaVGFYNmw1eEhyWUk2aXJqN2E4QkJYTG5NVmZhemY3LV9JTXYxRmVPcWZ5YVBkeURvM1Q0d0ZuR2Rmejh1bDltVzVGR01heXdJUzJNcUJuTXNNTjVlaE5zbDc3em9DY3loeUp0TnBiREs4UG1rdWpjTzM0b2h6alp3Y3JhdkxtUkhQdFNHWkFuYUtaWUpiUWVrNnYzTFNjdjBGU1h6UDVOX3RHdC1KOUtBRGszWjliQzNoTDA0NXhtUFU?oc=5",
-    "outlet": "The Globe and Mail",
-    "topic": "Company watch",
-    "summary": "ChronoScale Director Resigns Following Ekso Bionics Divestiture The Globe and Mail",
-    "date": "2026-10-07",
-    "score": 14,
-    "tags": [
-     "Watchlist: Ekso Bionics"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-10-07",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15232,9 +15230,9 @@
       "date": "2026-08-25"
      },
      {
-      "title": "Georgia running back Dante Dowdell being treated at Shepherd Center after accident - WSB-TV",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHFhQXE0eTl3ZGlMdGRmTkRhNDZ5R3d4MURtN2ZxaHV6clN3NGJOS24wYl9tUUFGcHcyTmR4SktkYXlrZUNqQndROGl5TVV5MWhZdHFwZlFEeFlmdVc1dzVEb0phdDBzSzVYb3RjZW9meW9FNF9QOHFPQldpR3d0dmxTcWdRMzNrcE12ZVNSTkpKbXk4ekYtcER0ZWttYy1tS1RpT0xLSW1seGJhc1BtWEE0dkxDRm5jUVVMVUZ5bFI5UlBPajhKbnAzVVA1ZmRBT2VfYkxya9IB6wFBVV95cUxQNnpHMHh0dVZGRXZMcUtJOGt0TXdqU0xvY1dlUm1FejJwSTJkVnBObmVLVEZReE5uV0U2ZFFMU1A5aUJKSzJNYUlDRkdPZWYxQ3QxWjJCWjVPRHpLeDFYcWRZZVYzV0RKLVpyTzgwN3hlM21nUmc3ZFV0QUFjeXY3anV3Z05CSDBkMTBoZ0RHMS1hclNpNVFOdzItZDJxVnBYanFzY0hrMXhPY00zcjJJRXVLTDJWWnBQc0s0OWNNQS1Hd1Jjbi1yWXFJQzVBZzlLZ2tfOEpBbV9VazFfb19GTXN3THJtR1ZJMXFF?oc=5",
-      "date": "2026-07-22"
+      "title": "Kirby Smart confirms Georgia RB Dante Dowdell is hospitalized with 'serious injuries' from ATV accident - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNHlyYWozUExFLVZGNHVyUHNZLXNsLVpfMGsxRmd5QV9EdlBOcUYxRWxQZGVHRzhTWXpzbEVuT09Md0JaazZlb3ZhTUdEYzlMVFFmaW1qTXNiVVp6eDZsbTdqWGJOV202TnNiU21RMGZxY0RVN2xmWEx1RzE3M2M0SW9tM09KZjJaX21GYUhwamhQMHRqTjlNSU9ndEw0Q1I1eG03RjdGRzloNzhhMFJUSXE5cUlsSGhKTmVVWjRuWF96UmRXdXJneFZnejJicDhLbUhHcHlCV2tPbEhjY3hLaUcwSVc5SGNkUE4zVlJIZ2ZidUZsRVZ6RVF3?oc=5",
+      "date": "2026-07-21"
      }
     ],
     "date": null,
@@ -15382,14 +15380,14 @@
       "date": "2026-07-20"
      },
      {
+      "title": "Sofia Bacolas ’28: Undergraduate Research Assistant - Bowdoin College",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXo5akJLVW9hZnZkbldqVmJEeUdVT1pXbXVCQ2lxYVFfSXNGMEE4U2VCclAwdEk2WmdEVUFzeTg0X3F3MGoybWxnQ3JWM2Jid1Q0ZUNKY3pyVTBMNTVwTHRKNkZLZmlKb01xZTRNMjV2N25pUmhUMGZkUlNYSVd1U0lIOWZQWWJUU245Ri1IbVlmemEtYzJEbi1n?oc=5",
+      "date": "2026-10-02"
+     },
+     {
       "title": "Laila Ali makes history with Greatest Sports Legends Dinner honor 40 years after iconic father - New York Post",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVM5Nmo5ZXJ3MEFMRVRiMjZ3cFpPSjRPaFFjZ29YWVlFNnRIaG9odk0wdUJhOGVJbUFLRFZrc3ZrQ0JkNVM1dDl4XzN4Qjc2U0s5blhSSEtaaFVoaEJvVWhGQllWeW16UV9MZFlBbjBWYURfblRvZXpwNVRYMWlwdUE5R1lwUE02X0tHTjJ3V2t3VDBQNW5oN0pSVExJS1hLdmNCNlZQNEhtWU1ITFFiYVRYSWI3M1kycndvNi1Fc0lYNTBGRVRCLTVuem4?oc=5",
       "date": "2026-10-03"
-     },
-     {
-      "title": "41st Great Sports Legends Dinner Supports Neuroscience Research at The Miami Project to Cure Paralysis - University of Miami",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRklicC1HaExBbzJaMnMwck9sbEpLOWRnNXBiamMwUXZwRnRXLXl4Vl9qZElvOFhOOFpHREF1aS1JWDJaMmVDSVhhc3B3MGp3VWxDWW9lVThtTEpzTE9TcFllcWJuODNQb3ROWlQyUEpMRm53RmRMRnJqNXd4ZFE?oc=5",
-      "date": "2026-10-06"
      }
     ],
     "date": null,
@@ -15597,7 +15595,7 @@
     "kind": "center",
     "title": "AASDAP / Walk Again Project",
     "summary": "Long-running brain-machine-interface and rehabilitation project in chronic paraplegia and tetraplegia.",
-    "linkStatus": "unreachable",
+    "linkStatus": "ok",
     "recentNews": [],
     "date": null,
     "score": 0,
