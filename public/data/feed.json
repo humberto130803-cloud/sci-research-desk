@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-23T14:41:01.194Z",
- "date": "2026-10-23",
+ "generatedAt": "2026-10-24T13:50:41.042Z",
+ "date": "2026-10-24",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,7 +19,7 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "1 new technology item."
+   "5 new papers."
   ],
   "closingSoon": [
    {
@@ -43,9 +43,9 @@
    "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 0,
+   "newPapers": 5,
    "news": 45,
-   "newNews": 1,
+   "newNews": 0,
    "centers": 12,
    "archived": 0
   }
@@ -1149,86 +1149,6 @@
     ],
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and breathing & diaphragm, cervical-level, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "NCT03509558",
-    "kind": "trial",
-    "title": "Transcutaneous Spinal Stimulation and Exercise for Locomotion",
-    "officialTitle": "Transcutaneous Spinal Stimulation With Intensive Physical Therapy for Locomotion",
-    "url": "https://clinicaltrials.gov/study/NCT03509558",
-    "summary": "Growing evidence indicates that electrical spinal cord stimulation improves motor functions both immediately and over the long term via modulating the excitability of spinal circuitry in patients with spinal cord injury. Recently, a novel, non-invasive, well-tolerated, and painless lumbosacral transcutaneous electrical stimulation strategy was demonstrated to be effective in improving lower limb motor function in participants with spinal cord injury. Our current project, cervical transcutaneous electrical stimulation and intensive exercise for arms and hands are also revealing a significant improvement in upper extremity function. Additionally, the subject and caregiver noted that stair climbing ability has been substantially enhanced starting from the first week of cervical stimulation treatment and continues to date. This study is a prospective efficacy trial of combined transcutaneous…",
-    "conditions": [
-     "Spinal Cord Injuries"
-    ],
-    "interventions": [
-     "DEVICE: Transcutaneous spinal stimulation",
-     "OTHER: Physical Therapy"
-    ],
-    "sponsor": "University of Washington",
-    "status": "RECRUITING",
-    "phase": "NA",
-    "studyType": "INTERVENTIONAL",
-    "enrollment": 20,
-    "minAge": 21,
-    "maxAge": 70,
-    "stdAges": [
-     "ADULT",
-     "OLDER_ADULT"
-    ],
-    "sex": "ALL",
-    "date": "2026-09-09",
-    "startDate": "2018-02-28",
-    "completionDate": "2028-09-30",
-    "locations": [
-     {
-      "facility": "University of Washington",
-      "city": "Seattle",
-      "state": "Washington",
-      "country": "United States",
-      "status": "RECRUITING"
-     }
-    ],
-    "countries": [
-     "United States"
-    ],
-    "contact": {
-     "name": "Soshi Samejima, DPT, MS",
-     "email": "soshis@uw.edu",
-     "phone": "206 221-8961"
-    },
-    "eligibilityText": "Inclusion Criteria: * Has spinal cord injury (T12 or higher level) of at least 1-year duration * Is between 21 and 70 years of age * Has difficulty with leg functions and mobility in activities of daily living (e.g. walking, transferring surface to surface, standing) * Has stable medical condition without cardiopulmonary disease or frequent autonomic dysreflexia that would contraindicate participation in lower extremity rehabilitation or testing activities * Is capable of performing simple cued motor tasks * Has ability to attend up to 5 sessions per week physical therapy sessions and testing activities * Has adequate social support to be able to participate in training and assessment sessions, up to 5 sessions per week, for the duration of up to 11 months within the study period * Is volunteering to be involved in this study * Cleared for gait training by the primary physician of the subject * Has the ability to read and speak English Exclusion Criteria: * Has autoimmune etiology of spinal cord dysfunction/injury * Has history of additional neurologic disease, such as stroke, multiple sclerosis, traumatic brain injury, etc. * Has peripheral neuropathy (diabetic polyneuropathy, entrapment neuropathy, etc.) * Has rheumatic diseases (rheumatoid arthritis, systemic lupus erythematosus, etc.) * Has significant medical disease; including uncontrolled systemic hypertension with values above 170/100 mmHg; cardiac or pulmonary disease; uncorrected coagulation abnormalities or need for therapeutic anticoagulation. * Has active cancer * Has cardiovascular or musculoskeletal disease or injury that would prevent full participation in physical therapy intervention * Has unhealed fracture, contracture, pressure sore, urinary tract infection, or other illnesses that might interfere with lower extremity rehabilitation or testing activities * Has any condition that would render the patient unable to safely cooperate with the study tests as judged by the screening physician * is preg",
-    "score": 56,
-    "tags": [
-     "Hand & arm function",
-     "Spinal cord stimulation",
-     "Cervical / tetraplegia",
-     "Chronic injury",
-     "Age OK (cap 70)"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper extremity"
-      ]
-     },
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "transcutaneous spinal",
-       "spinal cord stimulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -2389,6 +2309,86 @@
     ],
     "eligible": true,
     "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "NCT03509558",
+    "kind": "trial",
+    "title": "Transcutaneous Spinal Stimulation and Exercise for Locomotion",
+    "officialTitle": "Transcutaneous Spinal Stimulation With Intensive Physical Therapy for Locomotion",
+    "url": "https://clinicaltrials.gov/study/NCT03509558",
+    "summary": "Growing evidence indicates that electrical spinal cord stimulation improves motor functions both immediately and over the long term via modulating the excitability of spinal circuitry in patients with spinal cord injury. Recently, a novel, non-invasive, well-tolerated, and painless lumbosacral transcutaneous electrical stimulation strategy was demonstrated to be effective in improving lower limb motor function in participants with spinal cord injury. Our current project, cervical transcutaneous electrical stimulation and intensive exercise for arms and hands are also revealing a significant improvement in upper extremity function. Additionally, the subject and caregiver noted that stair climbing ability has been substantially enhanced starting from the first week of cervical stimulation treatment and continues to date. This study is a prospective efficacy trial of combined transcutaneous…",
+    "conditions": [
+     "Spinal Cord Injuries"
+    ],
+    "interventions": [
+     "DEVICE: Transcutaneous spinal stimulation",
+     "OTHER: Physical Therapy"
+    ],
+    "sponsor": "University of Washington",
+    "status": "RECRUITING",
+    "phase": "NA",
+    "studyType": "INTERVENTIONAL",
+    "enrollment": 20,
+    "minAge": 21,
+    "maxAge": 70,
+    "stdAges": [
+     "ADULT",
+     "OLDER_ADULT"
+    ],
+    "sex": "ALL",
+    "date": "2026-09-09",
+    "startDate": "2018-02-28",
+    "completionDate": "2028-09-30",
+    "locations": [
+     {
+      "facility": "University of Washington",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "status": "RECRUITING"
+     }
+    ],
+    "countries": [
+     "United States"
+    ],
+    "contact": {
+     "name": "Soshi Samejima, DPT, MS",
+     "email": "soshis@uw.edu",
+     "phone": "206 221-8961"
+    },
+    "eligibilityText": "Inclusion Criteria: * Has spinal cord injury (T12 or higher level) of at least 1-year duration * Is between 21 and 70 years of age * Has difficulty with leg functions and mobility in activities of daily living (e.g. walking, transferring surface to surface, standing) * Has stable medical condition without cardiopulmonary disease or frequent autonomic dysreflexia that would contraindicate participation in lower extremity rehabilitation or testing activities * Is capable of performing simple cued motor tasks * Has ability to attend up to 5 sessions per week physical therapy sessions and testing activities * Has adequate social support to be able to participate in training and assessment sessions, up to 5 sessions per week, for the duration of up to 11 months within the study period * Is volunteering to be involved in this study * Cleared for gait training by the primary physician of the subject * Has the ability to read and speak English Exclusion Criteria: * Has autoimmune etiology of spinal cord dysfunction/injury * Has history of additional neurologic disease, such as stroke, multiple sclerosis, traumatic brain injury, etc. * Has peripheral neuropathy (diabetic polyneuropathy, entrapment neuropathy, etc.) * Has rheumatic diseases (rheumatoid arthritis, systemic lupus erythematosus, etc.) * Has significant medical disease; including uncontrolled systemic hypertension with values above 170/100 mmHg; cardiac or pulmonary disease; uncorrected coagulation abnormalities or need for therapeutic anticoagulation. * Has active cancer * Has cardiovascular or musculoskeletal disease or injury that would prevent full participation in physical therapy intervention * Has unhealed fracture, contracture, pressure sore, urinary tract infection, or other illnesses that might interfere with lower extremity rehabilitation or testing activities * Has any condition that would render the patient unable to safely cooperate with the study tests as judged by the screening physician * is preg",
+    "score": 52,
+    "tags": [
+     "Hand & arm function",
+     "Spinal cord stimulation",
+     "Cervical / tetraplegia",
+     "Chronic injury",
+     "Age OK (cap 70)"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "upper extremity"
+      ]
+     },
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "transcutaneous spinal",
+       "spinal cord stimulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -11501,6 +11501,70 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42918586",
+    "kind": "paper",
+    "title": "Epidural Spinal Cord Stimulation Promotes the Expansion of Endogenous Neural Stem Cells and Neuroprotection via the PI3K/AKT/ mTOR Pathway after Spinal Cord Injury in Rats.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42918586/",
+    "doi": "10.1016/j.brainresbull.2026.112164",
+    "journal": "Brain research bulletin",
+    "authors": [
+     "Li G",
+     "Shen F",
+     "Li J",
+     "Fan Z"
+    ],
+    "authorLine": "Li G, Shen F, Li J et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-23",
+    "summary": "Spinal cord injury (SCI) often leads to severe motor and sensory dysfunction, yet no effective treatment currently exists. Epidural spinal cord stimulation (ESCS) is a treatment for chronic neuropathic pain in the trunk and extremities, and exerts a significant effect on the recovery of motor function, although the underlying mechanisms remain unclear. The present study aimed to investigate the effects of ESCS on the endogenous neural stem cells (eNSCs) proliferation and neuroprotection as well as the underlying mechanisms following SCI in rats. In the present study, results showed that ESCS improved hindlimb motor function and markedly increased the numbers of surviving ventral horn neurons of the spinal cord at 7 and 28 days after SCI. ESCS significantly reduced the apoptosis of anterior horn cells in the spinal cord on day 28 post-SCI. Moreover, ESCS remarkably increased the…",
+    "score": 45,
+    "tags": [
+     "Spinal cord stimulation",
+     "Regenerative / cell therapy",
+     "Drug / pharmacological recovery",
+     "Neuropathic pain & spasticity",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation",
+       "scs"
+      ]
+     },
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "stem cell"
+      ]
+     },
+     {
+      "key": "drug",
+      "label": "Drug / pharmacological recovery",
+      "matched": [
+       "neuroprotect"
+      ]
+     },
+     {
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
+      "matched": [
+       "neuropathic pain"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy, chronic.",
+    "firstSeen": "2026-10-24",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42763894",
     "kind": "paper",
     "title": "Tetragrip: a functional electrical stimulation (FES) device for enhancing upper limb function in people with tetraplegia - development, technical evaluation, and pilot clinical investigation.",
@@ -11971,6 +12035,102 @@
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy, chronic.",
     "firstSeen": "2026-09-20",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42909074",
+    "kind": "paper",
+    "title": "Case Report: Beyond chronicity: sustained multidimensional response to spinal cord stimulation three decades after traumatic spinal cord injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909074/",
+    "doi": "10.3389/fpain.2026.1969355",
+    "journal": "Frontiers in pain research (Lausanne, Switzerland)",
+    "authors": [
+     "Blažević A",
+     "Marčinković P",
+     "Almahariq F",
+     "Krušić S"
+    ],
+    "authorLine": "Blažević A, Marčinković P, Almahariq F et al.",
+    "pubType": "Case Reports, Journal Article",
+    "date": "2026-10-07",
+    "summary": "Spinal cord stimulation (SCS) is an established treatment for refractory neuropathic pain conditions, yet evidence for its effectiveness in spinal cord injury (SCI)-related neuropathic pain, particularly after decades of persistent symptoms, remains limited. It remains unclear whether unusually prolonged pain chronicity and established neurological deficits affect the potential for a meaningful response to neuromodulation. We report a 60-year-old man with chronic incomplete SCI, bilateral spastic paraparesis markedly more pronounced on the left, and severe chronic neuropathic pain following a gunshot-related spinal injury sustained in 1991. Retained metallic fragments were located at T12-L1; however, a formal neurological level of injury and AIS grade could not be reliably reconstructed because a complete contemporaneous ISNCSCI examination was unavailable. The longstanding bilateral…",
+    "score": 30,
+    "tags": [
+     "Spinal cord stimulation",
+     "Neuropathic pain & spasticity",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation",
+       "neuromodulation",
+       "scs"
+      ]
+     },
+     {
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
+      "matched": [
+       "neuropathic pain"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity, chronic.",
+    "firstSeen": "2026-10-24",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42909857",
+    "kind": "paper",
+    "title": "Conductive hydrogel bioelectronics for chronic neuromodulation: From biomimetic design and bioactive interfaces to integrated neural platforms.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42909857/",
+    "doi": "10.1016/j.mtbio.2026.103722",
+    "journal": "Materials today. Bio",
+    "authors": [
+     "Liu C",
+     "Mao Y",
+     "Ren Z",
+     "Shang Y"
+    ],
+    "authorLine": "Liu C, Mao Y, Ren Z et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-07",
+    "summary": "In biomedical engineering, hydrogel bioelectronics brings together the interface between flexible electronic devices and biological systems, opening up a new way for chronic neural regulation. Here we focus on the recent progress in this field, from material design to system integration. The design of high-performance conductive hydrogels is an entry point. The multi-level structure engineering strategy, such as the introduction of carbon nanotubes or conductive polymers, can raise the conductivity and mechanical toughness together. When biomimetic adhesion molecules such as polydopamine or tannic acid are added, the hydrogel has the ability of wet tissue adhesion, and anti swelling and active anti-inflammatory functions are also embedded in the material system. As a result, the resulting neural interfaces are not only more durable in practical applications but also ensure excellent…",
+    "score": 30,
+    "tags": [
+     "Spinal cord stimulation",
+     "Brain-computer interface",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "neuromodulation"
+      ]
+     },
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "neural interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and brain-computer interface, chronic.",
+    "firstSeen": "2026-10-24",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -12670,37 +12830,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42714693",
-    "kind": "paper",
-    "title": "Demyelination in degenerative cervical myelopathy: a systematic review and meta-analysis of autopsy and imaging studies.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42714693/",
-    "doi": "10.1007/s10143-026-04433-4",
-    "journal": "Neurosurgical review",
-    "authors": [
-     "Jalloh M",
-     "Wang B",
-     "Truong H",
-     "Budde MD"
-    ],
-    "authorLine": "Jalloh M, Wang B, Truong H et al.",
-    "pubType": "Journal Article, Systematic Review, Meta-Analysis",
-    "date": "2026-09-09",
-    "summary": "Degenerative cervical myelopathy (DCM) is the leading cause of spinal cord dysfunction in adults, marked by progressive neurological deficits in spinal compression. The pathophysiology is driven by chronic spinal cord injury, yet the role of demyelination is not well defined. This systematic review and meta-analysis assesses the prevalence of demyelination in DCM and its relation to clinical measures. A literature search was conducted across MEDLINE, EMBASE, Scopus, Web of Science, and the Cochrane Library, following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Studies reporting demyelination in DCM through autopsy, histopathology, or spinal cord imaging were included. Data were extracted and analyzed using random-effects meta-analysis. Twenty-seven studies (364 DCM patients) were included. The GLMM random-effects model across 16 autopsy studies…",
-    "score": 24,
-    "tags": [
-     "Cervical / tetraplegia",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level, chronic.",
-    "firstSeen": "2026-09-10",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42686289",
     "kind": "paper",
     "title": "Future Directions Related to Spinal Cord Compression: Where Will we be in the Next 10 Years?",
@@ -12842,6 +12971,36 @@
     "why": "Surfaced for drug / pharmacological recovery, cervical-level.",
     "firstSeen": "2026-09-03",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42919717",
+    "kind": "paper",
+    "title": "Corrigendum to \"Glibenclamide treatment improved intraspinal blood volume, tissue sparing, and functional recovery after cervical spinal cord injury in rats\" [Brain Res. Bull. 246 (2026) 112162].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42919717/",
+    "doi": "10.1016/j.brainresbull.2026.112174",
+    "journal": "Brain research bulletin",
+    "authors": [
+     "Prasse T",
+     "Jensen DE",
+     "Chandran P",
+     "Odarenko AA"
+    ],
+    "authorLine": "Prasse T, Jensen DE, Chandran P et al.",
+    "pubType": "Published Erratum",
+    "date": "2026-10-23",
+    "summary": "",
+    "score": 20,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-10-24",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -13026,31 +13185,32 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42858240",
+    "id": "PMID42714693",
     "kind": "paper",
-    "title": "Bilateral upper-limb palsy of the newborn infant: Taxonomy, differential diagnosis, and clinical pathways.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42858240/",
-    "doi": "10.1111/dmcn.70575",
-    "journal": "Developmental medicine and child neurology",
+    "title": "Demyelination in degenerative cervical myelopathy: a systematic review and meta-analysis of autopsy and imaging studies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42714693/",
+    "doi": "10.1007/s10143-026-04433-4",
+    "journal": "Neurosurgical review",
     "authors": [
-     "Han Y",
-     "Ma Y",
-     "Yousaf K",
-     "Wassmer E"
+     "Jalloh M",
+     "Wang B",
+     "Truong H",
+     "Budde MD"
     ],
-    "authorLine": "Han Y, Ma Y, Yousaf K et al.",
-    "pubType": "Journal Article, Review",
-    "date": "2026-10-10",
-    "summary": "Bilateral reduction or absence of upper-limb movement in a newborn infant is a rare but critical presentation that cannot be anchored on the unilateral paradigm of brachial plexus birth injury (BPBI). Bilaterality substantially widens the differential to include cervical spinal cord injury, neuromuscular disorders, and non-neurological movement limitation; thus, default attribution to bilateral BPBI risks missing a serious central pathology. No standardized terminology or investigation framework currently addresses this phenotype. This review introduces bilateral upper-limb palsy of the newborn infant (BULPN) and proposes a three-category taxonomy separating 'true BULPN' (bilateral plexus-level palsy at birth) from mimics and acquired (postnatal-onset) palsy. True BULPN is most consistently reported in breech delivery and it is frequently asymmetric; published cohorts describe a high…",
+    "authorLine": "Jalloh M, Wang B, Truong H et al.",
+    "pubType": "Journal Article, Systematic Review, Meta-Analysis",
+    "date": "2026-09-09",
+    "summary": "Degenerative cervical myelopathy (DCM) is the leading cause of spinal cord dysfunction in adults, marked by progressive neurological deficits in spinal compression. The pathophysiology is driven by chronic spinal cord injury, yet the role of demyelination is not well defined. This systematic review and meta-analysis assesses the prevalence of demyelination in DCM and its relation to clinical measures. A literature search was conducted across MEDLINE, EMBASE, Scopus, Web of Science, and the Cochrane Library, following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Studies reporting demyelination in DCM through autopsy, histopathology, or spinal cord imaging were included. Data were extracted and analyzed using random-effects meta-analysis. Twenty-seven studies (364 DCM patients) were included. The GLMM random-effects model across 16 autopsy studies…",
     "score": 20,
     "tags": [
-     "Cervical / tetraplegia"
+     "Cervical / tetraplegia",
+     "Chronic injury"
     ],
     "flags": [],
     "matchedPriorities": [],
     "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-10-11",
+    "why": "Surfaced for cervical-level, chronic.",
+    "firstSeen": "2026-09-10",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13096,6 +13256,44 @@
     "why": "Surfaced for autonomic / blood pressure / bladder / bowel, cervical-level.",
     "firstSeen": "2026-10-02",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42913645",
+    "kind": "paper",
+    "title": "Restoration of volitional lower-limb movement after motor-complete spinal cord injury with brain-spine interface.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913645/",
+    "doi": "10.1016/j.medj.2026.101334",
+    "journal": "Med (New York, N.Y.)",
+    "authors": [
+     "Jiang X",
+     "Shi M",
+     "Liu J",
+     "Chen J"
+    ],
+    "authorLine": "Jiang X, Shi M, Liu J et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-22",
+    "summary": "Spinal cord injury (SCI) interrupts volitional control of lower limbs. Brain-spine interfaces (BSIs), which decode cortical motor intent to trigger epidural electrical stimulation (EES), can provide an artificial pathway linking the brain to spinal motor circuits. Reported benefit, however, has been confined to participants who already retain substantial motor function, leaving unresolved whether those with little or no motor function can benefit, how soon, and how consistently. Three individuals with motor-complete SCI were enrolled in a registered trial (ChiCTR2500095359). None could stand or step with braces, walking aids, or physical assistance. Each received one depth electrode per hemisphere in the lower-limb motor cortex and an epidural paddle spanning the L1-S2 nerve roots. The participants underwent 2-3 weeks of closed-loop BSI training. The interface restored brain-controlled…",
+    "score": 18,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "epidural electrical stimulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-10-24",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -13482,66 +13680,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42717199",
-    "kind": "paper",
-    "title": "An unusual case of paraparesis due to hypertrophy of posterior longitudinal ligament at thoracic and lumbar spine with long-term follow-up: a case report and literature review.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42717199/",
-    "doi": "10.1038/s41394-026-00752-2",
-    "journal": "Spinal cord series and cases",
-    "authors": [
-     "Syed BA",
-     "Gonzalez-Salido J",
-     "Arunachalam Sakthiyendran N",
-     "Stippler M"
-    ],
-    "authorLine": "Syed BA, Gonzalez-Salido J, Arunachalam Sakthiyendran N et al.",
-    "pubType": "Journal Article, Case Reports, Review",
-    "date": "2026-09-09",
-    "summary": "Hypertrophy of the posterior longitudinal ligament (HPLL) is a rare cause of spinal cord compression, most commonly affecting the cervical spine. Thoracic and lumbar involvement are exceptional, and the natural history of HPLL, particularly its relationship to ossification of the PLL (OPLL), remains unclear. To our knowledge, this is the first reported case of diffuse thoracolumbar HPLL presenting with unusual features and showing no ossification at long-term follow-up. We present a 50-year-old man with rapidly progressive paraparesis and gait disturbance. Imaging revealed a continuous, non-ossified, intraspinal, ventral lesion from T5 to L4, with severe cord compression at T10-L1, hypointense signaling on T1W and T2W images, and progression compared with the MRI performed 7 years earlier, suggestive of HPLL. The patient underwent anterior T10-L1 HPLL resection with fusion and posterior…",
-    "score": 16,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-09-10",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42711592",
-    "kind": "paper",
-    "title": "Efficacy and safety of Vertebral Body Sliding Osteotomy (VBSO) versus Anterior Cervical Corpectomy and Fusion (ACCF): A systematic review and meta-analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42711592/",
-    "doi": "10.1007/s10143-026-04472-x",
-    "journal": "Neurosurgical review",
-    "authors": [
-     "Tohamy MH",
-     "Abdelaziz O",
-     "Ibrahim IA",
-     "Salem T"
-    ],
-    "authorLine": "Tohamy MH, Abdelaziz O, Ibrahim IA et al.",
-    "pubType": "Journal Article, Systematic Review, Meta-Analysis, Comparative Study",
-    "date": "2026-09-09",
-    "summary": "Anterior cervical corpectomy and fusion (ACCF) is an established treatment for complex cervical myelopathy and ossification of the posterior longitudinal ligament (OPLL), yet it carries risks of dural injury and graft-related failure. Vertebral body sliding osteotomy (VBSO) is a novel technique that avoids direct OPLL manipulation by translating the vertebral body anteriorly to enlarge the spinal canal. Although early studies suggest VBSO may reduce complications, evidence remains limited to retrospective cohorts from the technique's developers, with no high-level synthesis directly comparing it to ACCF. We therefore conducted this meta-analysis to compare clinical outcomes, complications, and radiographic parameters between VBSO and ACCF, while critically evaluating the certainty of the evidence and its generalizability. A systematic search of PubMed, Embase, Scopus, the Cochrane…",
-    "score": 16,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-09-09",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42774026",
     "kind": "paper",
     "title": "AGC kinase homology requires and enables co-targeting for CNS regeneration.",
@@ -13743,82 +13881,6 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
-   },
-   {
-    "id": "PMID42902225",
-    "kind": "paper",
-    "title": "Comparison of non-invasive neuromodulation for motor function rehabilitation in incomplete spinal cord injury: a systematic review and network meta-analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42902225/",
-    "doi": "10.1186/s12883-026-05178-9",
-    "journal": "BMC neurology",
-    "authors": [
-     "Han Y",
-     "Han J",
-     "Wang H",
-     "Meng Y"
-    ],
-    "authorLine": "Han Y, Han J, Wang H et al.",
-    "pubType": "Journal Article, Systematic Review, Network Meta-Analysis, Comparative Study",
-    "date": "2026-07-25",
-    "summary": "Spinal cord injury (SCI) disrupts structural and functional connectivity between the brain and spinal cord, resulting in severe motor dysfunction. Various neuromodulation techniques have been applied in SCI rehabilitation and have promoted motor recovery to varying degrees. A Bayesian network meta-analysis was therefore undertaken to compare and rank the relative effects of non-invasive neuromodulation techniques on motor-related outcomes in adults with incomplete SCI. PubMed, Web of Science, Embase, and The Cochrane Library were searched for randomized controlled trials (RCTs) investigating non-invasive neuromodulation for motor function in patients with incomplete SCI, from database inception to September 13, 2025. Bayesian network meta-analysis was performed using R software. The intervention effects of different non-invasive neuromodulation techniques were compared across…",
-    "score": 16,
-    "tags": [
-     "Spinal cord stimulation",
-     "Drug / pharmacological recovery"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     },
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "motor recovery"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and drug / pharmacological recovery.",
-    "firstSeen": "2026-10-21",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42875471",
-    "kind": "paper",
-    "title": "Development and validation of a patient-reported checklist for dermatological complications in chronic spinal cord injury.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42875471/",
-    "doi": "10.1038/s41393-026-01284-0",
-    "journal": "Spinal cord",
-    "authors": [
-     "Khaledian H",
-     "Bozorg Savoji P",
-     "Heidari Roochi A",
-     "Ranjbar M"
-    ],
-    "authorLine": "Khaledian H, Bozorg Savoji P, Heidari Roochi A et al.",
-    "pubType": "Journal Article",
-    "date": "2026-10-14",
-    "summary": "Cross-Sectional. This study aimed to develop and conduct initial validation of a comprehensive, patient-reported checklist for identifying dermatological complications in individuals with chronic SCI. Sina Trauma and Surgery Research Center, Sina Hospital, Tehran, Iran. A multiphase, cross-sectional methodological study was conducted. The items were generated via a literature review and expert opinion, followed by content validation with a panel of 11 specialists via the content validity ratio (CVR) and content validity index (CVI). After face validation with patient representatives, the final checklist was field-tested in structured interviews with individuals from a national SCI registry. Interrater reliability was assessed with Cohen's kappa. The final 16-item checklist demonstrated excellent content validity, with all the items meeting CVR thresholds and achieving high scale-level…",
-    "score": 16,
-    "tags": [
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for chronic.",
-    "firstSeen": "2026-10-15",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
    }
   ],
   "news": [
@@ -14011,7 +14073,7 @@
     "outlet": "Yahoo Finance",
     "topic": "Company watch",
     "summary": "Onward Medical NV (ONWRF) (Q2 2026) Earnings Call Highlights: Revenue Surges 250% as ARC-EX ... Yahoo Finance",
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "score": 23,
     "tags": [
      "Spinal cord stimulation",
@@ -15113,11 +15175,11 @@
     "id": "news-1kfuldq",
     "kind": "news",
     "title": "Brain-computer interface helps paralyzed hand play a tune",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oMHU1UlZ4ajZabmZYdGYxVGRjc3J5WnlZeERHTTdfQ3JNbFlQRFdqLVdBUXpZMkxwNGpCeE9vVXlzYU9rMUx6U1l2eVE5T1dTaDdTc3Y2Z3hRaGdrb2dacm5DZEpReVpaaDllWXpKaHlJQjJYN1drVDAzODhhUQ?oc=5",
-    "outlet": "China Daily",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMjBZbW54R1NwQzNaanlCT2RxUWllRXEwU1IwWW00R1B4NHJGeUFDSGhjUnBxbWQ1ci1wdmFRaFdSWGtMWVl0cnYtX0RTczdFcjB2YzhYc0F1WjE2RjY2a2dGV19XbVBCN0xYbGFaay1WcmpMV0ZSTFhXT3VUV3c5S0ZR?oc=5",
+    "outlet": "China Daily Global Edition",
     "topic": "Technology",
-    "summary": "Brain-computer interface helps paralyzed hand play a tune China Daily",
-    "date": "2026-10-20",
+    "summary": "Brain-computer interface helps paralyzed hand play a tune China Daily Global Edition",
+    "date": "2026-10-19",
     "score": 16,
     "tags": [
      "Brain-computer interface"
@@ -15165,7 +15227,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-10-23",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    }
@@ -15290,9 +15352,9 @@
       "date": "2026-10-06"
      },
      {
-      "title": "Driving simulator gives new hope to Kennedy Krieger patients with spinal cord injury - Baltimore Fishbowl",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWkRUWU5IMmtBMVppdUtQUzhsSElwN29aYVYzLW5UalhGd0QzdTN1Z1FFRGc5d19IMW1hZHI3czNZZFhXdFNVS2hGRDBNTmExNThwaFFvTERXWXNjZmJvOUFUNUVZbEY5R3BnU1NRdkZydENNWG1zZ3N5XzhsSk5OeTc0eGtPdTlXeEZybjd3M2dlcHVRRTMtQ2YyZWZHcGlHU0NGTmhkM2p0ZGxlUGU0ZjRSRm9tZmQ5ZXUzZGpfV28?oc=5",
-      "date": "2026-09-16"
+      "title": "Specialized rehabilitation team helps child reach milestones at Kennedy Krieger - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOG1oV2FGUUpOY0o5d3JlckthUTZDT2VjcWZ6QWxFQWtIUVEyT2ZRUGstTk9GdU1VQ0lWVXRSOU8zV0tjY2k2Q3JHcU56VGFHOUxDZVB2QnNTNjRVdXQyZXpaMHExM0QxbldMemRGVy0wMFAydUdBYnlhZTFTLTZiMWktWGE5bk9HRVNTdWZacGxfWFZRRUUwZ2tTV2Q0M1duU20xb1ZJSXRSM2poTC1LQWVvVmZESGFERnN3eg?oc=5",
+      "date": "2026-08-31"
      }
     ],
     "date": null,
@@ -15355,14 +15417,14 @@
       "date": "2026-10-06"
      },
      {
-      "title": "Laila Ali makes history with Greatest Sports Legends Dinner honor 40 years after iconic father - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVM5Nmo5ZXJ3MEFMRVRiMjZ3cFpPSjRPaFFjZ29YWVlFNnRIaG9odk0wdUJhOGVJbUFLRFZrc3ZrQ0JkNVM1dDl4XzN4Qjc2U0s5blhSSEtaaFVoaEJvVWhGQllWeW16UV9MZFlBbjBWYURfblRvZXpwNVRYMWlwdUE5R1lwUE02X0tHTjJ3V2t3VDBQNW5oN0pSVExJS1hLdmNCNlZQNEhtWU1ITFFiYVRYSWI3M1kycndvNi1Fc0lYNTBGRVRCLTVuem4?oc=5",
-      "date": "2026-10-03"
-     },
-     {
       "title": "41st Annual Great Sports Legends Dinner to Benefit The Buoniconti Fund - University of Miami",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORVUyWjctSjk1VUJUdHNRcjRNV1pxZjAwbDV4eWlLYnFDamhLc2tKQnFuVDg1WlJFek9pNTV3UE84N0RjN09BTkVJdkNBNlBJeW5rbzRmQWdtajVBdWI4NTltUF90bVgyQUtRYVpzN1FUbXM4RDEwWWRGVmVHbm52WTRB?oc=5",
       "date": "2026-09-08"
+     },
+     {
+      "title": "Laila Ali makes history with Greatest Sports Legends Dinner honor 40 years after iconic father - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVM5Nmo5ZXJ3MEFMRVRiMjZ3cFpPSjRPaFFjZ29YWVlFNnRIaG9odk0wdUJhOGVJbUFLRFZrc3ZrQ0JkNVM1dDl4XzN4Qjc2U0s5blhSSEtaaFVoaEJvVWhGQllWeW16UV9MZFlBbjBWYURfblRvZXpwNVRYMWlwdUE5R1lwUE02X0tHTjJ3V2t3VDBQNW5oN0pSVExJS1hLdmNCNlZQNEhtWU1ITFFiYVRYSWI3M1kycndvNi1Fc0lYNTBGRVRCLTVuem4?oc=5",
+      "date": "2026-10-03"
      }
     ],
     "date": null,
