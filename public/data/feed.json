@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-24T13:50:41.042Z",
- "date": "2026-10-24",
+ "generatedAt": "2026-10-25T14:07:11.804Z",
+ "date": "2026-10-25",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,7 +19,8 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "5 new papers."
+   "5 new papers.",
+   "1 new technology item."
   ],
   "closingSoon": [
    {
@@ -45,7 +46,7 @@
    "papers": 60,
    "newPapers": 5,
    "news": 45,
-   "newNews": 0,
+   "newNews": 1,
    "centers": 12,
    "archived": 0
   }
@@ -11401,6 +11402,57 @@
   ],
   "papers": [
    {
+    "id": "PMID42921395",
+    "kind": "paper",
+    "title": "Effect of epidural spinal cord stimulation combined with personalized neurorehabilitation in chronic motor-complete spinal cord injury: study protocol for the phase II single-arm feasibility RESTORES (RESToration Of Rehabilitative function with Epidural spinal Stimulation) trial.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42921395/",
+    "doi": "10.3389/fneur.2026.1967078",
+    "journal": "Frontiers in neurology",
+    "authors": [
+     "Wan KR",
+     "Ng ZYV",
+     "Wee SK",
+     "Misbaah F"
+    ],
+    "authorLine": "Wan KR, Ng ZYV, Wee SK et al.",
+    "pubType": "Journal Article, Clinical Trial Protocol",
+    "date": "2026-10-09",
+    "summary": "Chronic motor-complete spinal cord injury (SCI) results in profound neurological disability with minimal prospects for functional recovery using conventional rehabilitation strategies. Emerging evidence suggests that epidural spinal cord stimulation (eSCS) can activate dormant spinal locomotor networks and restore volitional and autonomic functions when combined with intensive activity-based training. However, systematic evaluation of multimodal neuromodulation approaches integrating advanced rehabilitation and computational neurophysiology remains limited. The RESTORES trial (RESToration Of Rehabilitative function with Epidural spinal Stimulation) is a prospective, single-arm Phase II feasibility study enrolling 15 adults with chronic (&#x2265;1&#x202f;year) motor-complete SCI (American Spinal Injury Association Impairment scale (AIS) A or B) between C5 and T12. Participants will…",
+    "score": 52,
+    "tags": [
+     "Spinal cord stimulation",
+     "Activity-based rehab & exoskeleton",
+     "Cervical / tetraplegia",
+     "C4–C5 named",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation",
+       "neuromodulation",
+       "scs"
+      ]
+     },
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "activity-based"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, cervical-level, chronic.",
+    "firstSeen": "2026-10-25",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42709530",
     "kind": "paper",
     "title": "Spared Motor Neurons Enable Control of a Robotic Sixth Finger for Functional Grasping in Tetraplegia.",
@@ -11501,6 +11553,56 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42925109",
+    "kind": "paper",
+    "title": "Combined neuromodulation techniques via a central-peripheral-central strategy facilitate functional recovery from AIS A to AIS C in a patient with complete spinal cord injury: A case report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925109/",
+    "doi": "10.1080/10790268.2026.2728732",
+    "journal": "The journal of spinal cord medicine",
+    "authors": [
+     "Jiang X",
+     "Zhang L",
+     "Li S",
+     "Sun C"
+    ],
+    "authorLine": "Jiang X, Zhang L, Li S et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-23",
+    "summary": "Complete spinal cord injury (SCI) has traditionally been considered irreversible. However, accumulating evidence suggests that subclinical neural pathways may persist. Multimodal combined neuromodulation targeting brain-spinal-peripheral circuits holds promise to unlock latent neural plasticity, but clinical evidence for its application in patients with clinically complete SCI remains limited. A 53-year-old male with chronic complete T9 SCI (AIS A) received a sequential multimodal neuromodulation protocol consisting of spinal cord electrical stimulation (SCS), brain-computer interface (BCI) training, primary motor cortex intermittent theta-burst stimulation (iTBS), and peripheral magnetic stimulation (pMS) of the bilateral iliopsoas muscles, alongside 12 months of conventional rehabilitation. After one year of intervention, his neurological status improved from AIS A to AIS C (T 9 to T…",
+    "score": 46,
+    "tags": [
+     "Spinal cord stimulation",
+     "Brain-computer interface",
+     "AIS C/D in scope",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "neuromodulation",
+       "scs"
+      ]
+     },
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface",
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and brain-computer interface, chronic.",
+    "firstSeen": "2026-10-25",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42918586",
     "kind": "paper",
     "title": "Epidural Spinal Cord Stimulation Promotes the Expansion of Endogenous Neural Stem Cells and Neuroprotection via the PI3K/AKT/ mTOR Pathway after Spinal Cord Injury in Rats.",
@@ -11560,6 +11662,55 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy, chronic.",
     "firstSeen": "2026-10-24",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42926584",
+    "kind": "paper",
+    "title": "Human single-neuron correlates of somatosensation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42926584/",
+    "doi": "10.64898/2026.10.07.757446",
+    "journal": "bioRxiv : the preprint server for biology",
+    "authors": [
+     "Liu B",
+     "Bjånes DA",
+     "She L",
+     "Pejsa K"
+    ],
+    "authorLine": "Liu B, Bjånes DA, She L et al.",
+    "pubType": "Journal Article, Preprint",
+    "date": "2026-10-11",
+    "summary": "Understanding the neural correlates of consciousness poses a central challenge in neuroscience, with longstanding debate over which cortical areas underlie subjective sensory perception 1-3 . In the tactile domain, posterior parietal cortex (PPC) and primary somatosensory cortex (S1) are candidate cortical substrates for neural correlates of consciousness due to their crucial roles in somatosensory processing 4-8 . Yet whether and how these regions contribute to conscious tactile perception remains unclear 9-11 . Here, to address this issue, we leveraged chronic intracortical recordings to simultaneously monitor large ensembles of single neurons in grasp related cortical areas from three participants with tetraplegia while natural vibrotactile stimuli were delivered to a sensate region of the upper limb. We demonstrate that an orchestration of neural activity emerged across the…",
+    "score": 44,
+    "tags": [
+     "Hand & arm function",
+     "Brain-computer interface",
+     "Cervical / tetraplegia",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "upper limb",
+       "grasp"
+      ]
+     },
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "intracortical"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level, chronic.",
+    "firstSeen": "2026-10-25",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -11796,6 +11947,53 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-09-26",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42880797",
+    "kind": "paper",
+    "title": "Perspectives on implementing nerve and tendon transfer surgery in spinal cord injury rehabilitation in the USA and Canada: a qualitative study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42880797/",
+    "doi": "10.1136/bmjopen-2026-125795",
+    "journal": "BMJ open",
+    "authors": [
+     "Malone S",
+     "Muthukrishnan M",
+     "Ayala A",
+     "Laurent F"
+    ],
+    "authorLine": "Malone S, Muthukrishnan M, Ayala A et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-14",
+    "summary": "This study aimed to understand perspectives on implementing nerve and tendon transfer surgeries for individuals with cervical spinal cord injury, with particular attention to communication, knowledge, care coordination and the use of a patient decision aid to support decision-making regarding these options. Specifically, we sought to identify multilevel barriers influencing uptake of these interventions in routine clinical care. We conducted four focus groups with 36 clinicians and health service professionals across the USA and Canada. Participants reviewed an existing patient decision aid and discussed challenges of caring for people with spinal cord injury, uptake of novel surgical approaches, care navigation and referral and team coordination. The Consolidated Framework for Implementation Research was used to inform both the development of the interview guide and the analysis. All…",
+    "score": 36,
+    "tags": [
+     "Hand & arm function",
+     "Activity-based rehab & exoskeleton",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "tendon transfer"
+      ]
+     },
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "fes"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
+    "firstSeen": "2026-10-16",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -12083,7 +12281,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity, chronic.",
     "firstSeen": "2026-10-24",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12130,7 +12328,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and brain-computer interface, chronic.",
     "firstSeen": "2026-10-24",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12830,6 +13028,45 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42925509",
+    "kind": "paper",
+    "title": "Fibroblast activation protein and Periostin in cerebrospinal fluid: Candidate biomarkers in chronic spinal cord injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925509/",
+    "doi": "10.4103/NRR.NRRONLINE-D-26-00877",
+    "journal": "Neural regeneration research",
+    "authors": [
+     "Yao S",
+     "Kang J",
+     "Ye X",
+     "Xie Z"
+    ],
+    "authorLine": "Yao S, Kang J, Ye X et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-24",
+    "summary": "Chronic spinal cord injury is biologically heterogeneous, and biomarkers that distinguish injury severity from longitudinal biological response are lacking. We evaluated whether fibroblast activation protein and Periostin in cerebrospinal fluid provide complementary, chronicity-dependent information on neurological severity and recovery in chronic traumatic spinal cord injury. This secondary biomarker study analyzed prospectively collected data and cerebrospinal fluid samples from two clinical trials. Seventy-two participants treated with human umbilical cord-derived mesenchymal stromal cells were classified as early chronic (2-12 months after injury; n = 35) or late chronic (> 12 months; n = 37); 18 early chronic participants received saline, and 14 non-spinal cord injury patients served as controls. Fibroblast activation protein and Periostin were measured before intervention and at…",
+    "score": 23,
+    "tags": [
+     "Regenerative / cell therapy",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "mesenchymal"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for regenerative / cell therapy, chronic.",
+    "firstSeen": "2026-10-25",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42686289",
     "kind": "paper",
     "title": "Future Directions Related to Spinal Cord Compression: Where Will we be in the Next 10 Years?",
@@ -13000,7 +13237,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-10-24",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13031,45 +13268,6 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-09-09",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42637867",
-    "kind": "paper",
-    "title": "Astragaloside IV mitigates mitochondrial damage and neurological symptoms in rats with cervical spondylotic myelopathy by inhibiting IL-17/TRAF6/NF-κB pathway.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42637867/",
-    "doi": "10.1007/s00210-026-05826-4",
-    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
-    "authors": [
-     "Han X",
-     "Li X",
-     "Bu X"
-    ],
-    "authorLine": "Han X, Li X, Bu X",
-    "pubType": "Journal Article",
-    "date": "2026-08-25",
-    "summary": "Astragaloside IV (AS-IV) exhibits pharmacological effects like antioxidant, anti-inflammatory, and neuroprotective properties. Interleukin (IL)-17 and the tumor necrosis factor receptor-associated factor 6/nuclear factor-&#x3ba;B (TRAF6/NF-&#x3ba;B) pathway are closely associated with nerve injury, but whether AS-IV improves cervical spondylotic myelopathy (CSM)-related nerve injury through this pathway remains unclear. The aim of this study is to investigate whether AS-IV ameliorates nerve injury in CSM rats by regulating the IL-17/TRAF6/NF-&#x3ba;B axis. Primary spinal cord neurons were obtained from newborn rats, and neuronal injury was induced using lipopolysaccharide (LPS). The optimal concentration of AS-IV was determined by Cell Counting Kit-8 assay. Inflammatory cytokines, neuronal apoptosis, and mitochondrial function were detected by ELISA, Western Blot, flow cytometry, and…",
-    "score": 20,
-    "tags": [
-     "Drug / pharmacological recovery",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "neuroprotect",
-       "pharmacological"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for drug / pharmacological recovery, cervical-level.",
-    "firstSeen": "2026-08-25",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13293,7 +13491,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation.",
     "firstSeen": "2026-10-24",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13423,40 +13621,41 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42880797",
+    "id": "PMID42920780",
     "kind": "paper",
-    "title": "Perspectives on implementing nerve and tendon transfer surgery in spinal cord injury rehabilitation in the USA and Canada: a qualitative study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42880797/",
-    "doi": "10.1136/bmjopen-2026-125795",
-    "journal": "BMJ open",
+    "title": "Neural Organoids and Organoid Extracellular Vesicles for Spinal Cord Injury Repair.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920780/",
+    "doi": "10.34133/research.1463",
+    "journal": "Research (Washington, D.C.)",
     "authors": [
-     "Malone S",
-     "Muthukrishnan M",
-     "Ayala A",
-     "Laurent F"
+     "Wang H",
+     "Zhou Q",
+     "Zhang H",
+     "Jiang C"
     ],
-    "authorLine": "Malone S, Muthukrishnan M, Ayala A et al.",
-    "pubType": "Journal Article",
-    "date": "2026-10-14",
-    "summary": "",
-    "score": 18,
+    "authorLine": "Wang H, Zhou Q, Zhang H et al.",
+    "pubType": "Journal Article, Review",
+    "date": "2026-10-23",
+    "summary": "Spinal cord injury (SCI) causes long-term disability in part because secondary injury progressively reshapes the lesion microenvironment and restricts axonal regeneration, circuit re-establishment, and white matter repair. Neural organoids are emerging from human pluripotent stem cell-derived disease models into implantable regenerative constructs that may provide structured cellular niches, support host-graft integration, and contribute to remyelination. However, their translation remains constrained by batch variability, limited vascularization, immune-related risk, and long-term safety concerns. In parallel, organoid-derived extracellular vesicles (OEVs) represent a cell-free modality linked to the organoid platform and are more amenable to controlled dosing and repeated administration. However, direct evidence supporting the therapeutic use of neural OEVs in SCI remains limited. OEVs…",
+    "score": 17,
     "tags": [
-     "Hand & arm function"
+     "Regenerative / cell therapy"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "hand",
-      "label": "Hand & arm function",
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
       "matched": [
-       "tendon transfer"
+       "stem cell",
+       "regeneration"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for hand & arm function.",
-    "firstSeen": "2026-10-16",
-    "isNew": false,
+    "why": "Surfaced for regenerative / cell therapy.",
+    "firstSeen": "2026-10-25",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -13727,157 +13926,6 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy and drug / pharmacological recovery, cervical-level.",
     "firstSeen": "2026-09-23",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42854680",
-    "kind": "paper",
-    "title": "Trunk-mediated spinal cord stimulation: A step toward clinical implementation after spinal cord injury.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42854680/",
-    "doi": "10.1016/j.medj.2026.101304",
-    "journal": "Med (New York, N.Y.)",
-    "authors": [
-     "Bhatia S",
-     "Gerszten PC"
-    ],
-    "authorLine": "Bhatia S, Gerszten PC",
-    "pubType": "Journal Article, Comment",
-    "date": "2026-10-09",
-    "summary": "In this issue of Med, Agnesi et al., show that residual trunk movements after spinal cord injury can modulate the effects of epidural spinal cord stimulation (SCS) to enable participants to volitionally initiate and control stepping. 1 This trunk-mediated interface offers a practical strategy for bringing epidural SCS one step closer to widespread clinical adoption.",
-    "score": 16,
-    "tags": [
-     "Spinal cord stimulation"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "spinal cord stimulation",
-       "scs"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-10-10",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42841788",
-    "kind": "paper",
-    "title": "Stimulation-associated motor and functional improvement after epidural spinal cord stimulation in chronic spinal cord injury secondary to spinal ependymoma: A case report.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42841788/",
-    "doi": "10.1080/10790268.2026.2736346",
-    "journal": "The journal of spinal cord medicine",
-    "authors": [
-     "Cevik Baran A",
-     "Gonullu E",
-     "Balkuv E",
-     "Yavas AD"
-    ],
-    "authorLine": "Cevik Baran A, Gonullu E, Balkuv E et al.",
-    "pubType": "Journal Article",
-    "date": "2026-10-07",
-    "summary": "Chronic spinal cord injury (SCI) secondary to spinal tumors may cause persistent motor and sensory dysfunction despite surgical treatment and rehabilitation. Ependymomas are the most common intramedullary spinal tumors in adults, but long-standing neurological deficits after tumor surgery are difficult to treat. We report a 51-year-old man with chronic SCI after thoracic spinal ependymoma surgery performed in 2000. He had persistent right-predominant lower-extremity weakness, sensory loss below T10, limited walking endurance, and cane-dependent ambulation. EES was performed in October 2024 using a 32-contact paddle lead positioned over T12-L1. Motor-oriented programs were predominantly delivered at 40&#x2005;Hz (approximately 3-4&#x2005;mA; pulse width approximately 300 microseconds) and selected according to activity. The patient progressed from AIS C to AIS D, while SCIM III increased…",
-    "score": 16,
-    "tags": [
-     "Spinal cord stimulation",
-     "AIS C/D in scope",
-     "Chronic injury"
-    ],
-    "flags": [
-     {
-      "level": "warn",
-      "text": "Reads as paraplegia / thoracic-lumbar. May not include a C4-C5 injury."
-     }
-    ],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "spinal cord stimulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation, chronic.",
-    "firstSeen": "2026-10-08",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42831654",
-    "kind": "paper",
-    "title": "Quantitative assessment of cervical spinal cord injury: Methods, clinical utility, and future directions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42831654/",
-    "doi": "10.1080/10790268.2026.2719095",
-    "journal": "The journal of spinal cord medicine",
-    "authors": [
-     "Sun S",
-     "Zhang W",
-     "Wang Y",
-     "Li X"
-    ],
-    "authorLine": "Sun S, Zhang W, Wang Y et al.",
-    "pubType": "Journal Article, Review",
-    "date": "2026-10-05",
-    "summary": "Literature review. To provide a structured narrative summary of quantitative assessment methods for cervical spinal cord injury (SCI), analyze their stage-specific applicability, discuss limitations, and clarify the clinical utility and future integration of wearable sensors and artificial intelligence (AI). A narrative review was conducted using PubMed, Web of Science, and EBSCO to identify English-language, peer-reviewed studies published between 1967 and 2026 on quantitative assessment of traumatic and non-traumatic cervical SCI. The search covered imaging, neurological and functional evaluation, electrophysiology, biomechanics, wearable monitoring, artificial intelligence, machine learning, computer vision, and multimodal data integration. An updated PubMed search performed on May 15, 2026 identified 1,042 records. After title and abstract screening, 873 records were retained as…",
-    "score": 16,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-10-05",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42649813",
-    "kind": "paper",
-    "title": "Comparing Transcutaneous Electrical Nerve Stimulation Added to Thoracolumbosacral Orthosis with Thoracolumbosacral Orthosis Alone on Pain, Trunk Control, and Respiratory Function in Chronic Incomplete Spinal Cord Injury: A Pilot Randomized Controlled Trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42649813/",
-    "doi": "10.3390/bioengineering13080925",
-    "journal": "Bioengineering (Basel, Switzerland)",
-    "authors": [
-     "Khaliliyan H",
-     "Sharafatvaziri A",
-     "Bahramizadeh M",
-     "Zare A"
-    ],
-    "authorLine": "Khaliliyan H, Sharafatvaziri A, Bahramizadeh M et al.",
-    "pubType": "Journal Article",
-    "date": "2026-08-14",
-    "summary": "Background: Individuals with spinal cord injury (SCI) frequently experience chronic pain, trunk instability, and respiratory dysfunction. This pilot trial investigated the synergistic effects of a combined neuro-orthotic approach (thoracolumbosacral orthosis (TLSO) plus transcutaneous electrical nerve stimulation (TENS)) versus TLSO alone on pain, trunk control, and respiratory function in chronic incomplete SCI. Methods: Twelve adults with chronic incomplete SCI (T6-T12) were randomized to a combined group (TLSO + TENS) or a control group (TLSO alone) for a four-week intervention. Outcomes included pain (Visual Analogue Scale), trunk control (Trunk Assessment Scale), and respiratory function (tidal volume [VT], respiratory rate [RR], oxygen uptake [VO 2 ], ventilatory equivalent for oxygen [VE/VO 2 ], and inspiratory duty cycle [Ti/Ttot]) assessed at three time points (before…",
-    "score": 16,
-    "tags": [
-     "Breathing & diaphragm",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "resp",
-      "label": "Breathing & diaphragm",
-      "matched": [
-       "respiratory function"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for breathing & diaphragm, chronic.",
-    "firstSeen": "2026-08-27",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14179,7 +14227,7 @@
     "outlet": "Yahoo",
     "topic": "Technology",
     "summary": "Country singer and quadriplegic lyricist meet for first time after decade of remote music making Yahoo",
-    "date": "2026-10-16",
+    "date": "2026-10-15",
     "score": 20,
     "tags": [
      "Cervical / tetraplegia"
@@ -14221,37 +14269,6 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-09-23",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-bios17",
-    "kind": "news",
-    "title": "Closed-loop neuromodulation: a paradigm shift in precision neuroscience for clinical and cognitive applications",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3VNTVFHb25LcnF5SmRMSldqbDhIUG9DTlg0LUFKbG5ULWZBdDFaVTJQQkhmSGxXd2FDMFFKZ25VVU0xNkxkMjBuSEE2NnJQdXpLbnlUbDZURl9rRVg2aFJ1VEZvM3dCdkRmU2ZJOTRKQk5XOFZYS0kybm4xVFFqT2tQNUxBT1UwTTNXd3FmRXZTNU1y?oc=5",
-    "outlet": "Frontiers",
-    "topic": "Company watch",
-    "summary": "Closed-loop neuromodulation: a paradigm shift in precision neuroscience for clinical and cognitive applications Frontiers",
-    "date": "2026-09-14",
-    "score": 20,
-    "tags": [
-     "Spinal cord stimulation",
-     "Watchlist: Precision Neuroscience"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-09-24",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14419,7 +14436,7 @@
     "outlet": "The Manila Times",
     "topic": "Company watch",
     "summary": "Wandercraft Acquires Ekso Bionics, Uniting Two Pioneers to Advance and Expand Robotic Mobility The Manila Times",
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "score": 19,
     "tags": [
      "Activity-based rehab & exoskeleton",
@@ -14604,7 +14621,7 @@
     "outlet": "TeslaNorth.com",
     "topic": "Company watch",
     "summary": "Neuralink Sets New BCI Record After Training on 50,000 Hours of Brain Data TeslaNorth.com",
-    "date": "2026-10-03",
+    "date": "2026-10-01",
     "score": 18,
     "tags": [
      "Brain-computer interface",
@@ -15175,11 +15192,11 @@
     "id": "news-1kfuldq",
     "kind": "news",
     "title": "Brain-computer interface helps paralyzed hand play a tune",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMjBZbW54R1NwQzNaanlCT2RxUWllRXEwU1IwWW00R1B4NHJGeUFDSGhjUnBxbWQ1ci1wdmFRaFdSWGtMWVl0cnYtX0RTczdFcjB2YzhYc0F1WjE2RjY2a2dGV19XbVBCN0xYbGFaay1WcmpMV0ZSTFhXT3VUV3c5S0ZR?oc=5",
-    "outlet": "China Daily Global Edition",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oMHU1UlZ4ajZabmZYdGYxVGRjc3J5WnlZeERHTTdfQ3JNbFlQRFdqLVdBUXpZMkxwNGpCeE9vVXlzYU9rMUx6U1l2eVE5T1dTaDdTc3Y2Z3hRaGdrb2dacm5DZEpReVpaaDllWXpKaHlJQjJYN1drVDAzODhhUQ?oc=5",
+    "outlet": "China Daily",
     "topic": "Technology",
-    "summary": "Brain-computer interface helps paralyzed hand play a tune China Daily Global Edition",
-    "date": "2026-10-19",
+    "summary": "Brain-computer interface helps paralyzed hand play a tune China Daily",
+    "date": "2026-10-20",
     "score": 16,
     "tags": [
      "Brain-computer interface"
@@ -15228,6 +15245,36 @@
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-10-23",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-euesce",
+    "kind": "news",
+    "title": "Brain-computer interface enables unresponsive ICU patients to control sounds - News-Medical",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmVHaURVd2dwNXE1ZW9QaDF5eXpHQXpKMU9DcFFoVGVBX3dKbXVPdlBnWmpEbkhGSHJWVUZLaEdPZzRpVktFaWVCWkdwZ0VOX1NrWWRNbEZtV2ZvUHRTeE5PNkc4d0djdDhZOUdYREhiSzVhcVM1WW9GQjdlWDN1bGRTdEctMTR2bW1wRGdzR1g3LUoyaGlJS2dwOUdZczRYSXlXczl6T1lRTkwzRWV6aXJ6b2ZxY3kyam9Hd2N1ZjVJQQ?oc=5",
+    "outlet": "News-Medical",
+    "topic": "Technology",
+    "summary": "Brain-computer interface enables unresponsive ICU patients to control sounds News-Medical",
+    "date": "2026-10-23",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-10-25",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    }
@@ -15347,14 +15394,14 @@
       "date": "2026-09-24"
      },
      {
-      "title": "Driving simulator helps spinal cord injury patients regain independence - WBAL-TV",
+      "title": "Driving simulator at Kennedy Krieger Institute helps spinal cord injury patients regain independence - WBAL-TV",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOalJaOXVaNmZ5S0NiVzhjbjcyZ2dJbWNMb0dRVnZYYlk1SDNQWV9ENXdRNzJ3cXN6WkYtLTB3RVoyNkE5QVNBWk9HS09VMTdRTFFwMGx3ZUJkalBDRWlONW9ROUtZWlRESWhjQ0VLSzFqY0ctbnFFLWxneHYxbmdCcGMwUC1OQ3ozRE5QZE5uTQ?oc=5",
       "date": "2026-10-06"
      },
      {
-      "title": "Specialized rehabilitation team helps child reach milestones at Kennedy Krieger - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOG1oV2FGUUpOY0o5d3JlckthUTZDT2VjcWZ6QWxFQWtIUVEyT2ZRUGstTk9GdU1VQ0lWVXRSOU8zV0tjY2k2Q3JHcU56VGFHOUxDZVB2QnNTNjRVdXQyZXpaMHExM0QxbldMemRGVy0wMFAydUdBYnlhZTFTLTZiMWktWGE5bk9HRVNTdWZacGxfWFZRRUUwZ2tTV2Q0M1duU20xb1ZJSXRSM2poTC1LQWVvVmZESGFERnN3eg?oc=5",
-      "date": "2026-08-31"
+      "title": "Driving simulator gives new hope to Kennedy Krieger patients with spinal cord injury - Baltimore Fishbowl",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWkRUWU5IMmtBMVppdUtQUzhsSElwN29aYVYzLW5UalhGd0QzdTN1Z1FFRGc5d19IMW1hZHI3czNZZFhXdFNVS2hGRDBNTmExNThwaFFvTERXWXNjZmJvOUFUNUVZbEY5R3BnU1NRdkZydENNWG1zZ3N5XzhsSk5OeTc0eGtPdTlXeEZybjd3M2dlcHVRRTMtQ2YyZWZHcGlHU0NGTmhkM2p0ZGxlUGU0ZjRSRm9tZmQ5ZXUzZGpfV28?oc=5",
+      "date": "2026-09-16"
      }
     ],
     "date": null,
@@ -15632,7 +15679,7 @@
     "kind": "center",
     "title": "AASDAP / Walk Again Project",
     "summary": "Long-running brain-machine-interface and rehabilitation project in chronic paraplegia and tetraplegia.",
-    "linkStatus": "ok",
+    "linkStatus": "unreachable",
     "recentNews": [],
     "date": null,
     "score": 0,
