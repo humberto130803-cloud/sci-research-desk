@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-06T17:12:15.562Z",
- "date": "2026-11-06",
+ "generatedAt": "2026-11-07T16:06:42.280Z",
+ "date": "2026-11-07",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,7 +19,6 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "2 new papers.",
    "1 new technology item."
   ],
   "closingSoon": [
@@ -44,7 +43,7 @@
    "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 2,
+   "newPapers": 0,
    "news": 45,
    "newNews": 1,
    "centers": 12,
@@ -12051,7 +12050,7 @@
     "eligible": true,
     "why": "Surfaced for drug / pharmacological recovery, cervical-level, chronic.",
     "firstSeen": "2026-11-06",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12708,7 +12707,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy.",
     "firstSeen": "2026-11-06",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13257,45 +13256,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42925509",
-    "kind": "paper",
-    "title": "Fibroblast activation protein and Periostin in cerebrospinal fluid: Candidate biomarkers in chronic spinal cord injury.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42925509/",
-    "doi": "10.4103/NRR.NRRONLINE-D-26-00877",
-    "journal": "Neural regeneration research",
-    "authors": [
-     "Yao S",
-     "Kang J",
-     "Ye X",
-     "Xie Z"
-    ],
-    "authorLine": "Yao S, Kang J, Ye X et al.",
-    "pubType": "Journal Article",
-    "date": "2026-10-24",
-    "summary": "Chronic spinal cord injury is biologically heterogeneous, and biomarkers that distinguish injury severity from longitudinal biological response are lacking. We evaluated whether fibroblast activation protein and Periostin in cerebrospinal fluid provide complementary, chronicity-dependent information on neurological severity and recovery in chronic traumatic spinal cord injury. This secondary biomarker study analyzed prospectively collected data and cerebrospinal fluid samples from two clinical trials. Seventy-two participants treated with human umbilical cord-derived mesenchymal stromal cells were classified as early chronic (2-12 months after injury; n = 35) or late chronic (> 12 months; n = 37); 18 early chronic participants received saline, and 14 non-spinal cord injury patients served as controls. Fibroblast activation protein and Periostin were measured before intervention and at…",
-    "score": 23,
-    "tags": [
-     "Regenerative / cell therapy",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "mesenchymal"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy, chronic.",
-    "firstSeen": "2026-10-25",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42816977",
     "kind": "paper",
     "title": "Stem Cell-Derived Exosomes Therapy for Spinal Cord Injury: Mechanisms and Prospects.",
@@ -13675,6 +13635,45 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy.",
     "firstSeen": "2026-11-01",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42925509",
+    "kind": "paper",
+    "title": "Fibroblast activation protein and Periostin in cerebrospinal fluid: Candidate biomarkers in chronic spinal cord injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925509/",
+    "doi": "10.4103/NRR.NRRONLINE-D-26-00877",
+    "journal": "Neural regeneration research",
+    "authors": [
+     "Yao S",
+     "Kang J",
+     "Ye X",
+     "Xie Z"
+    ],
+    "authorLine": "Yao S, Kang J, Ye X et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-24",
+    "summary": "Chronic spinal cord injury is biologically heterogeneous, and biomarkers that distinguish injury severity from longitudinal biological response are lacking. We evaluated whether fibroblast activation protein and Periostin in cerebrospinal fluid provide complementary, chronicity-dependent information on neurological severity and recovery in chronic traumatic spinal cord injury. This secondary biomarker study analyzed prospectively collected data and cerebrospinal fluid samples from two clinical trials. Seventy-two participants treated with human umbilical cord-derived mesenchymal stromal cells were classified as early chronic (2-12 months after injury; n = 35) or late chronic (> 12 months; n = 37); 18 early chronic participants received saline, and 14 non-spinal cord injury patients served as controls. Fibroblast activation protein and Periostin were measured before intervention and at…",
+    "score": 19,
+    "tags": [
+     "Regenerative / cell therapy",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "mesenchymal"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for regenerative / cell therapy, chronic.",
+    "firstSeen": "2026-10-25",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14415,69 +14414,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-q9y996",
-    "kind": "news",
-    "title": "Neuralink brain implant brings back the voice of ALS patient with thought-to-speech BCI",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX0VGaWF0dzhIOTBtME9zWm5oZUprTFhaNm9tQzlMZE9IQ2tpV3FtLXBXV2x6d0ZDNXdNZGV0aVZqcGZwaUdzUjk4R1ZLTC1xbkFUeHNsUXJIenFvOFR4eVA4MTNoZFItWnlSNHRwVVQ4WTRYUDBBcXVNdnN0a2RrRFNkZU5ZdGZaXzNDdmxqWmFSbTFsaUgxRlVLcVVTV210X3JGa2ZUMHRpeTUzU2o2bDh2b3NReWRNUy1XZGFhRzM5V3lac2hUZlM5Rmk?oc=5",
-    "outlet": "Notebookcheck",
-    "topic": "Company watch",
-    "summary": "Neuralink brain implant brings back the voice of ALS patient with thought-to-speech BCI Notebookcheck",
-    "date": "2026-09-23",
-    "score": 20,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci",
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-23",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1ke7r54",
-    "kind": "news",
-    "title": "Wandercraft acquires Ekso Bionics to build global exoskeleton leader",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0dJNExPWFUtdDJjVUlyQ01tbTZMbWRQMW90b3BKVW5ZTlc3dmM0bmd4TXFLdVhKcjFJQVpTY2ZUajEyME5kQkhqMjFkdEg5VTUwazl1Y1pKVEZxcVIyMXA0N3BRQ1JVTU5iV1RkRm5Ba3FlOXB1amNzN1UzMzlHWmdZRTZsM1hfLV96MjVQU1BnelJhSnRvZHVsdHFUeEo5MEo5Wg?oc=5",
-    "outlet": "Dealroom",
-    "topic": "Company watch",
-    "summary": "Wandercraft acquires Ekso Bionics to build global exoskeleton leader Dealroom",
-    "date": "2026-10-01",
-    "score": 19,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Ekso Bionics"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-10-02",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-45fiy6",
     "kind": "news",
     "title": "Wandercraft Acquires Ekso Bionics to Expand Global Medical Exoskeleton Business",
@@ -14602,14 +14538,14 @@
     "exploredNote": null
    },
    {
-    "id": "news-edt6uv",
+    "id": "news-1mxf3vx",
     "kind": "news",
-    "title": "Neuralink brain implant helps man with ALS speak using his thoughts",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYm9qUFd2LWdiSGs5NzExN014MDgxT005dnpQdFl4Uk5IRVhpYjljN1VRMU5BQW5kdUt5dWk4WHFkSG5YQUQzNUNlN19QWlYwUU1pSzYyd1daUDdXQ3NwdURpSnF3SzhKWVAxbTdMYmRmZnFacml5RUh6MGhzX0NscEdkdHlfUW42c0xkSFRKS0N6dEFrMzRtcnFkU0YyLW8?oc=5",
-    "outlet": "MobiHealthNews",
+    "title": "Neuralink brain implant trials reach 50,000 hours: What to know",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnRwQld2ZjAwaFcxS2FReF9GbFU2T01HRF9XNkUwNkJqYWdIZzRuc2VqNHBvN0pURm52SXdXWDlkY1ZvVy1SQ3BFQkl2Q3JnUTk3OWFHS21DRW9pUXdET1dYVHZranN5UE5DbGIxT0ZUWFlvZnRMd1M1Vnh6WTZEd2dZM0lNM05QMzY2bVNEUVgzZ0RxX2FNUUx6WkZEU2NPOU1hYWtB0gGiAUFVX3lxTE1ZeHNjMm9zSE1Sb2Q1empnSVlHbllkTHV1RjBlZFI2R0xoWVI3alM3TXU5d1hrMTF5bFRCMWNGT0p3RHB1VHBBSWFFU0RPVTlLa0xzSVgzY2hFeFdNOTY4VlI0Q3ZPMjI4TTlCWl9QZEd2Ml9BbVpqV3ZsU21LYlpKSzBfMDlYQXU5eDlIRnQ2X2tRSnBDdlo4TmdXTXMteS1kQQ?oc=5",
+    "outlet": "The News International",
     "topic": "Company watch",
-    "summary": "Neuralink brain implant helps man with ALS speak using his thoughts MobiHealthNews",
-    "date": "2026-09-23",
+    "summary": "Neuralink brain implant trials reach 50,000 hours: What to know The News International",
+    "date": "2026-10-02",
     "score": 18,
     "tags": [
      "Brain-computer interface",
@@ -14627,7 +14563,7 @@
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-24",
+    "firstSeen": "2026-10-03",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14664,37 +14600,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1mxf3vx",
-    "kind": "news",
-    "title": "Neuralink brain implant trials reach 50,000 hours: What to know",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnRwQld2ZjAwaFcxS2FReF9GbFU2T01HRF9XNkUwNkJqYWdIZzRuc2VqNHBvN0pURm52SXdXWDlkY1ZvVy1SQ3BFQkl2Q3JnUTk3OWFHS21DRW9pUXdET1dYVHZranN5UE5DbGIxT0ZUWFlvZnRMd1M1Vnh6WTZEd2dZM0lNM05QMzY2bVNEUVgzZ0RxX2FNUUx6WkZEU2NPOU1hYWtB0gGiAUFVX3lxTE1ZeHNjMm9zSE1Sb2Q1empnSVlHbllkTHV1RjBlZFI2R0xoWVI3alM3TXU5d1hrMTF5bFRCMWNGT0p3RHB1VHBBSWFFU0RPVTlLa0xzSVgzY2hFeFdNOTY4VlI0Q3ZPMjI4TTlCWl9QZEd2Ml9BbVpqV3ZsU21LYlpKSzBfMDlYQXU5eDlIRnQ2X2tRSnBDdlo4TmdXTXMteS1kQQ?oc=5",
-    "outlet": "The News International",
-    "topic": "Company watch",
-    "summary": "Neuralink brain implant trials reach 50,000 hours: What to know The News International",
-    "date": "2026-10-02",
-    "score": 18,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-03",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1o72cqo",
     "kind": "news",
     "title": "Neuralink Sets New BCI Record After Training on 50,000 Hours of Brain Data",
@@ -14721,36 +14626,6 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-10-02",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-nole4v",
-    "kind": "news",
-    "title": "Overview of the Closed-Loop Neuromodulation Processor Market Highlighting Major Trends and Industry Advances",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX082el9ySmFNLVVFUEx2Q25YN1RpSUFPUWhLNkh0UzFVdFJXZ1g2emU0Y1hLSmdqZnp4eEM2eVJCb0Z5akR2SDFLc1lzeUdQRXFQaXk2allyS0x1ZTdXVzRQdGoxbDBrZjVuVF9kblN4eVRKX0pFX0VncS1LaGdnazloenVZYkg5bVNUdXFTZlRob3VaVFdSNlluMWI?oc=5",
-    "outlet": "openPR.com",
-    "topic": "Company watch",
-    "summary": "Overview of the Closed-Loop Neuromodulation Processor Market Highlighting Major Trends and Industry Advances openPR.com",
-    "date": "2026-11-02",
-    "score": 18,
-    "tags": [
-     "Spinal cord stimulation"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-11-05",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15079,14 +14954,14 @@
     "exploredNote": null
    },
    {
-    "id": "news-1oubxwz",
+    "id": "news-kny40a",
     "kind": "news",
-    "title": "Extending the life of brain implants",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkh1WnI1cHM5VHh4SE5FWDNidnFZekVIYjgzSUpjQVQ1UDBfNng0S0JZSUZXM00xRGx5SDFHekhxTkZMMmNKREZZbXY5YkhHZFhHRldTNEVXcGsyUEx4LWE3NnRWNVNpXzJDWjluTzh3NVZFQ0pkM3ZjTHNDay16ZVY4aHRXNFk?oc=5",
-    "outlet": "University of Miami News",
+    "title": "Extending Life Of Brain Implants",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pV09lYUhKakNWT2N6V3h1MUtFTEtrUkE2cDRpaktMWlRkNkFVQ3Z1MzJ6ZFB0dnR5UEpFMXhVRFhxRkUxamV6bmMxdzZDaVRCYVJlbGhScXlkVnVFeUthTzQwNmdtTUlnREljaUtpamp1dk53Z2lB?oc=5",
+    "outlet": "Mirage News",
     "topic": "Technology",
-    "summary": "Extending the life of brain implants University of Miami News",
-    "date": "2026-10-30",
+    "summary": "Extending Life Of Brain Implants Mirage News",
+    "date": "2026-10-31",
     "score": 16,
     "tags": [
      "Brain-computer interface"
@@ -15103,37 +14978,7 @@
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-03",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-836ja",
-    "kind": "news",
-    "title": "Brain-computer interfaces decode attempted speech into words for people with paralysis: report",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tdWtDc1lfTUNLTVJlTDFuVlVwWnAtR1FPUkRmdzY4THRNcWl3OVo5ZHRYV0NhMHpYYVZ3QlJ4TDlpRXdRa19QWHRJMEZ1N1g0?oc=5",
-    "outlet": "bdnews24.com",
-    "topic": "Technology",
-    "summary": "Brain-computer interfaces decode attempted speech into words for people with paralysis: report bdnews24.com",
-    "date": "2026-10-29",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-29",
+    "firstSeen": "2026-10-31",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15221,28 +15066,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-68t2pi",
-    "kind": "news",
-    "title": "ONWARD Medical Delivers Revenue of EUR 2.5M in Q3 2026, with Sustained Commercial Momentum and Strong Clinical Execution",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUJxejdITGpsTmY0MElVYjF4ZElKaU4xcmEySjRnRFVxdEdEYVlnanh5cFpiY1pwWmMxUGx0QTZwYm5ObmhYYVRsV1A3bm9iSWFNN0NEZ1J6ZVdhR3JVRnB5MlZWUW9tNUFRbEVYVWJfZmVaVFRabGZNTldncERIM3U0UnEtZlhTZG1fQlZnN19sc3N1QVc1TjhYeWw?oc=5",
-    "outlet": "Yahoo Finance",
-    "topic": "Company watch",
-    "summary": "ONWARD Medical Delivers Revenue of EUR 2.5M in Q3 2026, with Sustained Commercial Momentum and Strong Clinical Execution Yahoo Finance",
-    "date": "2026-11-03",
-    "score": 14,
-    "tags": [
-     "Watchlist: Onward Medical"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-11-03",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1fru36b",
     "kind": "news",
     "title": "ONWARD Medical to Announce Third-Quarter 2026 Results on November 3, 2026",
@@ -15261,50 +15084,6 @@
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-10-27",
     "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-111f0am",
-    "kind": "news",
-    "title": "Earnings call transcript: Onward Medical posts q3 2026 sales growth, shares fall By Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYVhFY1hYOG5LakRGX3o2QWY5OGZJdVVJeUt6SkZzVDQ4Y3JWbGlzaVFHU3ROMVZNOHU2Mi1nQVhzaVhFSlNvQU1WcHQ3VWlzR2JXM1padTgtdGdzTGlJQlRBZ3dKeVNPTHZqMmV2SlF5a1poQW9USEJWbE90cFk0dlN0SlgzMGp5Y09Ha3BzbUlqQ0ticXZtalFhVnZYMTlvV19ta01Qd2Q5cGV0Mjh3MlNweUc3NFh6SG5HanpNcnRXS2E5MVB5aVpGcklaRUVlV3hDNmRn?oc=5",
-    "outlet": "Investing.com India",
-    "topic": "Company watch",
-    "summary": "Earnings call transcript: Onward Medical posts q3 2026 sales growth, shares fall By Investing.com Investing.com India",
-    "date": "2026-11-03",
-    "score": 14,
-    "tags": [
-     "Watchlist: Onward Medical"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-11-04",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-qzg3s3",
-    "kind": "news",
-    "title": "ONWARD Medical Delivers Revenue of EUR 2.5M in Q3 2026,",
-    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORzlXRFh1UjZWbk10ay05S2ZzYVp4UU5ONDVWcUUtTVNpN1p2aUtzTzFyNldOVmRaYUw0NUhudDlmQ01WbGtaUVpEMWNxeXBXVWVmcnhqc0JLRk5IMFBwNjNPVE5jNW5GNWdnTWcyaTFLYkFWRW16Ui1iYk9LX2xhZTJDbEtOdHZzT3dJNklDZTVFUExPXy0zT0l6ZXFWdWlRQWhkRUpXT3ZnbklnWFdVVkVBQ24xaTBQZlZ5aHBHbG5wX3p3bEZfMHhPZkcwOURDWmtkSEJHODdZdWkzN204SThyTW1oNXVDLWh6SlpvQkRqTUxyZ0MtMGN5WU82ZUZWSmtFTFZCeV9Mcy1EUUtNRG9Ma3JSWHZXTEhYQTVTUQ?oc=5",
-    "outlet": "GlobeNewswire",
-    "topic": "Company watch",
-    "summary": "ONWARD Medical Delivers Revenue of EUR 2.5M in Q3 2026, GlobeNewswire",
-    "date": "2026-11-03",
-    "score": 14,
-    "tags": [
-     "Watchlist: Onward Medical"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-11-06",
-    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -15348,6 +15127,191 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-11-03",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-65wu0o",
+    "kind": "news",
+    "title": "ONWARD Medical Reports Q3 Growth and Clinical Progress",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXZLUDJ0TXBLU05JWVJjc0drdlFVaWlpcVZ0WEs0RVV5ZVhlNEpJOEgxb3IxOVlXVVpSVmxLSk1adTFFbGZ2VVExaktrXzZ0cnItTjVOd3MyUlBtWFd3VFRwWDN3UXQ1SXNUY01SOGtEWTlzb3JrSWg4c0pXRjhsb2U3QU5zdzBJOUNfRzVsZFJYUk5rWEY3ZTlsWjVqQ1lVYzNJUE04M2hDUQ?oc=5",
+    "outlet": "TipRanks",
+    "topic": "Company watch",
+    "summary": "ONWARD Medical Reports Q3 Growth and Clinical Progress TipRanks",
+    "date": "2026-11-03",
+    "score": 14,
+    "tags": [
+     "Watchlist: Onward Medical"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-11-03",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1ipg3rz",
+    "kind": "news",
+    "title": "A 72-Hour Engineering Sprint for Translating Thought to Speech | Updates",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZ0JETzVITktIOUVDZU9TMTB5UDNWbzNiVlJGTE5leUlGLWYzYUVlbjZiZVFVOFBJVF95LUZYcHJYeU5NTGk3SUZqVzNocEg2STdjVFJnaVNvTWM0NTZRc2tuZWE?oc=5",
+    "outlet": "Neuralink",
+    "topic": "Company watch",
+    "summary": "A 72-Hour Engineering Sprint for Translating Thought to Speech | Updates Neuralink",
+    "date": "2026-10-29",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-10-31",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-o635xl",
+    "kind": "news",
+    "title": "Neuralink's 72-Hour Hackathon: Your Questions Answered - BASENOR",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQem1ibjUzczBhYWozWGluOFEtZExYclNWS0lEYkxGeVluUmtxT2d2REdNTjU2bGNDV2NkMUF2N0VzOEtPXzNJVjF2akRXMUVWTkV1MWZEWmkxc2UxWVhUTjQ0N1hYLWRvZlVKcEZxWWJEU1ZXc3Q4NXdUVGp5WFdpNUJLR1NVSl9yOGpKVFNRR3I?oc=5",
+    "outlet": "BASENOR - Tesla Accessories",
+    "topic": "Company watch",
+    "summary": "Neuralink's 72-Hour Hackathon: Your Questions Answered BASENOR - Tesla Accessories",
+    "date": "2026-10-29",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-10-30",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-v3gjxw",
+    "kind": "news",
+    "title": "Neuralink Tests Brain-Controlled AI Commands, Texts, and Calls",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTVVczUydUh5NWxJb3dIVmtmZl9aY2tyUm8wcGNjc3FWRGlsRE1BX0stMUF2Q1E3RHluQVBHSXlXSHMtTkM4b2kxc3VNVno2V0dHcnJKbGRjVDJLS29ZcmVsS3lWOVZrYVg5cXNMUnJhTUhvY0xkYkF5LWZyMTBMNDllZHZLUzJTSFluVkY5SEhBb2pwLWRYN1VnT3NqeVhjX2lLazRjQU1UT0RF?oc=5",
+    "outlet": "Tomorrow's World Today",
+    "topic": "Company watch",
+    "summary": "Neuralink Tests Brain-Controlled AI Commands, Texts, and Calls Tomorrow's World Today",
+    "date": "2026-10-30",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-10-31",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1sqj5zh",
+    "kind": "news",
+    "title": "Neuralink Prototypes Grok Agent You Can Summon Just By Thinking - BASENOR",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUk4dTA5SlhvQW1wbDkxX3hqeW11dnhvNlFONG1KQnJ1LV9QWGZJbk4zd0pveDVKQU1VcWJ0VHNrZnNtMDZWZjY4Q2syVWtXQ3JWMURBZ1FONEZ2eFBKYjNpWlp3Z0YxdlYyWlR2SFFNcDJYRldKVFl4V3FucFoxNjJ5d3RXRXlUTFFJa3htZG9NRkdlUi1jaHYwMEE0WE0?oc=5",
+    "outlet": "BASENOR - Tesla Accessories",
+    "topic": "Company watch",
+    "summary": "Neuralink Prototypes Grok Agent You Can Summon Just By Thinking BASENOR - Tesla Accessories",
+    "date": "2026-10-29",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-10-30",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-ma9pi3",
+    "kind": "news",
+    "title": "Neuralink Will Help People Walk Again in Coming Years, Musk Says",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RWG9sMU9qT2FUOEFSYldoUHg2STlyQUduOTBYd2YwWVdYeGhNSjlOdmptY09CRHdUdUdYdXExN0F2SFJZLTh1UVBTdmwwektFSVU0STVnOUF4Z3FtcWYxaGhnU204OExjMTd6V0FndEo0S01iMktiREs3b2NQQQ?oc=5",
+    "outlet": "TeslaNorth.com",
+    "topic": "Company watch",
+    "summary": "Neuralink Will Help People Walk Again in Coming Years, Musk Says TeslaNorth.com",
+    "date": "2026-11-07",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-11-07",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-sd6ppi",
+    "kind": "news",
+    "title": "Neuralink Packs Weeks of Speech Progress Into a 72-Hour Sprint",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uSExtdTBwMENUZTZHeGxYd2MxYi04SUJxZ0xkb0pWUEI5ckx6bGJUdHpkWkZOTlotTmtWRW0zWkRWZHhlSXRIclBuN0V3REJvRl8tQ0lFbHpnZEV4SVVfZjR2RHZEQUZoNWRnOEFwb0owQUgzZThTUg?oc=5",
+    "outlet": "TeslaNorth.com",
+    "topic": "Company watch",
+    "summary": "Neuralink Packs Weeks of Speech Progress Into a 72-Hour Sprint TeslaNorth.com",
+    "date": "2026-10-30",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-10-31",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1m8ga7r",
+    "kind": "news",
+    "title": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034]",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnVKZUxXem9qQy1FRzVpbmg1d3lGUUJHS3h4YmNSZ1pvZUYwWVVzTjFETEg1cGlZSGFxdzh0SXl5RmJ1VUd5a3dwbVczTndPMFdKblBpSXAtVnBSMWNKVWdKS25lTm5USUV3YzRYWUpteW1QbDZtVzZwRk5UaW1mMVFuSFBYT1Ixa2NfLUlqemF6Zw?oc=5",
+    "outlet": "Fortune Business Insights",
+    "topic": "Company watch",
+    "summary": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034] Fortune Business Insights",
+    "date": "2026-10-19",
+    "score": 14,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface",
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-08-23",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15753,7 +15717,7 @@
     "kind": "center",
     "title": "AASDAP / Walk Again Project",
     "summary": "Long-running brain-machine-interface and rehabilitation project in chronic paraplegia and tetraplegia.",
-    "linkStatus": "unreachable",
+    "linkStatus": "ok",
     "recentNews": [],
     "date": null,
     "score": 0,
