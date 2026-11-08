@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-07T16:06:42.280Z",
- "date": "2026-11-07",
+ "generatedAt": "2026-11-08T16:31:10.154Z",
+ "date": "2026-11-08",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -18,8 +18,7 @@
    "score": 68
   },
   "lines": [
-   "No new open studies since yesterday.",
-   "1 new technology item."
+   "No new open studies since yesterday."
   ],
   "closingSoon": [
    {
@@ -45,7 +44,7 @@
    "papers": 60,
    "newPapers": 0,
    "news": 45,
-   "newNews": 1,
+   "newNews": 0,
    "centers": 12,
    "archived": 0
   }
@@ -11581,57 +11580,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42709530",
-    "kind": "paper",
-    "title": "Spared Motor Neurons Enable Control of a Robotic Sixth Finger for Functional Grasping in Tetraplegia.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42709530/",
-    "doi": "10.1109/TNSRE.2026.3732031",
-    "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
-    "authors": [
-     "Souza de Oliveira D",
-     "Braun DI",
-     "Pozzi M",
-     "Franco L"
-    ],
-    "authorLine": "Souza de Oliveira D, Braun DI, Pozzi M et al.",
-    "pubType": "Journal Article",
-    "date": "2026-01-01",
-    "summary": "Restoring hand function is a top priority in spinal cord injury (SCI), yet current assistive technologies remain limited in usability and lack intuitive control. We developed a non-invasive neuromechatronic interface that translates spared motor neuron activity from individuals with tetraplegia into the motion of a supernumerary robotic sixth finger. Three individuals with chronic, motor complete cervical SCI (C5-C6 level, > 8 years post-injury), unable to voluntarily move their fingers, participated in the study. High-density surface electromyography (HDsEMG) signals were recorded from paralyzed forearm muscles during attempted hand opening and closing. These signals were decomposed in real time into individual motor unit activity, which was then used to proportionally control the robotic finger. Participants' ability to use the robotic finger was evaluated through a series of…",
-    "score": 48,
-    "tags": [
-     "Hand & arm function",
-     "Activity-based rehab & exoskeleton",
-     "Cervical / tetraplegia",
-     "C4–C5 named",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "hand function",
-       "grasp",
-       "finger"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "robotic"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level, chronic.",
-    "firstSeen": "2026-09-09",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42965559",
     "kind": "paper",
     "title": "Cervical Transcutaneous Spinal Cord Stimulation for Upper Limb Motor Function in Participants With and Without Neurologic Disorders: A Systematic Review of Parameters, Methods, and Safety.",
@@ -11790,7 +11738,7 @@
    {
     "id": "PMID42918586",
     "kind": "paper",
-    "title": "Epidural Spinal Cord Stimulation Promotes the Expansion of Endogenous Neural Stem Cells and Neuroprotection via the PI3K/AKT/ mTOR Pathway after Spinal Cord Injury in Rats.",
+    "title": "Epidural spinal cord stimulation promotes the expansion of endogenous neural stem cells and neuroprotection via the PI3K/AKT/ mTOR pathway after spinal cord injury in rats.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42918586/",
     "doi": "10.1016/j.brainresbull.2026.112164",
     "journal": "Brain research bulletin",
@@ -11847,62 +11795,6 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy, chronic.",
     "firstSeen": "2026-10-24",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42927573",
-    "kind": "paper",
-    "title": "Molecular Mechanisms of Immunomodulation by Neural Stem Cells in Spinal Cord Injury: From Macrophage Polarization to Therapeutic Plasticity.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42927573/",
-    "doi": "10.1007/s11033-026-13070-5",
-    "journal": "Molecular biology reports",
-    "authors": [
-     "Gholami AA",
-     "Babaloo H",
-     "Rahmatov K",
-     "Ward A"
-    ],
-    "authorLine": "Gholami AA, Babaloo H, Rahmatov K et al.",
-    "pubType": "Journal Article, Review",
-    "date": "2026-10-25",
-    "summary": "Spinal cord injury (SCI) triggers a chronic neuroinflammatory cascade driven by persistent M1 macrophage polarization, creating a hostile microenvironment that inhibits axonal regeneration and perpetuates secondary tissue damage. Neural stem cells (NSCs) offer a promising therapeutic strategy through immunomodulation, reshaping the inflammatory landscape rather than merely replacing lost neurons. This review synthesizes evidence on the molecular mechanisms by which NSCs reprogram the immune response. NSCs suppress TLR4/NF-&#x3ba;B signaling to shift macrophages from a neurotoxic M1 phenotype toward a pro-regenerative M2 phenotype, engage in reciprocal dialogue with T cells and microglia to create a neurogenic niche, secrete neurotrophic factors that upregulate KCC2 and restore GABAergic inhibition, and modulate purinergic signaling to attenuate neuropathic pain. However, the evidence…",
-    "score": 39,
-    "tags": [
-     "Spinal cord stimulation",
-     "Regenerative / cell therapy",
-     "Neuropathic pain & spasticity",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "scs"
-      ]
-     },
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "stem cell",
-       "regeneration"
-      ]
-     },
-     {
-      "key": "pain",
-      "label": "Neuropathic pain & spasticity",
-      "matched": [
-       "neuropathic pain"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy, chronic.",
-    "firstSeen": "2026-10-26",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -12010,6 +11902,62 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and brain-computer interface, chronic.",
     "firstSeen": "2026-10-09",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42927573",
+    "kind": "paper",
+    "title": "Molecular Mechanisms of Immunomodulation by Neural Stem Cells in Spinal Cord Injury: From Macrophage Polarization to Therapeutic Plasticity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42927573/",
+    "doi": "10.1007/s11033-026-13070-5",
+    "journal": "Molecular biology reports",
+    "authors": [
+     "Gholami AA",
+     "Babaloo H",
+     "Rahmatov K",
+     "Ward A"
+    ],
+    "authorLine": "Gholami AA, Babaloo H, Rahmatov K et al.",
+    "pubType": "Journal Article, Review",
+    "date": "2026-10-25",
+    "summary": "Spinal cord injury (SCI) triggers a chronic neuroinflammatory cascade driven by persistent M1 macrophage polarization, creating a hostile microenvironment that inhibits axonal regeneration and perpetuates secondary tissue damage. Neural stem cells (NSCs) offer a promising therapeutic strategy through immunomodulation, reshaping the inflammatory landscape rather than merely replacing lost neurons. This review synthesizes evidence on the molecular mechanisms by which NSCs reprogram the immune response. NSCs suppress TLR4/NF-&#x3ba;B signaling to shift macrophages from a neurotoxic M1 phenotype toward a pro-regenerative M2 phenotype, engage in reciprocal dialogue with T cells and microglia to create a neurogenic niche, secrete neurotrophic factors that upregulate KCC2 and restore GABAergic inhibition, and modulate purinergic signaling to attenuate neuropathic pain. However, the evidence…",
+    "score": 35,
+    "tags": [
+     "Spinal cord stimulation",
+     "Regenerative / cell therapy",
+     "Neuropathic pain & spasticity",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "scs"
+      ]
+     },
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "stem cell",
+       "regeneration"
+      ]
+     },
+     {
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
+      "matched": [
+       "neuropathic pain"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy, chronic.",
+    "firstSeen": "2026-10-26",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14053,6 +14001,36 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
+   },
+   {
+    "id": "PMID42831654",
+    "kind": "paper",
+    "title": "Quantitative assessment of cervical spinal cord injury: Methods, clinical utility, and future directions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42831654/",
+    "doi": "10.1080/10790268.2026.2719095",
+    "journal": "The journal of spinal cord medicine",
+    "authors": [
+     "Sun S",
+     "Zhang W",
+     "Wang Y",
+     "Li X"
+    ],
+    "authorLine": "Sun S, Zhang W, Wang Y et al.",
+    "pubType": "Journal Article, Review",
+    "date": "2026-10-05",
+    "summary": "Literature review. To provide a structured narrative summary of quantitative assessment methods for cervical spinal cord injury (SCI), analyze their stage-specific applicability, discuss limitations, and clarify the clinical utility and future integration of wearable sensors and artificial intelligence (AI). A narrative review was conducted using PubMed, Web of Science, and EBSCO to identify English-language, peer-reviewed studies published between 1967 and 2026 on quantitative assessment of traumatic and non-traumatic cervical SCI. The search covered imaging, neurological and functional evaluation, electrophysiology, biomechanics, wearable monitoring, artificial intelligence, machine learning, computer vision, and multimodal data integration. An updated PubMed search performed on May 15, 2026 identified 1,042 records. After title and abstract screening, 873 records were retained as…",
+    "score": 16,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-10-05",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
    }
   ],
   "news": [
@@ -14146,6 +14124,44 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation.",
     "firstSeen": "2026-11-03",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-9638v0",
+    "kind": "news",
+    "title": "Clinical Trial Tests Epidural Stimulation for Low Blood Pressure After Spinal Cord Injury",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakdlbzM3YkJ1Q1F4dXhremF3QU44NnJER2xaNnNDNlk2aFBmUHRvaEhhbVJkQWxjdHRCV0xISEpXN25ocVk3S2E4UkxTUUp4VFQ3cmhaOFNPWVpvUEVVd2REZG5WM19tR1JlY2Mwd09UWG13cWNpbC1BSUlCQ3JnWDNGRmlKWUVTNkc5MG1Zdw?oc=5",
+    "outlet": "University of Miami",
+    "topic": "Technology",
+    "summary": "Clinical Trial Tests Epidural Stimulation for Low Blood Pressure After Spinal Cord Injury University of Miami",
+    "date": "2026-10-27",
+    "score": 25,
+    "tags": [
+     "Spinal cord stimulation",
+     "Autonomic / blood pressure / bladder / bowel"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "epidural stimulation"
+      ]
+     },
+     {
+      "key": "auto",
+      "label": "Autonomic / blood pressure / bladder / bowel",
+      "matched": [
+       "blood pressure"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and autonomic / blood pressure / bladder / bowel.",
+    "firstSeen": "2026-10-28",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14569,37 +14585,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-12zs9qx",
-    "kind": "news",
-    "title": "Neuralink's Foundation Model for BCI: What It Means - BASENOR",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFZPOFpOLW12cVA0d1M3TXppVDJDV2RoRWdoQ2tJLUs1MnFzbnhlTnF0ckF3NmtxNXpWWmp1SmJhRG1pd3pEVzBfLUJrdmFTSE9VRGMyTkJxbXhSVFNLUjlHRllQS2plS1hkNkpYRll6cUJoQjJZQm5WMElWMVA2VXJyLU92V3ZQeVd0WQ?oc=5",
-    "outlet": "BASENOR - Tesla Accessories",
-    "topic": "Company watch",
-    "summary": "Neuralink's Foundation Model for BCI: What It Means BASENOR - Tesla Accessories",
-    "date": "2026-10-01",
-    "score": 18,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-22",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1o72cqo",
     "kind": "news",
     "title": "Neuralink Sets New BCI Record After Training on 50,000 Hours of Brain Data",
@@ -14626,6 +14611,67 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-10-02",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-74rmjk",
+    "kind": "news",
+    "title": "Precision Neuroscience raises $250M in Series D for its BCI",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkZDWFFZamhwNzgwNjNXZmhTY242ZkpWbmhTU0x0ZFZUZHMtcHRUWnVOX1BNUHhJR0M3a1RUc2JSUmdTX1AzTHpqdEx6QUpDNUZ5VmIxenBRQjNCak9wdFZ2Y1M4b2tsLTdWR0d3MUtZbHRMX3p2NHBrckZLZ3pwM1Jjc2tDekMzTjBfb0ZPcw?oc=5",
+    "outlet": "MassDevice",
+    "topic": "Company watch",
+    "summary": "Precision Neuroscience raises $250M in Series D for its BCI MassDevice",
+    "date": "2026-09-25",
+    "score": 18,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Precision Neuroscience"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-09-25",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-nole4v",
+    "kind": "news",
+    "title": "Overview of the Closed-Loop Neuromodulation Processor Market Highlighting Major Trends and Industry Advances",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX082el9ySmFNLVVFUEx2Q25YN1RpSUFPUWhLNkh0UzFVdFJXZ1g2emU0Y1hLSmdqZnp4eEM2eVJCb0Z5akR2SDFLc1lzeUdQRXFQaXk2allyS0x1ZTdXVzRQdGoxbDBrZjVuVF9kblN4eVRKX0pFX0VncS1LaGdnazloenVZYkg5bVNUdXFTZlRob3VaVFdSNlluMWI?oc=5",
+    "outlet": "openPR.com",
+    "topic": "Company watch",
+    "summary": "Overview of the Closed-Loop Neuromodulation Processor Market Highlighting Major Trends and Industry Advances openPR.com",
+    "date": "2026-11-02",
+    "score": 18,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "neuromodulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-11-05",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14693,37 +14739,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1lh85j",
-    "kind": "news",
-    "title": "Precision Neuroscience raises $250M for brain-computer interface",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckhHM0JQUkpSaHA5Zk5NdmVTczNIb1ZMR1ZpcmxjS29VVnhKLWt6aHdJX3ZNXzk4RTNMeXJTSk01NzJ0UUlIanVZT2FjTzNVWTNtZzRUdHAza3VVMVc1NWhqSTV1SU41YTZ1YWRmZHoyQmZ1eUpJeDdRcVE4elhGdFQ1eFRTS2NhaXlfTDV0dG1KYnNMRGN6NEJ6UQ?oc=5",
-    "outlet": "MobiHealthNews",
-    "topic": "Company watch",
-    "summary": "Precision Neuroscience raises $250M for brain-computer interface MobiHealthNews",
-    "date": "2026-09-24",
-    "score": 18,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Precision Neuroscience"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-25",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-m2nome",
     "kind": "news",
     "title": "Precision Neuroscience raises $250M for brain-computer interface work",
@@ -14781,68 +14796,6 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-09-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-74rmjk",
-    "kind": "news",
-    "title": "Precision Neuroscience raises $250M in Series D for its BCI",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkZDWFFZamhwNzgwNjNXZmhTY242ZkpWbmhTU0x0ZFZUZHMtcHRUWnVOX1BNUHhJR0M3a1RUc2JSUmdTX1AzTHpqdEx6QUpDNUZ5VmIxenBRQjNCak9wdFZ2Y1M4b2tsLTdWR0d3MUtZbHRMX3p2NHBrckZLZ3pwM1Jjc2tDekMzTjBfb0ZPcw?oc=5",
-    "outlet": "MassDevice",
-    "topic": "Company watch",
-    "summary": "Precision Neuroscience raises $250M in Series D for its BCI MassDevice",
-    "date": "2026-09-25",
-    "score": 18,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Precision Neuroscience"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-25",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-m2tr3t",
-    "kind": "news",
-    "title": "Precision Neuroscience raises $250M for brain-computer interface push",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYmE5bEVUZEVCLV9peWZXemFuSzhXR2xuY1hzNnZaODBBSFpOYldDNlRkaVdmeVRhOTFWaTY0X3otRTB4YmhuZnh2dXF2V2RCNFFmSGktei1xel84Z3JsUzZtaUlXOUlJN2Z0RzdsaDhpeEE0TWxxQlEwVjdoSWFGUzJQc1dNMmtlQmlXVlhfWWptVkpOckdfTGp3aGtaYnVoSjc2dw?oc=5",
-    "outlet": "Dealroom",
-    "topic": "Company watch",
-    "summary": "Precision Neuroscience raises $250M for brain-computer interface push Dealroom",
-    "date": "2026-09-24",
-    "score": 18,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Precision Neuroscience"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-09-26",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14932,36 +14885,14 @@
     "exploredNote": null
    },
    {
-    "id": "news-ly5exw",
+    "id": "news-1oubxwz",
     "kind": "news",
-    "title": "How A Jackson Quadriplegic And Lander Mom Are Opening Outdoors To The Disabled",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3Znc1ctY2lkYV81OEktb0taM0ZxYUUxb09DREVieDFoYWh1Q0t1MWYtSXZmbE1YUjc5bXFzN29Ja09ZVndYOWFlZ29DRnJhYUkzMVZ3MTNsR2g1Q1lQMWd0aWFpbFg1UTJqa2VudDBfSEhWU0hlVW9KZTZndWg0TTc3ZlNpVk9UMFF6OHk5U0FGNk44Q01pOFU4d1FOUFZYa2ZvTFNpZ2hjMDV2Wl9EZVZ0Zw?oc=5",
-    "outlet": "Cowboy State Daily",
+    "title": "Extending the life of brain implants",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkh1WnI1cHM5VHh4SE5FWDNidnFZekVIYjgzSUpjQVQ1UDBfNng0S0JZSUZXM00xRGx5SDFHekhxTkZMMmNKREZZbXY5YkhHZFhHRldTNEVXcGsyUEx4LWE3NnRWNVNpXzJDWjluTzh3NVZFQ0pkM3ZjTHNDay16ZVY4aHRXNFk?oc=5",
+    "outlet": "University of Miami News",
     "topic": "Technology",
-    "summary": "How A Jackson Quadriplegic And Lander Mom Are Opening Outdoors To The Disabled Cowboy State Daily",
-    "date": "2026-10-18",
-    "score": 16,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-10-19",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-kny40a",
-    "kind": "news",
-    "title": "Extending Life Of Brain Implants",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pV09lYUhKakNWT2N6V3h1MUtFTEtrUkE2cDRpaktMWlRkNkFVQ3Z1MzJ6ZFB0dnR5UEpFMXhVRFhxRkUxamV6bmMxdzZDaVRCYVJlbGhScXlkVnVFeUthTzQwNmdtTUlnREljaUtpamp1dk53Z2lB?oc=5",
-    "outlet": "Mirage News",
-    "topic": "Technology",
-    "summary": "Extending Life Of Brain Implants Mirage News",
-    "date": "2026-10-31",
+    "summary": "Extending the life of brain implants University of Miami News",
+    "date": "2026-10-30",
     "score": 16,
     "tags": [
      "Brain-computer interface"
@@ -14978,7 +14909,7 @@
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-31",
+    "firstSeen": "2026-11-03",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15242,6 +15173,50 @@
     "exploredNote": null
    },
    {
+    "id": "news-1yik9ab",
+    "kind": "news",
+    "title": "Neuralink Says One ALS Patient Hit 75 Words a Minute in Week One",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmxwOEV3RjdJWmNDWjViak5IeVgwVm1haVZ1XzJKMWZidHpjYXUwdDdvQWZwLXliQzBNZ1NEMGJhc01LZjJqa3Y5Y1FXQTl2bk9xY2I4dmJnTkk1REctVnhEdUR6Z3luM1dYSDBjb0QzWUFpNmFKZjcwZFJmdkVvVEhTWVN1d1Jp?oc=5",
+    "outlet": "TeslaNorth.com",
+    "topic": "Company watch",
+    "summary": "Neuralink Says One ALS Patient Hit 75 Words a Minute in Week One TeslaNorth.com",
+    "date": "2026-10-28",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-10-29",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-3ss35a",
+    "kind": "news",
+    "title": "Neuralink's First Product To Be Called Telepathy, Will Enable High Speed Communication Between Humans And Computers Just By Thinking",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yY3dCdUN4b3Bqa3VZRWg2SmJMOVBPaC00T0E2T1dCUWZLbmhxNlhtNEF5dlVuQnp5ZEwzMmNDM2YtZnFBaUlhamxuZHE5RTlxb2JKR0NnbnZwUk01S3VpOA?oc=5",
+    "outlet": "OfficeChai",
+    "topic": "Company watch",
+    "summary": "Neuralink's First Product To Be Called Telepathy, Will Enable High Speed Communication Between Humans And Computers Just By Thinking OfficeChai",
+    "date": "2026-10-30",
+    "score": 14,
+    "tags": [
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-10-30",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-ma9pi3",
     "kind": "news",
     "title": "Neuralink Will Help People Walk Again in Coming Years, Musk Says",
@@ -15259,7 +15234,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-11-07",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
