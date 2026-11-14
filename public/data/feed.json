@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-13T17:31:14.318Z",
- "date": "2026-11-13",
+ "generatedAt": "2026-11-14T16:23:17.040Z",
+ "date": "2026-11-14",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -18,8 +18,7 @@
    "score": 76
   },
   "lines": [
-   "1 new open study since yesterday.",
-   "1 new paper.",
+   "No new open studies since yesterday.",
    "7 new technology items."
   ],
   "closingSoon": [
@@ -41,10 +40,10 @@
   ],
   "counts": {
    "openTrials": 90,
-   "newOpenTrials": 1,
+   "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 1,
+   "newPapers": 0,
    "news": 45,
    "newNews": 7,
    "centers": 12,
@@ -1332,7 +1331,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-11-13",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12044,53 +12043,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42856243",
-    "kind": "paper",
-    "title": "Assessing the Relative Impact of Grasp and Object on Inferior Frontal Gyrus Activity during a Grasping Task.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42856243/",
-    "doi": "10.64898/2026.06.30.735663",
-    "journal": "bioRxiv : the preprint server for biology",
-    "authors": [
-     "Conlan EC",
-     "Foli C",
-     "Memberg WD",
-     "Herring EZ"
-    ],
-    "authorLine": "Conlan EC, Foli C, Memberg WD et al.",
-    "pubType": "Journal Article, Preprint",
-    "date": "2026-09-30",
-    "summary": "The lateral grasp network, responsible for translating visual properties of an object to execution of a motor act, is comprised of the anterior intraparietal area (AIP), area F5, and the primary motor cortex (M1). Non-human primate studies of F5 have shown that it encodes a wide range of hand positions and object properties. Human studies in F5's human homologue, the inferior frontal gyrus (IFG), have leveraged this area's ability to encode grasp-object pairs for the purposes of Brain Machine Interface (BMI) control. However, whether modulation is driven by grasp, object, or the interaction between grasp and object is unclear. In the present study, intracortical IFG signals were recorded from human participants with tetraplegia during a motor visualization task where grasp and object were varied. Grasp was found to be the predominant factor driving modulation of IFG signals. Object was…",
-    "score": 34,
-    "tags": [
-     "Hand & arm function",
-     "Brain-computer interface",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "grasp"
-      ]
-     },
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "intracortical"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level.",
-    "firstSeen": "2026-10-11",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42795887",
     "kind": "paper",
     "title": "Epidural Electrical Stimulation Within an Integrated Rehabilitation Pathway for Traumatic Cervical Spinal Cord Injury: Safety and 12-Month Functional Outcomes.",
@@ -12175,7 +12127,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-11-13",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12222,6 +12174,53 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-10-16",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42856243",
+    "kind": "paper",
+    "title": "Assessing the Relative Impact of Grasp and Object on Inferior Frontal Gyrus Activity during a Grasping Task.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42856243/",
+    "doi": "10.64898/2026.06.30.735663",
+    "journal": "bioRxiv : the preprint server for biology",
+    "authors": [
+     "Conlan EC",
+     "Foli C",
+     "Memberg WD",
+     "Herring EZ"
+    ],
+    "authorLine": "Conlan EC, Foli C, Memberg WD et al.",
+    "pubType": "Journal Article, Preprint",
+    "date": "2026-09-30",
+    "summary": "The lateral grasp network, responsible for translating visual properties of an object to execution of a motor act, is comprised of the anterior intraparietal area (AIP), area F5, and the primary motor cortex (M1). Non-human primate studies of F5 have shown that it encodes a wide range of hand positions and object properties. Human studies in F5's human homologue, the inferior frontal gyrus (IFG), have leveraged this area's ability to encode grasp-object pairs for the purposes of Brain Machine Interface (BMI) control. However, whether modulation is driven by grasp, object, or the interaction between grasp and object is unclear. In the present study, intracortical IFG signals were recorded from human participants with tetraplegia during a motor visualization task where grasp and object were varied. Grasp was found to be the predominant factor driving modulation of IFG signals. Object was…",
+    "score": 30,
+    "tags": [
+     "Hand & arm function",
+     "Brain-computer interface",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "grasp"
+      ]
+     },
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "intracortical"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and brain-computer interface, cervical-level.",
+    "firstSeen": "2026-10-11",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -12837,47 +12836,6 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy, chronic.",
     "firstSeen": "2026-09-15",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42733783",
-    "kind": "paper",
-    "title": "Nerve and Tendon Transfers After Cervical Spinal Cord Injury: A Systematic Review of Strength Outcomes in 959 Patients.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42733783/",
-    "doi": "10.1016/j.jhsg.2026.101116",
-    "journal": "Journal of hand surgery global online",
-    "authors": [
-     "Bagdady K",
-     "Taritsa I",
-     "Frost M",
-     "DeYoung J"
-    ],
-    "authorLine": "Bagdady K, Taritsa I, Frost M et al.",
-    "pubType": "Journal Article",
-    "date": "2026-09-03",
-    "summary": "Tendon transfers and nerve transfers are two techniques available for reconstruction of elbow extension, grip, pinch, and release after spinal cord injury. This systematic review was aimed at assessing and comparing the strength outcomes of tendon and nerve transfers for functional reconstruction of the upper extremity to better guide surgical discussion. This review was registered with PROSPERO ID: CRD42024595503 and followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Embase, Scopus, and MEDLINE were queried for citations that presented strength outcomes for patients having undergone tendon and/or nerve transfers to restore upper-extremity function after a spinal cord injury. Weighted averages were used to report patient demographic data. A pooled estimate of strength outcomes was completed for the brachialis-to-anterior interosseous nerve…",
-    "score": 26,
-    "tags": [
-     "Hand & arm function",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper extremity",
-       "nerve transfer",
-       "tendon transfer"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function, cervical-level.",
-    "firstSeen": "2026-09-14",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14111,6 +14069,53 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
+   },
+   {
+    "id": "PMID42944653",
+    "kind": "paper",
+    "title": "Epidural Spinal Cord Stimulation for Spasticity: A Systematic Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944653/",
+    "doi": "10.1016/j.neurom.2026.09.010",
+    "journal": "Neuromodulation : journal of the International Neuromodulation Society",
+    "authors": [
+     "Wilkerson CE",
+     "Sanchez S",
+     "Muller R",
+     "Raskin JS"
+    ],
+    "authorLine": "Wilkerson CE, Sanchez S, Muller R, Raskin JS",
+    "pubType": "Journal Article, Review",
+    "date": "2026-09-25",
+    "summary": "Hypertonia resulting from central nervous system damage impairs mobility, induces pain, and diminishes quality of life, with conventional therapies having limited efficacy. This systematic review assesses the efficacy, safety, and quantitative outcomes of epidural spinal cord stimulation (eSCS) for refractory spasticity in adults, with an emphasis on prospective interventional studies that include objective measures. Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (2020) guidelines, PubMed, Embase, Scopus, and Web of Science were searched from inception to June 2025 for prospective interventional studies and studies with prospective data collection elements (randomized controlled trials, nonrandomized trials, cohorts, and case series, n &#x2265; 5), involving adults (&#x2265;18 years) with spasticity of any etiology that was treated with eSCS. Records (n =…",
+    "score": 16,
+    "tags": [
+     "Spinal cord stimulation",
+     "Neuropathic pain & spasticity"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation",
+       "scs"
+      ]
+     },
+     {
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
+      "matched": [
+       "spasticity"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity.",
+    "firstSeen": "2026-10-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
    }
   ],
   "news": [
@@ -14142,37 +14147,6 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation, cervical-level, chronic.",
     "firstSeen": "2026-10-27",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-11nd4j0",
-    "kind": "news",
-    "title": "Onward Medical NV (ONWRF) (Q3 2026) Earnings Call Highlights: ARC-EX Sales Surge 120% as Cash ...",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYW1mSnJnT041eTB1VEwxdUxRckw3RHFzODVEX2s3bDg2dkVCOUt1TkIyeXdwYUYwQTA3dy1WMXVuanZJTzhURV9IYXc5dWNUaE5UU054c2lZbGhWSVJubkoteWxCMEpYQ0p2blh6R2t4cG5mcm43Nkp3dWJpZWd3TlZxSmRhd1ptek9ZUWgxMTk?oc=5",
-    "outlet": "Yahoo Finance",
-    "topic": "Company watch",
-    "summary": "Onward Medical NV (ONWRF) (Q3 2026) Earnings Call Highlights: ARC-EX Sales Surge 120% as Cash ... Yahoo Finance",
-    "date": "2026-11-03",
-    "score": 27,
-    "tags": [
-     "Spinal cord stimulation",
-     "Watchlist: Onward Medical"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "arc-ex"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-11-04",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14281,7 +14255,7 @@
     "eligible": true,
     "why": "Surfaced for chronic.",
     "firstSeen": "2026-11-13",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14312,6 +14286,37 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-11-13",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1a36w7c",
+    "kind": "news",
+    "title": "Synchron's BCI Trial Pause: What Went Wrong With Stentrode",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzNiQXR1SHJuemFGaTc1SHRNZ25QbDN5QXJ4TXVHR09ZeG04ZDJUQmZleHI2VUNKRkFZZzV4S2FEVzJGRzBXbkZ3c0F6cUoxN0xsZW00Ujc2a3J5LXJqTXVST0FhQTFMOGhETjRoYzh0ODU0ZXlCR0VYd1VFZkFGdFQtYTNDYXFPVjJjLV9aMmRoVWtCUzduMWJjSWVkdw?oc=5",
+    "outlet": "Medical Device and Diagnostic industry",
+    "topic": "Company watch",
+    "summary": "Synchron's BCI Trial Pause: What Went Wrong With Stentrode Medical Device and Diagnostic industry",
+    "date": "2026-11-13",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Synchron"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-14",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -14348,37 +14353,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-wsng1f",
-    "kind": "news",
-    "title": "Synchron pauses trials of its wireless Stentrode brain implant over a faulty lead, Wired reports",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzYyWDd0VURRdXFKdE9GQzdsNU5YNzZwZ1B4T3VzSHBxV2hnMWt6MTRySktOdG5YVDltWFZfOEFSSXFzdlhJbTVBYU9ZZE15Wm4yckY0cm4wRGN2ODZTVjNDVEFXMWNHbkhsbGloSjh2a3FzUzd6c0NrbkZsWlNlWXZnX1lkbkZ3YVVaa0FxSThuRGk3UGtpOW5XcUQxME9VZkpNaUZjWHg5RHhqRlJPV3hXa1JLTlk?oc=5",
-    "outlet": "MLQ.ai",
-    "topic": "Company watch",
-    "summary": "Synchron pauses trials of its wireless Stentrode brain implant over a faulty lead, Wired reports MLQ.ai",
-    "date": "2026-11-12",
-    "score": 22,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Synchron"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-13",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-jh2393",
     "kind": "news",
     "title": "NervGen Kicks Off Pivotal Phase 3 Test of NVG-291 in Chronic Spinal Cord Injury",
@@ -14397,6 +14371,37 @@
     "eligible": true,
     "why": "Surfaced for chronic.",
     "firstSeen": "2026-10-17",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1ke7r54",
+    "kind": "news",
+    "title": "Wandercraft acquires Ekso Bionics to build global exoskeleton leader",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0dJNExPWFUtdDJjVUlyQ01tbTZMbWRQMW90b3BKVW5ZTlc3dmM0bmd4TXFLdVhKcjFJQVpTY2ZUajEyME5kQkhqMjFkdEg5VTUwazl1Y1pKVEZxcVIyMXA0N3BRQ1JVTU5iV1RkRm5Ba3FlOXB1amNzN1UzMzlHWmdZRTZsM1hfLV96MjVQU1BnelJhSnRvZHVsdHFUeEo5MEo5Wg?oc=5",
+    "outlet": "Dealroom",
+    "topic": "Company watch",
+    "summary": "Wandercraft acquires Ekso Bionics to build global exoskeleton leader Dealroom",
+    "date": "2026-10-01",
+    "score": 19,
+    "tags": [
+     "Activity-based rehab & exoskeleton",
+     "Watchlist: Ekso Bionics"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "exoskeleton"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-10-02",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14588,37 +14593,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-myykdk",
-    "kind": "news",
-    "title": "Beyond Neuralink: The Race To Turn Brain Implants Into A Billion-Dollar Business",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3hWWEVZa0tJamFMbGlvRmlLZk4xUU5oSWkxQS12dlNjN3JVMjZPUXFzSkk3S2dSV2RCSEFUUFNNUURTYnBRcTNFay1xSnJDT25OODU5d21pX25tNDduaUNTbU9XdEYzckJCZ0NBU0ZTVk1DWkZqRHNfMHFSOFg4Q21aZ3FOWXJyc0g0dnBYcl8xTUtYVjZPMFd4S29wRU03OWRUNDlXQUgwMksteW8yemhmNmtVYlFWMjA3WGNnSG5QYUF3ZXMxN1BlSW5ZWmpuQ2g0?oc=5",
-    "outlet": "Forbes Middle East",
-    "topic": "Company watch",
-    "summary": "Beyond Neuralink: The Race To Turn Brain Implants Into A Billion-Dollar Business Forbes Middle East",
-    "date": "2026-10-28",
-    "score": 18,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-31",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-nole4v",
     "kind": "news",
     "title": "Overview of the Closed-Loop Neuromodulation Processor Market Highlighting Major Trends and Industry Advances",
@@ -14644,37 +14618,6 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation.",
     "firstSeen": "2026-11-05",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1ejcsjf",
-    "kind": "news",
-    "title": "Precision Neuroscience raises $250 million in Series D funding to advance brain-computer interface technology",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91TmROQWJ0X1gxck54TTNUTGk3SjBUeTFZVmRnUGVZVU00M3ZTb1BqREphSUJFbDh2YnY4MHpBYm81ZXNqaXFPZFJnLXFwRFJQLWVDbjBqOTZhVzlucUpaVkxfRU1KT19BOERNY2hzc2lBZw?oc=5",
-    "outlet": "MedTech World",
-    "topic": "Company watch",
-    "summary": "Precision Neuroscience raises $250 million in Series D funding to advance brain-computer interface technology MedTech World",
-    "date": "2026-10-09",
-    "score": 18,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Precision Neuroscience"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-09",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14711,14 +14654,14 @@
     "exploredNote": null
    },
    {
-    "id": "news-18cyuyu",
+    "id": "news-i7p3s5",
     "kind": "news",
-    "title": "Mesenchymal Stem Cell Therapy Reduces Mortality in Viral Lung Injury Trials",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaTF6dHhQNjEydm14UEJPTU9jSE8wemhUeHhJSXlBRDhUckJvb2VwMG05dzBsZlhSR1JlLWdoallwNHVuNXNBQUFkajhOcFZ2Z0F6Z1Y2YTVVYzh1WVJ0Ry1jZ2JDazZ4UGRqcm5lbG1XaU1oWU1rLVpmNXE1YTFzYjlTcnZRVDQydlFqcHJRSkd0S29JWjFhX19rUkpJRGd4R0E?oc=5",
+    "title": "Mesenchymal Stem Cell Vesicles Show Preclinical Promise for Intrauterine Adhesions",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0pudVJ4WUlNQ2VEQVA3MUhYMzU3a29xbW1nM1F2aERJWkRwakMzWnRGb01fbXZvN3lwN1BaZTNQamptMkFma0tXRmx2bG5KTXNQOVNYUzA1VHhLT0YwUk0zejhCNzktcE9hRW5Dam5hcFJMemtrMjgyaFplV0tnTW13WTBQaDIwRGRSN1dUZ3liSHJjclZrZDk2RDRUWDFrc2JYNEtLanN6Mk0?oc=5",
     "outlet": "Bioengineer.org",
     "topic": "Technology",
-    "summary": "Mesenchymal Stem Cell Therapy Reduces Mortality in Viral Lung Injury Trials Bioengineer.org",
-    "date": "2026-11-12",
+    "summary": "Mesenchymal Stem Cell Vesicles Show Preclinical Promise for Intrauterine Adhesions Bioengineer.org",
+    "date": "2026-11-14",
     "score": 17,
     "tags": [
      "Regenerative / cell therapy"
@@ -14736,8 +14679,38 @@
     ],
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy.",
-    "firstSeen": "2026-11-12",
-    "isNew": false,
+    "firstSeen": "2026-11-14",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1q5hmp6",
+    "kind": "news",
+    "title": "Tianjin University-driven project advances noninvasive BCI research",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDRklXVXNwdThlTjJCTDIybzRHSXktODVrTXdmQzBJSW13NnFqQ2VDTnpNM1h6ZUJ3bU5ZTGlzSklBRHN0bjktYTBIV3lKVkRtQjRfbEdKYVFyYWdHUmZCTVFuTExIVXpUZVcxM0xRUVI5RUhUWWJaUVRCY1FxUQ?oc=5",
+    "outlet": "China Daily",
+    "topic": "Technology",
+    "summary": "Tianjin University-driven project advances noninvasive BCI research China Daily",
+    "date": "2026-11-14",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-14",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14767,7 +14740,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-11-13",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14892,28 +14865,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-bex5kb",
-    "kind": "news",
-    "title": "Neuralink’s Blindsight and Telepathy Projects Push Brain Technology Further",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN0daYUMwZDM3eWs3NHU1NHBETkdGQVIyODE3U29HZmVpWHZ4UC1va0t0U05kd0tuSS1hVDMwLW5ZYXBvRzNBcEZXS1Y2enJGckNMbHdBQmhCYWhZWnYtcmxrNHlPQld2bG5xMVZmLUpBbGdLZV82azJLTjRFTV9Xb1NpZ29nejZIRVg1VkhZRDlUTzcxaFp1UURJdlVKdFFJcm1Ga0tWNTRFZw?oc=5",
-    "outlet": "Infomance",
-    "topic": "Technology",
-    "summary": "Neuralink’s Blindsight and Telepathy Projects Push Brain Technology Further Infomance",
-    "date": "2026-10-31",
-    "score": 14,
-    "tags": [
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-10-31",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1ns1lu2",
     "kind": "news",
     "title": "Lineage Cell Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update",
@@ -14931,7 +14882,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-11-13",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14958,24 +14909,24 @@
     "exploredNote": null
    },
    {
-    "id": "news-1ep6crd",
+    "id": "news-ma9pi3",
     "kind": "news",
-    "title": "Synchron Pauses Stentrode Trial Enrollment Over Lead Performance Issue",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFJkeXMzTFI0MWpPUnZkUmdvWVF1VTRuOF9xek45V1YyQVpFQ21jcy1WTm1lQ3JaLW5Odi1wWllTbnQzT3dsaEl6NGJBTlhKRUZHV0oxTmdHcTRlZ01PRGtFelBDTmhrM0Fva3dWOU5QU3l5QkZDODduMC1oMG5VSmFVdktJeUN4eHZhRQ?oc=5",
-    "outlet": "Mezha.net",
+    "title": "Neuralink Will Help People Walk Again in Coming Years, Musk Says",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RWG9sMU9qT2FUOEFSYldoUHg2STlyQUduOTBYd2YwWVdYeGhNSjlOdmptY09CRHdUdUdYdXExN0F2SFJZLTh1UVBTdmwwektFSVU0STVnOUF4Z3FtcWYxaGhnU204OExjMTd6V0FndEo0S01iMktiREs3b2NQQQ?oc=5",
+    "outlet": "TeslaNorth.com",
     "topic": "Company watch",
-    "summary": "Synchron Pauses Stentrode Trial Enrollment Over Lead Performance Issue Mezha.net",
-    "date": "2026-11-12",
+    "summary": "Neuralink Will Help People Walk Again in Coming Years, Musk Says TeslaNorth.com",
+    "date": "2026-11-07",
     "score": 14,
     "tags": [
-     "Watchlist: Synchron"
+     "Watchlist: Neuralink"
     ],
     "flags": [],
     "matchedPriorities": [],
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-11-13",
-    "isNew": true,
+    "firstSeen": "2026-11-07",
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15011,6 +14962,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-1ecmfyr",
+    "kind": "news",
+    "title": "Adaptive Neuro-Fuzzy Control Improves Trajectory Tracking Precision in Robotic Arms",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0xtcThoaGZ6VXRUNE1FY3c0MEkzSkZKMHdlajFiMWNXY3Q0cTBWWmNhTWQtaDlXcklqbmE4S0tEY3hacUQxSUh5ZWx4MF85ejV6WHB5WjFtcXBzbHhlTUhKdnRtenp4OVJGV2xZTFVSa0VLdlVXMWtuM3ZvTDVMTkdJNWlRRTgtek1yMjd1bklNZEFnZFg4WU9pMllWcW00Y004eDEtQnMwQUk0?oc=5",
+    "outlet": "Bioengineer.org",
+    "topic": "Company watch",
+    "summary": "Adaptive Neuro-Fuzzy Control Improves Trajectory Tracking Precision in Robotic Arms Bioengineer.org",
+    "date": "2026-11-13",
+    "score": 14,
+    "tags": [
+     "Activity-based rehab & exoskeleton"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "robotic"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-11-14",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1ljlaho",
     "kind": "news",
     "title": "What Can Rapport Therapeutics' (NASDAQ:RAPP) Phase 2 Win in Bipolar Mania Mean for Its Precision Neuroscience Pipeline?",
@@ -15033,6 +15014,50 @@
     "exploredNote": null
    },
    {
+    "id": "news-c655oa",
+    "kind": "news",
+    "title": "What Lineage Cell Therapeutics (LCTX) Said on Its Q3 Earnings Call",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeVBuX1NfdU1sczdoVl9YdjhNa2R1eC1FQV9ieW1wNGF6WkYtWUY3R0gxZnAxb29uMVNUNHZSeEtVbVVLZDQ5ajhUTUktQkRhcWNSOFVDOGxEVnpmeVQxbVJjNV9scldjX3hUSW9sX2VYZ1Fwc2tCSE9yRW4wcDdGa1BsWDFBZDNzMXAzOTMwdnpZc1VvUFlzczkyaU1HMUt4MlE1alVDTU93LVRERTZTWjNXV25TVmc1S0IzRHR1UmJKaDg?oc=5",
+    "outlet": "TradingView",
+    "topic": "Company watch",
+    "summary": "What Lineage Cell Therapeutics (LCTX) Said on Its Q3 Earnings Call TradingView",
+    "date": "2026-11-13",
+    "score": 14,
+    "tags": [
+     "Watchlist: Lineage Cell"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-11-14",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-kk6up7",
+    "kind": "news",
+    "title": "Lineage Cell Therapeutics 3Q 2026: Revenue $1.43M, EPS ($0.03) — 10-Q Summary",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZWF2cmZTdjdvVjFRVHVpanI0ajBzMXFad1Vxa1Jac3JNbUJReDNvR3I3RjhVUnZROS1IUlBfOHJNMVo3YmFKa19pNl9mc3VIelNuUmVjMTh6ZXBsVEhJLUFHQ0pJcmRJYjkwd2JacWRKczQ5VVJXY2Y4eXpSczlOaHp6a3pDWG9oSGprRzlJWVk2UmRaNnBtS2NoWGdGX0VHSi1IeXJoVU1xUjk1cGhNUnlfWWVuRm5wdWtydGxvZzFGUHhlcTljcmh5dw?oc=5",
+    "outlet": "TradingView",
+    "topic": "Company watch",
+    "summary": "Lineage Cell Therapeutics 3Q 2026: Revenue $1.43M, EPS ($0.03) — 10-Q Summary TradingView",
+    "date": "2026-11-12",
+    "score": 14,
+    "tags": [
+     "Watchlist: Lineage Cell"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-11-14",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-nwysom",
     "kind": "news",
     "title": "Lineage Cell Therapeutics Reports Q3 2026 Earnings: Revenue of $",
@@ -15050,28 +15075,6 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-11-13",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-xxocb6",
-    "kind": "news",
-    "title": "Neuralink Is Developing Telepathy and Blindsight Implants - Root-Nation.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFA0b0h6b2xSNmVFYlVaN3VTd1k4THlNS2ZpZEpYay1raG5BS28xVERWMEZuajBFTWVuZHVJOENSTFVYWDJZQW8wR180cXRWbjdoTFdxeWxsWVdMYUdtUk5YMUtvVF9kdzJUTU14dFp1ck9XZnZHUzNocGthc3FwVjZKQUxxckVENW15NUI3V0ZaNUtCWHI3Q0J3?oc=5",
-    "outlet": "Root-Nation.com",
-    "topic": "Regulatory",
-    "summary": "Neuralink Is Developing Telepathy and Blindsight Implants Root-Nation.com",
-    "date": "2026-10-31",
-    "score": 14,
-    "tags": [
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-10-31",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15170,6 +15173,36 @@
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-10-09",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-2kpmdo",
+    "kind": "news",
+    "title": "Cognitive Multisensory Rehabilitation Eases Neuropathic Pain in Spinal Cord Injury",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3J0X2ljZWhsNE56TnBpNGxlalRGa1p0aVd1NHhVZUFNc1UzUkc5VHlqX2hCQzgxY3hVRFVpVjBxWXdaZ3A4TnY3WWk0UjdhcnJGbi0zVm13RXZ5MlI1UHMxVkxwT2FpSTVPLVZQOWdiZEVwUEEzcnJkMHR6czZvWXFnVmkzYXZyYnV6bG13R0lUbndqYXhOdXV5LXNWbkNHNTJ0Q3RSMUh2c3c?oc=5",
+    "outlet": "Bioengineer.org",
+    "topic": "Technology",
+    "summary": "Cognitive Multisensory Rehabilitation Eases Neuropathic Pain in Spinal Cord Injury Bioengineer.org",
+    "date": "2026-11-08",
+    "score": 12,
+    "tags": [
+     "Neuropathic pain & spasticity"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
+      "matched": [
+       "neuropathic pain"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for neuropathic pain & spasticity.",
+    "firstSeen": "2026-11-14",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -15324,36 +15357,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1r711up",
-    "kind": "news",
-    "title": "Paradromics Demonstrates Four Years of Stable Neural Recording in Major Brain-Computer Interface Durability Milestone",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPME1NSUNaYk9pR194Z1AwdU5FTldTTVBHR0x1SnF3eGwtNXkwNFBBbWhqc0plZmVRYlhiMjd2WFhDVjFCcWFWWE5RS2lINDdWRXZVNnh1LWczSTk4WDJVZVk0d0hUcVowb25rWF9WaXl6cUdMUWM4OUd6YXBmczFfZ3NBSFFGdFJYZHRZYzRUTmlJcjFiREtLcUs5ZWliUDB4bnJld21EbUEzZw?oc=5",
-    "outlet": "Yahoo Finance",
-    "topic": "Company watch",
-    "summary": "Paradromics Demonstrates Four Years of Stable Neural Recording in Major Brain-Computer Interface Durability Milestone Yahoo Finance",
-    "date": "2026-10-08",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-09",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-fcqkhw",
     "kind": "news",
     "title": "Global Brain Computer Interface Market Size, Share & Growth, 2034",
@@ -15414,14 +15417,14 @@
       "date": "2026-08-31"
      },
      {
-      "title": "Mother angry after UnitedHealthcare deems traumatic brain injury treatment ‘not medically necessary’ for son - WWNY",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa19lM2QtaU5FRm44UlliU2VyYzNqTGExMUczVGh5bHdVelJNNFJRVjNjZEtvWWVXXzBWQTdOcWJucHRvT1h1ajFwcVQ4NjZfZTY2M3VUdTBZTEVKQXN6OVFzSmhyc2dUYWkxYl8wVDlWektUT1Nrd2xISG5MRExCNFVna19KX0k5YWdoTHA3bGNJbkhwSC0zXy01Qk1kTnBEQW1yR2p4R0VNOFB2Ukt6TVQ2ZHRaSFJLTm9yQlQ5SE1hc1h1UnNwQkJwT203RkpiTXpN0gHnAUFVX3lxTE9ZQi02MVBObG1ZZVh4blVLTnFIRFlPZzRCbTl6Z0FraklFZk5pVkFGM3prUDVfWU9LeXBzNk05UjBQYTlIZnVYVThkWlpRU1VpMTQtZXpzRE9mb3l6MjN3UDZWWDJQeURNZGpQTFFjd1p0VDRUdlFwQUpoRkVOb2RCWUZWVGJVRTByRklKbVBITmdkVzdLQmpUR2NJdWVPeWxoalRLMVlwQVhjbDhpbjdPSEN2Z0V6cE90M0ZCMXlhNnlTODhrQ01SMXYzaXNZSDRMUDFtWkYwUk5nT2hWWVR0MFF5NjJSZw?oc=5",
-      "date": "2026-08-26"
-     },
-     {
       "title": "Goodman: How to be mentally tougher than a Navy SEAL - AL.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWw1dU9lZEZYY2NzdkdtOXgzSEN2WXJQSEhmQ253VHNqYWJUQVczd2cwLVEtSEFpM1VnNXg2NnM3ODNXa3BONUdHdzJrdWpWMzRJNmFOWnlQNkxvbGpkWHcwbHJrd3lhTDNzUGp0eHVmdUt5am1tVWU4djhrRUlCQlBaV29oSnRQSG1vSkVFXzFUd9IBpgFBVV95cUxNRXRCQTRPLWtLYTBiMjF3bWxjYkxpN3hDMFFxUmNueC13RVBibHc3Tl96WVUydE1PSERWb19ha1B3RWJkclk3Wlo5MHQ0STNjMXZ5dDRKQnFuZU5TemFnUjdZT2xDSWVMY3Nja2N2WG5HX0lTVFhJdExuNmpxRXpra3JmX2tvNUZyNldJdmNDWG5OcWR6eHBSTTIzMV9odmhLdWY1Umhn?oc=5",
       "date": "2026-08-28"
+     },
+     {
+      "title": "Mother angry after UnitedHealthcare deems traumatic brain injury treatment ‘not medically necessary’ for son - WWNY",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa19lM2QtaU5FRm44UlliU2VyYzNqTGExMUczVGh5bHdVelJNNFJRVjNjZEtvWWVXXzBWQTdOcWJucHRvT1h1ajFwcVQ4NjZfZTY2M3VUdTBZTEVKQXN6OVFzSmhyc2dUYWkxYl8wVDlWektUT1Nrd2xISG5MRExCNFVna19KX0k5YWdoTHA3bGNJbkhwSC0zXy01Qk1kTnBEQW1yR2p4R0VNOFB2Ukt6TVQ2ZHRaSFJLTm9yQlQ5SE1hc1h1UnNwQkJwT203RkpiTXpN0gHnAUFVX3lxTE9ZQi02MVBObG1ZZVh4blVLTnFIRFlPZzRCbTl6Z0FraklFZk5pVkFGM3prUDVfWU9LeXBzNk05UjBQYTlIZnVYVThkWlpRU1VpMTQtZXpzRE9mb3l6MjN3UDZWWDJQeURNZGpQTFFjd1p0VDRUdlFwQUpoRkVOb2RCWUZWVGJVRTByRklKbVBITmdkVzdLQmpUR2NJdWVPeWxoalRLMVlwQVhjbDhpbjdPSEN2Z0V6cE90M0ZCMXlhNnlTODhrQ01SMXYzaXNZSDRMUDFtWkYwUk5nT2hWWVR0MFF5NjJSZw?oc=5",
+      "date": "2026-08-26"
      }
     ],
     "date": null,
@@ -15494,7 +15497,7 @@
     "linkStatus": "ok",
     "recentNews": [
      {
-      "title": "Driving simulator at Kennedy Krieger Institute helps spinal cord injury patients regain independence - WBAL-TV",
+      "title": "Driving simulator helps spinal cord injury patients regain independence - WBAL-TV",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOalJaOXVaNmZ5S0NiVzhjbjcyZ2dJbWNMb0dRVnZYYlk1SDNQWV9ENXdRNzJ3cXN6WkYtLTB3RVoyNkE5QVNBWk9HS09VMTdRTFFwMGx3ZUJkalBDRWlONW9ROUtZWlRESWhjQ0VLSzFqY0ctbnFFLWxneHYxbmdCcGMwUC1OQ3ozRE5QZE5uTQ?oc=5",
       "date": "2026-10-06"
      },
@@ -15569,14 +15572,14 @@
       "date": "2026-10-06"
      },
      {
+      "title": "Sofia Bacolas ’28: Undergraduate Research Assistant - Bowdoin College",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXo5akJLVW9hZnZkbldqVmJEeUdVT1pXbXVCQ2lxYVFfSXNGMEE4U2VCclAwdEk2WmdEVUFzeTg0X3F3MGoybWxnQ3JWM2Jid1Q0ZUNKY3pyVTBMNTVwTHRKNkZLZmlKb01xZTRNMjV2N25pUmhUMGZkUlNYSVd1U0lIOWZQWWJUU245Ri1IbVlmemEtYzJEbi1n?oc=5",
+      "date": "2026-10-02"
+     },
+     {
       "title": "41st Annual Great Sports Legends Dinner to Benefit The Buoniconti Fund - University of Miami",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORVUyWjctSjk1VUJUdHNRcjRNV1pxZjAwbDV4eWlLYnFDamhLc2tKQnFuVDg1WlJFek9pNTV3UE84N0RjN09BTkVJdkNBNlBJeW5rbzRmQWdtajVBdWI4NTltUF90bVgyQUtRYVpzN1FUbXM4RDEwWWRGVmVHbm52WTRB?oc=5",
       "date": "2026-09-08"
-     },
-     {
-      "title": "Laila Ali makes history with Greatest Sports Legends Dinner honor 40 years after iconic father - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVM5Nmo5ZXJ3MEFMRVRiMjZ3cFpPSjRPaFFjZ29YWVlFNnRIaG9odk0wdUJhOGVJbUFLRFZrc3ZrQ0JkNVM1dDl4XzN4Qjc2U0s5blhSSEtaaFVoaEJvVWhGQllWeW16UV9MZFlBbjBWYURfblRvZXpwNVRYMWlwdUE5R1lwUE02X0tHTjJ3V2t3VDBQNW5oN0pSVExJS1hLdmNCNlZQNEhtWU1ITFFiYVRYSWI3M1kycndvNi1Fc0lYNTBGRVRCLTVuem4?oc=5",
-      "date": "2026-10-03"
      }
     ],
     "date": null,
@@ -15649,9 +15652,9 @@
       "date": "2026-10-13"
      },
      {
-      "title": "Spinal arteriovenous fistula: A guitarist's recovery - Mayo Clinic News Network",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSjIzVmc5dTJ4MEQ3djRvOEdLeUVJTmxVRUluTWcwaFpvajVCLXhXY19haEoxLWVwNXdWZUloTksxTnpYQzUwd1ctV3F3U1dGV0VkV2pUYmlwZkt2X3RPZndmWmEtN29PUmdaV18wWlZBQlNVOGwwcmQyd1ZGV1c2LWtCQzZINi1XR3p1QVRoZ1lhTzduRjY5XzZUa2RudE1LSkRndG9MdDlPdVhzTE93cURzTW51RFRIdHRYc0h1UW1kczIyY2dkTTJpZ1c5VDg?oc=5",
-      "date": "2026-11-05"
+      "title": "Mayo Clinic says spinal fluid test may help diagnose brain tumors - KIMT",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbDFDcVRiNWI0dFc1c2dWVjVWRHJBdHNLYV8walFXZG5IRzNYejFHN3dFQkpDT1VtNmFjNUZMLWZhanJXVmlrM09fd3g1dXVIUHhzRExVb1lqbEN2dnBaQTVadHh6Zm9UbVpIbTVoX1MwN0JTakJOalp1Z0d1UlA0UVZjZFZqUDQybG1SSDNERWgzY3pzbzY0ODBDRE11Y0RvY2s1OVpKRU1Ocjc5QXF6T2lsR1pQLTZUYnVEVUhhR3lqR1p4N1p4QjZZa1czUjBaaTdvOVE2RDU?oc=5",
+      "date": "2026-10-26"
      }
     ],
     "date": null,
