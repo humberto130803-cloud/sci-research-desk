@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-14T16:23:17.040Z",
- "date": "2026-11-14",
+ "generatedAt": "2026-11-15T16:49:18.241Z",
+ "date": "2026-11-15",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,7 +19,7 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "7 new technology items."
+   "8 new technology items."
   ],
   "closingSoon": [
    {
@@ -45,7 +45,7 @@
    "papers": 60,
    "newPapers": 0,
    "news": 45,
-   "newNews": 7,
+   "newNews": 8,
    "centers": 12,
    "archived": 0
   }
@@ -11620,55 +11620,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42763327",
-    "kind": "paper",
-    "title": "Blood flow restricted exercise with and without transcutaneous spinal cord stimulation via telehealth in persons with tetraplegia. A protocol for randomized clinical trial.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763327/",
-    "doi": "10.1038/s41393-026-01275-1",
-    "journal": "Spinal cord",
-    "authors": [
-     "Gorgey AS",
-     "Rehman MU",
-     "Wasim M",
-     "Khalil RE"
-    ],
-    "authorLine": "Gorgey AS, Rehman MU, Wasim M et al.",
-    "pubType": "Clinical Trial Protocol, Journal Article",
-    "date": "2026-10-01",
-    "summary": "A single site randomized clinical trial; Richmond, VA, USA. To determine the effect of 16 weeks of home-based blood flow restriction-enhanced neuromuscular electrical stimulation (BES) and non-invasive transcutaneous spinal cord stimulation (TSS) with mass practiced (MP) training on cervical neuroplasticity and upper extremity function in individuals with tetraplegia. The program is supported by a telehealth-based approach designed to improve adherence. Forty-four adults (18-70 years) with incomplete cervical SCI (AIS B-D; injury level C8 or above) will be randomized to TSS&#x2009;+&#x2009;BES&#x2009;+&#x2009;MP or sham TSS&#x2009;+&#x2009;BES&#x2009;+&#x2009;MP for 30 weeks. All participants, accompanied by a caregiver, will complete a 4-week education and training phase (2 weeks on-site, 2 weeks via telehealth), followed by 16 weeks of telehealth-supervised home training. Baseline…",
-    "score": 46,
-    "tags": [
-     "Hand & arm function",
-     "Spinal cord stimulation",
-     "Cervical / tetraplegia",
-     "AIS C/D in scope"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper extremity"
-      ]
-     },
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "transcutaneous spinal",
-       "spinal cord stimulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
-    "firstSeen": "2026-09-20",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42965559",
     "kind": "paper",
     "title": "Cervical Transcutaneous Spinal Cord Stimulation for Upper Limb Motor Function in Participants With and Without Neurologic Disorders: A Systematic Review of Parameters, Methods, and Safety.",
@@ -11721,6 +11672,55 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
     "firstSeen": "2026-11-01",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42763327",
+    "kind": "paper",
+    "title": "Blood flow restricted exercise with and without transcutaneous spinal cord stimulation via telehealth in persons with tetraplegia. A protocol for randomized clinical trial.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42763327/",
+    "doi": "10.1038/s41393-026-01275-1",
+    "journal": "Spinal cord",
+    "authors": [
+     "Gorgey AS",
+     "Rehman MU",
+     "Wasim M",
+     "Khalil RE"
+    ],
+    "authorLine": "Gorgey AS, Rehman MU, Wasim M et al.",
+    "pubType": "Clinical Trial Protocol, Journal Article",
+    "date": "2026-10-01",
+    "summary": "A single site randomized clinical trial; Richmond, VA, USA. To determine the effect of 16 weeks of home-based blood flow restriction-enhanced neuromuscular electrical stimulation (BES) and non-invasive transcutaneous spinal cord stimulation (TSS) with mass practiced (MP) training on cervical neuroplasticity and upper extremity function in individuals with tetraplegia. The program is supported by a telehealth-based approach designed to improve adherence. Forty-four adults (18-70 years) with incomplete cervical SCI (AIS B-D; injury level C8 or above) will be randomized to TSS&#x2009;+&#x2009;BES&#x2009;+&#x2009;MP or sham TSS&#x2009;+&#x2009;BES&#x2009;+&#x2009;MP for 30 weeks. All participants, accompanied by a caregiver, will complete a 4-week education and training phase (2 weeks on-site, 2 weeks via telehealth), followed by 16 weeks of telehealth-supervised home training. Baseline…",
+    "score": 42,
+    "tags": [
+     "Hand & arm function",
+     "Spinal cord stimulation",
+     "Cervical / tetraplegia",
+     "AIS C/D in scope"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "upper extremity"
+      ]
+     },
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "transcutaneous spinal",
+       "spinal cord stimulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
+    "firstSeen": "2026-09-20",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -11790,7 +11790,7 @@
     ],
     "authorLine": "Li G, Shen F, Li J et al.",
     "pubType": "Journal Article",
-    "date": "2026-10-23",
+    "date": "2026-11-01",
     "summary": "Spinal cord injury (SCI) often leads to severe motor and sensory dysfunction, yet no effective treatment currently exists. Epidural spinal cord stimulation (ESCS) is a treatment for chronic neuropathic pain in the trunk and extremities, and exerts a significant effect on the recovery of motor function, although the underlying mechanisms remain unclear. The present study aimed to investigate the effects of ESCS on the endogenous neural stem cells (eNSCs) proliferation and neuroprotection as well as the underlying mechanisms following SCI in rats. In the present study, results showed that ESCS improved hindlimb motor function and markedly increased the numbers of surviving ventral horn neurons of the spinal cord at 7 and 28 days after SCI. ESCS significantly reduced the apoptosis of anterior horn cells in the spinal cord on day 28 post-SCI. Moreover, ESCS remarkably increased the…",
     "score": 41,
     "tags": [
@@ -12560,45 +12560,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42864413",
-    "kind": "paper",
-    "title": "Autonomic function and signal complexity reflect level and severity of traumatic spinal cord injury.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42864413/",
-    "doi": "10.1038/s41393-026-01285-z",
-    "journal": "Spinal cord",
-    "authors": [
-     "Alhamdan M",
-     "Tegenborg Sjöström L",
-     "Hånell A",
-     "Lewén A"
-    ],
-    "authorLine": "Alhamdan M, Tegenborg Sjöström L, Hånell A et al.",
-    "pubType": "Journal Article, Observational Study",
-    "date": "2026-11-01",
-    "summary": "Observational single-centre cohort study. To investigate heart rate variability (HRV), baroreflex sensitivity (BRS), and signal complexity (SC) and their relationships with neurological injury level and severity, as well as their prognostic value for six-month mortality and functional recovery in patients with traumatic spinal cord injury (TSCI). Uppsala University Hospital, Sweden. This study included 164 adult patients with TSCI treated in neurointensive care (NIC) (2008-2022). Continuous high-frequency physiological data from the first 7 post-injury days were analysed to derive HRV, BRS, and SC for heart rate (HR), mean arterial pressure, systolic blood pressure, and diastolic blood pressure (DBP). Associations with neurological injury level, injury severity, NIC physiology, neurological improvement, and six-month mortality were assessed. Patients with cervical injuries had higher…",
-    "score": 27,
-    "tags": [
-     "Autonomic / blood pressure / bladder / bowel",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "auto",
-      "label": "Autonomic / blood pressure / bladder / bowel",
-      "matched": [
-       "blood pressure"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for autonomic / blood pressure / bladder / bowel, cervical-level.",
-    "firstSeen": "2026-10-13",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42939389",
     "kind": "paper",
     "title": "A Comprehensive Narrative Review on Autonomic Nervous System Pathophysiology in Spinal Cord Injury and the Use of Invasive and Non-Invasive Electrical Stimulation for Recovery.",
@@ -12796,136 +12757,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42737457",
-    "kind": "paper",
-    "title": "Beyond Scar Removal: Reprogramming the Glial Scar for Neural Repair.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42737457/",
-    "doi": "10.3390/ijms27177553",
-    "journal": "International journal of molecular sciences",
-    "authors": [
-     "Zeng CW"
-    ],
-    "authorLine": "Zeng CW",
-    "pubType": "Journal Article, Review",
-    "date": "2026-08-24",
-    "summary": "Spinal cord injury (SCI) research has long treated the glial scar as the central obstacle to regeneration. That view is useful, but it is now too narrow. The scar is not a passive wall. It is an evolving repair tissue that contains inflammation, stabilizes the lesion, remodels extracellular matrix, and, under many conditions, restricts axonal growth. The next phase of SCI therapy should therefore move from scar suppression to scar reprogramming. In this Opinion, I argue that the field should prioritize temporally precise, spatially targeted, and biomarker-guided interventions that preserve the protective functions of the scar while reducing its chronic inhibitory features. Cell transplantation, biomaterials, neurotrophic factors, gene therapy, immunomodulation, and neuromodulation each offer important strengths, but none is sufficient as a stand-alone regenerative therapy. The most…",
-    "score": 27,
-    "tags": [
-     "Spinal cord stimulation",
-     "Regenerative / cell therapy",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     },
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "regeneration",
-       "gene therapy"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy, chronic.",
-    "firstSeen": "2026-09-15",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42742983",
-    "kind": "paper",
-    "title": "Blood, Toil, Tears, Sweat, and Central Cord Syndrome: A Modern Re-Examination of Sir Winston Churchill's 1931 New York City Vehicular Accident.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42742983/",
-    "doi": "10.1227/neu.0000000000003993",
-    "journal": "Neurosurgery",
-    "authors": [
-     "Wolfson DI",
-     "Fontes RBV"
-    ],
-    "authorLine": "Wolfson DI, Fontes RBV",
-    "pubType": "Journal Article, Historical Article",
-    "date": "2026-10-01",
-    "summary": "On December 13, 1931, Sir Winston Churchill was struck by a car while crossing Fifth Avenue in New York City. While his recovery has been well-documented, the true nature of his neurological injuries has never been fully examined. Drawing on an analysis of medical documents and correspondence from a private collection, previously unavailable to researchers, this study presents evidence that Churchill might have suffered from central cord syndrome, in contrast to the historical consensus that he escaped neurological injury. Contemporary accounts reveal that Churchill experienced transient quadriplegia immediately after the accident, followed by persistent bilateral upper extremity dysesthesias and gait instability that resolved over several months. His symptoms were attributed to \"neuritis\" and \"concussion,\" reflective of the era's limited understanding of incomplete spinal cord injuries.…",
-    "score": 26,
-    "tags": [
-     "Hand & arm function",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper extremity"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function, cervical-level.",
-    "firstSeen": "2026-09-16",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42739669",
-    "kind": "paper",
-    "title": "From Trial to Chronic Epidural Electrical Stimulation: A Single-Patient Feasibility Study in Motor-Complete Spinal Cord Injury.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42739669/",
-    "doi": "10.3390/jcm15176663",
-    "journal": "Journal of clinical medicine",
-    "authors": [
-     "Militskova A",
-     "Mukhametova E",
-     "Biktimirov A",
-     "Andrianov V"
-    ],
-    "authorLine": "Militskova A, Mukhametova E, Biktimirov A et al.",
-    "pubType": "Journal Article",
-    "date": "2026-08-28",
-    "summary": "Background/Objectives: Epidural electrical stimulation (EES) is a valuable intervention for motor recovery after spinal cord injury (SCI). However, evaluating expected outcomes can be challenging due to the difficulty of assessing residual functional connectivity and other key factors underlying the effects of EES. This case study investigates EES with two 8-contact percutaneous electrodes (Perc-EESs) as a prognostic tool and therapeutic bridge for chronic neuromodulation with EES in an individual with clinically motor-complete SCI. Methods: A 40-year-old male (AIS-B, Th5-Th6, >20 years since initial presentation followed by a complex history of progressive deterioration and two subsequent neurosurgical interventions) underwent a 7-day trial using Perc-EES, followed by chronic 5-6-5 Medtronic lead (Paddle-EES) implantation at the L2-S1 segments. Volitional motor control and EMG activity…",
-    "score": 26,
-    "tags": [
-     "Spinal cord stimulation",
-     "Drug / pharmacological recovery",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "epidural electrical stimulation",
-       "neuromodulation"
-      ]
-     },
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "motor recovery"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and drug / pharmacological recovery, chronic.",
-    "firstSeen": "2026-09-15",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID43004373",
     "kind": "paper",
     "title": "Filtering spinal cord stimulation artifacts while preserving muscle activity during exoskeleton assisted walking after spinal cord injury.",
@@ -12968,51 +12799,6 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, chronic.",
     "firstSeen": "2026-11-10",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42747377",
-    "kind": "paper",
-    "title": "Hypoglossal motor output is altered by C4 epidural electrical stimulation via ascending spinal and peripheral feedback pathways.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42747377/",
-    "doi": "10.1152/jn.00272.2026",
-    "journal": "Journal of neurophysiology",
-    "authors": [
-     "Mickle AR",
-     "Peñaloza-Aponte JD",
-     "Brennan C",
-     "Dale EA"
-    ],
-    "authorLine": "Mickle AR, Peñaloza-Aponte JD, Brennan C, Dale EA",
-    "pubType": "Journal Article",
-    "date": "2026-10-01",
-    "summary": "After cervical spinal cord injury (cSCI), upper airway dysfunction is highly prevalent, including a dramatically increased incidence of obstructive sleep apnea and swallowing dysfunction. Although these deficits have often been attributed to secondary sources such as damage from complications of injury management or anatomical changes, there has recently been a greater appreciation for the modulatory role of spinal populations in upper airway behaviors that are disrupted by injury. Here, we illustrate in a rodent model of cSCI that epidural spinal stimulation of the phrenic motor nucleus at spinal segment C4 alters motor output at the hypoglossal motor nucleus through activation of excitatory ascending spinal pathways and inhibitory peripheral sensory feedback mechanisms. These findings highlight the importance of spinal-brainstem communication in shaping the motor program of upper…",
-    "score": 25,
-    "tags": [
-     "Spinal cord stimulation",
-     "Cervical / tetraplegia",
-     "C4–C5 named"
-    ],
-    "flags": [
-     {
-      "level": "info",
-      "text": "Off-target topic: rodent."
-     }
-    ],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "epidural electrical stimulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation, cervical-level.",
-    "firstSeen": "2026-09-17",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13094,32 +12880,40 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42866282",
+    "id": "PMID42864413",
     "kind": "paper",
-    "title": "Brown-Séquard Syndrome after Self-administered Manual Manipulation of the Cervical Spine: A Case Report.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42866282/",
-    "doi": "10.13107/jocr.2026.v16.i10.8200",
-    "journal": "Journal of orthopaedic case reports",
+    "title": "Autonomic function and signal complexity reflect level and severity of traumatic spinal cord injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42864413/",
+    "doi": "10.1038/s41393-026-01285-z",
+    "journal": "Spinal cord",
     "authors": [
-     "Raj S",
-     "Kumar D",
-     "Vb S",
-     "Jose A"
+     "Alhamdan M",
+     "Tegenborg Sjöström L",
+     "Hånell A",
+     "Lewén A"
     ],
-    "authorLine": "Raj S, Kumar D, Vb S et al.",
-    "pubType": "Case Reports, Journal Article",
-    "date": "2026-10-01",
-    "summary": "Brown-S&#xe9;quard syndrome (BSS) most commonly follows penetrating trauma, and cervical disc herniation is a rare cause. Spinal cord injury after manual cervical manipulation is well described when the manipulation is performed by another person, but injury following self-manipulation has not previously been reported. A 38-year-old male developed sudden right-sided weakness immediately after forcefully cracking his own neck, a maneuver he had performed several times daily for years without incident. Examination showed right hemiparesis with contralateral loss of vibratory and pinprick sensation. Magnetic resonance imaging revealed large C4-C5 and C5-C6 disc herniations with severe cord compression. He underwent emergent C4-C6 anterior cervical discectomy and fusion 16 h after symptom onset, followed by 7 days of inpatient rehabilitation, and regained full strength by 2 months. This is…",
-    "score": 24,
+    "authorLine": "Alhamdan M, Tegenborg Sjöström L, Hånell A et al.",
+    "pubType": "Journal Article, Observational Study",
+    "date": "2026-11-01",
+    "summary": "Observational single-centre cohort study. To investigate heart rate variability (HRV), baroreflex sensitivity (BRS), and signal complexity (SC) and their relationships with neurological injury level and severity, as well as their prognostic value for six-month mortality and functional recovery in patients with traumatic spinal cord injury (TSCI). Uppsala University Hospital, Sweden. This study included 164 adult patients with TSCI treated in neurointensive care (NIC) (2008-2022). Continuous high-frequency physiological data from the first 7 post-injury days were analysed to derive HRV, BRS, and SC for heart rate (HR), mean arterial pressure, systolic blood pressure, and diastolic blood pressure (DBP). Associations with neurological injury level, injury severity, NIC physiology, neurological improvement, and six-month mortality were assessed. Patients with cervical injuries had higher…",
+    "score": 23,
     "tags": [
-     "Cervical / tetraplegia",
-     "C4–C5 named"
+     "Autonomic / blood pressure / bladder / bowel",
+     "Cervical / tetraplegia"
     ],
     "flags": [],
-    "matchedPriorities": [],
+    "matchedPriorities": [
+     {
+      "key": "auto",
+      "label": "Autonomic / blood pressure / bladder / bowel",
+      "matched": [
+       "blood pressure"
+      ]
+     }
+    ],
     "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-10-14",
+    "why": "Surfaced for autonomic / blood pressure / bladder / bowel, cervical-level.",
+    "firstSeen": "2026-10-13",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13210,41 +13004,46 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42773762",
+    "id": "PMID42747377",
     "kind": "paper",
-    "title": "Spatiotemporal spinal integration of descending and spinal volleys in spinal motor circuits revealed by compound motor-evoked potentials.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773762/",
-    "doi": "10.1152/jn.00263.2026",
+    "title": "Hypoglossal motor output is altered by C4 epidural electrical stimulation via ascending spinal and peripheral feedback pathways.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42747377/",
+    "doi": "10.1152/jn.00272.2026",
     "journal": "Journal of neurophysiology",
     "authors": [
-     "Tanaka Y",
-     "Sasaki A",
-     "Hakariya N",
-     "Arakawa H"
+     "Mickle AR",
+     "Peñaloza-Aponte JD",
+     "Brennan C",
+     "Dale EA"
     ],
-    "authorLine": "Tanaka Y, Sasaki A, Hakariya N et al.",
+    "authorLine": "Mickle AR, Peñaloza-Aponte JD, Brennan C, Dale EA",
     "pubType": "Journal Article",
-    "date": "2026-11-01",
-    "summary": "Descending corticospinal and afferent pathways underlying spinally evoked motor potential both contribute to motor output, yet how their interaction at the spinal and peripheral levels is organized spatially within a muscle remains unclear. This study investigated the spatiotemporal characteristics of descending modulation of spinally evoked motor potentials by combining subthreshold transcranial magnetic stimulation (TMS) with transcutaneous spinal cord stimulation (tSCS) delivered at the L1-L2 interspinous space in nine participants and at the T12-L1 interspinous space in one participant. In experiment 1 , spinally evoked motor potentials were recorded from multiple lower-limb muscles at various interstimulus intervals (ISIs) defined relative to central conduction time (CCT). Subthreshold TMS facilitated spinally evoked motor potentials from CCT onward across all recorded muscles, with…",
-    "score": 22,
+    "date": "2026-10-01",
+    "summary": "After cervical spinal cord injury (cSCI), upper airway dysfunction is highly prevalent, including a dramatically increased incidence of obstructive sleep apnea and swallowing dysfunction. Although these deficits have often been attributed to secondary sources such as damage from complications of injury management or anatomical changes, there has recently been a greater appreciation for the modulatory role of spinal populations in upper airway behaviors that are disrupted by injury. Here, we illustrate in a rodent model of cSCI that epidural spinal stimulation of the phrenic motor nucleus at spinal segment C4 alters motor output at the hypoglossal motor nucleus through activation of excitatory ascending spinal pathways and inhibitory peripheral sensory feedback mechanisms. These findings highlight the importance of spinal-brainstem communication in shaping the motor program of upper…",
+    "score": 21,
     "tags": [
-     "Spinal cord stimulation"
+     "Spinal cord stimulation",
+     "Cervical / tetraplegia",
+     "C4–C5 named"
     ],
-    "flags": [],
+    "flags": [
+     {
+      "level": "info",
+      "text": "Off-target topic: rodent."
+     }
+    ],
     "matchedPriorities": [
      {
       "key": "stim",
       "label": "Spinal cord stimulation",
       "matched": [
-       "transcutaneous spinal",
-       "spinal cord stimulation",
-       "scs"
+       "epidural electrical stimulation"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-09-23",
+    "why": "Surfaced for spinal cord stimulation, cervical-level.",
+    "firstSeen": "2026-09-17",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13321,6 +13120,37 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-11-04",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42866282",
+    "kind": "paper",
+    "title": "Brown-Séquard Syndrome after Self-administered Manual Manipulation of the Cervical Spine: A Case Report.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42866282/",
+    "doi": "10.13107/jocr.2026.v16.i10.8200",
+    "journal": "Journal of orthopaedic case reports",
+    "authors": [
+     "Raj S",
+     "Kumar D",
+     "Vb S",
+     "Jose A"
+    ],
+    "authorLine": "Raj S, Kumar D, Vb S et al.",
+    "pubType": "Case Reports, Journal Article",
+    "date": "2026-10-01",
+    "summary": "Brown-S&#xe9;quard syndrome (BSS) most commonly follows penetrating trauma, and cervical disc herniation is a rare cause. Spinal cord injury after manual cervical manipulation is well described when the manipulation is performed by another person, but injury following self-manipulation has not previously been reported. A 38-year-old male developed sudden right-sided weakness immediately after forcefully cracking his own neck, a maneuver he had performed several times daily for years without incident. Examination showed right hemiparesis with contralateral loss of vibratory and pinprick sensation. Magnetic resonance imaging revealed large C4-C5 and C5-C6 disc herniations with severe cord compression. He underwent emergent C4-C6 anterior cervical discectomy and fusion 16 h after symptom onset, followed by 7 days of inpatient rehabilitation, and regained full strength by 2 months. This is…",
+    "score": 20,
+    "tags": [
+     "Cervical / tetraplegia",
+     "C4–C5 named"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-10-14",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13583,50 +13413,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42735860",
-    "kind": "paper",
-    "title": "Cervical Cord Compression-Induced Hypertension: A Treatable Neurogenic Vascular Disorder.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42735860/",
-    "doi": "10.1016/j.trsl.2026.09.010",
-    "journal": "Translational research : the journal of laboratory and clinical medicine",
-    "authors": [
-     "Lin CW",
-     "Huang SS",
-     "Kuo TBJ",
-     "She SC"
-    ],
-    "authorLine": "Lin CW, Huang SS, Kuo TBJ et al.",
-    "pubType": "Journal Article",
-    "date": "2026-11-01",
-    "summary": "Decompression surgery has been reported to attenuate hypertension in patients with cervical cord stenosis; however, the causal relationship and underlying neurobiological mechanisms remain unclear. We investigated whether cervical spinal cord compression induces blood pressure (BP) elevation and evaluated the therapeutic effects of decompression in a rodent model. Male Wistar Kyoto rats (17-week-old) were randomized into sham (n=13) or compression (Com) groups after baseline (Bas) assessments. Following 3 weeks of compression, the Com group was subdivided into persistent compression (n=10) or decompression (n=11) groups. BP, heart rate variability (HRV) derived autonomic function and sensorimotor behaviors were monitored at Bas, post-compression week 3 (Comp-W3) and decompression week 2 (Decomp-W2). Spinal cord tissues were collected after Decomp-W2 for biochemical analysis. BP…",
-    "score": 18,
-    "tags": [
-     "Autonomic / blood pressure / bladder / bowel",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [
-     {
-      "level": "info",
-      "text": "Off-target topic: rodent."
-     }
-    ],
-    "matchedPriorities": [
-     {
-      "key": "auto",
-      "label": "Autonomic / blood pressure / bladder / bowel",
-      "matched": [
-       "blood pressure"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for autonomic / blood pressure / bladder / bowel, cervical-level.",
-    "firstSeen": "2026-10-02",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID43013812",
     "kind": "paper",
     "title": "Short-term additive effect of posterior tibial nerve stimulation in neurogenic detrusor overactivity among incomplete spinal cord injury patients on antimuscarinic therapy: A prospective study.",
@@ -13703,6 +13489,46 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42773762",
+    "kind": "paper",
+    "title": "Spatiotemporal spinal integration of descending and spinal volleys in spinal motor circuits revealed by compound motor-evoked potentials.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42773762/",
+    "doi": "10.1152/jn.00263.2026",
+    "journal": "Journal of neurophysiology",
+    "authors": [
+     "Tanaka Y",
+     "Sasaki A",
+     "Hakariya N",
+     "Arakawa H"
+    ],
+    "authorLine": "Tanaka Y, Sasaki A, Hakariya N et al.",
+    "pubType": "Journal Article",
+    "date": "2026-11-01",
+    "summary": "Descending corticospinal and afferent pathways underlying spinally evoked motor potential both contribute to motor output, yet how their interaction at the spinal and peripheral levels is organized spatially within a muscle remains unclear. This study investigated the spatiotemporal characteristics of descending modulation of spinally evoked motor potentials by combining subthreshold transcranial magnetic stimulation (TMS) with transcutaneous spinal cord stimulation (tSCS) delivered at the L1-L2 interspinous space in nine participants and at the T12-L1 interspinous space in one participant. In experiment 1 , spinally evoked motor potentials were recorded from multiple lower-limb muscles at various interstimulus intervals (ISIs) defined relative to central conduction time (CCT). Subthreshold TMS facilitated spinally evoked motor potentials from CCT onward across all recorded muscles, with…",
+    "score": 18,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "transcutaneous spinal",
+       "spinal cord stimulation",
+       "scs"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-09-23",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42984434",
     "kind": "paper",
     "title": "Next-generation control strategies for lower-extremity exoskeletons: State-of-the-art, limitations, and future directions.",
@@ -13749,39 +13575,31 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42826786",
+    "id": "PMID42919717",
     "kind": "paper",
-    "title": "BaTiO(3)-based piezoelectric wireless neuromodulation: From molecular mechanisms to clinical translation challenges.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42826786/",
-    "doi": "10.1016/j.actbio.2026.10.003",
-    "journal": "Acta biomaterialia",
+    "title": "Corrigendum to \"Glibenclamide treatment improved intraspinal blood volume, tissue sparing, and functional recovery after cervical spinal cord injury in rats\" [Brain Res. Bull. 246 (2026) 112162].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42919717/",
+    "doi": "10.1016/j.brainresbull.2026.112174",
+    "journal": "Brain research bulletin",
     "authors": [
-     "Xu X",
-     "Wu T",
-     "Huang Y",
-     "Sun T"
+     "Prasse T",
+     "Jensen DE",
+     "Chandran P",
+     "Odarenko AA"
     ],
-    "authorLine": "Xu X, Wu T, Huang Y et al.",
-    "pubType": "Journal Article, Review",
+    "authorLine": "Prasse T, Jensen DE, Chandran P et al.",
+    "pubType": "Published Erratum",
     "date": "2026-11-01",
-    "summary": "Neurological injuries remain difficult to treat due to the complex microenvironment and the limited intrinsic regenerative capacity of neural tissues. Recently, wireless neuromodulation based on piezoelectric nanomaterials, particularly barium titanate (BaTiO 3 ), has emerged as a promising alternative to conventional implantable electrical stimulation. Polar BaTiO 3 ceramics generally have higher piezoelectric charge coefficients than conventional Polyvinylidene Fluoride (PVDF) and Poly(vinylidene fluoride-co-trifluoroethylene) (P(VDF-TrFE)) films, are more resistant to degradation than ZnO, and are lead-free unlike Lead Zirconate Titanate (PZT), although their rigidity and potential persistence in tissue complicate soft-tissue integration and post-treatment clearance. This review systematically summarizes recent advances in BaTiO 3 -enabled piezoelectric neuromodulation and further…",
-    "score": 18,
+    "summary": "",
+    "score": 16,
     "tags": [
-     "Spinal cord stimulation"
+     "Cervical / tetraplegia"
     ],
     "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     }
-    ],
+    "matchedPriorities": [],
     "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-11-10",
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-10-24",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -13812,36 +13630,6 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-10-30",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42919717",
-    "kind": "paper",
-    "title": "Corrigendum to \"Glibenclamide treatment improved intraspinal blood volume, tissue sparing, and functional recovery after cervical spinal cord injury in rats\" [Brain Res. Bull. 246 (2026) 112162].",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919717/",
-    "doi": "10.1016/j.brainresbull.2026.112174",
-    "journal": "Brain research bulletin",
-    "authors": [
-     "Prasse T",
-     "Jensen DE",
-     "Chandran P",
-     "Odarenko AA"
-    ],
-    "authorLine": "Prasse T, Jensen DE, Chandran P et al.",
-    "pubType": "Published Erratum",
-    "date": "2026-10-23",
-    "summary": "",
-    "score": 16,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-10-24",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14116,6 +13904,194 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
+   },
+   {
+    "id": "PMID42902225",
+    "kind": "paper",
+    "title": "Comparison of non-invasive neuromodulation for motor function rehabilitation in incomplete spinal cord injury: a systematic review and network meta-analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902225/",
+    "doi": "10.1186/s12883-026-05178-9",
+    "journal": "BMC neurology",
+    "authors": [
+     "Han Y",
+     "Han J",
+     "Wang H",
+     "Meng Y"
+    ],
+    "authorLine": "Han Y, Han J, Wang H et al.",
+    "pubType": "Journal Article, Systematic Review, Network Meta-Analysis, Comparative Study",
+    "date": "2026-07-25",
+    "summary": "Spinal cord injury (SCI) disrupts structural and functional connectivity between the brain and spinal cord, resulting in severe motor dysfunction. Various neuromodulation techniques have been applied in SCI rehabilitation and have promoted motor recovery to varying degrees. A Bayesian network meta-analysis was therefore undertaken to compare and rank the relative effects of non-invasive neuromodulation techniques on motor-related outcomes in adults with incomplete SCI. PubMed, Web of Science, Embase, and The Cochrane Library were searched for randomized controlled trials (RCTs) investigating non-invasive neuromodulation for motor function in patients with incomplete SCI, from database inception to September 13, 2025. Bayesian network meta-analysis was performed using R software. The intervention effects of different non-invasive neuromodulation techniques were compared across…",
+    "score": 16,
+    "tags": [
+     "Spinal cord stimulation",
+     "Drug / pharmacological recovery"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "neuromodulation"
+      ]
+     },
+     {
+      "key": "drug",
+      "label": "Drug / pharmacological recovery",
+      "matched": [
+       "motor recovery"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and drug / pharmacological recovery.",
+    "firstSeen": "2026-10-21",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42858240",
+    "kind": "paper",
+    "title": "Bilateral upper-limb palsy of the newborn infant: Taxonomy, differential diagnosis, and clinical pathways.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42858240/",
+    "doi": "10.1111/dmcn.70575",
+    "journal": "Developmental medicine and child neurology",
+    "authors": [
+     "Han Y",
+     "Ma Y",
+     "Yousaf K",
+     "Wassmer E"
+    ],
+    "authorLine": "Han Y, Ma Y, Yousaf K et al.",
+    "pubType": "Journal Article, Review",
+    "date": "2026-10-10",
+    "summary": "Bilateral reduction or absence of upper-limb movement in a newborn infant is a rare but critical presentation that cannot be anchored on the unilateral paradigm of brachial plexus birth injury (BPBI). Bilaterality substantially widens the differential to include cervical spinal cord injury, neuromuscular disorders, and non-neurological movement limitation; thus, default attribution to bilateral BPBI risks missing a serious central pathology. No standardized terminology or investigation framework currently addresses this phenotype. This review introduces bilateral upper-limb palsy of the newborn infant (BULPN) and proposes a three-category taxonomy separating 'true BULPN' (bilateral plexus-level palsy at birth) from mimics and acquired (postnatal-onset) palsy. True BULPN is most consistently reported in breech delivery and it is frequently asymmetric; published cohorts describe a high…",
+    "score": 16,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-10-11",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42979364",
+    "kind": "paper",
+    "title": "Caudal optogenetic spinal stimulation promotes better therapeutic outcomes than rostral optogenetic stimulation following a cervical spinal cord injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42979364/",
+    "doi": "10.3389/fnins.2026.1939104",
+    "journal": "Frontiers in neuroscience",
+    "authors": [
+     "Myers RJ",
+     "Dang V",
+     "McGiffin MN",
+     "Trinh ML"
+    ],
+    "authorLine": "Myers RJ, Dang V, McGiffin MN et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-20",
+    "summary": "Spinal stimulation, including optogenetic stimulation, is a promising therapeutic approach for promoting functional recovery after spinal cord injury (SCI). To date, most studies have delivered stimulation caudal to the level of the lesion. Therefore, there is a lack of understanding of how spinal stimulation rostral to the lesion may affect recovery. Here, we investigate the effects of optogenetic spinal stimulation rostral to the lesion site on forelimb functional recovery and axonal growth in a rat model of cervical SCI. Female Long-Evans rats received a C4 hemicontusion, intraspinal injections of an optogenetic viral vector rostral to the injury site, and a micro-light-emitting diode (&#x3bc;LED) implant for optogenetic stimulation. Beginning 6&#x202f;weeks post-injury, rats received 6&#x202f;weeks of optogenetic or sham stimulation alongside forelimb reaching rehabilitation.…",
+    "score": 15,
+    "tags": [
+     "Cervical / tetraplegia",
+     "C4–C5 named"
+    ],
+    "flags": [
+     {
+      "level": "info",
+      "text": "Off-target topic: rat model."
+     }
+    ],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-11-04",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42991626",
+    "kind": "paper",
+    "title": "Interactions between upper limb asymmetry, isokinetic shoulder function, and sprint performance in wheelchair rugby: a preliminary study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42991626/",
+    "doi": "10.3389/fspor.2026.1890052",
+    "journal": "Frontiers in sports and active living",
+    "authors": [
+     "de Sá KSG",
+     "de Oliveira Silva HV",
+     "Cavalari ER",
+     "Cavaglieri CR"
+    ],
+    "authorLine": "de Sá KSG, de Oliveira Silva HV, Cavalari ER et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-22",
+    "summary": "Wheelchair rugby (WR) athletes often present neuromuscular asymmetries due to the nature of their impairments and sport-specific demands. Understanding whether these asymmetries influence performance is important for characterizing functional profiles and guiding training strategies. Therefore, the aim of this study was to determine whether muscle asymmetry and balance influence the relationship between isokinetic muscle function variables and sprint performance in WR athletes. Nine elite WR athletes underwent isokinetic testing of shoulder flexion, extension, abduction, and adduction at 180&#xb0;/s to determine peak torque normalized by body weight (PT/BW), bilateral asymmetry based on PT/BW, and agonist/antagonist ratios. Sprint performance was assessed using a sprint test. Spearman correlations and univariate regression models evaluated associations between isokinetic variables,…",
+    "score": 14,
+    "tags": [
+     "Hand & arm function"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "upper limb"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function.",
+    "firstSeen": "2026-11-06",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42913645",
+    "kind": "paper",
+    "title": "Restoration of volitional lower-limb movement after motor-complete spinal cord injury with brain-spine interface.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913645/",
+    "doi": "10.1016/j.medj.2026.101334",
+    "journal": "Med (New York, N.Y.)",
+    "authors": [
+     "Jiang X",
+     "Shi M",
+     "Liu J",
+     "Chen J"
+    ],
+    "authorLine": "Jiang X, Shi M, Liu J et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-22",
+    "summary": "Spinal cord injury (SCI) interrupts volitional control of lower limbs. Brain-spine interfaces (BSIs), which decode cortical motor intent to trigger epidural electrical stimulation (EES), can provide an artificial pathway linking the brain to spinal motor circuits. Reported benefit, however, has been confined to participants who already retain substantial motor function, leaving unresolved whether those with little or no motor function can benefit, how soon, and how consistently. Three individuals with motor-complete SCI were enrolled in a registered trial (ChiCTR2500095359). None could stand or step with braces, walking aids, or physical assistance. Each received one depth electrode per hemisphere in the lower-limb motor cortex and an epidural paddle spanning the L1-S2 nerve roots. The participants underwent 2-3 weeks of closed-loop BSI training. The interface restored brain-controlled…",
+    "score": 14,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "epidural electrical stimulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-10-24",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
    }
   ],
   "news": [
@@ -14152,13 +14128,59 @@
     "exploredNote": null
    },
    {
+    "id": "news-181mx8l",
+    "kind": "news",
+    "title": "NVG-291: FDA designation for certain cervical spinal cord injuries",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXhiQkwwZ3Rld1YtdGF3cDh5THVuODU2TGp1dXhrbUlSODdQTllTWFN4ZGdJWWUyOVJGQlBuMi1JMmF5UE1sZlc2dVlOS0o2bzBwRzNnV2hDR0tHbTYyVEl5VmtQdVd6bmFSQlU1OWZENG1ud3NpSG1nLWQ3MlVvNHFiTjY4Wlg4amZjM05DRi1vTWJ3Q0tpejg2SkcxOXBQOHc?oc=5",
+    "outlet": "Denkstrom",
+    "topic": "Technology",
+    "summary": "NVG-291: FDA designation for certain cervical spinal cord injuries Denkstrom",
+    "date": "2026-11-14",
+    "score": 26,
+    "tags": [
+     "Cervical / tetraplegia",
+     "Watchlist: NVG-291"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-11-15",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1ecc7wo",
+    "kind": "news",
+    "title": "NervGen wins FDA Breakthrough Therapy designation for NVG-291 in chronic spinal cord injury",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGdsQ05SVDlfRHdqeDVnX3hSUGRfbzYwY0FZanlBcVFESXZsc0l6ek1zZ2dabFJGclBjWmlYV0NkVkxyWGFoZmZoYlBkOW5MbG9fRVhCLUlnVmM3eTFINXg2aGhPcVU0MENrcmdodW1MSng5ZTBqaXN5blZ5dmJKQlF0aUpELS1xTm9jTHJCNmxvVlhzSjI2R0I4VEVzanV6VHRXZ3JYN0dfRjYyQW9mZWdfQnpQd1U4S09fc3FQenpQQ1k?oc=5",
+    "outlet": "Dealroom",
+    "topic": "Technology",
+    "summary": "NervGen wins FDA Breakthrough Therapy designation for NVG-291 in chronic spinal cord injury Dealroom",
+    "date": "2026-11-12",
+    "score": 25,
+    "tags": [
+     "Chronic injury",
+     "Watchlist: NervGen"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for chronic.",
+    "firstSeen": "2026-11-15",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-3wntbn",
     "kind": "news",
     "title": "NervGen Receives FDA Breakthrough Therapy Designation for NVG-291 in Chronic Spinal Cord Injury",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPd1J1alJ2emc4SXBIQm41ZW9kYTRtVTJHdzVuRkRmRGlXZmFmSlJfYl9ZeEJkNGNIaFM0UDdLaWhUYlo2eTZLTTl0NHhDVzlBMG9xMmUtWlBlUWl1dzJ0MGVkRFIzbUh2bm5UQ205eEJCOHB2czg1RFlTcDRZaVpfTFRzOXl5b0hlSjVhWnd5ZGh1VDRWS0M0UHlna0NleHh2MUJLLUduaWFoLWF5MUduTlVGbmNidkFhY25ydGFici1qWl9yb3ozS2NVY05PaE5HcEhzNkpsaF9XQWVDR08xb2pXRmFvcXh5ZVpXaWNPdU9SNjVRSDg0?oc=5",
-    "outlet": "TradingView",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2QwbzZGOWZBak40ZGF1T250UHVXb2ZNTHNmWDJKdVZhbTk0WXFBMXdnWUpYQ0hoY3BiOEpWbVFUYkdhdUx5NzAzT25vVUo2dGV5RkRDYkpIRW84TGZ5VVpfZl9DdjZ3djYtNENDOFFucDlZNm9IdFIyRjRTTzhCaUxlXzlGeW9jX3U5dExEYmV0RnQ4MG95MUtOQlpBVDBaaVFPZkJYbzQ2OGhxa21jeVZpZmR4cDhibmFodXB6Y25xbXVSSy1j?oc=5",
+    "outlet": "Quiver Quantitative",
     "topic": "Technology",
-    "summary": "NervGen Receives FDA Breakthrough Therapy Designation for NVG-291 in Chronic Spinal Cord Injury TradingView",
+    "summary": "NervGen Receives FDA Breakthrough Therapy Designation for NVG-291 in Chronic Spinal Cord Injury Quiver Quantitative",
     "date": "2026-11-12",
     "score": 25,
     "tags": [
@@ -14260,6 +14282,37 @@
     "exploredNote": null
    },
    {
+    "id": "news-155c18q",
+    "kind": "news",
+    "title": "Functional electrical stimulation-assisted cycling therapy with virtual reality biofeedback for functional recovery in people with chronic spinal cord injury: a feasibility case series",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04cEdFcGZhQ2ttaHB0QkROY1owVkg1NmNJZDc2NjZleFFHNS13NERsVnljQXNpZU9abU1VWUtKUkpLQzdUOFVvSkt5dzBhbVRzUjNuXzczSkNzS3NJM0lz?oc=5",
+    "outlet": "Nature",
+    "topic": "Technology",
+    "summary": "Functional electrical stimulation-assisted cycling therapy with virtual reality biofeedback for functional recovery in people with chronic spinal cord injury: a feasibility case series Nature",
+    "date": "2026-11-14",
+    "score": 22,
+    "tags": [
+     "Activity-based rehab & exoskeleton",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "functional electrical stimulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton, chronic.",
+    "firstSeen": "2026-11-15",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1a36h8p",
     "kind": "news",
     "title": "Synchron halts BCI trials after device fails to perform as expected",
@@ -14317,7 +14370,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-11-14",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14376,37 +14429,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-1ke7r54",
-    "kind": "news",
-    "title": "Wandercraft acquires Ekso Bionics to build global exoskeleton leader",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0dJNExPWFUtdDJjVUlyQ01tbTZMbWRQMW90b3BKVW5ZTlc3dmM0bmd4TXFLdVhKcjFJQVpTY2ZUajEyME5kQkhqMjFkdEg5VTUwazl1Y1pKVEZxcVIyMXA0N3BRQ1JVTU5iV1RkRm5Ba3FlOXB1amNzN1UzMzlHWmdZRTZsM1hfLV96MjVQU1BnelJhSnRvZHVsdHFUeEo5MEo5Wg?oc=5",
-    "outlet": "Dealroom",
-    "topic": "Company watch",
-    "summary": "Wandercraft acquires Ekso Bionics to build global exoskeleton leader Dealroom",
-    "date": "2026-10-01",
-    "score": 19,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Ekso Bionics"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-10-02",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-45fiy6",
     "kind": "news",
     "title": "Wandercraft Acquires Ekso Bionics to Expand Global Medical Exoskeleton Business",
@@ -14438,37 +14460,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-beymvx",
-    "kind": "news",
-    "title": "Wandercraft Acquires Ekso Bionics from ChronoScale to Form World's Largest Medical Exoskeleton Powerhouse",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXhRQWg0VVJqS3dERllvczVqRUFnRlY0SW52b2JSbUZkM3ltZVY5SlRJSTVIYkQ1bzJCbEV2S1cxV2EzanF2UWtjMy1MZkJ4dlRINjFjMWNoNGgxZklmLVVUcmtXVThqaFc2ckluZldMU3hlTWNPMWMzdXdSVWJiQy11WEsxanExYTdPNkc5T0R0VWxPRnNhbndJdW9raWlya3hteXd5MVZtOHd3c2JoZUtDVmVCbDBPMnhvRm1rQQ?oc=5",
-    "outlet": "HIT Consultant",
-    "topic": "Company watch",
-    "summary": "Wandercraft Acquires Ekso Bionics from ChronoScale to Form World's Largest Medical Exoskeleton Powerhouse HIT Consultant",
-    "date": "2026-10-02",
-    "score": 19,
-    "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Ekso Bionics"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-10-03",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-15tj41h",
     "kind": "news",
     "title": "Wandercraft acquires exoskeleton rival Ekso Bionics",
@@ -14495,6 +14486,37 @@
     "eligible": true,
     "why": "Surfaced for activity-based rehab & exoskeleton.",
     "firstSeen": "2026-10-05",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-beymvx",
+    "kind": "news",
+    "title": "Wandercraft Acquires Ekso Bionics from ChronoScale to Form World's Largest Medical Exoskeleton Powerhouse",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXhRQWg0VVJqS3dERllvczVqRUFnRlY0SW52b2JSbUZkM3ltZVY5SlRJSTVIYkQ1bzJCbEV2S1cxV2EzanF2UWtjMy1MZkJ4dlRINjFjMWNoNGgxZklmLVVUcmtXVThqaFc2ckluZldMU3hlTWNPMWMzdXdSVWJiQy11WEsxanExYTdPNkc5T0R0VWxPRnNhbndJdW9raWlya3hteXd5MVZtOHd3c2JoZUtDVmVCbDBPMnhvRm1rQQ?oc=5",
+    "outlet": "HIT Consultant",
+    "topic": "Company watch",
+    "summary": "Wandercraft Acquires Ekso Bionics from ChronoScale to Form World's Largest Medical Exoskeleton Powerhouse HIT Consultant",
+    "date": "2026-10-02",
+    "score": 19,
+    "tags": [
+     "Activity-based rehab & exoskeleton",
+     "Watchlist: Ekso Bionics"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "exoskeleton"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-10-03",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14623,6 +14645,37 @@
     "exploredNote": null
    },
    {
+    "id": "news-myykdk",
+    "kind": "news",
+    "title": "Beyond Neuralink: The Race To Turn Brain Implants Into A Billion-Dollar Business",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3hWWEVZa0tJamFMbGlvRmlLZk4xUU5oSWkxQS12dlNjN3JVMjZPUXFzSkk3S2dSV2RCSEFUUFNNUURTYnBRcTNFay1xSnJDT25OODU5d21pX25tNDduaUNTbU9XdEYzckJCZ0NBU0ZTVk1DWkZqRHNfMHFSOFg4Q21aZ3FOWXJyc0g0dnBYcl8xTUtYVjZPMFd4S29wRU03OWRUNDlXQUgwMksteW8yemhmNmtVYlFWMjA3WGNnSG5QYUF3ZXMxN1BlSW5ZWmpuQ2g0?oc=5",
+    "outlet": "Forbes Middle East",
+    "topic": "Company watch",
+    "summary": "Beyond Neuralink: The Race To Turn Brain Implants Into A Billion-Dollar Business Forbes Middle East",
+    "date": "2026-10-28",
+    "score": 18,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-10-31",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-q30i4m",
     "kind": "news",
     "title": "Elon Musk says Neuralink’s brain implants could help people with paralysis and blindness",
@@ -14680,7 +14733,7 @@
     "eligible": true,
     "why": "Surfaced for regenerative / cell therapy.",
     "firstSeen": "2026-11-14",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14710,7 +14763,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-11-14",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -14745,14 +14798,14 @@
     "exploredNote": null
    },
    {
-    "id": "news-z94wvw",
+    "id": "news-11yo0my",
     "kind": "news",
-    "title": "Brain-Computer Interfaces: Can We Control Devices With Our Thoughts?",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcHJsdks0VnlLVnh4d0pUZldyckZkWUtSQ2xSZmFpOUNidTZGWVVvMXdGYTVMNFNXZVV5UFVFSG1hUExJN1dLZ3BlcXFzdTFQSXJQVWpKaGJrNGN6ZjNsN0JCVFpPY1NYVmZrMnUwOUxrU3Jld0h2NWwxTFJ1cWI2R0tpaERSdw?oc=5",
-    "outlet": "oneworldnews.com",
+    "title": "Brain-computer interfaces: A new voice for people with paralysis",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbW1DSGdoRUFyMm9kRjVWUjdQVU9lMzBLVnVUOUU5YWNRZHB2YTE1SG91SWx1b0tZYUVUMWZ6SGhtQkpsYjVKbTNtUndUcnBZMFdmX1NpNVNSd3g0aFlrUjFadjVPWHpvN1RxZ0VzcHRMS3ZjdWVIMDNDYWowaHAxalh2RU40T3UzSnNv?oc=5",
+    "outlet": "Medical Xpress",
     "topic": "Technology",
-    "summary": "Brain-Computer Interfaces: Can We Control Devices With Our Thoughts? oneworldnews.com",
-    "date": "2026-11-11",
+    "summary": "Brain-computer interfaces: A new voice for people with paralysis Medical Xpress",
+    "date": "2026-11-14",
     "score": 16,
     "tags": [
      "Brain-computer interface"
@@ -14769,8 +14822,38 @@
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-11",
-    "isNew": false,
+    "firstSeen": "2026-11-15",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1evue7t",
+    "kind": "news",
+    "title": "Implanted Brain-Computer Interfaces Help Paralyzed Clinical Trial Participants Restore Expressive Communication",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZjlTX0JWYWp6MVc1X25GWnJXUUJGRkY0RFVLaldBamdSRm1ZSzV1UUYzVDlpZXhqOFpnNy1QLWltbTZleHBWUTBIWmI3S1JpdW4wd0tPYUtWejN1WWNRQkZDeXFxR0djZGkxWjVCZGtXWkNVZ2FuYzhTNU1vdzZvakRxcHdKc056a0hzOGlteVVnSk1pLS0xRlloQnpWNXFNSUJLd19DVzUxT0F5SlJsQmtQR2kyQjV3WS16d3RUcFloYjVOeV8yeXVXV1VHZ2VHQlE?oc=5",
+    "outlet": "Bioengineer.org",
+    "topic": "Technology",
+    "summary": "Implanted Brain-Computer Interfaces Help Paralyzed Clinical Trial Participants Restore Expressive Communication Bioengineer.org",
+    "date": "2026-11-14",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-15",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14865,6 +14948,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-w64ca4",
+    "kind": "news",
+    "title": "Scientists created a Doctor Octopus-inspired brain interface for controlling robotic arms",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3FDeXpSLXR3YnNqQnRRZGlDRUJ3bnZYaFVuODM1MHM4R0tfNEI2dE5KM1RJOXR2dzZWQlhlbVVSUlprUktpellxZzF2XzE1ZTVpQVlwVjRxZWtuNWM2VzVQcTZ4dEFLUnRrNjdFWTNwT1pQSkNCU3ZRdnBENjQwUk0wLWVWZmZKYm1WRS1UcnBaMmVUNEtqaXZWUFVFU1Vsb0NjeHdDQVNoR2ZybGtHbm5BSFQ?oc=5",
+    "outlet": "PsyPost",
+    "topic": "Technology",
+    "summary": "Scientists created a Doctor Octopus-inspired brain interface for controlling robotic arms PsyPost",
+    "date": "2026-11-14",
+    "score": 14,
+    "tags": [
+     "Activity-based rehab & exoskeleton"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "robotic"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-11-15",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1ns1lu2",
     "kind": "news",
     "title": "Lineage Cell Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update",
@@ -14882,6 +14995,28 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-11-13",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-qzg3s3",
+    "kind": "news",
+    "title": "ONWARD Medical Delivers Revenue of EUR 2.5M in Q3 2026,",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQNDdTUFcxNi1KM25UcTlyaXljQkpxMG1SWHVkdFktWTQweHN5YW1fS255alNhcjVkVTNJM0xSNWh0XzMwb2d5bTFZRjVrekxPNGtFNDRNbk5BVGh2QlVpcVBHZjBmT2dfMVZoNWdRWHBieTIxOTZyTmR5Nno1RzN2bHZLeDl0ZGd3NkZ4ZjhsWTlvSmR0eFlFNTRGMGhOTnNXaEw2TWxjM3lmTzM5UXpaVGJQWTRlTDFCZ0ZEY29ETTdUUTk5SVNHVUVYOUMyeUhBU2ZQOHZncnpDYUVWRUJETUt2UTRLU3B2YzZycDQzRUVvbDU1VHNfb1J4U2NPYkxLWHA1ZUxCNHRTZW13dnhWbms1eWRnWjVLZkNJ?oc=5",
+    "outlet": "GlobeNewswire",
+    "topic": "Company watch",
+    "summary": "ONWARD Medical Delivers Revenue of EUR 2.5M in Q3 2026, GlobeNewswire",
+    "date": "2026-11-03",
+    "score": 14,
+    "tags": [
+     "Watchlist: Onward Medical"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-11-06",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14931,6 +15066,36 @@
     "exploredNote": null
    },
    {
+    "id": "news-1j09j75",
+    "kind": "news",
+    "title": "Top 7 Surgical Robotics Companies",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UejZvVVdPd0pkd0VjOFpWdGVVTng3Q204TUdxMVctWWx2QVh6SFJGMkZHVUYwODhpcDlpM0pVQkFYUF9YaGVSd0s0cUNKTUozQnBsRlFZWFBJNlN6M0dvQzUzWDY4SEJtZHZSdkdSRVY2WVpienB6ag?oc=5",
+    "outlet": "Medical Device and Diagnostic industry",
+    "topic": "Company watch",
+    "summary": "Top 7 Surgical Robotics Companies Medical Device and Diagnostic industry",
+    "date": "2026-11-06",
+    "score": 14,
+    "tags": [
+     "Activity-based rehab & exoskeleton"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "robotic"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton.",
+    "firstSeen": "2026-11-15",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1m8ga7r",
     "kind": "news",
     "title": "Brain-Computer Interface (BCI) Chips Market Size, Share [2034]",
@@ -14958,36 +15123,6 @@
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-08-23",
     "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1ecmfyr",
-    "kind": "news",
-    "title": "Adaptive Neuro-Fuzzy Control Improves Trajectory Tracking Precision in Robotic Arms",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0xtcThoaGZ6VXRUNE1FY3c0MEkzSkZKMHdlajFiMWNXY3Q0cTBWWmNhTWQtaDlXcklqbmE4S0tEY3hacUQxSUh5ZWx4MF85ejV6WHB5WjFtcXBzbHhlTUhKdnRtenp4OVJGV2xZTFVSa0VLdlVXMWtuM3ZvTDVMTkdJNWlRRTgtek1yMjd1bklNZEFnZFg4WU9pMllWcW00Y004eDEtQnMwQUk0?oc=5",
-    "outlet": "Bioengineer.org",
-    "topic": "Company watch",
-    "summary": "Adaptive Neuro-Fuzzy Control Improves Trajectory Tracking Precision in Robotic Arms Bioengineer.org",
-    "date": "2026-11-13",
-    "score": 14,
-    "tags": [
-     "Activity-based rehab & exoskeleton"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "robotic"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-11-14",
-    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -15031,7 +15166,7 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-11-14",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15053,6 +15188,28 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-11-14",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-ywuaay",
+    "kind": "news",
+    "title": "Lineage Cell Therapeutics (LCTX) Expands Pipeline with NeuroAirm",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONmtaeko4dEpCNWRSZE9NU2RDWkdYd1VPVjEzeVVNaFZwazFmNUFaYTktblU0clloZWR4V2lwLVBrbGN5b3NYTXJaU003SV9odVZ0WEtXcHA5NGpTYkdCejIydjdINWpFN0JMWW12WXNVVHhQVnpFQnVISm5JUEFUQk1Nay1palBDc0NzM0o0OUU0OUdKaUprWHNRenZRX2trSU1lU0R5RDhHcFRjcmh0R0NLeFhYQTJ0VU1JSzhzbkdXUTFMYnB4N19wb2pMSEJiXzU1LXdib053a2xtRVE?oc=5",
+    "outlet": "GuruFocus",
+    "topic": "Company watch",
+    "summary": "Lineage Cell Therapeutics (LCTX) Expands Pipeline with NeuroAirm GuruFocus",
+    "date": "2026-11-12",
+    "score": 14,
+    "tags": [
+     "Watchlist: Lineage Cell"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Matched a general spinal cord injury search.",
+    "firstSeen": "2026-11-15",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -15172,216 +15329,6 @@
     "eligible": true,
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-10-09",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-2kpmdo",
-    "kind": "news",
-    "title": "Cognitive Multisensory Rehabilitation Eases Neuropathic Pain in Spinal Cord Injury",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3J0X2ljZWhsNE56TnBpNGxlalRGa1p0aVd1NHhVZUFNc1UzUkc5VHlqX2hCQzgxY3hVRFVpVjBxWXdaZ3A4TnY3WWk0UjdhcnJGbi0zVm13RXZ5MlI1UHMxVkxwT2FpSTVPLVZQOWdiZEVwUEEzcnJkMHR6czZvWXFnVmkzYXZyYnV6bG13R0lUbndqYXhOdXV5LXNWbkNHNTJ0Q3RSMUh2c3c?oc=5",
-    "outlet": "Bioengineer.org",
-    "topic": "Technology",
-    "summary": "Cognitive Multisensory Rehabilitation Eases Neuropathic Pain in Spinal Cord Injury Bioengineer.org",
-    "date": "2026-11-08",
-    "score": 12,
-    "tags": [
-     "Neuropathic pain & spasticity"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "pain",
-      "label": "Neuropathic pain & spasticity",
-      "matched": [
-       "neuropathic pain"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for neuropathic pain & spasticity.",
-    "firstSeen": "2026-11-14",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1oubxwz",
-    "kind": "news",
-    "title": "Extending the life of brain implants",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkh1WnI1cHM5VHh4SE5FWDNidnFZekVIYjgzSUpjQVQ1UDBfNng0S0JZSUZXM00xRGx5SDFHekhxTkZMMmNKREZZbXY5YkhHZFhHRldTNEVXcGsyUEx4LWE3NnRWNVNpXzJDWjluTzh3NVZFQ0pkM3ZjTHNDay16ZVY4aHRXNFk?oc=5",
-    "outlet": "University of Miami News",
-    "topic": "Technology",
-    "summary": "Extending the life of brain implants University of Miami News",
-    "date": "2026-10-30",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-03",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-836ja",
-    "kind": "news",
-    "title": "Brain-computer interfaces decode attempted speech into words for people with paralysis: report",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tdWtDc1lfTUNLTVJlTDFuVlVwWnAtR1FPUkRmdzY4THRNcWl3OVo5ZHRYV0NhMHpYYVZ3QlJ4TDlpRXdRa19QWHRJMEZ1N1g0?oc=5",
-    "outlet": "bdnews24.com",
-    "topic": "Technology",
-    "summary": "Brain-computer interfaces decode attempted speech into words for people with paralysis: report bdnews24.com",
-    "date": "2026-10-29",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-29",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-th2zdh",
-    "kind": "news",
-    "title": "China approves brain implant to help paralysis patients use hand",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2dIMGU0QlA1eUEzNWVDVGplM09wNnBDUjdOMFlTZUFiZGNMMEZpOE1yUDVNcG1pT2syVE16V0dQY09wbXZJQUUtb3FTMlREUzA1Uy1YV1d3VUotUHJ4MjZxZjg2bFptZ0s1UmdEVkQ2Y2FWVGZFQXhGanB4YWVzLTdmUURudWVOWlpQdnVEdDJUdXN6MFR2cE5Kb2Y?oc=5",
-    "outlet": "Ripples Nigeria",
-    "topic": "Technology",
-    "summary": "China approves brain implant to help paralysis patients use hand Ripples Nigeria",
-    "date": "2026-10-28",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1m6k2r8",
-    "kind": "news",
-    "title": "How brain implants turn thoughts into speech",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHUxVVNRRzJGWVJYdzBrdDhkSjZmU3A1SWI3OVdsN2tBU3BkZEJOU3JOUWt0bkR6aFZHa01adTBLd2JZZnVMYm90TjhkNkdxWjJEUkI4THVDbEdnRmVMQ211Y1Nub2tsblpQaXFmYW4yZU9ON1YwQjFUQ215aXJndlRNdEZsMDdVelc2bmpuR3c4N2ROV0tUdk9mMG3SAV5BVV95cUxPVjFXdW4xUDY4WVlqcGlBNHRicHBidmlhaFBjb1NQOWlVMUxBcUFYX0FFRUdEOUNNVE9EblNyUzlEYXdXbm1JVnRBZFctRjBiTW1CaWxjaFBxUUQtZkpn?oc=5",
-    "outlet": "برس بي",
-    "topic": "Technology",
-    "summary": "How brain implants turn thoughts into speech برس بي",
-    "date": "2026-10-28",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-30",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-18f2nma",
-    "kind": "news",
-    "title": "Siemens Healthineers partners with Paradromics to build out new imaging system to support BCIs",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWpycXVQeEc5dFpCSGhCbWhKbDBzMFRHUnpUdlRGdzZYdXFERFZ6bHJhaURzOTIzNWMxM0RkZFoxRXdRREtJVGQwZHBESGY4XzJRV1RNc2xqb1FZS2VGM044a2FxWFZjVUhWakJ1MkFYWW5nMnhWTjFUWDlBTTVOcURkaHFrVGhEempRMWVzbEF6aWUwQlBFQkVWSlNHRTFaNS05dFpBRFVjTUY0QzFQSkJVVk1LSEhRNWdrN0xR?oc=5",
-    "outlet": "Fierce Biotech",
-    "topic": "Company watch",
-    "summary": "Siemens Healthineers partners with Paradromics to build out new imaging system to support BCIs Fierce Biotech",
-    "date": "2026-10-19",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-19",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-fcqkhw",
-    "kind": "news",
-    "title": "Global Brain Computer Interface Market Size, Share & Growth, 2034",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3h3TFpYV0M5cjMwU3BoU0hqWWFlUUhhZmd4SF9neTZ3UW94Q3RfblU2ZnU3cmZKbEdYdlhSUTZlZ0UxN0hYNlFRR1pRZjYyLVplYWdHUS02UjZEcENMU1QzWHIzRExRVWRleW1ETklXNHNqT3dIejhFeW40bmVCUjJDT1U?oc=5",
-    "outlet": "Fortune Business Insights",
-    "topic": "Company watch",
-    "summary": "Global Brain Computer Interface Market Size, Share & Growth, 2034 Fortune Business Insights",
-    "date": "2026-10-26",
-    "score": 12,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -15787,7 +15734,7 @@
     "kind": "center",
     "title": "AASDAP / Walk Again Project",
     "summary": "Long-running brain-machine-interface and rehabilitation project in chronic paraplegia and tetraplegia.",
-    "linkStatus": "ok",
+    "linkStatus": "unreachable",
     "recentNews": [],
     "date": null,
     "score": 0,
