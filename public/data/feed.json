@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-21T17:07:21.343Z",
- "date": "2026-11-21",
+ "generatedAt": "2026-11-22T17:37:45.192Z",
+ "date": "2026-11-22",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -19,8 +19,7 @@
   },
   "lines": [
    "No new open studies since yesterday.",
-   "1 new paper.",
-   "10 new technology items."
+   "7 new technology items."
   ],
   "closingSoon": [
    {
@@ -44,9 +43,9 @@
    "newOpenTrials": 0,
    "ageBlocked": 45,
    "papers": 60,
-   "newPapers": 1,
+   "newPapers": 0,
    "news": 45,
-   "newNews": 10,
+   "newNews": 7,
    "centers": 12,
    "archived": 0
   }
@@ -11549,62 +11548,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID43047587",
-    "kind": "paper",
-    "title": "Comparing optogenetic and electrical spinal cord stimulation for forelimb recovery after cervical spinal cord injury in rats.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43047587/",
-    "doi": "10.1177/2689288X261494886",
-    "journal": "Neurotrauma reports",
-    "authors": [
-     "Henderson RP",
-     "Dang V",
-     "Trinh ML",
-     "Batista CM"
-    ],
-    "authorLine": "Henderson RP, Dang V, Trinh ML et al.",
-    "pubType": "Journal Article",
-    "date": "2026-10-08",
-    "summary": "Recovery of arm and hand function is a top treatment priority for people with cervical spinal cord injury. Epidural electrical spinal stimulation, which activates both neurons and glia, has facilitated modest motor recovery of the upper extremities. More recently, we determined that neuron-specific optogenetic stimulation of the spinal cord led to substantial recovery of forelimb function after injury using an optogenetic viral vector with a pan-neuronal promotor. Here, we compare optogenetic and electrical spinal stimulation in rats with cervical spinal cord contusion injury. We hypothesized that the targeted activation of neurons with optogenetic stimulation would facilitate greater forelimb recovery than epidural electrical stimulation. All rats received a cervical hemicontusion injury and were assigned to one of four treatment groups: sham optogenetic implant with rehabilitation…",
-    "score": 44,
-    "tags": [
-     "Hand & arm function",
-     "Spinal cord stimulation",
-     "Drug / pharmacological recovery",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "hand function"
-      ]
-     },
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "epidural electrical stimulation",
-       "spinal cord stimulation"
-      ]
-     },
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "motor recovery"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
-    "firstSeen": "2026-11-18",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42926584",
     "kind": "paper",
     "title": "Human single-neuron correlates of somatosensation.",
@@ -11943,6 +11886,62 @@
     "exploredNote": null
    },
    {
+    "id": "PMID43047587",
+    "kind": "paper",
+    "title": "Comparing optogenetic and electrical spinal cord stimulation for forelimb recovery after cervical spinal cord injury in rats.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43047587/",
+    "doi": "10.1177/2689288X261494886",
+    "journal": "Neurotrauma reports",
+    "authors": [
+     "Henderson RP",
+     "Dang V",
+     "Trinh ML",
+     "Batista CM"
+    ],
+    "authorLine": "Henderson RP, Dang V, Trinh ML et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-08",
+    "summary": "Recovery of arm and hand function is a top treatment priority for people with cervical spinal cord injury. Epidural electrical spinal stimulation, which activates both neurons and glia, has facilitated modest motor recovery of the upper extremities. More recently, we determined that neuron-specific optogenetic stimulation of the spinal cord led to substantial recovery of forelimb function after injury using an optogenetic viral vector with a pan-neuronal promotor. Here, we compare optogenetic and electrical spinal stimulation in rats with cervical spinal cord contusion injury. We hypothesized that the targeted activation of neurons with optogenetic stimulation would facilitate greater forelimb recovery than epidural electrical stimulation. All rats received a cervical hemicontusion injury and were assigned to one of four treatment groups: sham optogenetic implant with rehabilitation…",
+    "score": 40,
+    "tags": [
+     "Hand & arm function",
+     "Spinal cord stimulation",
+     "Drug / pharmacological recovery",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "hand function"
+      ]
+     },
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "epidural electrical stimulation",
+       "spinal cord stimulation"
+      ]
+     },
+     {
+      "key": "drug",
+      "label": "Drug / pharmacological recovery",
+      "matched": [
+       "motor recovery"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level.",
+    "firstSeen": "2026-11-18",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42848345",
     "kind": "paper",
     "title": "Single-cell and Spatial Omics Reveal Spinal Cord Injury Microenvironmental Heterogeneity Relevant to Neural Interfaces and Spinal Neuromodulation.",
@@ -12273,6 +12272,54 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42972338",
+    "kind": "paper",
+    "title": "Functional electrical stimulation and brain-machine interfaces for simultaneous control of wrist and finger flexion.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42972338/",
+    "doi": "10.1186/s12984-026-02091-7",
+    "journal": "Journal of neuroengineering and rehabilitation",
+    "authors": [
+     "Mender MJ",
+     "Ward AL",
+     "Cubillos LH",
+     "Kelberman MM"
+    ],
+    "authorLine": "Mender MJ, Ward AL, Cubillos LH et al.",
+    "pubType": "Journal Article",
+    "date": "2026-08-05",
+    "summary": "Restoring dexterous hand movements in individuals with cervical spinal cord injury requires continuous control of multiple biomechanically linked degrees-of-freedom (DOF). Brain-machine interface (BMI) controlled functional electrical stimulation (FES) is a promising method to restore hand movements. We explored the suitability of restoring movement to two biomechanically linked DOF simultaneously, finger flexion and wrist flexion, using previously introduced FES methods, namely stimulation targeting individual DOFs independently. We then demonstrate a finger and wrist movement BMI that, when combined with the FES system, could restore simultaneous control of wrist and finger flexion. Two monkeys were implanted with intramuscular electrodes in muscles of the hand. Stimulation on these electrodes was used to evoke finger and wrist movements in both monkeys. Additionally, one of these…",
+    "score": 30,
+    "tags": [
+     "Hand & arm function",
+     "Activity-based rehab & exoskeleton",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "finger"
+      ]
+     },
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "functional electrical stimulation",
+       "fes"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
+    "firstSeen": "2026-11-03",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID42856243",
     "kind": "paper",
     "title": "Assessing the Relative Impact of Grasp and Object on Inferior Frontal Gyrus Activity during a Grasping Task.",
@@ -12363,54 +12410,6 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity, chronic.",
     "firstSeen": "2026-10-15",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42972338",
-    "kind": "paper",
-    "title": "Functional electrical stimulation and brain-machine interfaces for simultaneous control of wrist and finger flexion.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42972338/",
-    "doi": "10.1186/s12984-026-02091-7",
-    "journal": "Journal of neuroengineering and rehabilitation",
-    "authors": [
-     "Mender MJ",
-     "Ward AL",
-     "Cubillos LH",
-     "Kelberman MM"
-    ],
-    "authorLine": "Mender MJ, Ward AL, Cubillos LH et al.",
-    "pubType": "Journal Article",
-    "date": "2026-08-05",
-    "summary": "Restoring dexterous hand movements in individuals with cervical spinal cord injury requires continuous control of multiple biomechanically linked degrees-of-freedom (DOF). Brain-machine interface (BMI) controlled functional electrical stimulation (FES) is a promising method to restore hand movements. We explored the suitability of restoring movement to two biomechanically linked DOF simultaneously, finger flexion and wrist flexion, using previously introduced FES methods, namely stimulation targeting individual DOFs independently. We then demonstrate a finger and wrist movement BMI that, when combined with the FES system, could restore simultaneous control of wrist and finger flexion. Two monkeys were implanted with intramuscular electrodes in muscles of the hand. Stimulation on these electrodes was used to evoke finger and wrist movements in both monkeys. Additionally, one of these…",
-    "score": 30,
-    "tags": [
-     "Hand & arm function",
-     "Activity-based rehab & exoskeleton",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "finger"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "functional electrical stimulation",
-       "fes"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
-    "firstSeen": "2026-11-03",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -12836,51 +12835,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42845267",
-    "kind": "paper",
-    "title": "Neural Repair Therapies After Stroke: I. Therapeutic Advances.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42845267/",
-    "doi": "10.1161/STROKEAHA.126.056092",
-    "journal": "Stroke",
-    "authors": [
-     "Lin DJ",
-     "Cramer SC"
-    ],
-    "authorLine": "Lin DJ, Cramer SC",
-    "pubType": "Journal Article, Review",
-    "date": "2026-10-08",
-    "summary": "Stroke is a leading cause of disability worldwide. Neural repair therapies, distinct from acute stroke therapies, target surviving neural elements to promote plasticity after the acute injury has occurred. Repair therapies encompass a broad and rapidly evolving therapeutic landscape, ranging from behavioral training, drugs, and biological agents to neural stimulation. In this review, we highlight major advances across these therapeutic categories, focusing on the evidence base and readiness for clinical adoption. Intensive behavioral interventions, including constraint-induced movement therapy and telerehabilitation, result in meaningful gains even in chronic stroke. Biological therapies-growth factors, monoclonal antibodies, and stem cell approaches-show promise but face translational challenges. Pharmacological strategies targeting serotonergic and dopaminergic systems have yielded…",
-    "score": 25,
-    "tags": [
-     "Regenerative / cell therapy",
-     "Drug / pharmacological recovery",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "stem cell"
-      ]
-     },
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "pharmacological"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy and drug / pharmacological recovery, chronic.",
-    "firstSeen": "2026-10-08",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42874699",
     "kind": "paper",
     "title": "Activating systemic inflammation with lipopolysaccharide drives microglia-mediated degradation of perineuronal nets after cervical spinal cord injury in female rats.",
@@ -12954,7 +12908,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton.",
     "firstSeen": "2026-11-21",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13170,45 +13124,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42771611",
-    "kind": "paper",
-    "title": "Sonomyography-Based Decoding of Attempted Hand Movements in Individuals with Spinal Cord Injury.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42771611/",
-    "doi": "10.1109/TBME.2026.3735727",
-    "journal": "IEEE transactions on bio-medical engineering",
-    "authors": [
-     "Shenbagam M",
-     "Chowdhary N",
-     "Vijay P",
-     "Kataria C"
-    ],
-    "authorLine": "Shenbagam M, Chowdhary N, Vijay P et al.",
-    "pubType": "Journal Article",
-    "date": "2026-09-21",
-    "summary": "Restoring hand function is critical for individuals with spinal cord injury (SCI). This study develops and evaluates a sonomyography-based human-machine interface (HMI) for decoding attempted hand movements across individuals with different levels and severities of cervical SCI, using a sparse-ultrasound processing pipeline designed for 8 channel A-mode ultrasound systems. A custom convolutional neural network, SonoSCINet, was developed using sparse B-mode ultrasound data and evaluated in non-disabled individuals and individuals with SCI, and compared with traditional machine learning classifiers. Feature selection and two-dimensional UMAP were used to examine handcrafted and learned representations. The same network architecture and processing pipeline were retrained and evaluated on an 8-channel A-mode ultrasound system in individuals with cervical SCI spanning different neurological…",
-    "score": 22,
-    "tags": [
-     "Hand & arm function",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "hand function"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function, cervical-level.",
-    "firstSeen": "2026-09-23",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID43054296",
     "kind": "paper",
     "title": "Real-world use of transcutaneous spinal neuromodulation combined with activity-based rehabilitation across neurological disorders: a retrospective post-market study.",
@@ -13251,6 +13166,51 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton.",
     "firstSeen": "2026-11-19",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42845267",
+    "kind": "paper",
+    "title": "Neural Repair Therapies After Stroke: I. Therapeutic Advances.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42845267/",
+    "doi": "10.1161/STROKEAHA.126.056092",
+    "journal": "Stroke",
+    "authors": [
+     "Lin DJ",
+     "Cramer SC"
+    ],
+    "authorLine": "Lin DJ, Cramer SC",
+    "pubType": "Journal Article, Review",
+    "date": "2026-10-08",
+    "summary": "Stroke is a leading cause of disability worldwide. Neural repair therapies, distinct from acute stroke therapies, target surviving neural elements to promote plasticity after the acute injury has occurred. Repair therapies encompass a broad and rapidly evolving therapeutic landscape, ranging from behavioral training, drugs, and biological agents to neural stimulation. In this review, we highlight major advances across these therapeutic categories, focusing on the evidence base and readiness for clinical adoption. Intensive behavioral interventions, including constraint-induced movement therapy and telerehabilitation, result in meaningful gains even in chronic stroke. Biological therapies-growth factors, monoclonal antibodies, and stem cell approaches-show promise but face translational challenges. Pharmacological strategies targeting serotonergic and dopaminergic systems have yielded…",
+    "score": 21,
+    "tags": [
+     "Regenerative / cell therapy",
+     "Drug / pharmacological recovery",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "stem cell"
+      ]
+     },
+     {
+      "key": "drug",
+      "label": "Drug / pharmacological recovery",
+      "matched": [
+       "pharmacological"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for regenerative / cell therapy and drug / pharmacological recovery, chronic.",
+    "firstSeen": "2026-10-08",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14114,37 +14074,75 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
+   },
+   {
+    "id": "PMID42858240",
+    "kind": "paper",
+    "title": "Bilateral upper-limb palsy of the newborn infant: Taxonomy, differential diagnosis, and clinical pathways.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42858240/",
+    "doi": "10.1111/dmcn.70575",
+    "journal": "Developmental medicine and child neurology",
+    "authors": [
+     "Han Y",
+     "Ma Y",
+     "Yousaf K",
+     "Wassmer E"
+    ],
+    "authorLine": "Han Y, Ma Y, Yousaf K et al.",
+    "pubType": "Journal Article, Review",
+    "date": "2026-10-10",
+    "summary": "Bilateral reduction or absence of upper-limb movement in a newborn infant is a rare but critical presentation that cannot be anchored on the unilateral paradigm of brachial plexus birth injury (BPBI). Bilaterality substantially widens the differential to include cervical spinal cord injury, neuromuscular disorders, and non-neurological movement limitation; thus, default attribution to bilateral BPBI risks missing a serious central pathology. No standardized terminology or investigation framework currently addresses this phenotype. This review introduces bilateral upper-limb palsy of the newborn infant (BULPN) and proposes a three-category taxonomy separating 'true BULPN' (bilateral plexus-level palsy at birth) from mimics and acquired (postnatal-onset) palsy. True BULPN is most consistently reported in breech delivery and it is frequently asymmetric; published cohorts describe a high…",
+    "score": 16,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-10-11",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
    }
   ],
   "news": [
    {
-    "id": "news-5gjooi",
+    "id": "news-l3oozq",
     "kind": "news",
-    "title": "Multi-system benefits of non-invasive spinal cord stimulation following cervical spinal cord injury: a case study",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUM0Q2FGYkRVZ2ZPMTNTUjhnVGd6WVRLNUU3aE5PaEhXVjJ5YmQyVjZsYWkxRlNCRUVKanhyMVJ0UzFEQWpJOFAxN2hFQkdYV0I3SFpsRWJMaHdxVHJMQmZhYlY2aF96c0h0d0I2V0paS25oaU1vOGk2c21vSzZTM2tzOHZSazRWNlEtZXFxeW1RQnBQLXlyQUQ2RmJod3VIN1RsSHRSUW00MlYxR2sxb1VhVHFabjBDVnhfb085dTdPSnRQckR3MzlRWDBVMXNfY2FGREtha1M0RzJDZm83SEExQ01xeHR1?oc=5",
-    "outlet": "Bioengineer.org",
-    "topic": "Technology",
-    "summary": "Multi-system benefits of non-invasive spinal cord stimulation following cervical spinal cord injury: a case study Bioengineer.org",
-    "date": "2026-11-08",
-    "score": 30,
+    "title": "Neuralink trial participant ditches mouth stick to play GTA 6 with his mind — brain-computer interface maps imagined ring-finger taps and hand slides to a PlayStation 5 controller",
+    "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQSl9zYzZLM0ZNSVVvUk1HdWlYaU9ITG9ZT04tQ0NKYmRtWjNBdWJCWmE3Nk00YTE1aVNrWFVLZ3Y5RXVyVF9kbzRtdVltYU1yNV9tWHZvbW5pR0cwb0tTbTdFU3c4bmhKSXZpNDZUbjY3VkRYZmZWVDNHQlV5SjNYTjJPOENENmtZYmxJZGJfRXdZNlBMWXFBVkhKWDlfemFLS21jaWxEbXROTjA0ZDhwZGt1REV0YVRkUVNfazhvNU1OT08ySGdxMy1sNDNUcmNYVWlrbXdlcjg3ajZ3R3lSOW1uNzlGb09qa1RSS3N0ZEFpdmJyWWJuVm1qdnU1NmtEMHRMWXN6S1N4NmhibTg1VkZPeHlUMUR2aE1BdnpFTmkxNjVMR2lRZ2QtbjFfM09palBWdURyTzlpMzFiRTlkbUlHc2l6VzJKQi1hMzB4WS16QQ?oc=5",
+    "outlet": "Tom's Hardware",
+    "topic": "Company watch",
+    "summary": "Neuralink trial participant ditches mouth stick to play GTA 6 with his mind — brain-computer interface maps imagined ring-finger taps and hand slides to a PlayStation 5 controller Tom's Hardware",
+    "date": "2026-11-22",
+    "score": 32,
     "tags": [
-     "Spinal cord stimulation",
-     "Cervical / tetraplegia"
+     "Hand & arm function",
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
+      "key": "hand",
+      "label": "Hand & arm function",
       "matched": [
-       "spinal cord stimulation"
+       "finger"
+      ]
+     },
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for spinal cord stimulation, cervical-level.",
-    "firstSeen": "2026-11-17",
-    "isNew": false,
+    "why": "Surfaced for hand & arm function and brain-computer interface.",
+    "firstSeen": "2026-11-22",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14172,24 +14170,32 @@
     "exploredNote": null
    },
    {
-    "id": "news-1ecc7wo",
+    "id": "news-5gjooi",
     "kind": "news",
-    "title": "NervGen wins FDA Breakthrough Therapy designation for NVG-291 in chronic spinal cord injury",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGdsQ05SVDlfRHdqeDVnX3hSUGRfbzYwY0FZanlBcVFESXZsc0l6ek1zZ2dabFJGclBjWmlYV0NkVkxyWGFoZmZoYlBkOW5MbG9fRVhCLUlnVmM3eTFINXg2aGhPcVU0MENrcmdodW1MSng5ZTBqaXN5blZ5dmJKQlF0aUpELS1xTm9jTHJCNmxvVlhzSjI2R0I4VEVzanV6VHRXZ3JYN0dfRjYyQW9mZWdfQnpQd1U4S09fc3FQenpQQ1k?oc=5",
-    "outlet": "Dealroom",
+    "title": "Multi-system benefits of non-invasive spinal cord stimulation following cervical spinal cord injury: a case study",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUM0Q2FGYkRVZ2ZPMTNTUjhnVGd6WVRLNUU3aE5PaEhXVjJ5YmQyVjZsYWkxRlNCRUVKanhyMVJ0UzFEQWpJOFAxN2hFQkdYV0I3SFpsRWJMaHdxVHJMQmZhYlY2aF96c0h0d0I2V0paS25oaU1vOGk2c21vSzZTM2tzOHZSazRWNlEtZXFxeW1RQnBQLXlyQUQ2RmJod3VIN1RsSHRSUW00MlYxR2sxb1VhVHFabjBDVnhfb085dTdPSnRQckR3MzlRWDBVMXNfY2FGREtha1M0RzJDZm83SEExQ01xeHR1?oc=5",
+    "outlet": "Bioengineer.org",
     "topic": "Technology",
-    "summary": "NervGen wins FDA Breakthrough Therapy designation for NVG-291 in chronic spinal cord injury Dealroom",
-    "date": "2026-11-12",
-    "score": 25,
+    "summary": "Multi-system benefits of non-invasive spinal cord stimulation following cervical spinal cord injury: a case study Bioengineer.org",
+    "date": "2026-11-08",
+    "score": 26,
     "tags": [
-     "Chronic injury",
-     "Watchlist: NervGen"
+     "Spinal cord stimulation",
+     "Cervical / tetraplegia"
     ],
     "flags": [],
-    "matchedPriorities": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation"
+      ]
+     }
+    ],
     "eligible": true,
-    "why": "Surfaced for chronic.",
-    "firstSeen": "2026-11-15",
+    "why": "Surfaced for spinal cord stimulation, cervical-level.",
+    "firstSeen": "2026-11-17",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14213,6 +14219,29 @@
     "eligible": true,
     "why": "Surfaced for chronic.",
     "firstSeen": "2026-11-12",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1ecc7wo",
+    "kind": "news",
+    "title": "NervGen wins FDA Breakthrough Therapy designation for NVG-291 in chronic spinal cord injury",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGdsQ05SVDlfRHdqeDVnX3hSUGRfbzYwY0FZanlBcVFESXZsc0l6ek1zZ2dabFJGclBjWmlYV0NkVkxyWGFoZmZoYlBkOW5MbG9fRVhCLUlnVmM3eTFINXg2aGhPcVU0MENrcmdodW1MSng5ZTBqaXN5blZ5dmJKQlF0aUpELS1xTm9jTHJCNmxvVlhzSjI2R0I4VEVzanV6VHRXZ3JYN0dfRjYyQW9mZWdfQnpQd1U4S09fc3FQenpQQ1k?oc=5",
+    "outlet": "Dealroom",
+    "topic": "Company watch",
+    "summary": "NervGen wins FDA Breakthrough Therapy designation for NVG-291 in chronic spinal cord injury Dealroom",
+    "date": "2026-11-12",
+    "score": 25,
+    "tags": [
+     "Chronic injury",
+     "Watchlist: NervGen"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for chronic.",
+    "firstSeen": "2026-11-15",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14337,18 +14366,18 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-11-21",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "news-618x66",
+    "id": "news-1ksxbex",
     "kind": "news",
-    "title": "Neuralink participant steers GTA VI speedboat using brain implant in new demonstration",
+    "title": "Neuralink brain implant lets paralyzed participant play GTA VI",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGRnaGpWUnNFUm1kWHpVcV91eEV1dy1qUXhIOWdvQXdIdDBibFhGM0R3WkNmOEZhYmNMVjc5UDVjYTdEcG5CNVdBdWYyQ1g4cHp6TVBJT3hZNWRIdXpqNDJmbmw3REo3SXRJVnVUbkVKeFgtazBfVEZ3UEZ4bmgyQ0ttUGQ3QldrclphZk5vVFpSOUc1SzJvTg?oc=5",
     "outlet": "Interesting Engineering",
     "topic": "Company watch",
-    "summary": "Neuralink participant steers GTA VI speedboat using brain implant in new demonstration Interesting Engineering",
+    "summary": "Neuralink brain implant lets paralyzed participant play GTA VI Interesting Engineering",
     "date": "2026-11-21",
     "score": 22,
     "tags": [
@@ -14367,7 +14396,7 @@
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-21",
+    "firstSeen": "2026-11-22",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -14399,18 +14428,18 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-11-21",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "news-be42of",
+    "id": "news-1rhf3fm",
     "kind": "news",
-    "title": "Neuralink Trained a Brain Implant to Control a Speedboat in GTA VI - Root-Nation.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakQwenNldTAwWHpyaXVraWpEYlFxMHM4amJLLS1hcnluY2wxVDVnbTdGTy1pOE1WWVdHZzRmOS1adlBaQjJGZ0xqeEpWXy1oOEVHWGs0eVIxM1I5UkhpWlQ2VV8wNVBfdW1sNVljR28xRktwSkdIUnlmMGwzakkzNFUzMjg3TUNtSkpGQjdab3pFejB4LUhVSFhFWFF4YzZfbWc?oc=5",
-    "outlet": "Root-Nation.com",
+    "title": "Neuralink Patient Pilots GTA VI Speedboat by Thought as Brain Implant Gaming Demo Goes Public",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xczVkSmNTMDJMNHRnLWpEUGsxb0dldFdyMmJkeWdCMnRFeGY1bnlaZ2NRc0YzcGY4dC1rdVhCYzVGSF9Kc3NVRk1vVDBtTEdyMDZ1ZTM5SzZNZkpVMExRYzRaSEFWX1cyTmJ2bXBBdE5fOGJneFE?oc=5",
+    "outlet": "BigGo Finance",
     "topic": "Company watch",
-    "summary": "Neuralink Trained a Brain Implant to Control a Speedboat in GTA VI Root-Nation.com",
+    "summary": "Neuralink Patient Pilots GTA VI Speedboat by Thought as Brain Implant Gaming Demo Goes Public BigGo Finance",
     "date": "2026-11-21",
     "score": 22,
     "tags": [
@@ -14429,7 +14458,38 @@
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-21",
+    "firstSeen": "2026-11-22",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-9atvs6",
+    "kind": "news",
+    "title": "Elon Musk's Neuralink participant plays GTA VI using brain implant a day after launch",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ0t5ZW9wbGxxUVZWYU5VOGJCT09VMG9iSzJHVHl0Y0R4QzF4YVg2X3o2eEFEdTBfVVd5VkZYbGIzZHhremx3VHBLWVZBUk85VFVmazVtX0xqN3dYTm1UQkx5eE5rYnpsMW1Bc3gtYlo2aTZCYlRIWjFaMnJ0OHhxS1ZUc1kzN01scVA0cFJKMFUwM1JxdG01ZHVCOFJzUE9XUzZvTUVBN2Y2MW9wQ19YWkExNXRHT3dOblFkRzR5dFQwSHp0cFE2N2dXcFVvWGJtSzBfOXc5d2wyUFdwRWFGMtIB5gFBVV95cUxQdmE0WFBFQXpXSDdRM3JEVl96SC15dGVRM210aW1pRjFpeS1nb0V5YnhkQWw1RUZOY0dHclNiSF9FWWdMXzRIUzg3QW5mRS1TZTI1LTVrZkxtSGFwN0ctNVpGNUozaW1CMVR5aW1lbXhUeWdKSElVR0txM1ZRZWVnUUMwYXdrLWd0aDY3MUxkTWlhWHZDQXoxY1VraVRBSV9CN01CNkJfMkdZWXlnM2ZHaXkyV21mdk9JZjhTMmFzYm5FUHRSeTVHQnJSN1NvSzY2TjJNZ0JfUGFyYkxVWF9IdDU4ejlFZw?oc=5",
+    "outlet": "Moneycontrol.com",
+    "topic": "Company watch",
+    "summary": "Elon Musk's Neuralink participant plays GTA VI using brain implant a day after launch Moneycontrol.com",
+    "date": "2026-11-22",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-22",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -14461,6 +14521,68 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-11-21",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1m3cnhj",
+    "kind": "news",
+    "title": "Neuralink patient plays GTA VI using brain implant instead of controller",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQld3SUMwNDB6V3VyV0V1TFltdVpVcWlGeWtSOVBBUThRS0p2cElocE43ZzhXbGV1aklaWEswMGtkVkpCeDFROWRZLTJSNnkzX1gzaU1EZlBYRjVpQVJ2MTdzSWVlazE1M3VWbzQwMXhVS3FRV3ZnbF9HeFJoNkcyWEZFUXpFMG9KM1ljQ3Bvc2RyNGQwXzlaYzd5dENqWnNiTm52M3hjekc?oc=5",
+    "outlet": "Geo News",
+    "topic": "Company watch",
+    "summary": "Neuralink patient plays GTA VI using brain implant instead of controller Geo News",
+    "date": "2026-11-21",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-22",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1st2hak",
+    "kind": "news",
+    "title": "Elon Musk Shares Video of Paralysed Man Playing GTA 6 With His Mind Using Neuralink Brain Implant",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjNsVDVfWjlIMWhIaGlpMGpEM3BmMURxVG95dklrR3VqSnVhRGhCSjJpR3NfUUhqcEdPSGN5a1N2bUJPSVhhVWQtNldEZ0xRSnZqbFcxMnhQV0FUazVUQjNvNmh0V2o2Sk44aURsVlA5WC01bVVDcWFqbWxTbEZYNDRpUUkxQVJmeFRr?oc=5",
+    "outlet": "www.techtimes.co.uk",
+    "topic": "Company watch",
+    "summary": "Elon Musk Shares Video of Paralysed Man Playing GTA 6 With His Mind Using Neuralink Brain Implant www.techtimes.co.uk",
+    "date": "2026-11-22",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-22",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -14796,6 +14918,37 @@
     "exploredNote": null
    },
    {
+    "id": "news-i7p3s5",
+    "kind": "news",
+    "title": "Mesenchymal Stem Cell Vesicles Show Preclinical Promise for Intrauterine Adhesions",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0pudVJ4WUlNQ2VEQVA3MUhYMzU3a29xbW1nM1F2aERJWkRwakMzWnRGb01fbXZvN3lwN1BaZTNQamptMkFma0tXRmx2bG5KTXNQOVNYUzA1VHhLT0YwUk0zejhCNzktcE9hRW5Dam5hcFJMemtrMjgyaFplV0tnTW13WTBQaDIwRGRSN1dUZ3liSHJjclZrZDk2RDRUWDFrc2JYNEtLanN6Mk0?oc=5",
+    "outlet": "Bioengineer.org",
+    "topic": "Technology",
+    "summary": "Mesenchymal Stem Cell Vesicles Show Preclinical Promise for Intrauterine Adhesions Bioengineer.org",
+    "date": "2026-11-14",
+    "score": 17,
+    "tags": [
+     "Regenerative / cell therapy"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "regen",
+      "label": "Regenerative / cell therapy",
+      "matched": [
+       "stem cell",
+       "mesenchymal"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for regenerative / cell therapy.",
+    "firstSeen": "2026-11-14",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1k94726",
     "kind": "news",
     "title": "NervGen Reports Q3 2026 Results, Ongoing RESTORE Enrollment and Plans to Seek FDA Meeting for NVG-291 Development",
@@ -15023,7 +15176,7 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-11-21",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -15084,6 +15237,36 @@
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-11-12",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-s5mrc5",
+    "kind": "news",
+    "title": "Brain implant startup pauses trials",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT3d1aVVvWkc2UktLYnZIcnZ1NWt5WVlINzRKektIVkVjY2J3TXhuNFROaEkySUl4NHFzNTRCV1FJMHgxQXJHcnBaQ3REVDZVSGZJM3g3Q2cyd0d5SjNiSHpwcUJTenBmemFVRE5sM1FabU5jbUtNTXp1cU1HUGtkb2dCeGliQ0p0LTVVcQ?oc=5",
+    "outlet": "STAT",
+    "topic": "Company watch",
+    "summary": "Brain implant startup pauses trials STAT",
+    "date": "2026-11-13",
+    "score": 16,
+    "tags": [
+     "Brain-computer interface"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-22",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -15226,138 +15409,6 @@
     "why": "Matched a general spinal cord injury search.",
     "firstSeen": "2026-11-10",
     "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-6erwto",
-    "kind": "news",
-    "title": "NervGen names Sam Jackson as Chief Medical Offi...",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmdJUXRYcnA1LWd6OUZWUlNDZlFRU1JGT010QzRIbk9wWFlyWXlFS1B0WG1aeVBSbFhPMWRvTlBKMVM3eFkwaEZLcWNsNjd6WUN0OFFmQnE5TXhHTlMwMUZWTHBaSEdMVkVIeEFfVXlxdWRZTVNDQllnN1pLNDdLNk1iaDJLeUY1UlBJOUtjcWdMSno0VzRfcjdWRQ?oc=5",
-    "outlet": "Pluang",
-    "topic": "Technology",
-    "summary": "NervGen names Sam Jackson as Chief Medical Offi... Pluang",
-    "date": "2026-11-18",
-    "score": 14,
-    "tags": [
-     "Watchlist: NervGen"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-11-18",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-8js3k0",
-    "kind": "news",
-    "title": "Elon Musk’s Neuralink takes gaming to another level as participant plays GTA 6 without a controller",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdEdZLVQ1cXFGM2IzYnk0ZjExZThyZ3NpcjZ3WjhOaTRIMGNiR3VRRDV2b2RwXzhOM1dValB0RERBR0tEMkZWZmRJTGNFaXNJcUh3aTdORzBtVjdzLXhWcm5lRFlvT05rcTJnX0ZDVlU2M3BmeU9JUjUyTVdrMjRrOEdKLTdEeEZiU2RYNTZyVUEwQ1A5YUpWWFRteE9kUG43REtZR0JnanpEc3hmRkItMEsyQW9mbVU0dHNlVDJqV2ZPXzJOM3RfWXA3NXUzUG14UnpFT2hMVmU1S2l2T1Y3RktB?oc=5",
-    "outlet": "WION",
-    "topic": "Technology",
-    "summary": "Elon Musk’s Neuralink takes gaming to another level as participant plays GTA 6 without a controller WION",
-    "date": "2026-11-21",
-    "score": 14,
-    "tags": [
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-11-21",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1ns1lu2",
-    "kind": "news",
-    "title": "Lineage Cell Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnd1N01uemZqV3BXV09MMWs5eHl0N0dXY2V2VTkxTnBycHhwakQ0ZzhaUDFFZmNXR20xMVJVQWhRYWFaNTkxQndxcDBXNFhKcXBwQ1MzaHZPeVJlWF9CWmIzNy1TS3dCLW9pQS1jUUFfWnpNbWRGR2FZQTczdjRYMms2eHl1N1lNYWRKaF9uSlp6dlNGTG55dVhpVU5UMWdxVlBXcmNNQk9ta0V5ZHlLQ3FQTVlQa0FxSXo5NVZuX1I2ODlR?oc=5",
-    "outlet": "Investing News Network",
-    "topic": "Technology",
-    "summary": "Lineage Cell Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update Investing News Network",
-    "date": "2026-11-12",
-    "score": 14,
-    "tags": [
-     "Watchlist: Lineage Cell"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-11-13",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1rhy3ff",
-    "kind": "news",
-    "title": "Neuralink shares GTA VI brain-implant demo, with the control setup still unclear",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzloanZyZXJvYU5SaHNCSHVpZlBFUnB3eFVTeFVCLW1MV21RdUtmRVk3RVNuNzJHaVRDbHpyRTRBR2hGMTYtMG5iTnJRc2tDZnhfenFCNUR2b0JOOUNXMnM4OUowd0hua1lnUnlFM1plenROMFRWVWNEdTk0LWVUY05rVW84VGw0b0IxcHp0YWlkQ2ducm8ycnV5SDhTR0xSTm9VNWdiTE1halpUX21VZWVtOA?oc=5",
-    "outlet": "Superpower Daily",
-    "topic": "Company watch",
-    "summary": "Neuralink shares GTA VI brain-implant demo, with the control setup still unclear Superpower Daily",
-    "date": "2026-11-21",
-    "score": 14,
-    "tags": [
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-11-21",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1pt4us0",
-    "kind": "news",
-    "title": "Neuralink has made it possible to play GTA 6 using the power of thought",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1TEtza29kZXo1SF9nVXNaQTJrR2J4b1RqUU5Kc3AxdGxxQWlGNXFuVXNHbXJZTy05N3MwRlRpaHZwRmxBMktqcENoNTZNQ2FaSnhSeWNjbmppb0ljNG0tR1pvZmtuNzVpT2ZCbnVYYmE2bmhkNlE?oc=5",
-    "outlet": "UkrMedia News",
-    "topic": "Company watch",
-    "summary": "Neuralink has made it possible to play GTA 6 using the power of thought UkrMedia News",
-    "date": "2026-11-20",
-    "score": 14,
-    "tags": [
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-11-21",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1uv1r7t",
-    "kind": "news",
-    "title": "Neuralink shows a trial participant playing GTA VI a day after launch",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUJ2c1dMRTd3d3NQZUVsa0l3Z2UwVmZjeWdHR3FwQjdsRnV4VGM1MEx5STF0N1lXc215dFdXM1FyWFVxb2FFMGVIU1RVZWRGSFBwYWpYMzJHNElOTzFBWEF6ZllMc240aW5MYXVtOEp3ZTJ1a0xOaWZNOFFMOGxoZlc4VU5LRnVvMkZkSGRZYnkxbTl5M013WjluOG51eUkxVjRB?oc=5",
-    "outlet": "RuntimeWire",
-    "topic": "Company watch",
-    "summary": "Neuralink shows a trial participant playing GTA VI a day after launch RuntimeWire",
-    "date": "2026-11-20",
-    "score": 14,
-    "tags": [
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-11-21",
-    "isNew": true,
     "explored": false,
     "exploredNote": null
    }
