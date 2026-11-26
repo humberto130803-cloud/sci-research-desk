@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-25T19:46:26.730Z",
- "date": "2026-11-25",
+ "generatedAt": "2026-11-26T19:25:23.894Z",
+ "date": "2026-11-26",
  "profile": {
   "displayName": "",
   "siteTitle": "SCI Research Desk",
@@ -15,12 +15,13 @@
    "title": "Upper Limb Rehabilitation Using Non-invasive Spinal Cord Stimulation",
    "id": "NCT07361627",
    "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
-   "score": 76
+   "score": 72
   },
   "lines": [
    "No new open studies since yesterday.",
    "4 new papers.",
-   "2 new technology items."
+   "24 new technology items.",
+   "9 regulatory items (approvals or clearances) worth a look."
   ],
   "closingSoon": [
    {
@@ -46,7 +47,7 @@
    "papers": 60,
    "newPapers": 4,
    "news": 45,
-   "newNews": 2,
+   "newNews": 24,
    "centers": 12,
    "archived": 0
   }
@@ -103,7 +104,7 @@
      "phone": "+1 514-343-6111"
     },
     "eligibilityText": "Inclusion Criteria: * Traumatic and non-traumatic spinal cord injury * Receiving in-patient rehabilitation * 16 years old or above * American Spinal Injury Association (ASIA) grade A to D * Neurological injury level between C5 and T2 * Residual upper limb motor impairments Exclusion Criteria: * Cardiac pacemaker * Active cancer at the stimulation site or metastatic cancer * Unstable lesion or clinical condition (e.g. respiratory issues) * Electrode placement is impossible due to unhealed wound or significant local pain * Other Neurological condition (e.g. Stroke, Parkinson's) * Chronic liver or kidney disease * Uncontrolled psychiatric condition * Life expectancy \\< 6 months * Inability to provide informed consent (i.e., severe cognitive impairment, dementia, or Alzheimer's disease)",
-    "score": 76,
+    "score": 72,
     "tags": [
      "Hand & arm function",
      "Spinal cord stimulation",
@@ -232,99 +233,6 @@
     ],
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and brain-computer interface, cervical-level, chronic.",
-    "firstSeen": "2026-07-28",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "NCT07375745",
-    "kind": "trial",
-    "title": "Spinal Stimulation With Gait Training to Improve Lower Limbs Motor Recovery in Spinal Cord Injury",
-    "officialTitle": "Combined Gait Training and Transcutaneous Spinal Cord Stimulation to Enhance Lower Limbs Motor Recovery After Subacute SCI",
-    "url": "https://clinicaltrials.gov/study/NCT07375745",
-    "summary": "Spinal cord injury (SCI) often results in partial or complete loss of movement. In the subacute phase (\\ 12 months) can enhance lower-limb motor recovery. This study will evaluate whether combining tSCS with gait training is safe and feasible in individuals with subacute SCI and whether it improves lower-limb motor outcomes compared with gait training alone. The investigators hypothesize that pairing gait training with tSCS early after injury will be safe and feasible and that tSCS delivered during gait training will augment leg muscle activation and lead to greater functional improvements. The study will also assess the feasibility, safety and tolerability of implementing this combined intervention in a intensive functional rehabilitation setting.",
-    "conditions": [
-     "Spinal Cord Injury",
-     "Spinal Cord Injury Subacute",
-     "Locomotion",
-     "Gait Disorder, Sensorimotor",
-     "Gait Disorders"
-    ],
-    "interventions": [
-     "OTHER: Protocol 1: Gait training combined with a sham stimulation",
-     "OTHER: Protocol 2: Gait training combined with an effective tSCS"
-    ],
-    "sponsor": "Centre for Interdisciplinary Research in Rehabilitation of Greater Montreal",
-    "status": "NOT_YET_RECRUITING",
-    "phase": "NA",
-    "studyType": "INTERVENTIONAL",
-    "enrollment": 40,
-    "minAge": 16,
-    "maxAge": null,
-    "stdAges": [
-     "CHILD",
-     "ADULT",
-     "OLDER_ADULT"
-    ],
-    "sex": "ALL",
-    "date": "2026-11-12",
-    "startDate": "2027-01-01",
-    "completionDate": "2029-07-01",
-    "locations": [
-     {
-      "facility": "Institut de réadaptation Gingras-Lindsay-de-Montréal (IRGLM)",
-      "city": "Montreal",
-      "state": "Quebec",
-      "country": "Canada",
-      "status": ""
-     }
-    ],
-    "countries": [
-     "Canada"
-    ],
-    "contact": {
-     "name": "Dorothy Barthélemy, pht, PhD",
-     "email": "dorothy.barthelemy@umontreal.ca",
-     "phone": "514-343-6111"
-    },
-    "eligibilityText": "Inclusion Criteria: * paraplegic or quadriplegic participants with a subacute spinal cord injury (sSCI), defined as the stage of spinal cord damage occuring between 1 week and 6 months post-injury * above 16 years old * have a lesion between C1 - L5 * be considered as AIS A to D * be able to stay at least 10 minutes standing with or without assistance * can provide informed consent (no cognitive deficits by MoCA) * be able to follow instructions in French or English Exclusion Criteria: * pacemaker * active cancer on stimulation site or metastatic cancer * unhealed wound, scar or pain which makes positioning of the electrodes impossible * participants with specific contraindications to TMS (epilepsy, non-union cranial fracture and increased intracranial pressure) will be able to participate in the study, but will not receive TMS * chronic and severe neuropathic pain * pharmacology or implants that may impede with rehabilitation or spinal stimulation * pregnancy * active thrombophlebitis",
-    "score": 68,
-    "tags": [
-     "Spinal cord stimulation",
-     "Activity-based rehab & exoskeleton",
-     "Drug / pharmacological recovery",
-     "Cervical / tetraplegia",
-     "AIS C/D in scope",
-     "Chronic injury",
-     "Age OK (no upper limit)"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "scs"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "gait training"
-      ]
-     },
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "motor recovery"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -577,6 +485,99 @@
     ],
     "eligible": true,
     "why": "Surfaced for hand & arm function and spinal cord stimulation, cervical-level, chronic.",
+    "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "NCT07375745",
+    "kind": "trial",
+    "title": "Spinal Stimulation With Gait Training to Improve Lower Limbs Motor Recovery in Spinal Cord Injury",
+    "officialTitle": "Combined Gait Training and Transcutaneous Spinal Cord Stimulation to Enhance Lower Limbs Motor Recovery After Subacute SCI",
+    "url": "https://clinicaltrials.gov/study/NCT07375745",
+    "summary": "Spinal cord injury (SCI) often results in partial or complete loss of movement. In the subacute phase (\\ 12 months) can enhance lower-limb motor recovery. This study will evaluate whether combining tSCS with gait training is safe and feasible in individuals with subacute SCI and whether it improves lower-limb motor outcomes compared with gait training alone. The investigators hypothesize that pairing gait training with tSCS early after injury will be safe and feasible and that tSCS delivered during gait training will augment leg muscle activation and lead to greater functional improvements. The study will also assess the feasibility, safety and tolerability of implementing this combined intervention in a intensive functional rehabilitation setting.",
+    "conditions": [
+     "Spinal Cord Injury",
+     "Spinal Cord Injury Subacute",
+     "Locomotion",
+     "Gait Disorder, Sensorimotor",
+     "Gait Disorders"
+    ],
+    "interventions": [
+     "OTHER: Protocol 1: Gait training combined with a sham stimulation",
+     "OTHER: Protocol 2: Gait training combined with an effective tSCS"
+    ],
+    "sponsor": "Centre for Interdisciplinary Research in Rehabilitation of Greater Montreal",
+    "status": "NOT_YET_RECRUITING",
+    "phase": "NA",
+    "studyType": "INTERVENTIONAL",
+    "enrollment": 40,
+    "minAge": 16,
+    "maxAge": null,
+    "stdAges": [
+     "CHILD",
+     "ADULT",
+     "OLDER_ADULT"
+    ],
+    "sex": "ALL",
+    "date": "2026-11-12",
+    "startDate": "2027-01-01",
+    "completionDate": "2029-07-01",
+    "locations": [
+     {
+      "facility": "Institut de réadaptation Gingras-Lindsay-de-Montréal (IRGLM)",
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "status": ""
+     }
+    ],
+    "countries": [
+     "Canada"
+    ],
+    "contact": {
+     "name": "Dorothy Barthélemy, pht, PhD",
+     "email": "dorothy.barthelemy@umontreal.ca",
+     "phone": "514-343-6111"
+    },
+    "eligibilityText": "Inclusion Criteria: * paraplegic or quadriplegic participants with a subacute spinal cord injury (sSCI), defined as the stage of spinal cord damage occuring between 1 week and 6 months post-injury * above 16 years old * have a lesion between C1 - L5 * be considered as AIS A to D * be able to stay at least 10 minutes standing with or without assistance * can provide informed consent (no cognitive deficits by MoCA) * be able to follow instructions in French or English Exclusion Criteria: * pacemaker * active cancer on stimulation site or metastatic cancer * unhealed wound, scar or pain which makes positioning of the electrodes impossible * participants with specific contraindications to TMS (epilepsy, non-union cranial fracture and increased intracranial pressure) will be able to participate in the study, but will not receive TMS * chronic and severe neuropathic pain * pharmacology or implants that may impede with rehabilitation or spinal stimulation * pregnancy * active thrombophlebitis",
+    "score": 64,
+    "tags": [
+     "Spinal cord stimulation",
+     "Activity-based rehab & exoskeleton",
+     "Drug / pharmacological recovery",
+     "Cervical / tetraplegia",
+     "AIS C/D in scope",
+     "Chronic injury",
+     "Age OK (no upper limit)"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "scs"
+      ]
+     },
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "gait training"
+      ]
+     },
+     {
+      "key": "drug",
+      "label": "Drug / pharmacological recovery",
+      "matched": [
+       "motor recovery"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and activity-based rehab & exoskeleton, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
@@ -2593,88 +2594,6 @@
     "exploredNote": null
    },
    {
-    "id": "NCT07929792",
-    "kind": "trial",
-    "title": "An Early Feasibility Study of a Robotically Implanted Brain-Computer Interface for Neural Control of External Devices in Spinal Cord Injury, Amyotrophic Lateral Sclerosis, and Chronic Ischemic Stroke",
-    "officialTitle": "An Early Feasibility Study of a Robotically Implanted Brain-Computer Interface for Neural Control of External Devices in Spinal Cord Injury, Amyotrophic Lateral Sclerosis, and Chronic Ischemic Stroke",
-    "url": "https://clinicaltrials.gov/study/NCT07929792",
-    "summary": "The purpose of this study is to evaluate the safety and preliminary effectiveness of the N1 System, a fully implanted brain-computer interface placed in the motor cortex with the R1 Robot. The study builds on knowledge gained in a previous clinical investigation of this system. It enrolls adults with severe upper-limb impairment from spinal cord injury, amyotrophic lateral sclerosis (ALS), or chronic ischemic stroke. Participants use neural signals recorded by the N1 Implant to control a computer cursor or virtual keyboard. The study will describe serious adverse device effects and will assess digital daily activities, computer-control performance, independent use of the system, and participant-, clinician-, and caregiver-reported outcomes. Up to 10 participants will be enrolled at up to five sites in the United States and followed for about 2 years after implantation, or about 3 years…",
-    "conditions": [
-     "Spinal Cord Injury",
-     "Amyotrophic Lateral Sclerosis",
-     "Chronic Ischemic Stroke",
-     "Tetraplegia/Tetraparesis"
-    ],
-    "interventions": [
-     "DEVICE: N1 Implant",
-     "DEVICE: R1 Robot"
-    ],
-    "sponsor": "Neuralink Corp",
-    "status": "RECRUITING",
-    "phase": "NA",
-    "studyType": "INTERVENTIONAL",
-    "enrollment": 10,
-    "minAge": 18,
-    "maxAge": null,
-    "stdAges": [
-     "ADULT",
-     "OLDER_ADULT"
-    ],
-    "sex": "ALL",
-    "date": "2026-11-12",
-    "startDate": "2026-11",
-    "completionDate": "2031-11",
-    "locations": [
-     {
-      "facility": "University of Miami",
-      "city": "Miami",
-      "state": "Florida",
-      "country": "United States",
-      "status": "RECRUITING"
-     }
-    ],
-    "countries": [
-     "United States"
-    ],
-    "contact": {
-     "name": "Neuralink Clinical Team",
-     "email": "clinical-team-ct@neuralink.com",
-     "phone": "(877) 398-4465"
-    },
-    "eligibilityText": "Inclusion Criteria: Adults with a diagnosis of ALS, spinal cord injury or chronic ischemic stroke who have severe weakness in the arms and hands that limits independent use of a computer or phone. * Stable medical, physical and psychological condition * Ability to communicate verbally or with a communication aid * A caregiver available when daily support is needed Exclusion Criteria: * Morbid obesity (Body Mass Index \\> 40) * History of poorly controlled seizures or epilepsy * Requires magnetic resonance imaging (MRI) for any ongoing medical conditions * Prior brain implant or active implanted medical device * Psychiatric disorder or cognitive impairment * Recent heart attack or cardiac arrest * Blood thinners that cannot be paused for surgery * Brain MRI or CT demonstrating hemorrhage, tumor, or distorted or adverse anatomy * Any condition which, in the opinion of the Investigator, would compromise your ability to safely participate in the study or undergo the implantation procedure",
-    "score": 52,
-    "tags": [
-     "Brain-computer interface",
-     "Activity-based rehab & exoskeleton",
-     "Cervical / tetraplegia",
-     "Chronic injury",
-     "Age OK (no upper limit)"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     },
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "robotic"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton, cervical-level, chronic.",
-    "firstSeen": "2026-11-10",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "NCT03509558",
     "kind": "trial",
     "title": "Transcutaneous Spinal Stimulation and Exercise for Locomotion",
@@ -4154,6 +4073,88 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level, chronic.",
     "firstSeen": "2026-07-28",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "NCT07929792",
+    "kind": "trial",
+    "title": "An Early Feasibility Study of a Robotically Implanted Brain-Computer Interface for Neural Control of External Devices in Spinal Cord Injury, Amyotrophic Lateral Sclerosis, and Chronic Ischemic Stroke",
+    "officialTitle": "An Early Feasibility Study of a Robotically Implanted Brain-Computer Interface for Neural Control of External Devices in Spinal Cord Injury, Amyotrophic Lateral Sclerosis, and Chronic Ischemic Stroke",
+    "url": "https://clinicaltrials.gov/study/NCT07929792",
+    "summary": "The purpose of this study is to evaluate the safety and preliminary effectiveness of the N1 System, a fully implanted brain-computer interface placed in the motor cortex with the R1 Robot. The study builds on knowledge gained in a previous clinical investigation of this system. It enrolls adults with severe upper-limb impairment from spinal cord injury, amyotrophic lateral sclerosis (ALS), or chronic ischemic stroke. Participants use neural signals recorded by the N1 Implant to control a computer cursor or virtual keyboard. The study will describe serious adverse device effects and will assess digital daily activities, computer-control performance, independent use of the system, and participant-, clinician-, and caregiver-reported outcomes. Up to 10 participants will be enrolled at up to five sites in the United States and followed for about 2 years after implantation, or about 3 years…",
+    "conditions": [
+     "Spinal Cord Injury",
+     "Amyotrophic Lateral Sclerosis",
+     "Chronic Ischemic Stroke",
+     "Tetraplegia/Tetraparesis"
+    ],
+    "interventions": [
+     "DEVICE: N1 Implant",
+     "DEVICE: R1 Robot"
+    ],
+    "sponsor": "Neuralink Corp",
+    "status": "RECRUITING",
+    "phase": "NA",
+    "studyType": "INTERVENTIONAL",
+    "enrollment": 10,
+    "minAge": 18,
+    "maxAge": null,
+    "stdAges": [
+     "ADULT",
+     "OLDER_ADULT"
+    ],
+    "sex": "ALL",
+    "date": "2026-11-12",
+    "startDate": "2026-11",
+    "completionDate": "2031-11",
+    "locations": [
+     {
+      "facility": "University of Miami",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "status": "RECRUITING"
+     }
+    ],
+    "countries": [
+     "United States"
+    ],
+    "contact": {
+     "name": "Neuralink Clinical Team",
+     "email": "clinical-team-ct@neuralink.com",
+     "phone": "(877) 398-4465"
+    },
+    "eligibilityText": "Inclusion Criteria: Adults with a diagnosis of ALS, spinal cord injury or chronic ischemic stroke who have severe weakness in the arms and hands that limits independent use of a computer or phone. * Stable medical, physical and psychological condition * Ability to communicate verbally or with a communication aid * A caregiver available when daily support is needed Exclusion Criteria: * Morbid obesity (Body Mass Index \\> 40) * History of poorly controlled seizures or epilepsy * Requires magnetic resonance imaging (MRI) for any ongoing medical conditions * Prior brain implant or active implanted medical device * Psychiatric disorder or cognitive impairment * Recent heart attack or cardiac arrest * Blood thinners that cannot be paused for surgery * Brain MRI or CT demonstrating hemorrhage, tumor, or distorted or adverse anatomy * Any condition which, in the opinion of the Investigator, would compromise your ability to safely participate in the study or undergo the implantation procedure",
+    "score": 48,
+    "tags": [
+     "Brain-computer interface",
+     "Activity-based rehab & exoskeleton",
+     "Cervical / tetraplegia",
+     "Chronic injury",
+     "Age OK (no upper limit)"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface"
+      ]
+     },
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "robotic"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface and activity-based rehab & exoskeleton, cervical-level, chronic.",
+    "firstSeen": "2026-11-10",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -11261,58 +11262,68 @@
     "exploredNote": null
    },
    {
-    "id": "NCT07933549",
+    "id": "NCT07234903",
     "kind": "trial",
-    "title": "REstoration of Communication and LAnguage With Intracortical Microelectrodes",
-    "officialTitle": "Early Feasibility Study of the Restoration of Communication and Language With Intracortical Microelectrodes (RECLAIM) System",
-    "url": "https://clinicaltrials.gov/study/NCT07933549",
-    "summary": "The purpose of this study is to investigate the safety and feasibility of using distributed intracortical recordings from the language network to decode intended language output in individuals with severe communication impairment due to severe communication impairment resulting from amyotrophic lateral sclerosis (ALS), locked-in syndrome, and brain injury including from stroke.",
+    "title": "ARC-IM Therapy To Support and Promote Recovery of Ambulatory Functions in People With Subacute and Chronic Spinal Cord Injury",
+    "officialTitle": "ARC-IM Therapy To Support and Promote Recovery of Ambulatory Functions in People With Subacute and Chronic Spinal Cord Injury",
+    "url": "https://clinicaltrials.gov/study/NCT07234903",
+    "summary": "The EIGER study aims to evaluate the safety and preliminary efficacy of ARC-IM Therapy (Epidural Electrical Stimulation) to support and promote recovery of ambulatory functions, such as walking, in people with subacute and chronic spinal cord injury.",
     "conditions": [
-     "Amyotrophic Lateral Sclerosis (ALS)",
-     "locked-in Syndrome",
-     "Brain Injury",
-     "Stroke"
+     "Spinal Cord Injury",
+     "SCI",
+     "SCI - Spinal Cord Injury",
+     "Subacute Spinal Cord Injury",
+     "Chronic Spinal Cord Injury",
+     "Spinal Cord Injury (SCI)"
     ],
     "interventions": [
-     "DEVICE: RECLAIM System"
+     "DEVICE: ARC-IM Therapy"
     ],
-    "sponsor": "The University of Texas Health Science Center, Houston",
-    "status": "NOT_YET_RECRUITING",
+    "sponsor": "Ecole Polytechnique Fédérale de Lausanne",
+    "status": "RECRUITING",
     "phase": "NA",
     "studyType": "INTERVENTIONAL",
-    "enrollment": 4,
-    "minAge": 22,
+    "enrollment": 12,
+    "minAge": 18,
     "maxAge": 65,
     "stdAges": [
      "ADULT",
      "OLDER_ADULT"
     ],
     "sex": "ALL",
-    "date": "2026-11-12",
-    "startDate": "2026-11-01",
-    "completionDate": "2039-04-01",
+    "date": "2026-04-21",
+    "startDate": "2026-04",
+    "completionDate": "2032-04",
     "locations": [
      {
-      "facility": "The University of Texas Health Science Center at Houston",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "status": ""
+      "facility": "Schweizer Paraplegiker-Zentrum (SPZ)",
+      "city": "Nottwil",
+      "state": "Canton of Lucerne",
+      "country": "Switzerland",
+      "status": "NOT_YET_RECRUITING"
+     },
+     {
+      "facility": "Centre Hospitalier Universitaire Vaudois (CHUV)",
+      "city": "Lausanne",
+      "state": "Canton of Vaud",
+      "country": "Switzerland",
+      "status": "RECRUITING"
      }
     ],
     "countries": [
-     "United States"
+     "Switzerland"
     ],
     "contact": {
-     "name": "Nitin Tandon, MD",
-     "email": "Nitin.Tandon@uth.tmc.edu",
-     "phone": "(713) 500-5456"
+     "name": "Jocelyne Bloch, Prof. Dr. MD",
+     "email": "jocelyne.bloch@chuv.ch",
+     "phone": "+41 79 556 29 51"
     },
-    "eligibilityText": "Inclusion Criteria: * Clinical diagnosis of ALS, locked-in syndrome, or stroke 1. ALS - ALS patients who in the opinion of the treating neurologist have at least 3 years of survival 2. Locked-in Syndrome as a result of brain-stem stroke or traumatic brain-stem injury - patients who in the opinion of the treating neurologist have at least 3 years of survival 3. Stroke (either ischemic or hemorrhagic) - for patients with prior stroke, the original cause of the stroke (e.g., arteriovenous malformation, carotid stenosis, atrial fibrillation, heart disease, hypertension) must have been addressed and the patient must not have had a recurrent stroke at least within the prior 12 months * ALS diagnosis, stroke, or Locked-in syndrome (LIS) etiology onset occurred at least one year prior to enrollment * Minimal communication ability as assessed by a speech-language pathologist 1. unable to produce more than 10 total unique intelligible words when reading the Rainbow Passage and Grandfather Passage, and 2. unable to write or type more than 10 unique words from a dictated list of 20 words. * Limited upper limb strength based on the Medical Research Council Scale for Muscle Strength 1. ≤3/5 strength throughout both arms for those with non-progressive conditions (stroke or traumatic brain-stem injury) 2. ≤4/5 strength throughout both arms for those with ALS i. For patients with 4/5 strength, they must have a documented decline in speech or upper extremity function in the preceding 12 months. * Has a means of communication sufficient to enable understanding of research protocol and provide consent (e.g. eye blinks or eye movements, use of assistive technology). Thus patients are severely impaired with regards to naturalistic communication, but able to make decisions regarding their own care * Ability to understand and comply with study session instructions * Must live within a 90-minute drive of study site and willing to travel to study site up to three days per week for duration o",
+    "eligibilityText": "Inclusion Criteria: 1. Must be at least 18 years old and no older than 65 years old at the time of enrollment. 2. Must be graded A, B, C, or D in the ASIA Impairment Scale (AIS). 3. Must have a SCI level at T10 or higher as determined by ISNCSCI, with the region extending 6 cm above the tip of the conus remaining anatomically intact as determined by MRI. 4. Must have sustained their injury either less than 6 weeks prior to baseline (Group \"Subacute SCI\"), or more than 1 year prior to enrollment (Group \"Chronic SCI\"). 5. Must be suffering from a SCI due to trauma. 6. Must have a stable medical, physical and psychological condition as considered by the investigators and the delegated specialists. 7. Must have residual upper limb function to use the arms for weight bearing support (as determined by functional demonstration). 8. Must be able to understand and interact with the study team in German, French or English. 9. Must agree to comply in good faith with all conditions of the study and to attend all scheduled appointments. 10. Must provide Informed Consent as documented by signature prior to any study-related procedures. 11. Must have an acceptable or highly effective method of contraception for women of childbearing capacity. Exclusion Criteria: 1. Must not be pregnant nor breastfeeding. 2. Must not have brain damage. 3. Must not have a history of epilepsy 4. Must not have participated in another clinical study using drugs or medical devices within the 30 days preceding and during the present study. 5. Must not have previously been injected with stem cells in the spinal cord. 6. Must not have any diseases and conditions that would increase the morbidity and mortality of SCI surgery. 7. Must not require ventilator support. 8. Must not have any existing contraindication to mobility functions (e.g., unhealed bone fractures, central nervous system disorder, peripheral nerve disorder, etc.). 9. Must not suffer from SCI from other etiology than trauma (ischemic, tumoral",
     "score": 24,
     "tags": [
-     "Brain-computer interface",
-     "Chronic injury"
+     "Spinal cord stimulation",
+     "Chronic injury",
+     "Watchlist: ARC-IM"
     ],
     "flags": [
      {
@@ -11322,16 +11333,16 @@
     ],
     "matchedPriorities": [
      {
-      "key": "bci",
-      "label": "Brain-computer interface",
+      "key": "stim",
+      "label": "Spinal cord stimulation",
       "matched": [
-       "intracortical"
+       "epidural electrical stimulation"
       ]
      }
     ],
     "eligible": false,
     "why": "Age cap is 65. At 66 he is over the limit — this is a hard exclusion unless the site grants an exception.",
-    "firstSeen": "2026-11-12",
+    "firstSeen": "2026-07-28",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -11955,7 +11966,7 @@
     "eligible": true,
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy, chronic.",
     "firstSeen": "2026-11-25",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -11996,7 +12007,7 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level.",
     "firstSeen": "2026-11-25",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -12097,6 +12108,62 @@
     "exploredNote": null
    },
    {
+    "id": "PMID43096114",
+    "kind": "paper",
+    "title": "Maladaptive Proprioceptive Plasticity After Spinal Cord Injury: Mechanisms, Functional Consequences, and Therapeutic Targets.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43096114/",
+    "doi": "10.31083/JIN55991",
+    "journal": "Journal of integrative neuroscience",
+    "authors": [
+     "Pal A",
+     "Rajavong J",
+     "Ross JD",
+     "Koma GT"
+    ],
+    "authorLine": "Pal A, Rajavong J, Ross JD et al.",
+    "pubType": "Journal Article, Review",
+    "date": "2026-11-17",
+    "summary": "Spinal cord injury (SCI) produces immediate motor and sensory deficits and chronic secondary complications that diminish quality of life. Spasticity, characterized by altered sensorimotor control and manifesting as velocity-dependent hypertonia, clonus, and involuntary muscle spasms, affects 70-80% of individuals with SCI. Although classically attributed to lost supraspinal control, current evidence indicates that maladaptive plasticity within the proprioceptive sensory system is a major contributor to post-SCI spasticity and impaired motor recovery, acting through interacting structural, synaptic, ionic, and circuit-level mechanisms below the lesion. In this review we detail how group Ia and Ib afferents undergo pathological transformation after SCI: aberrant sprouting into denervated regions, synaptic hyperexcitability via calcium-permeable AMPA receptors (CP-AMPARs) and persistent…",
+    "score": 34,
+    "tags": [
+     "Activity-based rehab & exoskeleton",
+     "Drug / pharmacological recovery",
+     "Neuropathic pain & spasticity",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "rehab",
+      "label": "Activity-based rehab & exoskeleton",
+      "matched": [
+       "fes"
+      ]
+     },
+     {
+      "key": "drug",
+      "label": "Drug / pharmacological recovery",
+      "matched": [
+       "motor recovery"
+      ]
+     },
+     {
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
+      "matched": [
+       "spasticity",
+       "spasm"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for activity-based rehab & exoskeleton and drug / pharmacological recovery, chronic.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID43078503",
     "kind": "paper",
     "title": "Should Nerve Transfer Surgery be the Standard of Care for Cervical Spinal Cord Injury?",
@@ -12133,47 +12200,6 @@
     "eligible": true,
     "why": "Surfaced for hand & arm function, cervical-level.",
     "firstSeen": "2026-11-25",
-    "isNew": true,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42795887",
-    "kind": "paper",
-    "title": "Epidural Electrical Stimulation Within an Integrated Rehabilitation Pathway for Traumatic Cervical Spinal Cord Injury: Safety and 12-Month Functional Outcomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42795887/",
-    "doi": "10.3390/jcm15187114",
-    "journal": "Journal of clinical medicine",
-    "authors": [
-     "Yavas AD",
-     "Baran AC",
-     "Eker E",
-     "Sarioglu S"
-    ],
-    "authorLine": "Yavas AD, Baran AC, Eker E et al.",
-    "pubType": "Journal Article",
-    "date": "2026-09-14",
-    "summary": "Background/Objectives: Epidural electrical stimulation (EES) is an investigational, off-label neuromodulation strategy used adjunctively with rehabilitation in chronic spinal cord injury (SCI), but safety and longitudinal functional data specific to traumatic cervical SCI remain limited. This is a descriptive safety-and-feasibility study, not an efficacy study; no efficacy or causal claim is made. Methods: In this single-centre observational cohort, 32 consecutive patients with traumatic cervical SCI underwent EES implantation and were included in baseline and safety analyses, while longitudinal analyses comprised the 26 participants with complete Spinal Cord Independence Measure (SCIM) III data at baseline and 3, 6, 9 and 12 months. Rehabilitation dose was quantified (approximately 1087 prescribed therapy hours over 12 months) and adverse events were classified using ISO 14155:2020…",
-    "score": 32,
-    "tags": [
-     "Spinal cord stimulation",
-     "Cervical / tetraplegia",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "epidural electrical stimulation",
-       "neuromodulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation, cervical-level, chronic.",
-    "firstSeen": "2026-09-26",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -12222,6 +12248,45 @@
     "why": "Surfaced for hand & arm function and activity-based rehab & exoskeleton, cervical-level.",
     "firstSeen": "2026-10-16",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID43086412",
+    "kind": "paper",
+    "title": "Multidimensional motor unit control after paralysing spinal cord injury using non-invasive recordings.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43086412/",
+    "doi": "10.1038/s41562-026-02626-x",
+    "journal": "Nature human behaviour",
+    "authors": [
+     "Yang X",
+     "Rawji V",
+     "Gibbs C",
+     "Jia T"
+    ],
+    "authorLine": "Yang X, Rawji V, Gibbs C et al.",
+    "pubType": "Journal Article",
+    "date": "2026-11-25",
+    "summary": "Spinal cord injury results in profound motor impairment, which affects approximately 20 million people worldwide. Regaining hand use is one of their highest priorities. Interestingly, even severely affected individuals can still use spared connections to generate detectable activity (measured with electromyography) in their paralysed muscles when attempting to perform a movement. Here we asked whether participants with no hand function due to a cervical spinal cord injury could still control the activity of motor units from paralysed muscles, which we detected using high-density surface electromyographic recordings. Participants could readily control their motor units to accurately perform three different one-dimensional tracking tasks that imposed different control requirements, with performance plateauing after a few days of practice. Moreover, this accurate control readily transferred…",
+    "score": 30,
+    "tags": [
+     "Hand & arm function",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "hand function"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function, cervical-level.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -12488,101 +12553,6 @@
     "eligible": true,
     "why": "Surfaced for breathing & diaphragm, cervical-level.",
     "firstSeen": "2026-11-18",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42893313",
-    "kind": "paper",
-    "title": "Neurological Recovery Trajectories in Older Patients with Cervical Spinal Cord Injury: A Multicenter Longitudinal Study.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42893313/",
-    "doi": "10.22603/ssrr.2026-0064",
-    "journal": "Spine surgery and related research",
-    "authors": [
-     "Hirota R",
-     "Terashima Y",
-     "Emori M",
-     "Teramoto A"
-    ],
-    "authorLine": "Hirota R, Terashima Y, Emori M et al.",
-    "pubType": "Journal Article",
-    "date": "2026-06-23",
-    "summary": "This study aimed to characterize neurological recovery trajectories in patients with cervical spinal cord injury, aged &#x2265;65 years. This retrospective multicenter cohort study used registry data from the Japan Association of Spine Surgeons with Ambition. Patients aged &#x2265;65 years with traumatic cervical spinal cord injury and complete International Standards for Neurological Classification of Spinal Cord Injury motor score data at baseline, 6 weeks, and 6 months post-injury, were included (n=222). Neurological assessments included total, upper extremity, and lower extremity motor scores; the American Spinal Injury Association Impairment Scale (AIS) and motor zone of partial preservation. Motor recovery and AIS conversion were analyzed based on baseline and 6-week AIS grades. Motor recovery occurred predominantly within the first 6 weeks after injury. From baseline to 6 weeks,…",
-    "score": 28,
-    "tags": [
-     "Hand & arm function",
-     "Drug / pharmacological recovery",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "upper extremity"
-      ]
-     },
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "motor recovery"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function and drug / pharmacological recovery, cervical-level.",
-    "firstSeen": "2026-10-19",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42864140",
-    "kind": "paper",
-    "title": "Real-world device survival, revision burden and observed pain patterns after epidural spinal cord stimulation for neuropathic pain in adults with spinal cord injury: protocol for a longitudinal observational cohort study using routine clinical data.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42864140/",
-    "doi": "10.1136/bmjopen-2026-125558",
-    "journal": "BMJ open",
-    "authors": [
-     "Jagadeesan SK",
-     "Khan E",
-     "Sandarage R",
-     "Chalil A"
-    ],
-    "authorLine": "Jagadeesan SK, Khan E, Sandarage R et al.",
-    "pubType": "Journal Article",
-    "date": "2026-10-12",
-    "summary": "Neuropathic pain affects 40&#x2013;70% of people with chronic spinal cord injury (SCI), but real-world device survival, revision burden and pain trajectories after epidural spinal cord stimulation (eSCS) remain poorly characterised, with no Canadian programme-level evidence base. This protocol describes a 10-year longitudinal observational cohort study quantifying long-term device survival, revision burden and observed documentation-based pain patterns after eSCS for SCI-associated neuropathic pain at a single quaternary centre, under pre-specified protocol governance. Design: longitudinal observational cohort with retrospective and rolling accrual from finalised routine clinical documentation. Setting: The Ottawa Hospital, Ottawa, Canada (single quaternary academic centre). Participants: adults (&#x2265;18 years) with confirmed SCI undergoing eSCS implantation for neuropathic pain, 1…",
-    "score": 28,
-    "tags": [
-     "Spinal cord stimulation",
-     "Neuropathic pain & spasticity",
-     "Chronic injury"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "spinal cord stimulation",
-       "scs"
-      ]
-     },
-     {
-      "key": "pain",
-      "label": "Neuropathic pain & spasticity",
-      "matched": [
-       "neuropathic pain"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity, chronic.",
-    "firstSeen": "2026-10-13",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -12905,6 +12875,54 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42864140",
+    "kind": "paper",
+    "title": "Real-world device survival, revision burden and observed pain patterns after epidural spinal cord stimulation for neuropathic pain in adults with spinal cord injury: protocol for a longitudinal observational cohort study using routine clinical data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42864140/",
+    "doi": "10.1136/bmjopen-2026-125558",
+    "journal": "BMJ open",
+    "authors": [
+     "Jagadeesan SK",
+     "Khan E",
+     "Sandarage R",
+     "Chalil A"
+    ],
+    "authorLine": "Jagadeesan SK, Khan E, Sandarage R et al.",
+    "pubType": "Journal Article",
+    "date": "2026-10-12",
+    "summary": "Neuropathic pain affects 40&#x2013;70% of people with chronic spinal cord injury (SCI), but real-world device survival, revision burden and pain trajectories after epidural spinal cord stimulation (eSCS) remain poorly characterised, with no Canadian programme-level evidence base. This protocol describes a 10-year longitudinal observational cohort study quantifying long-term device survival, revision burden and observed documentation-based pain patterns after eSCS for SCI-associated neuropathic pain at a single quaternary centre, under pre-specified protocol governance. Design: longitudinal observational cohort with retrospective and rolling accrual from finalised routine clinical documentation. Setting: The Ottawa Hospital, Ottawa, Canada (single quaternary academic centre). Participants: adults (&#x2265;18 years) with confirmed SCI undergoing eSCS implantation for neuropathic pain, 1…",
+    "score": 24,
+    "tags": [
+     "Spinal cord stimulation",
+     "Neuropathic pain & spasticity",
+     "Chronic injury"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation",
+       "scs"
+      ]
+     },
+     {
+      "key": "pain",
+      "label": "Neuropathic pain & spasticity",
+      "matched": [
+       "neuropathic pain"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation and neuropathic pain & spasticity, chronic.",
+    "firstSeen": "2026-10-13",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID43064007",
     "kind": "paper",
     "title": "Brain-computer interfaces for traumatic brain injury and spinal cord injury: Lesion-pattern matching, functional restoration, and clinical translation.",
@@ -13118,52 +13136,6 @@
     "exploredNote": null
    },
    {
-    "id": "PMID42941364",
-    "kind": "paper",
-    "title": "Comparing Nerve Transfer Versus Tendon Transfer and Conservative Management for Restoring Finger Extension Following Tetraplegia: A Cost-Effectiveness Analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42941364/",
-    "doi": "10.3390/jcm15207849",
-    "journal": "Journal of clinical medicine",
-    "authors": [
-     "Arunachalam Sakthiyendran N",
-     "Cushman CJ",
-     "Hernandez EJ",
-     "Mackay BJ"
-    ],
-    "authorLine": "Arunachalam Sakthiyendran N, Cushman CJ, Hernandez EJ, Mackay BJ",
-    "pubType": "Journal Article",
-    "date": "2026-10-12",
-    "summary": "Background/Objectives: Cervical spinal cord injury (SCI) frequently causes tetraplegia and severe upper-limb dysfunction with substantial societal cost. Restoring finger extension is a priority, since even modest gains improve independence. Tendon transfer and supinator-to-posterior interosseous nerve transfer (SUP-PIN) both restore hand function, but their relative economic value is unclear. We assessed the lifetime cost-effectiveness of SUP-PIN versus tendon transfer and conservative management for finger extension in patients with mid-cervical SCIs who are candidates for both reconstructive strategies. Methods: A decision-analytic model combining a decision-tree front end with a lifetime Markov state-transition structure (one-year cycles, 3% annual discounting, half-cycle correction) compared SUP-PIN, tendon transfer, and conservative (nonoperative) care over a lifetime horizon,…",
-    "score": 23,
-    "tags": [
-     "Hand & arm function",
-     "Cervical / tetraplegia"
-    ],
-    "flags": [
-     {
-      "level": "info",
-      "text": "Off-target topic: cost-effectiveness."
-     }
-    ],
-    "matchedPriorities": [
-     {
-      "key": "hand",
-      "label": "Hand & arm function",
-      "matched": [
-       "hand function",
-       "nerve transfer",
-       "tendon transfer"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for hand & arm function, cervical-level.",
-    "firstSeen": "2026-10-27",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "PMID42986543",
     "kind": "paper",
     "title": "The Innovative Therapeutic Strategies of Mesenchymal Stem Cells in the Neuroinflammation Caused by Spinal Cord Injury.",
@@ -13288,6 +13260,35 @@
     "exploredNote": null
    },
    {
+    "id": "PMID43086284",
+    "kind": "paper",
+    "title": "Myotome conversion from zero reveals recovery beyond pooled motor scores after cervical spinal cord injury: a proof-of-concept analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43086284/",
+    "doi": "10.1038/s41393-026-01277-z",
+    "journal": "Spinal cord",
+    "authors": [
+     "Aguirre Guemez AV",
+     "Geed S",
+     "Groah SL"
+    ],
+    "authorLine": "Aguirre Guemez AV, Geed S, Groah SL",
+    "pubType": "Journal Article",
+    "date": "2026-11-25",
+    "summary": "Retrospective proof-of-concept analysis. We propose myotome conversion from zero (MC-0) as a proof-of-concept analytic metric that can better differentiate segmental recovery patterns obscured by pooled motor scores and AIS grade. Data from the Spinal Cord Injury Model Systems Database (SCIMS; 2016-2023). Retrospective proof-of-concept analysis of participants with traumatic cervical SCI from the SCIMS Database. For each key upper-extremity myotome we tabulated the number of low MC-0 (improvement to 1-2/5 from a baseline motor score of 0/5), and high MC-0 (improvement to &#x2265;3/5 from a baseline of 0/5). We analyzed the proportion of upper-extremity myotomes demonstrating MC-0, the proportion without conversion, the distribution of conversion by neurological level of injury, and clinically meaningful UEMS changes, alongside AIS grade stability, between inpatient rehabilitation…",
+    "score": 20,
+    "tags": [
+     "Cervical / tetraplegia"
+    ],
+    "flags": [],
+    "matchedPriorities": [],
+    "eligible": true,
+    "why": "Surfaced for cervical-level.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID43081904",
     "kind": "paper",
     "title": "Spontaneous Cervical Spinal Epidural Hematoma in Patients Undergoing Hemodialysis: A Report of Two Cases.",
@@ -13311,7 +13312,7 @@
     "eligible": true,
     "why": "Surfaced for cervical-level.",
     "firstSeen": "2026-11-25",
-    "isNew": true,
+    "isNew": false,
     "explored": false,
     "exploredNote": null
    },
@@ -13586,6 +13587,52 @@
     "exploredNote": null
    },
    {
+    "id": "PMID42941364",
+    "kind": "paper",
+    "title": "Comparing Nerve Transfer Versus Tendon Transfer and Conservative Management for Restoring Finger Extension Following Tetraplegia: A Cost-Effectiveness Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42941364/",
+    "doi": "10.3390/jcm15207849",
+    "journal": "Journal of clinical medicine",
+    "authors": [
+     "Arunachalam Sakthiyendran N",
+     "Cushman CJ",
+     "Hernandez EJ",
+     "Mackay BJ"
+    ],
+    "authorLine": "Arunachalam Sakthiyendran N, Cushman CJ, Hernandez EJ, Mackay BJ",
+    "pubType": "Journal Article",
+    "date": "2026-10-12",
+    "summary": "Background/Objectives: Cervical spinal cord injury (SCI) frequently causes tetraplegia and severe upper-limb dysfunction with substantial societal cost. Restoring finger extension is a priority, since even modest gains improve independence. Tendon transfer and supinator-to-posterior interosseous nerve transfer (SUP-PIN) both restore hand function, but their relative economic value is unclear. We assessed the lifetime cost-effectiveness of SUP-PIN versus tendon transfer and conservative management for finger extension in patients with mid-cervical SCIs who are candidates for both reconstructive strategies. Methods: A decision-analytic model combining a decision-tree front end with a lifetime Markov state-transition structure (one-year cycles, 3% annual discounting, half-cycle correction) compared SUP-PIN, tendon transfer, and conservative (nonoperative) care over a lifetime horizon,…",
+    "score": 19,
+    "tags": [
+     "Hand & arm function",
+     "Cervical / tetraplegia"
+    ],
+    "flags": [
+     {
+      "level": "info",
+      "text": "Off-target topic: cost-effectiveness."
+     }
+    ],
+    "matchedPriorities": [
+     {
+      "key": "hand",
+      "label": "Hand & arm function",
+      "matched": [
+       "hand function",
+       "nerve transfer",
+       "tendon transfer"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for hand & arm function, cervical-level.",
+    "firstSeen": "2026-10-27",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "PMID43042750",
     "kind": "paper",
     "title": "Spatiotemporally Controlled Lithium Delivery via a Graphene-Hydrogel System for Wnt Activation and Spinal Cord Repair.",
@@ -13708,6 +13755,44 @@
     "why": "Surfaced for spinal cord stimulation and regenerative / cell therapy.",
     "firstSeen": "2026-10-01",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "PMID42993555",
+    "kind": "paper",
+    "title": "A thermosensitive bovine placenta decellularized extracellular matrix/Pluronic F127 composite hydrogel supports lineage specification and glia-associated development in hiPSC-derived human spinal cord organoids.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42993555/",
+    "doi": "10.1039/d6tb01610c",
+    "journal": "Journal of materials chemistry. B",
+    "authors": [
+     "Li H",
+     "Xu H",
+     "Hu C",
+     "Ma Y"
+    ],
+    "authorLine": "Li H, Xu H, Hu C et al.",
+    "pubType": "Journal Article",
+    "date": "2026-11-25",
+    "summary": "Human spinal cord organoids (hSCOs) provide valuable platforms for modeling spinal cord development, disease, and injury-related processes, but their maturation and cellular complexity remain strongly influenced by the culture matrix. Here, we developed a thermosensitive bovine placenta decellularized extracellular matrix/Pluronic F127 composite hydrogel (BP-dECM/PF127CH) as a cost-effective, ECM-rich three-dimensional matrix for the generation of hiPSC-derived hSCOs. The composite hydrogel exhibited a thermosensitive sol-gel transition at physiological temperature, an interconnected porous microarchitecture, and favorable cytocompatibility with hiPSCs, with levels of apoptosis, viability, and proliferation comparable to those observed with Matrigel. Under identical RA/SHH-based caudal-ventral induction conditions, BP-dECM/PF127CH-cultured hSCOs demonstrated significantly enhanced…",
+    "score": 18,
+    "tags": [
+     "Spinal cord stimulation"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "scs"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -13893,92 +13978,6 @@
     "isNew": false,
     "explored": false,
     "exploredNote": null
-   },
-   {
-    "id": "PMID42902225",
-    "kind": "paper",
-    "title": "Comparison of non-invasive neuromodulation for motor function rehabilitation in incomplete spinal cord injury: a systematic review and network meta-analysis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42902225/",
-    "doi": "10.1186/s12883-026-05178-9",
-    "journal": "BMC neurology",
-    "authors": [
-     "Han Y",
-     "Han J",
-     "Wang H",
-     "Meng Y"
-    ],
-    "authorLine": "Han Y, Han J, Wang H et al.",
-    "pubType": "Journal Article, Systematic Review, Network Meta-Analysis, Comparative Study",
-    "date": "2026-07-25",
-    "summary": "Spinal cord injury (SCI) disrupts structural and functional connectivity between the brain and spinal cord, resulting in severe motor dysfunction. Various neuromodulation techniques have been applied in SCI rehabilitation and have promoted motor recovery to varying degrees. A Bayesian network meta-analysis was therefore undertaken to compare and rank the relative effects of non-invasive neuromodulation techniques on motor-related outcomes in adults with incomplete SCI. PubMed, Web of Science, Embase, and The Cochrane Library were searched for randomized controlled trials (RCTs) investigating non-invasive neuromodulation for motor function in patients with incomplete SCI, from database inception to September 13, 2025. Bayesian network meta-analysis was performed using R software. The intervention effects of different non-invasive neuromodulation techniques were compared across…",
-    "score": 16,
-    "tags": [
-     "Spinal cord stimulation",
-     "Drug / pharmacological recovery"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "neuromodulation"
-      ]
-     },
-     {
-      "key": "drug",
-      "label": "Drug / pharmacological recovery",
-      "matched": [
-       "motor recovery"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation and drug / pharmacological recovery.",
-    "firstSeen": "2026-10-21",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "PMID42978770",
-    "kind": "paper",
-    "title": "Engineering Neural Interface Materials for Brain-Computer Interfaces: Toward Reliable Neural Information and Functional Recovery.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42978770/",
-    "doi": "10.34133/bmr.0437",
-    "journal": "Biomaterials research",
-    "authors": [
-     "Xu K",
-     "Li Q",
-     "Dong Y",
-     "Zhong M"
-    ],
-    "authorLine": "Xu K, Li Q, Dong Y et al.",
-    "pubType": "Journal Article, Review",
-    "date": "2026-11-03",
-    "summary": "Motor dysfunction is a major disabling outcome of neurological disorders, including stroke, spinal cord injury, and cerebral palsy. By establishing direct communication between neural activity and external effectors, brain-computer interfaces (BCIs) offer a promising strategy for neural functional reconstruction, enabling motor intention decoding, assistive control, and rehabilitation feedback. However, sustained BCI performance depends not only on advances in decoding algorithms but also on neural interface materials and interfacial properties, as well as the reliable transfer of neural information across signal acquisition, intelligent decoding, control execution, and closed-loop feedback. Existing reviews have mainly focused on invasiveness, electrode technologies, or decoding methods, with comparatively limited integration of neural interface materials, signal reliability, artificial…",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface",
-       "bci",
-       "neural interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-04",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
    }
   ],
   "news": [
@@ -14076,29 +14075,6 @@
     "exploredNote": null
    },
    {
-    "id": "news-3wntbn",
-    "kind": "news",
-    "title": "NervGen Receives FDA Breakthrough Therapy Designation for NVG-291 in Chronic Spinal Cord Injury",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2Z0SmJub0xwcFZLaF9QTWZqVWRjSWU2dm1DZXpaT0RrX2NuTThfeHBMMFltcHg4YkJvZk8yaWRubWZJbk9hb1RndTJ5ek1DYTBOMjVJQzZ1Vms4WDMwbURWTlpGQ3dxN2tqUWUtamUtSW1jQkVwU0h0M2dqNm9WeDFLNW83YTFrNVp2S1d6MWJZTFVUZkRkRFhETlpzaGFCNmFKU1JLQUtvYlBtR2Z5dHViU1lkUjBaUHFBeWE0U0o?oc=5",
-    "outlet": "Orthopedics This Week",
-    "topic": "Technology",
-    "summary": "NervGen Receives FDA Breakthrough Therapy Designation for NVG-291 in Chronic Spinal Cord Injury Orthopedics This Week",
-    "date": "2026-11-12",
-    "score": 25,
-    "tags": [
-     "Chronic injury",
-     "Watchlist: NervGen"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for chronic.",
-    "firstSeen": "2026-11-12",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
     "id": "news-1ecc7wo",
     "kind": "news",
     "title": "NervGen wins FDA Breakthrough Therapy designation for NVG-291 in chronic spinal cord injury",
@@ -14118,6 +14094,37 @@
     "why": "Surfaced for chronic.",
     "firstSeen": "2026-11-15",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-15q226n",
+    "kind": "news",
+    "title": "Onward Medical to Present Its Spinal Cord Stimulation Technologies at an Investor Conference",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc0wyOTJzZXdYUElKeVU5RlJoX2N2Q3hXUGNqdmpEN2IzOXlPYjgyaUd1cjdfd2pzX1l1VGhNU0ZOeXdSWnhQcDlmdnF1blNyT0V1YVB6MHN1UDZZS2REeVlRMU01VnBEY2VVS3FUeEtmYlZ5UmtySndVOHNQeWJaOTFqZGVXQV9MdWY5XzFaN3drQnNWN3FyVFZjRHROYjZXaEEzVzBnT0ZJSUpkWXBkNWx2a0c3NTlVN0M1UUJfWVc4RmdHbmVRc3FiVDNtZXhmbVFBSEpjTER4aVRwSjd3eXZVcWI1Zw?oc=5",
+    "outlet": "Idéal Investisseur",
+    "topic": "Company watch",
+    "summary": "Onward Medical to Present Its Spinal Cord Stimulation Technologies at an Investor Conference Idéal Investisseur",
+    "date": "2026-11-26",
+    "score": 24,
+    "tags": [
+     "Spinal cord stimulation",
+     "Watchlist: Onward Medical"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "stim",
+      "label": "Spinal cord stimulation",
+      "matched": [
+       "spinal cord stimulation"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for spinal cord stimulation.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14246,25 +14253,95 @@
     "exploredNote": null
    },
    {
-    "id": "news-1of74as",
+    "id": "news-1yukbro",
     "kind": "news",
-    "title": "FDA Grants Breakthrough Status to NervGen Spinal Cord Therapy in First for Chronic Injury",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX0FySlFmNGRfVThnaDZlT18td0Q2X0hRSXE3QXFZV3hxalZSX2pZbFVGNkloMDNTdGdpQ0FHbWxlNEZJeFZhanU0SjVaNU5OaGM2WHQwQlFCRG9Vc0pHTDhqczd5a1ZodkFEN3ZBQkpRRkhTaUphQ2hiYTl6Umt6Mld3TjUwWjJ2NDZTU0QwS0FZUDVPZlZzVUtfdmJQNTg2?oc=5",
-    "outlet": "theopenpress.in",
+    "title": "Can China gain an edge in brain-computer interface race? Neuralink raises stakes",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNOFhRS1I3YlpnWExLNlFUZ2E2ektPaEVLODVaMlZpWXdhMndFb21pQ2RvQzlZQnhuU3hCOUlXeHFyclpyclU1OTNOT0FKd2tVTzRCa0JLb2JoQTFSOW8tcXBvQXdKUHR6YXJLQm1vVkZWOU1kZ3RPSnVFSndzRWpGQk1wYlhVNWtURm1iMlJzOUptWGptejV3Wkp0MmQzOU9qbEhXeFZSeHRYbzlhdFNDV3ZFN2tiZGxGcUJwOWNOUnh5cTV2c3dTWmg1WGEtYkV5ZFJVcDRBdXJIUnpQRS1ZY3BudnRYcmczRHpZTFBXR0taSGIwWDlzc3RILWVXSlJSV3FxMDZwOF9uQVVxX1M0T0dyQWFqU0xqMGc?oc=5",
+    "outlet": "South China Morning Post",
     "topic": "Technology",
-    "summary": "FDA Grants Breakthrough Status to NervGen Spinal Cord Therapy in First for Chronic Injury theopenpress.in",
-    "date": "2026-11-13",
+    "summary": "Can China gain an edge in brain-computer interface race? Neuralink raises stakes South China Morning Post",
+    "date": "2026-11-26",
     "score": 22,
     "tags": [
-     "Chronic injury",
-     "Watchlist: NervGen"
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
     ],
     "flags": [],
-    "matchedPriorities": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface"
+      ]
+     }
+    ],
     "eligible": true,
-    "why": "Surfaced for chronic.",
-    "firstSeen": "2026-11-13",
-    "isNew": false,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1qpqiy7",
+    "kind": "news",
+    "title": "FDA approves Neuralink’s LINK Pivotal Study, the first US pivotal trial of an implantable brain-computer interface",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbDkxbXkwTnRoYU1lN0hoNThHaTZnZkFIcGRpNm04MUFJd3VBNVNnbUFnek43ZVl3eE5DVm85SnhDekhYZjgxLWpxWUhvclZnQWFLTy1zZzdHTk90VEFRTDVIeTRNSmY0SERWQ296cGE0ZTVXTzQ1YVk5NlEzZ0hybXFfQnh1dWtMRWtnc1h0WnBpX0E3Z1AxNUJyczlKZHZoUEw3RnhFLS1hQ04tTzZkbEc2QXA4V3ZxMUlIT0poNGdLY284MkFDc3BiOVlId0p6SHEzOWwyd0t0NWpNbWc?oc=5",
+    "outlet": "2 Minute Medicine",
+    "topic": "Technology",
+    "summary": "FDA approves Neuralink’s LINK Pivotal Study, the first US pivotal trial of an implantable brain-computer interface 2 Minute Medicine",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-18gex2g",
+    "kind": "news",
+    "title": "Musk's Neuralink gets FDA approval for pivotal brain implant trial",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWFVcXJ6cmF2T1Q4cGtyamRRZHZOTlBDMWZxb2ZLcldvV21aN2JXX1E0OXI3R09Eb2huZTd6UW9CZDZpVXdiZE9lbjg4SmwxYnk5RERzc0F4aUpzTVFDeEVhc2tBN1NoX1VHb3NvUHhQZzNEREpobENNQURPX24xbFFOSzd6QVRHdWFQYlRjQlV5VEkxVWI0OVlPdVVFdmlRaG1XRDBkc0hSdw?oc=5",
+    "outlet": "Anadolu Ajansı",
+    "topic": "Technology",
+    "summary": "Musk's Neuralink gets FDA approval for pivotal brain implant trial Anadolu Ajansı",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14300,6 +14377,223 @@
     "exploredNote": null
    },
    {
+    "id": "news-10qrluh",
+    "kind": "news",
+    "title": "Neuralink receives FDA approval to launch pivotal brain implant trial for ALS",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3c3N252YjdzdTZpR3hXWkN6WnpuVUJ3Q0pmOHRnWjAxT1dXRUZCeC0wbnFpNEY5MWZHc3JPcTdDMUx4UHpVZWk5WmU2YUYyRzR6a2FsQldiSW5fUjlBU3VuTXI5WkJQNHBBN2JXUjlRT1pjUnROckNoRkFvZ1JoaDBsdnpGT3RjU210M0RYSjd0VlFiNWtuSHVYanhvYlNRcTQwbUdxY3BDdw?oc=5",
+    "outlet": "MobiHealthNews",
+    "topic": "Technology",
+    "summary": "Neuralink receives FDA approval to launch pivotal brain implant trial for ALS MobiHealthNews",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1vmb8bg",
+    "kind": "news",
+    "title": "Neuralink Wins FDA Nod for First U.S. Pivotal Brain Implant Trial, but China's NEO Is Already Selling",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fVm42RXJoOVhjUmN6anFhM2tHU081cVl3MnE0bF9aVGR5NW1MclRNNlZPaG1KRVIzS3ZhbF81YmZoWGt1alRkYVd0Nnl1S0lpQk96YllhbW45NDdoODBLVjVvRmhheVVfUTQ0elZZZlMyVUE0a3c?oc=5",
+    "outlet": "BigGo Finance",
+    "topic": "Technology",
+    "summary": "Neuralink Wins FDA Nod for First U.S. Pivotal Brain Implant Trial, but China's NEO Is Already Selling BigGo Finance",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-dli00s",
+    "kind": "news",
+    "title": "US greenlights Neuralink’s pivotal brain implant trial",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNazkzczRJZEVTc050bVNuSEpCcWlxUTVabDFKTDBtWEpVTDlFNGhNdzBOcy1HY0U3bEw5TkNUWlJGVzlOclhrMkU0QjdOS0ZoTENteTdwVDhoTFc1YWFNVGFvYWhFQlNDVWFrV05rcnIwamVUOVlTLWc4QmFiT0MyTm1kbUFfMDhiTmxqV3c1UTQwSjhQRU4wNk1NNWZuQTlIcnprYw?oc=5",
+    "outlet": "Kursiv Media",
+    "topic": "Technology",
+    "summary": "US greenlights Neuralink’s pivotal brain implant trial Kursiv Media",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-twdv1j",
+    "kind": "news",
+    "title": "Elon Musk’s Neuralink gets FDA approval for study on brain-computer interface",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa1lObW0tWEl0Zk4tWWFaRjhEb3Z4TmNfeWN6VU45eDdST2VibjUwaXFyTktUZFF2QThnc2V4eS1jUFVkaFpwcnNJZ2czWU5iWTVIZnpDei1MMG9SMnAtdS12SFMxX1ZhUGVTakhrekNjV1FFWnptQzF0bjlHOHVkLVJYbTlOdzlDRzZuQnpwSEFEMEJMNlVYUVpaM2NLa19GY3RlWXctRkt2NW4tS2pESFFsRDRkRUczQWt2N3dNM0ptMWt5aUpsNEtUclpXNmg3ZmfSAdcBQVVfeXFMTTRCM2ROZkVLRkxhYkphY0g4WWlBOUpxcEhmbVpYLUZZOElENlNLYU43OHp1ZVczUzI1NUo0anEtbEk3ZVZZN3BLdHJTbFFJMXhBWktMSmZTS0RDVXAtc0U4RmRIcXBqMC1Ha0JmYlBNRTRMb3BTeGlRbDNhNU9HNDU3Q0taOGtKMXo5dVpodGdFRzZIY1ROa2FNY0l4RFhKYlpDNnM1bVJNbG9HTklwQUdTRFNNbmZsVEpUQ2cxUXU1MEZlZ2xjYVFVTHdjRnFRMFd0MVY4UHM?oc=5",
+    "outlet": "Al Arabiya English",
+    "topic": "Technology",
+    "summary": "Elon Musk’s Neuralink gets FDA approval for study on brain-computer interface Al Arabiya English",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1xcwyfl",
+    "kind": "news",
+    "title": "Musk's Neuralink gets FDA approval for brain implant trial",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ya0VZTUloV3V2bEFqR1hLVkZybDNHYU4xSFF2Qm1PaWpQZndNQktiQkJiODJyS3Y5RGx2Mk81T1l4eGdwXzlBVnhoNHREak1kdVFjakotcVBfVTNoTWdRNldyUQ?oc=5",
+    "outlet": "MedWatch",
+    "topic": "Technology",
+    "summary": "Musk's Neuralink gets FDA approval for brain implant trial MedWatch",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1kd9vjy",
+    "kind": "news",
+    "title": "Neuralink Wins FDA Approval to Launch Pivotal Brain Implant Trial in ALS Patients",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RaS1CelVSYWtxYU9RVk45eDl6emJScEpicWo1cWNzUzlBWFBEVVpXb3JWa0FFQjFYOVFNYTFvYVV2bVhoU0J0RDgxU2N2ZWZDV1psd1p2Z3lqM2pTd2xZaEQwQ2NGR0h1aEwwV3c2Sk85bC1FY3c?oc=5",
+    "outlet": "BigGo Finance",
+    "topic": "Technology",
+    "summary": "Neuralink Wins FDA Approval to Launch Pivotal Brain Implant Trial in ALS Patients BigGo Finance",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-uvkggz",
+    "kind": "news",
+    "title": "Neuralink Gets FDA Approval for First US Brain Implant Trial t...",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclE2T2FOdldMRmUycC0xUEhoMjNuZXhmcm5ROUR3UVJIaG9ENUhvQU9ZVmpzNDRGWmpKbVhJWExWNHc0VjBHa0FwRnhnMF8xRnlhQ3BLSVpYOUE2OXJhdjJZNFlVYXpPYXVIZmxTR0k1b3IwMThyQlVOYVlLaWhrZ0REaXhCc2dDY0xXQ2hNNURtMDVvYnJxbDhoMEFNc3JIdHE3M212d3lWZVktUVFRc3RvVXlsbHZaNUQ0?oc=5",
+    "outlet": "International Business Times, Singapore Edition",
+    "topic": "Technology",
+    "summary": "Neuralink Gets FDA Approval for First US Brain Implant Trial t... International Business Times, Singapore Edition",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-1st2hak",
     "kind": "news",
     "title": "Elon Musk Shares Video of Paralysed Man Playing GTA 6 With His Mind Using Neuralink Brain Implant",
@@ -14327,6 +14621,37 @@
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-11-22",
     "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-td9jpz",
+    "kind": "news",
+    "title": "Neuralink gets FDA approval for LINK Pivotal Study, advancing brain-computer interface research",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mTUtnUldjY084bDdQWTRlclpZQ2tSRUxuR3RvX3Y5d2hvTzV0LVRXV2xIdXV0OW5iS3lYY3I3Qm5lanFEcTBJNFZKR1JpNTc5WTUzZXdQUm5EMnE2b1NuamQwQTh4eHBVQmItdGkzU214UQ?oc=5",
+    "outlet": "TrueTech Technology News",
+    "topic": "Technology",
+    "summary": "Neuralink gets FDA approval for LINK Pivotal Study, advancing brain-computer interface research TrueTech Technology News",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain-computer interface"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
@@ -14450,6 +14775,68 @@
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
     "firstSeen": "2026-11-25",
+    "isNew": false,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-a0l57e",
+    "kind": "news",
+    "title": "Neuralink Trial Participant Plays GTA 6 Through His Brain Implant",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbXA0QnlZMzItcV9nX1g2YlNjV1FZR09kc1dPRy1kcDZ2emdRY1dPd2pDUklKU0lPQjhrdmhHY1VXWVR0dGYtS2YzVGtaQlVPRTh4Q0h5My1MYjZPeDdvSE94NW9KdjBuTFpibjFjaFdwczVDVVM5UlBpd1ROQkVMVDlaYzFFWEdtLVBrQUFha3lLVnlYZ3FrS1J1T0s1a3p5alHSAacBQVVfeXFMT0d0amwwWHRKVjlFZXlXdG81d0lLMnY0ZlFrMEctdENFM1NEd0lia1R4S3haTnhXOFJxQ0hzbkc0X1FJN3ZnN3hUa0JmNVJuTTNJM0pkZ1dzWnZ4ckg5Mml1dVdRWTQxRWpsUkdHd1hZMXUta1luX3dIa0c0NFFseWtHbTNYVGVXNWdoY3ZGbHVVbzZlR05Ob2FWdGZ2ajdrMUMwaEV2Skk?oc=5",
+    "outlet": "TechPowerUp",
+    "topic": "Company watch",
+    "summary": "Neuralink Trial Participant Plays GTA 6 Through His Brain Implant TechPowerUp",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-1udwppu",
+    "kind": "news",
+    "title": "Neuralink Obtains FDA Approval for ALS Brain Implant Trial",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3Y2SXhMQ0JNTFVidGdnVTh5VmxiRHVHanF2QkxxRktHemNmY1lWdjI5QVdOQ3BPUVBCYm84NHljOXh6RDQ4ZHBDdS1BdkNTVEx4MVJ6NmNpbVV5REVnVUlaYWszdFpuV1hWb2tqSlNfRjNCTk1DLTJmc2NHdkktdjBYVEcwQk9TRlJlQzR3bVFhbXM?oc=5",
+    "outlet": "Gizmodo",
+    "topic": "Company watch",
+    "summary": "Neuralink Obtains FDA Approval for ALS Brain Implant Trial Gizmodo",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
     "isNew": true,
     "explored": false,
     "exploredNote": null
@@ -14548,6 +14935,37 @@
     "exploredNote": null
    },
    {
+    "id": "news-rjwh1t",
+    "kind": "news",
+    "title": "Neuralink Says FDA Cleared Its First Pivotal Brain Implant Trial",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObXhBenQyQXg3NVo4RVFGdVdSSnhxSV83SnFSdWNZNENuV0M1UzVtUHJsaGJNc2xuRnBLZlVNcmpxTjF0MTFHam5qTzVFMEdTbXBnV3oxYUczYUNrcTZfVVZaU2ZONDZjcDZXb05rMGJtU1BEUnc1VmZKYmszZ01jSUthR0RfZ0NNN3lMUjlB?oc=5",
+    "outlet": "TeslaNorth.com",
+    "topic": "Company watch",
+    "summary": "Neuralink Says FDA Cleared Its First Pivotal Brain Implant Trial TeslaNorth.com",
+    "date": "2026-11-25",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
     "id": "news-etgrdm",
     "kind": "news",
     "title": "Neuralink Participant Billy Plays GTA VI With His Brain Implant",
@@ -14610,63 +15028,24 @@
     "exploredNote": null
    },
    {
-    "id": "news-1a36h8p",
+    "id": "news-1of74as",
     "kind": "news",
-    "title": "Synchron halts BCI trials after device fails to perform as expected",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGJZMldTRnNEUUlhWGt5VndjS2Iwbi1DZ2ZQX25hdjVCbDVCcTFhcnRiV1JEaW03X3VyM3h1ZVZtbzR3VUNsendwcnJZcXpVbDlNcV8wYUJjYmdUWGlacUQwQWJMc0FCcmY5WTdCc2FHbjJwR3IwdE9icnN5U3F5aEt4ejhnLVRoSzhMbkU5Q1YtMVB2UENjaE1Ga1lYTWc5X01mWFNaTkRoMm8tdG5WYzJrTHg?oc=5",
-    "outlet": "MassDevice",
+    "title": "FDA Grants Breakthrough Status to NervGen Spinal Cord Therapy in First for Chronic Injury",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX0FySlFmNGRfVThnaDZlT18td0Q2X0hRSXE3QXFZV3hxalZSX2pZbFVGNkloMDNTdGdpQ0FHbWxlNEZJeFZhanU0SjVaNU5OaGM2WHQwQlFCRG9Vc0pHTDhqczd5a1ZodkFEN3ZBQkpRRkhTaUphQ2hiYTl6Umt6Mld3TjUwWjJ2NDZTU0QwS0FZUDVPZlZzVUtfdmJQNTg2?oc=5",
+    "outlet": "theopenpress.in",
     "topic": "Company watch",
-    "summary": "Synchron halts BCI trials after device fails to perform as expected MassDevice",
-    "date": "2026-11-12",
+    "summary": "FDA Grants Breakthrough Status to NervGen Spinal Cord Therapy in First for Chronic Injury theopenpress.in",
+    "date": "2026-11-13",
     "score": 22,
     "tags": [
-     "Brain-computer interface",
-     "Watchlist: Synchron"
+     "Chronic injury",
+     "Watchlist: NervGen"
     ],
     "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "bci"
-      ]
-     }
-    ],
+    "matchedPriorities": [],
     "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
+    "why": "Surfaced for chronic.",
     "firstSeen": "2026-11-13",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1ds7oyu",
-    "kind": "news",
-    "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMERPTy04TnV2RlFmTHBlZ1BpY0NfTkNtaXA3NWkySzE1dFdsRFhLWjEwZGtyN3dnTXFXUktZRTJWcmdBbW5oRUlyR1FRaTNaT0RSTW9jWk15bUJneHNvR1RtM0cweHRuV2hZb09Rc2hOeDVmUlFra0I3dXhWQ19KQnlhMndKRnJMWUVMbnlaS1FMcngxTzcxNDBVUk13bW8?oc=5",
-    "outlet": "WIRED",
-    "topic": "Company watch",
-    "summary": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues WIRED",
-    "date": "2026-11-12",
-    "score": 22,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Synchron"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-12",
     "isNew": false,
     "explored": false,
     "exploredNote": null
@@ -14703,144 +15082,15 @@
     "exploredNote": null
    },
    {
-    "id": "news-jh2393",
+    "id": "news-u4pmms",
     "kind": "news",
-    "title": "NervGen Kicks Off Pivotal Phase 3 Test of NVG-291 in Chronic Spinal Cord Injury",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXVvWlZYaXdEVHRFSjdDd09IN0F1Zk93anVDM0JiUHhvNkVzZm1VMkdUalFzNmhaUVJ1X2hVX2ctdEQxWHpNQTZOWjFOaHEzVnhIQW1XcHNXZEtpbTJWb3Jaajl5VEQxeVpFQlJHblpWUUhiYWQ3Z1FHWDVFX3Bhek15R0FOZl9JT1k3dF9lNVVleFpEVjMxay1FRzdiZTUwRmU1emVzSlNhd3ZtQjFYUmxJaDRXTUN3ekJZdl9WWHFxNjJwOXdxdEI5NkxVRXNwNi1z?oc=5",
-    "outlet": "Streetwise Reports",
-    "topic": "Company watch",
-    "summary": "NervGen Kicks Off Pivotal Phase 3 Test of NVG-291 in Chronic Spinal Cord Injury Streetwise Reports",
-    "date": "2026-10-16",
-    "score": 21,
-    "tags": [
-     "Chronic injury",
-     "Watchlist: NervGen"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for chronic.",
-    "firstSeen": "2026-10-17",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-5d6eb8",
-    "kind": "news",
-    "title": "NervGen doses first participant in Phase 3 RESTORE trial of NVG-291 for chronic spinal cord injury",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHpLbXBjc042a3dmaDd3SFpqWndBRzFDNU82YzJ3Snk1MDhpTkdNLTVfblpzU2ZKX2tKaFdlU0x6cUtnQTlib2VRVTdHbE5RVVN6N2FsSXRldkNIcHpZYXR4UThyc3FJWnFDUnVob3VvRUJKV2hjOWxsb19NdktIcFZGa0FKLTVMTjFxa1lFRVd4SXJ3cjdyMFJ5VkI2OU54RjJjZlNYOW5MMV9zeEZPc1lNaG5rMFRfT05YdExWUF9oRWdRV0JPXzJrMWk?oc=5",
-    "outlet": "Dealroom",
-    "topic": "Company watch",
-    "summary": "NervGen doses first participant in Phase 3 RESTORE trial of NVG-291 for chronic spinal cord injury Dealroom",
-    "date": "2026-10-12",
-    "score": 21,
-    "tags": [
-     "Chronic injury",
-     "Watchlist: NervGen"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for chronic.",
-    "firstSeen": "2026-10-13",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1r2ebsi",
-    "kind": "news",
-    "title": "An East High student with quadriplegia is using adaptive tools to create beautiful pottery",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOTl5aWlUTjdRQ0E1U2U5eFdGb1Q5QXA1SzBXbFlRZXpMRGtwYjNLZVF2eHp0ZVI3aERldHRNSS1EVDh5UFFNLWppbWRPVWkyNkpyMUlJVVRKYlk1Z1RIYU9Ga1RMUUZ1Q0VldnRZQV9tOExBQ1FHNUtLWmZZM3NCRWZfWExqLTJkYXpiSXBGa2tvTGxiZ1lXOHo1Q1BheEpMd2JyUDJPLTJoLUNacnZ2U1Fra0NNRi1OekJCVmhYdEdaX1BqLXZqNGI0R1N6VnJ3ZGhVYTJ3?oc=5",
-    "outlet": "Alaska's News Source",
-    "topic": "Technology",
-    "summary": "An East High student with quadriplegia is using adaptive tools to create beautiful pottery Alaska's News Source",
-    "date": "2026-11-20",
-    "score": 20,
-    "tags": [
-     "Cervical / tetraplegia"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Surfaced for cervical-level.",
-    "firstSeen": "2026-11-20",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1jmfjq2",
-    "kind": "news",
-    "title": "Spinal Cord Stimulation Offers Salvage Option for Refractory Postherpetic Neuralgia",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVXhOR0RRX3kyNHlEUFZIb3FEcmhhSWNrQThLb0gxQUcyZVYzVDVyZXgyWlAxMlZxYk1SVlpfdVRtZ0RqYmlBb19PN0Y0bDY0cGFkNTdQdGpiQTJJWmRyZHJOeG93cXQxell4c1hmSlZPV3V6SkRfdmJWdm8wNEZBZ0NnMzRjSnhPY0RHOHQ5d2NtQ0tCa3dTN19ZUllpRnZQMlh4OG0ybnlnYXZa?oc=5",
-    "outlet": "Bioengineer.org",
-    "topic": "Technology",
-    "summary": "Spinal Cord Stimulation Offers Salvage Option for Refractory Postherpetic Neuralgia Bioengineer.org",
-    "date": "2026-11-23",
-    "score": 18,
-    "tags": [
-     "Spinal cord stimulation"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "stim",
-      "label": "Spinal cord stimulation",
-      "matched": [
-       "spinal cord stimulation"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for spinal cord stimulation.",
-    "firstSeen": "2026-11-23",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-myykdk",
-    "kind": "news",
-    "title": "Beyond Neuralink: The Race To Turn Brain Implants Into A Billion-Dollar Business",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3hWWEVZa0tJamFMbGlvRmlLZk4xUU5oSWkxQS12dlNjN3JVMjZPUXFzSkk3S2dSV2RCSEFUUFNNUURTYnBRcTNFay1xSnJDT25OODU5d21pX25tNDduaUNTbU9XdEYzckJCZ0NBU0ZTVk1DWkZqRHNfMHFSOFg4Q21aZ3FOWXJyc0g0dnBYcl8xTUtYVjZPMFd4S29wRU03OWRUNDlXQUgwMksteW8yemhmNmtVYlFWMjA3WGNnSG5QYUF3ZXMxN1BlSW5ZWmpuQ2g0?oc=5",
-    "outlet": "Forbes Middle East",
-    "topic": "Company watch",
-    "summary": "Beyond Neuralink: The Race To Turn Brain Implants Into A Billion-Dollar Business Forbes Middle East",
-    "date": "2026-10-28",
-    "score": 18,
-    "tags": [
-     "Brain-computer interface",
-     "Watchlist: Neuralink"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-31",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-q30i4m",
-    "kind": "news",
-    "title": "Elon Musk says Neuralink’s brain implants could help people with paralysis and blindness",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVNyTUQzVnZlM1J6LWZPTmt6Yk9aWjdhV3JWWTdqVGNkSUw5aURaeVJyS1ZUMHdBR0NEeXN5Z2E0b240Ym0zcnBjZTdPUzNrOTRYY3pvdWFZa3liSkRlZXNQTEN4N0x5V3VtbWRUdHNiM2M4MTk5UHpUb0JuYzdWU1Yxa3Z4Nkljb3VwLVhYaWlIYW56Q2UyeWVldWJIZnRocmV6VkRnYzFYSDBFQ2hlV21CLTBOWTd4S3RMU0l2OUttdVpJX2RLaGQ1WXk?oc=5",
-    "outlet": "Digital Trends",
+    "title": "Neuralink Wins FDA Approval for LINK, Its First Pivotal BCI Trial - BASENOR",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODZMNEM3cnN0Q2d0RTczRkFickw4cXhXQnNBYXpsbk4zR0NMaHNkbzRVMUhZQVhHclQ2cU1vdF9zX0RqRVotQkxqMkdyaldsVElzdXYxYndmWmgzLXBnbUtJVVhZYy00bFpWRXFLWG9jaUYydHZ2TkMtTHpDUENmR1VRSUZwZUdOSDhDNzk5Y0RyUlB1SFVqd1FFWGZKT282?oc=5",
+    "outlet": "BASENOR - Tesla Accessories",
     "topic": "Regulatory",
-    "summary": "Elon Musk says Neuralink’s brain implants could help people with paralysis and blindness Digital Trends",
-    "date": "2026-10-30",
-    "score": 18,
+    "summary": "Neuralink Wins FDA Approval for LINK, Its First Pivotal BCI Trial BASENOR - Tesla Accessories",
+    "date": "2026-11-25",
+    "score": 22,
     "tags": [
      "Brain-computer interface",
      "Watchlist: Neuralink"
@@ -14851,142 +15101,30 @@
       "key": "bci",
       "label": "Brain-computer interface",
       "matched": [
-       "brain implant"
+       "bci"
       ]
      }
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-10-31",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-iea5sk",
-    "kind": "news",
-    "title": "NervGen advances Phase 3 trial for spinal cord injury drug NVG-291 with FDA Breakthrough Therapy status",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWRmQUhQam5NR3p0QThQNFVZbDhmQW15b2c5R0tFYTRMZTAwV2lMV29PRFcySm5HQjVVVklHSWFtdUotQnplT1VjVy0wSnREWE1jMFowTE5lc0ZZZTJpQl9kd2JvQVNqcFlDUUxTdmxMWG5PUHdpVHo5Y2ptR2I4ZDUyOGN3WFQ4ZGRqcE5leG1IWDlaYkxR?oc=5",
-    "outlet": "Pluang",
-    "topic": "Technology",
-    "summary": "NervGen advances Phase 3 trial for spinal cord injury drug NVG-291 with FDA Breakthrough Therapy status Pluang",
-    "date": "2026-11-16",
-    "score": 17,
-    "tags": [
-     "Watchlist: NervGen"
-    ],
-    "flags": [],
-    "matchedPriorities": [],
-    "eligible": true,
-    "why": "Matched a general spinal cord injury search.",
-    "firstSeen": "2026-11-16",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-i7p3s5",
-    "kind": "news",
-    "title": "Mesenchymal Stem Cell Vesicles Show Preclinical Promise for Intrauterine Adhesions",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0pudVJ4WUlNQ2VEQVA3MUhYMzU3a29xbW1nM1F2aERJWkRwakMzWnRGb01fbXZvN3lwN1BaZTNQamptMkFma0tXRmx2bG5KTXNQOVNYUzA1VHhLT0YwUk0zejhCNzktcE9hRW5Dam5hcFJMemtrMjgyaFplV0tnTW13WTBQaDIwRGRSN1dUZ3liSHJjclZrZDk2RDRUWDFrc2JYNEtLanN6Mk0?oc=5",
-    "outlet": "Bioengineer.org",
-    "topic": "Technology",
-    "summary": "Mesenchymal Stem Cell Vesicles Show Preclinical Promise for Intrauterine Adhesions Bioengineer.org",
-    "date": "2026-11-14",
-    "score": 17,
-    "tags": [
-     "Regenerative / cell therapy"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
-      "matched": [
-       "stem cell",
-       "mesenchymal"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy.",
-    "firstSeen": "2026-11-14",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-u0qo3x",
-    "kind": "news",
-    "title": "Trial Candidates Awaiting Implantable Neural Interfaces Experience Hope Alongside Deep Uncertainty",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWhtemNaYXhqS0d4T2tzSVBTWTVrelNqNUhZYUhVWHh1NU1hU3ZrLWhRYTVJbmJoNlRad3pSbGZBcEN5SjRMX1MwLXBUUmlyb1Fpdng3MEpKaFdoSWVxRzV5aUluclc4LWFCYTlDaUthbGs1UTEzUExGMFNOVjlqZWJqWVFleFJqX2Z0MTZkb0lJVE4tY0ZETWdfc05CUDUwR0gyRjhXSnpxTjNST1pSNTR3VldNZVRfYXluY0JYTUI?oc=5",
-    "outlet": "Bioengineer.org",
-    "topic": "Technology",
-    "summary": "Trial Candidates Awaiting Implantable Neural Interfaces Experience Hope Alongside Deep Uncertainty Bioengineer.org",
-    "date": "2026-11-18",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "neural interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-24",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-x2ghg",
-    "kind": "news",
-    "title": "Brain-Computer Interface Clinical Trials: Nationwide Race to Recruit Patients",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yMDhkb0dLV1JrZWd5Yk5KU2RiZ3kzUGN6RUxpU09URGE2RmJGcW1tR3YzZXh3N25ZLWNWRmJObllHUDlhOHV2YTk4cmpaSmRfX29B?oc=5",
-    "outlet": "36Kr",
-    "topic": "Technology",
-    "summary": "Brain-Computer Interface Clinical Trials: Nationwide Race to Recruit Patients 36Kr",
-    "date": "2026-11-23",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-25",
+    "firstSeen": "2026-11-26",
     "isNew": true,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "news-1q5hmp6",
+    "id": "news-m7bv8a",
     "kind": "news",
-    "title": "Tianjin University-driven project advances noninvasive BCI research",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDRklXVXNwdThlTjJCTDIybzRHSXktODVrTXdmQzBJSW13NnFqQ2VDTnpNM1h6ZUJ3bU5ZTGlzSklBRHN0bjktYTBIV3lKVkRtQjRfbEdKYVFyYWdHUmZCTVFuTExIVXpUZVcxM0xRUVI5RUhUWWJaUVRCY1FxUQ?oc=5",
-    "outlet": "China Daily",
-    "topic": "Technology",
-    "summary": "Tianjin University-driven project advances noninvasive BCI research China Daily",
-    "date": "2026-11-14",
-    "score": 16,
+    "title": "Neuralink Wins FDA Approval For Pivotal Brain Implant Trial",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkQ2dThTZjFPaXI2RmZVZmlNckdCZjdtUVJyS3E2OEZFY0huTDY5N19Sc01zRDNfQmR4bkJNOE56NFBuWGVhOHBUcmwxUFJ6VzJyZTR3WEdESXlFY1htbURscTdOblY2ZFlSY3dnNmZjbVhab19fRl9ZNkJWWnRWTFJSTHVrWHUxV28wVnJZVTJlZHk0NE9XMU5R?oc=5",
+    "outlet": "Dataconomy",
+    "topic": "Regulatory",
+    "summary": "Neuralink Wins FDA Approval For Pivotal Brain Implant Trial Dataconomy",
+    "date": "2026-11-26",
+    "score": 22,
     "tags": [
-     "Brain-computer interface"
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
     ],
     "flags": [],
     "matchedPriorities": [
@@ -14994,59 +15132,30 @@
       "key": "bci",
       "label": "Brain-computer interface",
       "matched": [
-       "bci"
+       "brain implant"
       ]
      }
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-14",
-    "isNew": false,
+    "firstSeen": "2026-11-26",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "news-tml22u",
+    "id": "news-23ank8",
     "kind": "news",
-    "title": "China’s Accelerated Brain-Computer Interface Technology Progress: A Major Leap Toward Cyber Ascension",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByanY0Mnl6WG1KYnpkMnRpZFJxOG8xeDhMWVh2SlJnbks5WFpiakY2akV2dTlxQlNvZFdWMGUwQzdnT0I4aTkxdmp6Vk40ZUZGMUxZ?oc=5",
-    "outlet": "36Kr",
-    "topic": "Technology",
-    "summary": "China’s Accelerated Brain-Computer Interface Technology Progress: A Major Leap Toward Cyber Ascension 36Kr",
-    "date": "2026-11-24",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-24",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1c18qfd",
-    "kind": "news",
-    "title": "China's Brain-Computer Interface Sector Enters First Year of Clinical Application: World's First Approval Leads to 12 Commercial Implants, Shanghai's Huibao Reimburses Up to 30%",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEdDF0Q3NMSEE3OGhxWk9tNjBLaFlLcXdCRkRGYWc1Vkp2YWFiV3Z6RWx4TjN2b2FmQTczM1FYV0FteDZmR0xvcDNZeUxwX0FJblpIVVJwNEJxdDdvMEIzb0hra0V1dWh2M1h4cXhoeWpUQ2Fwb0E?oc=5",
+    "title": "Neuralink Wins FDA Clearance for Pivotal Trial, Implantable Brain-Computer Interface Nears Market Filing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mQ3ZkTTlrSkJHY3ZLTGRlUXBxa0ZfT1V4Nm1SVWYtcWFtMF9CeU14dUdXMmRhMDE1dDBzSVBqV25NNFNKMDF2U2dHWTQxdGxjVlRpVllXZmk3YmthN2M3VkIwNUdfemdidElFYngtYS1SSG1lTGc?oc=5",
     "outlet": "BigGo Finance",
-    "topic": "Technology",
-    "summary": "China's Brain-Computer Interface Sector Enters First Year of Clinical Application: World's First Approval Leads to 12 Commercial Implants, Shanghai's Huibao Reimburses Up to 30% BigGo Finance",
-    "date": "2026-11-13",
-    "score": 16,
+    "topic": "Regulatory",
+    "summary": "Neuralink Wins FDA Clearance for Pivotal Trial, Implantable Brain-Computer Interface Nears Market Filing BigGo Finance",
+    "date": "2026-11-26",
+    "score": 22,
     "tags": [
-     "Brain-computer interface"
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
     ],
     "flags": [],
     "matchedPriorities": [
@@ -15060,113 +15169,24 @@
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-13",
-    "isNew": false,
+    "firstSeen": "2026-11-26",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "news-11yo0my",
+    "id": "news-1gexuv6",
     "kind": "news",
-    "title": "Brain-computer interfaces: A new voice for people with paralysis",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbW1DSGdoRUFyMm9kRjVWUjdQVU9lMzBLVnVUOUU5YWNRZHB2YTE1SG91SWx1b0tZYUVUMWZ6SGhtQkpsYjVKbTNtUndUcnBZMFdmX1NpNVNSd3g0aFlrUjFadjVPWHpvN1RxZ0VzcHRMS3ZjdWVIMDNDYWowaHAxalh2RU40T3UzSnNv?oc=5",
-    "outlet": "Medical Xpress",
-    "topic": "Technology",
-    "summary": "Brain-computer interfaces: A new voice for people with paralysis Medical Xpress",
-    "date": "2026-11-14",
-    "score": 16,
+    "title": "Neuralink Wins FDA Approval for a Pivotal ALS Trial of Its Brain Implant",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTktnYjlOTmQwUFd4N1dsOEQtcTZPSG93RUdEWFA4RldQbEdLUXRaWUhPaFlhWWx5RWhHanV6TVFEOU9oVVg3ZE00by11eS1hUkJSMEpBZ3VReFBubUNhaTdycS10ZHJuSjMzUTJZMGxrWU9Sd3dySXBGTkxlR1Y1Zlo4VF9HU19Gc29zYndaVGxxOEtSd1QtYnZWaFctYVpNRVE?oc=5",
+    "outlet": "Startup Fortune",
+    "topic": "Regulatory",
+    "summary": "Neuralink Wins FDA Approval for a Pivotal ALS Trial of Its Brain Implant Startup Fortune",
+    "date": "2026-11-26",
+    "score": 22,
     "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-15",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-mnh9by",
-    "kind": "news",
-    "title": "Brain-Computer Interfaces Help Paralyzed Patients Speak Again",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQm16TGhmaDk3YWZ5dXB6T0UyQ1NOWUx2U2VzRU9TY3R1Q1cwbUFPdGdUUlltSHQ4MTlOVnB6a2ZTS2tRTjA5Z0ZXSW5vVWVPYzNWcGtzU3g3XzJ0UW9qSHJmZWcteEYzQ2xSam1EYm1iNG5rbU5TTnJUMHFEMENsN2xLQUZqOUZJckdzeFZtRFpWczhoejdMaE5jeGhtUQ?oc=5",
-    "outlet": "The Scientist",
-    "topic": "Technology",
-    "summary": "Brain-Computer Interfaces Help Paralyzed Patients Speak Again The Scientist",
-    "date": "2026-11-20",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-20",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-1bgricu",
-    "kind": "news",
-    "title": "ALS community to have a say in brain-computer interface development",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMm9ic2FzSDJOd2lmX1F5VnBabkpDNkJXQXcwOTZLelJMTURDYmY5b1J3WXRRN1BwQVNMejRiNEpLYjZUMnVxXzA0c1pOS0VoSTluYlpCUG54N1kzUmtDeHlJc01wcUV1OGRRNW9Cd21qZEtXVTdJX0RSOEtlQVdGX3RvV19iU3M?oc=5",
-    "outlet": "ALS News Today",
-    "topic": "Technology",
-    "summary": "ALS community to have a say in brain-computer interface development ALS News Today",
-    "date": "2026-11-18",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain-computer interface"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-19",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-122nnk6",
-    "kind": "news",
-    "title": "AI Could Make University Degrees Optional: Brain Implants Aren’t The Reason – Analysis",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVdublI0aGd3OS1RQklGVlNKdjg3U1p5LThHRlAxbmFkcF9Xd1pYZVBaSHlsUkhjOWZXWlZYZTcxcHlkeEwwSVljTVRORzdMVVVpNDNZLTgzMEtzWVhSNWZaTFNVTUxidWJCeTJ4bE9tWG1HeUdSWmRueWVMSHdIXzZUTXV5eG5tdkJZYzZPU3RhOWVQaVVKUUswUXM4eUp6N3h3anFpRnlPbTlwZVBQQnFBZkhGQ2hHUU53SFhsRQ?oc=5",
-    "outlet": "Eurasia Review",
-    "topic": "Technology",
-    "summary": "AI Could Make University Degrees Optional: Brain Implants Aren’t The Reason – Analysis Eurasia Review",
-    "date": "2026-11-21",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
     ],
     "flags": [],
     "matchedPriorities": [
@@ -15180,84 +15200,24 @@
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-21",
-    "isNew": false,
+    "firstSeen": "2026-11-26",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "news-1g6jhwp",
+    "id": "news-1ujhihn",
     "kind": "news",
-    "title": "Patients with paralysis are walking in Manhattan inside Wandercraft exoskeletons that balance themselves",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzNOSkF1OVJoaUFXck1fZ2s1R3dWUkdoSHlmX2U2N2U2Nkt1QUtDTVNFMjJjWjk0TjlMZ3pEdWJOMjIybWF1RDUxR2k3VThJT2hyMmFvSkl0VnVKaUVaUTViLVRLS2VJMzVISlpYU3d3bWRSY19NRkN1S3ZvVVJnNVRSelU?oc=5",
-    "outlet": "The Gadgeteer",
-    "topic": "Technology",
-    "summary": "Patients with paralysis are walking in Manhattan inside Wandercraft exoskeletons that balance themselves The Gadgeteer",
-    "date": "2026-11-10",
-    "score": 16,
+    "title": "Neuralink Receives FDA Approval to Launch First Pivotal BCI Trial",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yUjhYSzBlR2sxNW1RWlItUF95Y1BDcmxwV01fWm9ReE1GUFdlWEpGZjVmcnZzR0ZLUl9SaDYwYTR5OXFsQmJxd1FQekFGZGJiMlE0bnl6Rnh3NHZsLWlfYTR6Z01xZ2hfMnhhejl4UDE3QXZW?oc=5",
+    "outlet": "Drive Tesla Canada",
+    "topic": "Regulatory",
+    "summary": "Neuralink Receives FDA Approval to Launch First Pivotal BCI Trial Drive Tesla Canada",
+    "date": "2026-11-25",
+    "score": 22,
     "tags": [
-     "Activity-based rehab & exoskeleton",
-     "Watchlist: Wandercraft"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "rehab",
-      "label": "Activity-based rehab & exoskeleton",
-      "matched": [
-       "exoskeleton"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for activity-based rehab & exoskeleton.",
-    "firstSeen": "2026-11-10",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-s5mrc5",
-    "kind": "news",
-    "title": "Brain implant startup pauses trials",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT3d1aVVvWkc2UktLYnZIcnZ1NWt5WVlINzRKektIVkVjY2J3TXhuNFROaEkySUl4NHFzNTRCV1FJMHgxQXJHcnBaQ3REVDZVSGZJM3g3Q2cyd0d5SjNiSHpwcUJTenBmemFVRE5sM1FabU5jbUtNTXp1cU1HUGtkb2dCeGliQ0p0LTVVcQ?oc=5",
-    "outlet": "STAT",
-    "topic": "Company watch",
-    "summary": "Brain implant startup pauses trials STAT",
-    "date": "2026-11-13",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
-    ],
-    "flags": [],
-    "matchedPriorities": [
-     {
-      "key": "bci",
-      "label": "Brain-computer interface",
-      "matched": [
-       "brain implant"
-      ]
-     }
-    ],
-    "eligible": true,
-    "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-22",
-    "isNew": false,
-    "explored": false,
-    "exploredNote": null
-   },
-   {
-    "id": "news-y7r7yf",
-    "kind": "news",
-    "title": "The BCI Race Everyone is Watching May Be the Wrong One",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY24wbndCZzJUSGlfWTIxUVJuU0QyRmxTSjh6d2I4d1F6TnNqXzVJRVZNVmZfdy15UE15RWJXSVBWSndncGROcnFsak9XOFkxQ2t3Q3JyMWpxOHFrcnE4UlFSbWgzZ1Z6M3dtTUk0NXhKQVFYcGg2UkxFQ0hBQ2UwWndDams5SWZDUnFlQmQ0WWU?oc=5",
-    "outlet": "MedCity News",
-    "topic": "Company watch",
-    "summary": "The BCI Race Everyone is Watching May Be the Wrong One MedCity News",
-    "date": "2026-11-17",
-    "score": 16,
-    "tags": [
-     "Brain-computer interface"
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
     ],
     "flags": [],
     "matchedPriorities": [
@@ -15271,38 +15231,132 @@
     ],
     "eligible": true,
     "why": "Surfaced for brain-computer interface.",
-    "firstSeen": "2026-11-17",
-    "isNew": false,
+    "firstSeen": "2026-11-26",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    },
    {
-    "id": "news-kat2y7",
+    "id": "news-bw1zpo",
     "kind": "news",
-    "title": "Could Stem Cells Help Restore Movement After Spinal Cord Injury?",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWmlhNkItOVBmUW5zTkZZRTFYZUNIU0lsR0p2cThrSkpxZjlwaEUyYkp6UjNpWTZ0RUlmM2JGTEJnMnYyTTJKc05uTXQycVFvdnY4cm5BTVd3X0JnaU5jN29uQWtuSk1fQXJYelBicGxibGFjaFY2M2xud2pabEREZFhicXlVbEU?oc=5",
-    "outlet": "JAPAN Forward",
-    "topic": "Technology",
-    "summary": "Could Stem Cells Help Restore Movement After Spinal Cord Injury? JAPAN Forward",
-    "date": "2026-11-19",
-    "score": 15,
+    "title": "Neuralink gets FDA approval for LINK, first US pivotal brain implant trial",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMnJ5UExyYm5MT2RnWnZUZTRGcjN6MThQdk81ejlkZ1J0c0VMQmlKTWJuc19WNzlZLXRNMmdFcV9hY0xvak8zMFZVbklnTkw3YkdkU25LZXpQZi1SWjBRWlUzZmVzOFpLRjMtdUJMWFgtdEJlbmNuZml4SVVXdnRHSWtiV21GTGxtOE9fQ1IxNXNoVEVNZEpjNmhB?oc=5",
+    "outlet": "MLQ.ai",
+    "topic": "Regulatory",
+    "summary": "Neuralink gets FDA approval for LINK, first US pivotal brain implant trial MLQ.ai",
+    "date": "2026-11-25",
+    "score": 22,
     "tags": [
-     "Regenerative / cell therapy"
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
     ],
     "flags": [],
     "matchedPriorities": [
      {
-      "key": "regen",
-      "label": "Regenerative / cell therapy",
+      "key": "bci",
+      "label": "Brain-computer interface",
       "matched": [
-       "stem cell"
+       "brain implant"
       ]
      }
     ],
     "eligible": true,
-    "why": "Surfaced for regenerative / cell therapy.",
-    "firstSeen": "2026-11-19",
-    "isNew": false,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-mwq2gp",
+    "kind": "news",
+    "title": "Neuralink wins FDA nod for first US pivotal BCI trial as China pulls ahead",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV243U1lpQnZpbEQ1eEhZalBnQjlZSUN3RjNtSXNrZDN0NFk3TUxOOGE0VENqYUdQa3dFd2pXaU5Ba2IwZlJiR3hzV3FrSkxmTEJPQUtFcDlweElvNHMxMWM1U1RxU1RmMTJmUC1LS0hncVE3bWFSTDFWay1mTmFERlREc1hhbWlJUUw0T3RRc0FTT0tGcUNsbDRvaHNseHIyMnE3VEt6Qm0?oc=5",
+    "outlet": "Cryptopolitan",
+    "topic": "Regulatory",
+    "summary": "Neuralink wins FDA nod for first US pivotal BCI trial as China pulls ahead Cryptopolitan",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "bci"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-f005bo",
+    "kind": "news",
+    "title": "Neuralink: Approval to test brain implant in ALS patients",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Va0E4QVBJck1SdmtycWZ5OFpJUl93NjlEd0s3RERzcFJ6NjY4U0U0blNwNmFEZURMdkZYRGg5eUttakk0RjFjZEU1cXZ0R2pqQ21mUWtTY3JTeko5ZWIxeGRqUUtwTU82cHlsMHUyYnNjYlZkWWZSeWZWMmY?oc=5",
+    "outlet": "SecNews.gr",
+    "topic": "Regulatory",
+    "summary": "Neuralink: Approval to test brain implant in ALS patients SecNews.gr",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
+    "explored": false,
+    "exploredNote": null
+   },
+   {
+    "id": "news-i5g5xp",
+    "kind": "news",
+    "title": "Elon Musk’s Neuralink Wins FDA Clearance for Brain Implant Trial in Patients With ALS",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY1dyRV9pUmNQNlcwUGZKLUJhRC1rTGtOM3FNbVdLSHVnVkxaZkpmNEpIbVN1NHVoaVEwbDJuWVFFeHh4T09pTGhncm5EbG9xYVNFcGlwTkZyMGVBMU1SZjdDTllHSWNkcVFHdmEydkk4OFY3VVJISGxUM2dXLTJkT1JhbG1sOGdIekZZbE1Da25mUDExWFdwc1g4RnhIeTZPZ3huU01GdGRoLUJfNnFUQXRkempwVzlwWmFDbmczVENxb0hpbE1qSnN3U1h1OFoxSklOaG1ZZDVDN1Bs?oc=5",
+    "outlet": "TradingView",
+    "topic": "Regulatory",
+    "summary": "Elon Musk’s Neuralink Wins FDA Clearance for Brain Implant Trial in Patients With ALS TradingView",
+    "date": "2026-11-26",
+    "score": 22,
+    "tags": [
+     "Brain-computer interface",
+     "Watchlist: Neuralink"
+    ],
+    "flags": [],
+    "matchedPriorities": [
+     {
+      "key": "bci",
+      "label": "Brain-computer interface",
+      "matched": [
+       "brain implant"
+      ]
+     }
+    ],
+    "eligible": true,
+    "why": "Surfaced for brain-computer interface.",
+    "firstSeen": "2026-11-26",
+    "isNew": true,
     "explored": false,
     "exploredNote": null
    }
@@ -15337,14 +15391,14 @@
       "date": "2026-08-31"
      },
      {
-      "title": "Goodman: How to be mentally tougher than a Navy SEAL - AL.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWw1dU9lZEZYY2NzdkdtOXgzSEN2WXJQSEhmQ253VHNqYWJUQVczd2cwLVEtSEFpM1VnNXg2NnM3ODNXa3BONUdHdzJrdWpWMzRJNmFOWnlQNkxvbGpkWHcwbHJrd3lhTDNzUGp0eHVmdUt5am1tVWU4djhrRUlCQlBaV29oSnRQSG1vSkVFXzFUd9IBpgFBVV95cUxNRXRCQTRPLWtLYTBiMjF3bWxjYkxpN3hDMFFxUmNueC13RVBibHc3Tl96WVUydE1PSERWb19ha1B3RWJkclk3Wlo5MHQ0STNjMXZ5dDRKQnFuZU5TemFnUjdZT2xDSWVMY3Nja2N2WG5HX0lTVFhJdExuNmpxRXpra3JmX2tvNUZyNldJdmNDWG5OcWR6eHBSTTIzMV9odmhLdWY1Umhn?oc=5",
-      "date": "2026-08-28"
-     },
-     {
       "title": "Doctoral student pursues passions in the classroom and the pool - Mercer University",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU21DWFN4ck56NGx2RzlQYXdSUTlnOVlBbFh6ZFZBV3poYUVzTVhxYVR6TzF6U0hkVC1OUjhuSG5EQnlhNllXZGNZczZ1ZWhFRlpmemEydDZaQTZnQWw2TG9xajhhaEhHR3VhdzB3azBRSzR4M19LUUUyZ1VrdUZFTlk5cWdzcmF1THVqeDF3enk?oc=5",
       "date": "2026-09-08"
+     },
+     {
+      "title": "Free Atlanta rehabilitation clinic gives uninsured Georgians a chance to recover after devastating injuries - 11Alive.com",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNeTB3LUdmNXpOM3p6dFg4Zk9pUG1FS1NRTXQtZTgzaFJja19tX1ZCVDlGNTdUWGJxZlQxaW9iRnkzQjU5R05IQ2JwZDFqSjYyUkIxaGgtV205SU5ETWNLNjdmMDZheHRUbS1VV0hGN0Q1ME5GWVl1NlJRRmxKUDIyc05fVlRiZXRZZ0E2LTgyRm00THF2ek44dExvSUExSlVSNmtYeGk0dWxyMzF1MHExYjlGczZiZ1VIREZRTjN5TnJ3NDdpZU5aSEZFQldEWTBvRVFLVFVuRzlxMU1zWlNuTkROSElxRkREaEpXQ05XWmx0LXh5R3Y1Wm8xdG5DVTNsQ1BlYjkwTXRDVUh0ZUtXUTVVdmJmVktsNG1z?oc=5",
+      "date": "2026-11-17"
      }
     ],
     "date": null,
@@ -15380,14 +15434,14 @@
       "date": "2026-09-29"
      },
      {
-      "title": "Colorado's Craig Hospital lauded for 'giving me back my life' by former patient - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWEJlWk5hbDlMWTRPaUN3ZTE0WlFMQlJGNUw4aFZYZlhtV0hXZ3hyOUY2UG1GeE5Sal9GVFB5MjJ3YkFMX252UE5XdUFuUGdhUHBobXJPMnJDNldfdE44OWpHZ01KeGVnS1hzTzNmd0VDTllhdXFWSmI1ZHc4eDViSHJNUi04ZHRxbnZrQ29HcGxNb25La3Rrb2FrUG5CN3J3VUpkZUJCUkZ6OHN6YkpZV2o4TXBTdw?oc=5",
-      "date": "2026-08-28"
-     },
-     {
       "title": "Realizing music and law school dreams: Craig Hospital fuels Colorado musician's recovery after paralysis - CBS News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVUxdGYwRWU2Mkl5YmJfdTJGRURibHlIa1hNVjNpNXE1eW1vajlIN3hTcV9nMGZkT3JYUEo2bURiLW1jUnRhTXNZMjY2QmtiOFUxU1Z2SUwxRTJEWVpPdFlYOEdJWkFpVlpJdFZHc1dCOXViRjVFVnRWSlZrZC1UYl9qOFdmbFVDSDByZmZLQk05eWhjTnVsZ3lWcUFCQkhLQkZ5cHZETzI0Z1VfMmc?oc=5",
       "date": "2026-11-24"
+     },
+     {
+      "title": "HHS Announces More Than $35 Million in New Grants for Disability Research, Technology, and Training - HHS.gov",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcEpQb1oyQy1mRnUtMG43RGN3bWJ6U0hjSE5fQndGM1RtazVSRlEwTVNSMGJuV1ZoVE5TaWpWaXdhdEhJZ0pGNnZ4ZVdTdHl2M0dxbUxGSVlMeFZWWmItX3d4N25zR1YwVmtwQ3d6MjVPRk1qWWpvNk9vZFZTRkNZR25xU1drVEF0Q1E4dGVlOFB6WVk2dmpQel95UFl1Zw?oc=5",
+      "date": "2026-10-28"
      }
     ],
     "date": null,
@@ -15572,8 +15626,8 @@
       "date": "2026-10-13"
      },
      {
-      "title": "Longtime Mellencamp Guitarist Back on Stage After Mayo Clinic Team Finds Rare Cause of Mobility Loss | Newswise - Newswise",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZzJ3S04tdi01NHc5OWl1TThUTTZlcGZRUnNwZHpMVmp0Yk5ETVhqXzl0aHNOYnF5QmZsNmYtMlhwdTNNSDZrelQ0bHdIeVRPWV9IRW1hUnFNbFAydEZuLVFFcW5FZkhNaS1zY0g2bVo3bmFER2xaRUtqX3ZNd2Y3NVpqX0xKZWUxUEFGZFotdHJoWnRWTWtzQWp4ZUhTVFpMVWdES3FKMGV3bnhFUF9HTVloYWRjeFBMbjg3Y2RId0hQaGxvdm81a2M4dXNPMUnSAc8BQVVfeXFMT2cyd0tOLXYtNTR3OTlpdU04VE02ZXBmUVJzcGR6TFZqdGJORE1Yal85dGhzTmJxeUJmbDZmLTJYcHUzTUg2a3pUNGx3SHlUT1lfSEVtYVJxTWxQMnRGbi1RRXFuRWZITWktc2NINm1aN25hREdsWkVLal92TXdmNzVaal9MSmVlMVBBRmRaLXRyaFp0Vk1rc0FqeGVIU1RaTFVnREtxSjBld254RVBfR01ZaGFkY3hQTG44N2NkSHdIUGhsb3ZvNWtjOHVzTzFJ?oc=5",
+      "title": "Spinal arteriovenous fistula: A guitarist's recovery - Mayo Clinic News Network",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSjIzVmc5dTJ4MEQ3djRvOEdLeUVJTmxVRUluTWcwaFpvajVCLXhXY19haEoxLWVwNXdWZUloTksxTnpYQzUwd1ctV3F3U1dGV0VkV2pUYmlwZkt2X3RPZndmWmEtN29PUmdaV18wWlZBQlNVOGwwcmQyd1ZGV1c2LWtCQzZINi1XR3p1QVRoZ1lhTzduRjY5XzZUa2RudE1LSkRndG9MdDlPdVhzTE93cURzTW51RFRIdHRYc0h1UW1kczIyY2dkTTJpZ1c5VDg?oc=5",
       "date": "2026-11-05"
      }
     ],
@@ -15628,7 +15682,7 @@
     "kind": "center",
     "title": "Balgrist University Hospital / .NeuroRestore",
     "summary": "European centre of gravity for spinal cord stimulation research, tied to the .NeuroRestore group at EPFL/CHUV.",
-    "linkStatus": "unverified",
+    "linkStatus": "ok",
     "recentNews": [],
     "date": null,
     "score": 0,
